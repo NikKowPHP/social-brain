@@ -6,4 +6,5 @@
 - [x] Finalize Chapter 9 with real-world hijack protocol and diagnostic integration.
 - [x] Polish and finalize Chapter 9 with structural and content refinements.
 - [x] Create Chapter 10 on group and cultural dynamics.
+- [x] Finalize Chapter 10 with strategic refinements on code-switching and field work.
       
