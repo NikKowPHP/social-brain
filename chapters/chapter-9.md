@@ -31,6 +31,13 @@ This model was a Rosetta Stone for me. It transformed "difficult conversations" 
 
 Your job as a conductor is to re-orchestrate the conversation to minimize the threats and maximize the rewards across the five SCARF domains. You do this by running a diagnostic *before* the conversation and redesigning your opening statement to be brain-friendly.
 
+**Your Profile in a Difficult Conversation**
+
+Your native wiring changes the nature of the conflict.
+*   An **Architect**'s conflict is often about *being right*. Your biggest risk is using logic as a weapon, which is a massive Status threat. Your work is to shift from winning the argument to solving the problem together.
+*   A **Connector**'s conflict is often about *avoiding hurt*. Your biggest risk is softening the message so much that it becomes unclear, which is a Certainty threat. Your work is to be both compassionate *and* clear.
+*   A **Sentinel**'s conflict is often about *feeling safe*. Your biggest risk is that your own threat response is so high that you broadcast danger, triggering a hijack in the other person. Your work is to use the Conductor's Breath to find calm before you even begin.
+
 Let's look at Sarah's two options for starting the conversation with David.
 
 **Option 1: The Threatening Opening (The Default)**
@@ -51,6 +58,22 @@ Sarah takes a Conductor's Breath and starts differently.
 She has not yet mentioned the problem, but she has successfully created the neurochemical conditions for a productive conversation to occur. She has tamed the threat.
 
 ---
+### **System Alert: The Hijack Emergency Protocol**
+
+What do you do if, despite your best efforts, the other person's "security guard" takes over and they get defensive? Do not engage their argument. Their rational brain is offline. Your only job is to help them get it back online.
+
+**Execute this three-step de-escalation protocol:**
+
+1.  **Regulate Yourself First (Chapter 3):** Their hijack will try to trigger your own. Take one silent **Conductor's Breath**. This is non-negotiable. You must keep your own CEO online.
+2.  **Validate the Feeling, Not the Content (Chapter 4):** Do not argue with their words ("That's not true!"). Find the "music" beneath their defensive "lyrics" and validate *that*. Use **The Playback**.
+    *   If they say: "This is completely unfair! You're only listening to the juniors!"
+    *   You say: "It sounds like you feel this process is unfair and that your perspective isn't being valued. Is that right?"
+3.  **Create a Moment of Autonomy (Chapter 9):** After validating, give them a choice to restore their sense of control.
+    *   "This is clearly a critical point. Would it be more productive to talk through this now, or should we take a five-minute break to reset?"
+
+This protocol—Regulate, Validate, Restore—is your fire extinguisher for a conversation that has caught fire.
+---
+
 ### **Field Work Challenge**
 
 Think of one potentially difficult conversation you need to have in the next week or two (even a minor one). **Do not have the conversation.** Your only mission is to run a pre-mortem SCARF diagnosis.

@@ -3,4 +3,5 @@
 - [x] Create Chapter 8 on the neuroscience of storytelling.
 - [x] Finalize Chapter 8 with strategic refinements.
 - [x] Create Chapter 9 on navigating difficult conversations.
+- [x] Finalize Chapter 9 with real-world hijack protocol and diagnostic integration.
       
