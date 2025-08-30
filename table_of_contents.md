@@ -1,4 +1,3 @@
-
 ### **Table of Contents**
 
 **Foreword**
@@ -53,6 +52,9 @@
 **Chapter 12:** The Integrated Brain
 *Conducting the Orchestra of Communication*
 
+**Chapter 13:** The Conductor's Legacy
+*Building a Psychologically Safe Culture*
+
 **Conclusion:** Rewiring for a Connected Life
 
 ---
@@ -63,3 +65,4 @@
 **Acknowledgments**
 
 **About the Author**
+      

@@ -37,23 +37,20 @@ In five minutes, Maria has used five different tools from our toolkit not as a c
 
 #### **The Practice: Your Personal Development Map**
 
-Mastery is not an accident; it is the result of intentional practice. To make these skills your own, you must create a plan. The final step of our journey is to build your own **Personal Development Map**, a strategic plan for rewiring your social brain.
+Mastery is not an accident; it is the result of intentional practice. The final step of our journey is to build your own **Personal Development Map**, a strategic plan for rewiring your social brain.
 
 **Step 1: Revisit Your Diagnostic (Chapter 1)**
-Look back at your results from the Social Brain Diagnostic. Are you primarily an Architect, a Connector, or a Sentinel? This is your starting point. Your goal isn't to eliminate your superpower, but to develop the instruments you use least.
+Look back at your results. Are you primarily an Architect, a Connector, or a Sentinel? Your goal is to develop the instruments you use least.
 
 **Step 2: Define One Micro-Behavior to Practice**
-Choose **one** skill from the toolkit that feels like your biggest growth edge. Do not try to "be a better communicator." That goal is too vague. Instead, choose one tiny, observable action, just as we did in the "Upgrade Protocol."
-
+Choose **one** tiny, observable action from the toolkit.
 *   **For the Architect:** *"This week, in one conversation where I feel the urge to offer a solution, I will use the **Empathy Loop** instead and ask, 'What's the most challenging part of this for you?'"*
-*   **For the Connector:** *"In my next team meeting, when there is a moment of disagreement, I will resist the urge to smooth it over. I will take one **Conductor's Breath** and hold the silence."*
+*   **For the Connector:** *"In my next team meeting, when there is disagreement, I will take one **Conductor's Breath** and resist the urge to immediately smooth it over."*
 *   **For the Sentinel:** *"Tomorrow, I will start one email to a colleague by explicitly rewarding their **Status** or **Relatedness** before making my request."*
 
 **Step 3: Practice in Low-Stakes Environments**
-Do not wait for a crisis to practice. A high-stakes conversation is the final exam, not the classroom. Practice these micro-behaviors in casual, everyday interactions. Practice active listening with the barista at the coffee shop. Try using the "Tension & Resolution" arc to tell your partner about your day. Each small repetition builds the neural pathway, making it more likely the skill will be there for you when the stakes are high.
+Do not wait for a crisis. Practice these micro-behaviors in casual, everyday interactions. Each small repetition builds the neural pathway.
 
 **Step 4: Seek Feedback and Review**
-Growth requires external input. Ask a trusted colleague or mentor for feedback on the one skill you are practicing. At the end of each week, take five minutes to reflect: When did I successfully use my micro-behavior? What was the result? This act of self-reflection reinforces the learning.
-
----
+Ask a trusted colleague for feedback on the one skill you are practicing. At the end of each week, take five minutes to reflect on your progress. To help you structure this process, you can download a template of the Personal Development Map at [ImaginaryWebsite.com/SocialBrain].
       
