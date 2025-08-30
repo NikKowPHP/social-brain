@@ -42,6 +42,8 @@ When you are telling a compelling story, the listener's brain is not just passiv
 
 You do not need to be a great novelist to leverage this system. You just need a simple, repeatable protocol for wrapping your data in a narrative structure. The most powerful and simple structure is the "Tension & Resolution" arc. It has three parts: And, But, Therefore (ABT).
 
+![Tension and Resolution Arc Diagram](public/images/story-arc.png)
+
 ***Investigator's Note: How to Choose Your Tool***
 At this point, you might be wondering when to use the "Clarity Protocol" from the last chapter and when to use a story. This was a critical question in my own investigation. Here is the simple rule I discovered:
 *   **Use the Clarity Protocol when your goal is to TRANSMIT INFORMATION.** (e.g., confirming a meeting time, asking for a status update). Your primary concern is avoiding cognitive load.
@@ -69,8 +71,12 @@ This week, find one data point or key message you need to communicate in an emai
 **The Core Principle:**
 The human brain is not optimized for processing raw data; it is optimized for processing stories. Stories create "neural coupling," engage the whole brain, and release a cocktail of neurochemicals that enhance memory and persuasion.
 
-**Investigator's Key:**
-*"Data makes people think, but stories make them feel. To truly persuade, you must do both."*
+---
+
+> **Investigator's Key:**
+> *"Data makes people think, but stories make them feel. To truly persuade, you must do both."*
+
+---
 
 **The Immediate Practice:**
 Use the "Tension & Resolution" Arc (And, But, Therefore).

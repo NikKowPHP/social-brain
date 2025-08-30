@@ -1,5 +1,3 @@
-
-
 ### **Chapter 6: The Chemistry of Trust**
 #### Oxytocin and Rapport
 
@@ -73,8 +71,12 @@ Just run the protocol and observe the output.
 **The Core Principle:**
 Trust is a biological state, not just an abstract virtue. It is largely driven by the neurochemical oxytocin, which reduces fear and promotes in-group bonding.
 
-**Investigator's Key:**
-*"You can't download trust; you have to create the conditions for it to be released. Calibrated vulnerability is the trigger."*
+---
+
+> **Investigator's Key:**
+> *"You can't download trust; you have to create the conditions for it to be released. Calibrated vulnerability is the trigger."*
+
+---
 
 **The Immediate Practice:**
 Run a "Trust Protocol."
@@ -89,3 +91,4 @@ We have now established a secure, trusted connection. The other person's defense
 Now, and only now, are we ready to transmit our own ideas. But even with a perfect connection, we can cause the system to crash if we send the data in the wrong way.
 
 Our next step is to investigate the mortal enemy of clear communication: cognitive load.
+      

@@ -1,5 +1,3 @@
-
-
 ### **Chapter 3: The Regulated Brain**
 #### The Neuroscience of Emotional Self-Regulation
 
@@ -26,6 +24,8 @@ At the front of your brain, just behind your forehead, is the **prefrontal corte
 In a normal state, the CEO is in charge. But when the amygdala detects a social threat, it pulls the fire alarm. This is called an **amygdala hijack**. It triggers a flood of cortisol and adrenaline, a process designed to prepare you to fight, flee, or freeze.
 
 Crucially, this neurochemical flood severely impairs the function of your prefrontal cortex. The wise CEO is temporarily taken offline, and the panicked security guard is now running the show. This isn't a flaw; it's a feature of our primal hardware, a low-level failsafe designed for a world that no longer exists. The problem is that this ancient code is still running on modern systems, and it has a critical bug: it can't tell the difference between a tiger and a critical email.
+
+![Amygdala Hijack Diagram](public/images/amygdala-hijack.png)
 
 The key to debugging this is not to rewrite the code—we can't—but to learn how to call a specific function that manually overrides it.
 
@@ -69,8 +69,12 @@ This week, your only job is to turn on your system monitor. Just once, try to ca
 **The Core Principle:**
 An emotional reaction (an "amygdala hijack") is a biological process that impairs your rational brain (the PFC). You cannot think your way out of it; you must regulate your way out of it.
 
-**Investigator's Key:**
-*"First, debug your own system. Then, you can try to connect with theirs."*
+---
+
+> **Investigator's Key:**
+> *"First, debug your own system. Then, you can try to connect with theirs."*
+
+---
 
 **The Immediate Practice:**
 1.  **Monitor the physical alert** of your emotional alarm (e.g., tight chest, hot face).
@@ -84,3 +88,4 @@ You now have the tool to manually override your own internal alarm state. You've
 Once you can create this space of internal calm, an incredible new capacity opens up: the ability to stop focusing on your own system alerts and turn your full attention outward. You gain the ability to truly, deeply listen to the music being played by someone else.
 
 But what does it really mean to understand another person's mind? How do we build that interface? As I found in my research, the answer lies in a remarkable set of "mirror" cells in your brain.
+      

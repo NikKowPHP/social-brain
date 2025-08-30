@@ -85,8 +85,12 @@ Observe the result.
 **The Core Principle:**
 The brain's working memory is extremely limited. Overloading it with too much unstructured information ("cognitive load") causes confusion and inaction.
 
-**Investigator's Key:**
-*"Clarity is an act of empathy. Brevity is a form of respect for another person's finite mental energy."*
+---
+
+> **Investigator's Key:**
+> *"Clarity is an act of empathy. Brevity is a form of respect for another person's finite mental energy."*
+
+---
 
 **The Immediate Practice:**
 Execute the "Clarity Protocol."

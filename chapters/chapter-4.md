@@ -1,5 +1,3 @@
-
-
 ### **Chapter 4: The Empathy Switch**
 #### Mirror Neurons, "Mentalizing," and the Art of Understanding
 
@@ -79,8 +77,12 @@ In one conversation this week, your challenge is to consciously **resist jumping
 **The Core Principle:**
 True empathy is a two-part process: affective empathy (feeling *with* someone) and cognitive empathy (thinking about their experience). We must do both, in that order.
 
-**Investigator's Key:**
-*"Don't just debug the problem they are telling you. First, connect with the feeling they are showing you."*
+---
+
+> **Investigator's Key:**
+> *"Don't just debug the problem they are telling you. First, connect with the feeling they are showing you."*
+
+---
 
 **The Immediate Practice:**
 Use the two-step Empathy Loop protocol.
@@ -94,3 +96,4 @@ You now have the tools to regulate your own internal system and to build a genui
 But how do you make that feeling last? How do you create a secure connection that allows for the free flow of honest data?
 
 The next step is to move from temporary connection to lasting rapport. We are going to explore the surprising neuroscience of deep listening, and how the simple act of paying attention can change the chemistry of another person's brain.
+      

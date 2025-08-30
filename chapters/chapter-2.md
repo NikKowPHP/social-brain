@@ -1,5 +1,3 @@
-
-
 ### **Chapter 2: The Pain of Miscommunication**
 #### Why a Harsh Word Feels Like a Physical Wound
 
@@ -58,8 +56,12 @@ By reframing "difficult people" as "people perceiving a threat," you move from a
 **The Core Principle:**
 The brain processes social threats (rejection, exclusion, loss of status) in the exact same neural circuits that process physical pain.
 
-**Investigator's Key:**
-*"Nearly every communication breakdown is the result of a perceived social threat."*
+---
+
+> **Investigator's Key:**
+> *"Nearly every communication breakdown is the result of a perceived social threat."*
+
+---
 
 **The Immediate Practice:**
 Become a "Social Pain Detective." When you see a defensive reaction (in yourself or others), ask: *Which of the five social domains (Status, Certainty, Autonomy, Relatedness, Fairness) is being threatened right now?*
@@ -71,3 +73,4 @@ We now understand the alarm system. We know why a harsh word can hijack our enti
 But knowing the alarm exists is not the same as controlling it. What happens when that bell starts ringing in the middle of a high-stakes conversation? How do you, the conductor, keep the orchestra from descending into chaos?
 
 The answer lies not in ignoring the alarm, but in learning how to skillfully turn down its volume. Our next step is to master the art of emotional self-regulation.
+      

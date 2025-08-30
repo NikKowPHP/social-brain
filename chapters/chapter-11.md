@@ -56,4 +56,21 @@ This week, your mission is to practice the **"Intake" Protocol**. The next time 
 2.  Resist explaining.
 3.  Ask one clarifying question to find the data: *"When you say [their judgment], what's a specific instance you're thinking of?"*
 Just observe what this does to the conversation and to your own emotional state.
+
+---
+### **Neuro-Toolkit: The Learning Brain**
+
+**The Core Principle:**
+Feedback is a primary social threat that the brain is wired to reject. Lasting change is not an act of will, but a physical process of re-wiring neural pathways through focused repetition (neuroplasticity).
+
+---
+
+> **Investigator's Key:**
+> *"Stop giving feedback. Start a collaborative debugging session. Stop trying to break old habits; start building new ones."*
+
+---
+
+**The Immediate Practice:**
+1.  **To Give Feedback:** Use the "Debug" Protocol (Permission, Data, Co-Create).
+2.  **To Make Change Stick:** Use the "Upgrade" Protocol (Define Micro-Behavior, Create Trigger, Self-Acknowledge).
       

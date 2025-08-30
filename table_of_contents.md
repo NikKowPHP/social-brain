@@ -62,6 +62,10 @@
 **Appendix:** For the Curious Brain
 *The Science Behind the Strategies*
 
+**Glossary**
+
+**Index**
+
 **Acknowledgments**
 
 **About the Author**

@@ -11,4 +11,5 @@
 - [x] Finalize Chapter 11 with refined protocols on neuroplasticity and habit formation.
 - [x] Create Chapter 12 and Conclusion to finalize the book's main content.
 - [x] Finalize book with new Chapter 13, Appendix, and other sections, and revise Chapters 11 & 12.
+- [x] Apply final professional polish: add visual placeholders, pull-quotes, Glossary, and Index.
       

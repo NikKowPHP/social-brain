@@ -1,24 +1,4 @@
-
-### **Revised "System Alert" Box**
-
----
-### **System Alert: Broadcasting Presence in a Digital World**
-
-These primal signals of safety and threat don't disappear when we're behind a screen; they just change channels. Here's how to apply these principles online:
-
-*   **The Video Call:** Your "tripod" is your **eyes and your open tabs**. Are you looking at the camera (signaling focus) or at your own face on the screen? Have you closed your email and Slack tabs? Single-tasking is the ultimate digital signal of presence. The "Intelligent Pause" is even more crucial here to avoid interrupting due to audio lag.
-
-*   **The Messenger Chat (Slack, Teams, etc.):** This is a low-data environment, so ambiguity is the primary threat. Your job is to manually inject the signals that are normally non-verbal.
-    *   **Acknowledge Receipt:** A message like "ok" can feel dismissive. Start with a quick acknowledgment that signals safety, like "Got it, thanks for sending" or "Reading this now." This is the digital equivalent of a head nod.
-    *   **Use 'Digital Prosody':** Text has no tone of voice, so you must add it back in. A well-chosen emoji or an exclamation point isn't unprofessional; it's a critical tool for replacing a smile or a reassuring tone, reducing the threat of misinterpretation.
-    *   **Manage Expectations (Certainty):** The biggest threat in chat is a long, unexplained silence. It creates a vacuum of uncertainty. Replace this threat with the reward of certainty by explicitly stating your timeline: "In a meeting, will get back to you after" or "Good question, let me think on that for 10 mins."
----
-
-Now, let's integrate this into the full, final chapter.
-
----
-
-### **Chapter 5: The Attentive Brain (Final Version)**
+### **Chapter 5: The Attentive Brain**
 #### The Neuroscience of Deep Listening and Non-Verbal Cues
 
 In the last chapter, we installed the "Empathy Loop" protocol. It’s a powerful piece of code for understanding another person's internal state. But executing that code successfully depends entirely on the quality of the data you receive. If the other person doesn't feel safe, they will never transmit the real, honest data you need.
@@ -88,8 +68,12 @@ In one important conversation this week (in-person, video, or chat), your only m
 **The Core Principle:**
 Deep, focused listening is not a passive act; it is an active biological intervention that decreases threat (cortisol) and increases trust (oxytocin) in the other person's brain.
 
-**Investigator's Key:**
-*"Attention is the currency of connection. You cannot build trust without first paying attention."*
+---
+
+> **Investigator's Key:**
+> *"Attention is the currency of connection. You cannot build trust without first paying attention."*
+
+---
 
 **The Immediate Practice:**
 Broadcast a "Signal of Presence."
@@ -100,3 +84,4 @@ Broadcast a "Signal of Presence."
 ---
 
 By creating a regulated state within yourself and broadcasting powerful signals of presence to others, you create the neurochemical foundation for trust. You have calmed the system and established a secure connection. But how do we build on that foundation? How do we consciously cultivate the rapport that makes difficult conversations possible? Our next step is to investigate the brain's bonding chemical and the subtle signals that create a state of deep and lasting trust.
+      

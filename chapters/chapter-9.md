@@ -11,7 +11,7 @@ My investigation led me to a simple but profound conclusion: **You cannot win a 
 
 #### **The Science: The Brain's Threat-Detection Matrix**
 
-As we discovered in Chapter 2, the brain is constantly scanning for social threats. But what is it actually scanning *for*? Is it random, or is there a predictable pattern?
+As we discovered in Chapter 2, the brain is constantly scanning for social threats. But what is it actually scanning *for*? Is there a predictable pattern?
 
 The answer came from the work of David Rock, a leader in the field of neuroleadership. He synthesized the research into a brilliant and incredibly useful model that I consider the user manual for the brain's social threat system. It's called the **SCARF model**.
 
@@ -22,6 +22,8 @@ SCARF is an acronym for the five key domains of social experience that your brai
 3.  **Autonomy:** Our sense of control over events; our ability to make choices.
 4.  **Relatedness:** Our feeling of safety with others; the distinction between "friend" and "foe."
 5.  **Fairness:** Our perception of a fair and equitable exchange.
+
+![SCARF Model Icons](public/images/scarf-model.png)
 
 This model was a Rosetta Stone for me. It transformed "difficult conversations" from a terrifying art form into a solvable, systemic challenge. The chaos has a pattern. Sarah's feedback to David is a direct threat to his **Status**, his **Certainty**, and his **Relatedness**. No wonder his brain is likely to crash.
 
@@ -87,8 +89,12 @@ Think of one potentially difficult conversation you need to have in the next wee
 **The Core Principle:**
 Difficult conversations trigger a threat response because they attack the brain's core social needs: Status, Certainty, Autonomy, Relatedness, and Fairness (SCARF).
 
-**Investigator's Key:**
-*"Don't start the conversation. Start by creating the conditions for the conversation. Minimize SCARF threats, maximize SCARF rewards."*
+---
+
+> **Investigator's Key:**
+> *"Don't start the conversation. Start by creating the conditions for the conversation. Minimize SCARF threats, maximize SCARF rewards."*
+
+---
 
 **The Immediate Practice:**
 Run a "SCARF Diagnosis" before a tough conversation.

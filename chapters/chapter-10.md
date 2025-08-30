@@ -72,8 +72,12 @@ Just watch to see if your prediction comes true. This trains your observational 
 **The Core Principle:**
 The brain's core needs (SCARF) are universal "hardware," but cultural and group norms are the "software" that dictates how those needs are met or threatened.
 
-**Investigator's Key:**
-*"Don't assume your software works on their hardware. The most effective communicators are experts at rapidly learning the local rules."*
+---
+
+> **Investigator's Key:**
+> *"Don't assume your software works on their hardware. The most effective communicators are experts at rapidly learning the local rules."*
+
+---
 
 **The Immediate Practice:**
 Run the three-step "Adaptation Protocol" when in a new group.

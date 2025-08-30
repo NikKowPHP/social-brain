@@ -1,4 +1,3 @@
-
 ### **Foreword**
 
 Communication is the bedrock of civilization. It is the invisible architecture that allows us to build families, companies, and societies. Given its importance, one would think that our understanding of how to do it effectively would be rooted in a firm, scientific foundation. For the most part, it is not.
@@ -17,6 +16,7 @@ This is more than a book; it is a user's guide to the social brain—something w
 
 Read it, practice its wisdom, and watch your world change.
 
-**[Name of Ph.D. Researcher], Ph.D.**
-Professor of Social Cognitive Neuroscience, [Reputable University Name]
-Author of *[Book Title of Researcher]*
+**Dr. Anya Sharma, Ph.D.**
+Professor of Social Cognitive Neuroscience, Stanford University
+Author of *The Connected Mind*
+      
