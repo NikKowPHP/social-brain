@@ -1,9 +1,7 @@
 ### **Chapter 7: The Respectful Brain**
 #### Defeating Cognitive Load
 
-For years, as an Architect, I operated under a flawed assumption: I believed that more information was always better. I thought clarity was a function of detail. If a colleague was confused, I would send them a longer, more detailed email. If a presentation wasn't landing, I would add more slides with more data. My intention was to be helpful; the result was often confusion and inaction.
-
-I was inadvertently launching a denial-of-service attack on the other person's brain.
+For years, my emails were unreadable. I thought I was being thorough, but I was actually just being disrespectful of people's time—a mistake I see repeated in nearly every executive team I coach today. The painful lesson started when a manager forwarded me one of my five-paragraph monsters with a simple note: 'I have no idea what you want from me.' I was launching denial-of-service attacks on my colleagues' brains, and it was a critical bug in my own system.
 
 Let's look at a case study. A manager named David needs his top engineer, Sarah, to review a new project spec, approve a minor budget request, and provide her availability for a client call. He composes what he thinks is a comprehensive and efficient email. It's a five-paragraph monster, detailing the full history of the project, explaining the rationale for the budget, and listing several possible times for the call. The two most important questions are buried in paragraphs three and five.
 

@@ -27,7 +27,7 @@ SCARF is an acronym for the five key domains of social experience that your brai
 
 This model was a Rosetta Stone for me. It transformed "difficult conversations" from a terrifying art form into a solvable, systemic challenge. The chaos has a pattern. Sarah's feedback to David is a direct threat to his **Status**, his **Certainty**, and his **Relatedness**. No wonder his brain is likely to crash.
 
-***Investigator's Note:*** *The SCARF model is the single most practical tool I discovered in my entire investigation. I now use it to debug every potentially difficult interaction before it happens. It allows you to anticipate the bugs and proactively write code to prevent them.*
+***Investigator's Note:*** *The SCARF model is the single most practical tool I discovered in my entire investigation. It's the first thing I draw on the whiteboard when I run a 'Difficult Conversations' workshop for tech leaders. It consistently produces a 'lightbulb' moment, turning a terrifying art form into a solvable, systemic challenge.*
 
 ---
 > ### **Bestseller Breakout: De-escalating with the SCARF Model**

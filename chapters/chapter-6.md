@@ -1,9 +1,7 @@
 ### **Chapter 6: The Chemistry of Trust**
 #### Oxytocin and Rapport
 
-In my investigation, I kept encountering a paradox. Two teams, with equally talented people and the same resources, could produce wildly different results. One team was guarded, transactional, and plagued by "communication issues." The other was open, collaborative, and innovative.
-
-The difference wasn't skill; it was the quality of the connection. The first team operated on a system of low trust; the second, on a system of high trust.
+As an Architect-brained professional, I used to believe trust was a simple byproduct of consistent, high-quality work. I thought if I just delivered flawless code, people would eventually trust me. I was wrong. I was delivering logic, but I wasn't creating connection. It took a failed project and some brutally honest feedback to make me realize that trust isn't earned through perfection; it's built through the counter-intuitive science of vulnerability.
 
 This led me to a critical question: **Is trust just a vague, abstract feeling, or is it a measurable, biological state? And if it is, can we intentionally create the conditions for it?**
 

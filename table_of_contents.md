@@ -57,6 +57,8 @@
 
 **Conclusion:** Rewiring for a Connected Life
 
+**Join the Orchestra**
+
 ---
 
 **Appendix:** For the Curious Brain

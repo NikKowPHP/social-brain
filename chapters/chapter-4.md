@@ -1,7 +1,7 @@
 ### **Chapter 4: The Empathy Switch**
 #### Mirror Neurons, "Mentalizing," and the Art of Understanding
 
-In my investigation, I kept coming across a particularly tricky bug in how logical thinkers approach emotional problems. It’s a flaw in our processing that causes us to consistently offer the right solution in the wrong way, creating disconnection instead of connection.
+For most of my life as a programmer, I treated emotions as bugs that needed to be fixed with logic. This was a critical flaw in my own social operating system, and it made me a brilliant problem-solver but a terrible listener. Debugging this flaw in myself led to one of the most important discoveries of my entire investigation: you can't solve a problem for someone until you first connect with the feeling they are showing you.
 
 Let's look at a case study I call "The Premature Solution."
 
@@ -12,8 +12,6 @@ Maya's Architect brain immediately boots up. She sees a problem, and her instinc
 She is offering a perfect, logical strategy. But she notices something strange. Ben isn't looking relieved. He's withdrawing, his shoulders slumping. "Yeah, I guess," he mutters, looking at the floor.
 
 The connection has been broken. Maya offered a brilliant solution, but she completely missed what Ben truly needed.
-
-I'm not just describing Maya; for a long time, I *was* Maya. My Architect brain, the one you met in our diagnostic, is hardwired to see a problem and immediately jump to building a solution. I saw emotions as bugs that needed to be fixed with logic. This was a critical flaw in my own social operating system, and debugging it led to one of the most important discoveries of my entire investigation.
 
 ---
 ### **System Alert: The Threat of Unsolicited Advice**
