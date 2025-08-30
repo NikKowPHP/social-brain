@@ -22,6 +22,20 @@ As a leader, your job is to be the chief architect of this environment. You set 
 
 You cannot command a team to feel safe. You must design a system where safety is the natural output. This requires moving from personal protocols to systemic routines.
 
+---
+> ### **Bestseller Breakout: Satya Nadella and Psychological Safety**
+>
+> When Satya Nadella became CEO of Microsoft in 2014, he inherited a culture famous for its internal competition and "stack ranking"—a system that pitted employees against each other (creating constant **Status** and **Relatedness** threats).
+>
+> His transformation of the company was a systemic application of psychological safety. He explicitly changed the culture from "know-it-all" to "learn-it-all."
+>
+> *   **He Modeled Vulnerability:** He openly admitted his own mistakes and biases, signaling to the entire organization that it was safe to be imperfect.
+> *   **He Rewarded Empathy:** He made "empathy" a core leadership principle, rewarding managers who listened and collaborated.
+> *   **He Reframed the Mission:** He shifted the focus from competing internally to a shared mission of empowering customers (a powerful **Relatedness** reward).
+>
+> By changing the "local software" of Microsoft's culture, Nadella created the conditions for a massive surge in innovation and market value. He acted as the conductor, creating the environment for the orchestra to thrive.
+---
+
 1.  **Model Calibrated Vulnerability (Chapter 6):** Safety starts at the top. The single fastest way to create it is for the leader to demonstrate it. Start your next team meeting by sharing a small, professional vulnerability. *"I was wrong about my initial timeline estimate on the X project, and I've learned we need to be more conservative. That's on me."* This isn't weakness; it is a powerful broadcast signal that it's safe for others to be human.
 2.  **Systematize SCARF Rewards (Chapter 9):** Intentionally design your team's routines to reward the social brain.
     *   **To reward Status:** Begin every project debrief by having each person share one thing they are proud of *before* discussing what went wrong.

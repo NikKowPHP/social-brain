@@ -1,4 +1,4 @@
-### **The Conductor's Cheat Sheet**
+### **The Conductor Method™ Cheat Sheet**
 
 **The 3 Brains (Your Orchestra Sections)**
 *   **Architect:** Logic, data, structure. (Can seem cold).

@@ -11,7 +11,7 @@ My investigation led me to a simple but profound conclusion: **You cannot win a 
 
 #### **The Science: The Brain's Threat-Detection Matrix**
 
-As we discovered in Chapter 2, the brain is constantly scanning for social threats. But what is it actually scanning *for*? Is there a predictable pattern?
+As we discovered in Chapter 2, the brain is constantly scanning for social threats. But what is it actually scanning *for*? Is it random, or is there a predictable pattern?
 
 The answer came from the work of David Rock, a leader in the field of neuroleadership. He synthesized the research into a brilliant and incredibly useful model that I consider the user manual for the brain's social threat system. It's called the **SCARF model**.
 
@@ -30,6 +30,21 @@ This model was a Rosetta Stone for me. It transformed "difficult conversations" 
 ***Investigator's Note:*** *The SCARF model is the single most practical tool I discovered in my entire investigation. I now use it to debug every potentially difficult interaction before it happens. It allows you to anticipate the bugs and proactively write code to prevent them.*
 
 ---
+> ### **Bestseller Breakout: De-escalating with the SCARF Model**
+>
+> The principles of the SCARF model are used at the highest levels of international diplomacy. Consider a hostage negotiator facing a tense standoff. Their approach is a masterclass in SCARF management.
+>
+> They never start by saying, "Here's what you've done wrong." (A massive **Status** and **Relatedness** threat).
+>
+> Instead, they start by rewarding SCARF domains to bring the other person's rational brain back online.
+>
+> *   "I'm here to listen. I want to understand what you need." (Rewards **Status** and **Relatedness**).
+> *   "My name is John. I'm the only person you need to talk to. We're going to work through this together." (Rewards **Certainty**).
+> *   "Tell me what has to happen for this to end safely. You are in control of that." (Rewards **Autonomy**).
+>
+> Only after creating this neurochemical state of safety do they begin to address the problem. They de-mine the environment before they take a single step.
+---
+
 ### **System Alert: The Hijack Emergency Protocol**
 
 What do you do if, despite your best efforts, the other person's "security guard" takes over and they get defensive? Do not engage their argument. Their rational brain is offline. Your only job is to help them get it back online.
