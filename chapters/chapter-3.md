@@ -51,6 +51,8 @@ Here is the function call:
 
 Do this once or twice. This is the reset command. The long exhale activates your vagus nerve and tells your brain's security guard to stand down.
 
+This manual override isn't just for performance reviews. It's for the flash of anger you feel when another driver cuts you off in traffic. It's for the wave of frustration that hits when you're trying to assemble furniture and the instructions make no sense. In these moments, your logical PFC is also being taken offline by the panicked security guard. The physical location is different, but the neural circuit is identical. The Conductor's Breath is the universal reset button, whether you're facing a hostile board member or a misbehaving dishwasher.
+
 **3. Practice in Peacetime, Not Just in Battle.**
 A final, crucial point from my investigation: do not wait for a crisis to practice this. You cannot learn to use a fire hose in the middle of a five-alarm fire. Your "Field Work Challenge" is your real training. Practice the Conductor's Breath a few times a day when you are perfectly calm—waiting for code to compile, sitting at a red light. By doing this, you are building a new neural pathway. You are grooving the connection to your vagus nerve so that when the real alarm bell rings, your brain already knows the path to safety.
 

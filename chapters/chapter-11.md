@@ -38,6 +38,12 @@ Instead of a "sandwich," run a collaborative debugging session.
     *   *"What's your perspective on what happened?"*
     *   *"How might we ensure everyone feels safe to brainstorm, while still leveraging your ability to spot flaws?"*
 
+This feedback protocol is even more critical in our personal relationships, where the emotional stakes are higher. Your friend is consistently 20 minutes late, and it's driving you crazy. The default 'feedback sandwich' is a disaster: 'You're a great friend, but you're so disrespectful of my time, but I still value our friendship.' This only creates confusion and defensiveness. The 'Debug' protocol saves the relationship:
+1.  **Get Permission:** 'Hey, I wanted to talk about something that's on my mind regarding our plans. Is now a good time?' (Rewards Autonomy & Certainty).
+2.  **Share Data, Not Drama:** 'I've noticed that for our last three meetups, you've arrived about 20 minutes after we agreed. The data point is the time difference.' (Minimizes Status threat).
+3.  **Co-Create the Upgrade:** 'Is there something going on that's making it hard to get away? How can we plan things so we're both on the same page and not feeling stressed?' (Rewards Autonomy & Relatedness).
+This transforms a potential conflict into a collaborative problem-solving session.
+
 **Protocol 2: The "Intake" Method (For Receiving Feedback)**
 When someone gives *you* feedback, even if it's clumsy, your job is to find the valuable data inside the clumsy delivery.
 1.  **Regulate Your System First (Chapter 3):** As you feel the hot flush of a Status threat, take one silent **Conductor's Breath**. This is non-negotiable. Keep your own CEO online.
