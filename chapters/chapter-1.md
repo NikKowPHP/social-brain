@@ -1,4 +1,3 @@
-
 ### **Chapter 1: The Social Brain Diagnostic**
 #### Understanding Your Orchestra
 
@@ -75,12 +74,13 @@ Remember, your dominant style is your "peacetime" preference. Under stress, your
 
 This diagnostic has given you your map. As you continue your journey, use it to pay special attention to the chapters that will help you grow the most.
 
-*   **For the Architects (Mostly A's):** Your core work is in Chapters **4 (Empathy)**, **5 (Listening)**, and **8 (Storytelling)**. These will help you connect your powerful logic to the emotional core of your listeners.
-*   **For the Connectors (Mostly B's):** Your path to mastery lies in Chapters **3 (Self-Regulation)**, **9 (Difficult Conversations)**, and **11 (Feedback)**. These will give you the tools to remain empathetic while holding your ground and speaking with clarity and strength.
-*   **For the Sentinels (Mostly C's):** Your foundational toolkit is in Chapters **3 (Self-Regulation)**, **6 (Building Trust)**, and **9 (Taming the Threat)**. These chapters are designed to help you calm your inner alarm system so you can lead with confidence, not fear.
+*   **For the Architects (Mostly A's):** Your core work is in Chapters **4 (Empathy)**, **5 (Listening)**, and **9 (Storytelling)**. These will help you connect your powerful logic to the emotional core of your listeners.
+*   **For the Connectors (Mostly B's):** Your path to mastery lies in Chapters **3 (Self-Regulation)**, **10 (Difficult Conversations)**, and **12 (Feedback)**. These will give you the tools to remain empathetic while holding your ground and speaking with clarity and strength.
+*   **For the Sentinels (Mostly C's):** Your foundational toolkit is in Chapters **3 (Self-Regulation)**, **6 (Building Trust)**, and **10 (Taming the Threat)**. These chapters are designed to help you calm your inner alarm system so you can lead with confidence, not fear.
 
 You now have your starting point. You know your orchestra.
 
 You've also likely noticed that many of these questions touch upon feelings of threat, defensiveness, and social danger. This is no accident. The single most important element governing the quality of our communication is how our brain processes social pain. Understanding that system is our first landmark.
 
 Turn the page. Let's explore why a harsh word can feel like a physical wound.
+      

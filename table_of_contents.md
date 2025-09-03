@@ -32,32 +32,35 @@
 **Chapter 6:** The Chemistry of Trust
 *Oxytocin and Rapport*
 
-**Chapter 7:** The Respectful Brain
+**Chapter 7:** Breaking the Silence
+*The Neuroscience of the First Move*
+
+**Chapter 8:** The Respectful Brain
 *Defeating Cognitive Load*
 
-**Chapter 8:** Making It Stick
+**Chapter 9:** Making It Stick
 *The Neuroscience of Storytelling*
 
-**Chapter 9:** Taming the Threat
+**Chapter 10:** Taming the Threat
 *Navigating Difficult Conversations*
 
-**Chapter 10:** The Adaptive Brain
+**Chapter 11:** The Adaptive Brain
 *Navigating Group and Cultural Dynamics*
 
-**Chapter 11:** The Learning Brain
+**Chapter 12:** The Learning Brain
 *The Neuroscience of Feedback and Lasting Change*
 
-**Chapter 12:** Conducting the Meeting
+**Chapter 13:** Conducting the Meeting
 *The Conductor's Stage*
 
 ---
 
 ### **Part III: Integration and Lasting Change**
 
-**Chapter 13:** The Integrated Brain
+**Chapter 14:** The Integrated Brain
 *Conducting the Orchestra of Communication*
 
-**Chapter 14:** The Conductor's Legacy
+**Chapter 15:** The Conductor's Legacy
 *Building a Psychologically Safe Culture*
 
 **Conclusion:** Rewiring for a Connected Life

@@ -21,19 +21,21 @@
     2.  **The Playback:** Summarize the underlying emotion you heard (e.g., "So it sounds like you felt invisible.").
 *   **The Trust Protocol (Chapter 6):**
     *   Execute **Calibrated Vulnerability**: Share a small, professional vulnerability and observe the response.
-*   **The Clarity Protocol (Chapter 7):**
+*   **The Safety Signal Protocol (Chapter 7):**
+    1. Regulate First (Breathe). 2. Find Shared Context. 3. Offer Low-Stakes Observation.
+*   **The Clarity Protocol (Chapter 8):**
     1.  **One Goal Per Message.**
     2.  **Headline First** (state your request immediately).
     3.  **Chunk the Details** (use bullets, bolding, short paragraphs).
-*   **The Tension & Resolution Arc (Chapter 8):**
+*   **The Tension & Resolution Arc (Chapter 9):**
     *   **And...** (The stable situation).
     *   **But...** (The problem/tension).
     *   **Therefore...** (Your idea as the solution).
-*   **The Feedback Protocols (Chapter 11):**
+*   **The Feedback Protocols (Chapter 12):**
     *   **Giving (Debug):** 1. Get Permission. 2. Share Data, Not Drama. 3. Co-Create Solution.
     *   **Receiving (Intake):** 1. Regulate (Breathe). 2. Resist Defending. 3. Ask for Data ("Can you give an example?").
 
-**Emergency Protocol: The Hijack (Chapter 9)**
+**Emergency Protocol: The Hijack (Chapter 10)**
 *When a conversation catches fire:*
 1.  **Regulate Yourself First** (Conductor's Breath).
 2.  **Validate the Feeling, Not the Content** (Use The Playback).
