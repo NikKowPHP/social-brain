@@ -1,7 +1,7 @@
 ### **Chapter 10: Taming the Threat**
 #### Navigating Difficult Conversations
 
-Let's look at the ultimate debugging challenge. Our manager, Maria, has to give tough feedback to Mark, her senior engineer who is brilliant but abrasive. His code is top-tier, but he's dismissive of junior developers' ideas in meetings, and two people have already complained to her. This is the conversation from Chapter 3, but now we're going to plan for it.
+Let's look at the ultimate debugging challenge. This is the conversation Maria has been dreading, the one that prompted her journey in the first place. She has to give tough feedback to Mark, her senior engineer who is brilliant but abrasive. His code is top-tier, but he's dismissive of junior developers' ideas in meetings, and two people have already complained to her. This is the high-stakes test of everything she has learned so far.
 
 Maria's own system is on high alert. Her Sentinel brain is screaming *"This will be a disaster! He'll get defensive, angry, maybe even quit!"* Her stomach is in knots. She knows she has to have the conversation, but every instinct is telling her to avoid the conflict.
 
@@ -18,7 +18,7 @@ The answer came from the work of David Rock, a leader in the field of neuroleade
 SCARF is an acronym for the five key domains of social experience that your brain's security guard (the amygdala) is constantly monitoring. When these domains are threatened, the brain triggers a primary threat response. When they are rewarded, the brain enters a state of trust and collaboration.
 
 1.  **Status:** Our sense of importance and ranking relative to others.
-2.  **Certainty:** Our ability to predict the future and understand what's going on.
+2.  **Certainty:** Our ability to predict the future and understand what's on.
 3.  **Autonomy:** Our sense of control over events; our ability to make choices.
 4.  **Relatedness:** Our feeling of safety with others; the distinction between "friend" and "foe."
 5.  **Fairness:** Our perception of a fair and equitable exchange.
@@ -27,9 +27,7 @@ The SCARF model is a Rosetta Stone for almost every recurring argument in a fami
 
 [AUTHOR'S NOTE: A clean, professional infographic should be here, with icons for each of the five SCARF domains: Status, Certainty, Autonomy, Relatedness, and Fairness.]
 
-This model was a Rosetta Stone for me. It transformed "difficult conversations" from a terrifying art form into a solvable, systemic challenge. The chaos has a pattern. Maria's feedback to Mark is a direct threat to his **Status**, his **Certainty**, and his **Relatedness**. No wonder his brain is likely to crash.
-
-***Investigator's Note:*** *The SCARF model is the single most practical tool I discovered in my entire investigation. It's the first thing I draw on the whiteboard when I run a 'Difficult Conversations' workshop for tech leaders. It consistently produces a 'lightbulb' moment, turning a terrifying art form into a solvable, systemic challenge.*
+***Investigator's Note:*** *For years, I avoided conflict like the plague. For me, a difficult conversation felt like a guaranteed, massive SCARF threat. The model in this chapter wasn't just an academic curiosity; it was the blueprint I needed to de-mine the interaction and finally have conversations I’d been dreading for months.*
 
 ---
 > ### **Bestseller Breakout: De-escalating with the SCARF Model**

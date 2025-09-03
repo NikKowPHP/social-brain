@@ -18,7 +18,7 @@ Here's what it does:
 *   **It Increases Generosity and Empathy:** In classic experiments, participants given a nasal spray of oxytocin were significantly more willing to entrust their money to a stranger. It biologically primes us for collaboration.
 *   **It Promotes "In-Group" Bonding:** Oxytocin helps us create strong bonds with people we perceive as part of our tribe. It's the neurochemical glue that holds teams and families together.
 
-***Investigator's Note:*** *For years, I believed trust was something that just "happened" over time. As an Architect, I thought if I just did good work consistently, people would eventually trust me. The discovery that trust is a real-time chemical state that can be influenced by specific behaviors was a revelation. It's not magic; it's a system. And that means we can learn to interact with it intentionally.*
+***Investigator's Note:*** *My first attempt at 'calibrated vulnerability' was a disaster. I overshared with a new colleague, trying to force a connection too quickly, and it made them visibly uncomfortable. It was a painful but critical lesson in the importance of the *'calibrate'* part of that phrase. The goal is not to dump your innermost secrets, but to send a small, safe signal and wait for a response.*
 
 ---
 ### **System Alert: The Double-Edged Sword of Oxytocin**
@@ -26,6 +26,12 @@ Here's what it does:
 It's crucial to understand that oxytocin is not a "love everybody" hormone. It's a "bond with my tribe" hormone. Research shows that while oxytocin increases trust and generosity towards people we perceive as part of our **in-group**, it can actually *decrease* cooperation and increase defensiveness towards those we see as part of an **out-group**.
 
 This is a critical survival feature. The implication is profound: the techniques in this chapter are for building bridges and creating a shared "in-group." But be aware that strong team bonding can, if not managed carefully, lead to the creation of organizational silos and an "us vs. them" mentality with other teams. A true conductor knows how to build trust both within the orchestra and with the audience.
+---
+> ### **Myth vs. Reality: The Trust Paradox**
+>
+> **The Myth:** To build trust, you must project flawless competence at all times. Showing weakness will make people respect you less.
+>
+> **The Reality:** The brain's trust circuits aren't built on perfection; they're built on connection. Flawless competence can be intimidating (a Status threat). Strategically admitting an imperfection (Calibrated Vulnerability) is a powerful signal that you are human, safe, and trustworthy. It's a biological invitation for the other person's brain to release oxytocin.
 ---
 
 #### **The Practice: Execute a "Trust Protocol"**

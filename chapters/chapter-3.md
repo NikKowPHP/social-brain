@@ -5,7 +5,9 @@ The "social pain" bug we documented in the last chapter is one of the most criti
 
 To answer that, we need to look at the architecture of the brain during a high-stress moment. Let's run a new simulation with our case study, Mark.
 
-Mark is in his annual performance review with his boss, Maria. He’s prepared, but nervous. The review starts well, but then Maria says, "Overall, your work is solid. However, I’ve received feedback that in team meetings, you can come across as dismissive of others' ideas, which is impacting collaboration."
+Mark is in his annual performance review with his boss, Maria. He’s prepared, but nervous. Maria is too. She knows this is a difficult conversation, and in the past, interactions like this with Mark have gone poorly, leaving her feeling flustered and ineffective. This is a moment where she needs to conduct her own orchestra before she can lead anyone else's.
+
+The review starts well, but then Maria says, "Overall, your work is solid. However, I’ve received feedback that in team meetings, you can come across as dismissive of others' ideas, which is impacting collaboration."
 
 The social pain alarm goes off.
 
