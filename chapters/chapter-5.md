@@ -60,7 +60,11 @@ For every profile, the goal is the same: to use these tools with intention to cr
 ---
 ### **Field Work Challenge**
 
-In one important conversation this week (in-person, video, or chat), your only mission is to broadcast a powerful Signal of Presence. Put your phone away, close extra tabs, use an acknowledgment message. Just observe what it does to the dynamic of the conversation.
+In one important conversation this week (in-person, video, or chat), your only mission is to broadcast a powerful Signal of Presence. Put your phone away, close extra tabs, or use an acknowledgment message in chat.
+
+*   **For the Architect:** Your mission is to use the "Intelligent Pause." Bite your tongue for one full second longer than is comfortable before you respond. Just notice what it does to the conversation.
+*   **For the Connector:** Your challenge is to maintain the "tripod of attention" even when the conversation gets uncomfortable. Resist the urge to look away or physically disengage to smooth things over.
+*   **For the Sentinel:** Your focus is on your own non-verbals. Try to relax your jaw and shoulders while you listen. Your goal is to broadcast "calm presence," not "high alert."
 
 ---
 ### **Neuro-Toolkit: The Attentive Brain**

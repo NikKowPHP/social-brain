@@ -1,9 +1,9 @@
 ### **Chapter 9: Taming the Threat**
 #### Navigating Difficult Conversations
 
-Let's look at the ultimate debugging challenge. A manager named Sarah has to give tough feedback to David, a senior engineer who is brilliant but abrasive. His code is top-tier, but he's dismissive of junior developers' ideas in meetings, and two people have already complained to her.
+Let's look at the ultimate debugging challenge. Our manager, Maria, has to give tough feedback to Mark, her senior engineer who is brilliant but abrasive. His code is top-tier, but he's dismissive of junior developers' ideas in meetings, and two people have already complained to her. This is the conversation from Chapter 3, but now we're going to plan for it.
 
-Sarah's own system is on high alert. Her Sentinel brain is screaming *"This will be a disaster! He'll get defensive, angry, maybe even quit!"* Her stomach is in knots. She knows she has to have the conversation, but every instinct is telling her to avoid the conflict.
+Maria's own system is on high alert. Her Sentinel brain is screaming *"This will be a disaster! He'll get defensive, angry, maybe even quit!"* Her stomach is in knots. She knows she has to have the conversation, but every instinct is telling her to avoid the conflict.
 
 This is the scenario where most communication advice breaks down. Generic tips like "be honest" are useless when both people's brains are flooded with cortisol and primed for a threat response.
 
@@ -23,9 +23,9 @@ SCARF is an acronym for the five key domains of social experience that your brai
 4.  **Relatedness:** Our feeling of safety with others; the distinction between "friend" and "foe."
 5.  **Fairness:** Our perception of a fair and equitable exchange.
 
-![SCARF Model Icons](public/images/scarf-model.png)
+[AUTHOR'S NOTE: A clean, professional infographic should be here, with icons for each of the five SCARF domains: Status, Certainty, Autonomy, Relatedness, and Fairness.]
 
-This model was a Rosetta Stone for me. It transformed "difficult conversations" from a terrifying art form into a solvable, systemic challenge. The chaos has a pattern. Sarah's feedback to David is a direct threat to his **Status**, his **Certainty**, and his **Relatedness**. No wonder his brain is likely to crash.
+This model was a Rosetta Stone for me. It transformed "difficult conversations" from a terrifying art form into a solvable, systemic challenge. The chaos has a pattern. Maria's feedback to Mark is a direct threat to his **Status**, his **Certainty**, and his **Relatedness**. No wonder his brain is likely to crash.
 
 ***Investigator's Note:*** *The SCARF model is the single most practical tool I discovered in my entire investigation. It's the first thing I draw on the whiteboard when I run a 'Difficult Conversations' workshop for tech leaders. It consistently produces a 'lightbulb' moment, turning a terrifying art form into a solvable, systemic challenge.*
 
@@ -71,15 +71,15 @@ Your native wiring changes the nature of the conflict.
 *   A **Connector**'s conflict is often about *avoiding hurt*. Your biggest risk is softening the message so much that it becomes unclear, which is a Certainty threat. Your work is to be both compassionate *and* clear.
 *   A **Sentinel**'s conflict is often about *feeling safe*. Your biggest risk is that your own threat response is so high that you broadcast danger, triggering a hijack in the other person. Your work is to use the Conductor's Breath to find calm before you even begin.
 
-Let's look at Sarah's two options for starting the conversation with David.
+Let's look at Maria's two options for starting the conversation with Mark.
 
 **Option 1: The Threatening Opening (The Default)**
-*"David, thanks for coming. Listen, I need to talk to you about your attitude. I've had some complaints..."*
+*"Mark, thanks for coming. Listen, I need to talk to you about your attitude. I've had some complaints..."*
 *   **SCARF Analysis:** Massive threat to **Status**, **Certainty**, and **Relatedness**. The conversation is already over.
 
 **Option 2: The SCARF-Aware Opening (The Conductor's Approach)**
-Sarah takes a Conductor's Breath and starts differently.
-*"David, thanks for making the time. Your expertise on this project is invaluable, and I see you as a key part of our team's long-term success."*
+Maria takes a Conductor's Breath and starts differently.
+*"Mark, thanks for making the time. Your expertise on this project is invaluable, and I see you as a key part of our team's long-term success."*
 *   **(REWARD: Status & Relatedness)**
 
 *"The purpose of this chat is to brainstorm how we can make our team collaboration meetings even more effective. I've set aside 30 minutes for us to talk this through."*
@@ -94,9 +94,10 @@ She has successfully created the neurochemical conditions for a productive conve
 ### **Field Work Challenge**
 
 Think of one potentially difficult conversation you need to have in the next week or two. **Do not have the conversation.** Your only mission is to run a pre-mortem SCARF diagnosis.
-1.  Write down the topic.
-2.  For each of the five SCARF domains, identify the biggest potential threat your message could create.
-3.  Try to rephrase just your opening sentence to reduce one of those threats.
+
+*   **For the Architect:** Your tendency is to focus on the logical flaw in the other person's position. Instead, focus your diagnosis only on their potential **Status** threat. How can you open the conversation by making them feel more, not less, important?
+*   **For the Connector:** You worry about damaging the relationship. Your diagnosis should focus on **Certainty**. How can you be crystal clear about the purpose of the meeting while still being kind, so you don't soften the message into ambiguity?
+*   **For the Sentinel:** You are already an expert at seeing the threats. Your challenge is to flip the script. For each SCARF domain, your task is not to list the threat, but to brainstorm one way you could create a *reward*.
 
 ---
 ### **Neuro-Toolkit: Taming the Threat**

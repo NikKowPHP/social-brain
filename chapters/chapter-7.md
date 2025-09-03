@@ -72,10 +72,10 @@ Once the main point is clear, you can provide context. But you must format it fo
 ### **Field Work Challenge**
 
 This week, find one email you are about to send that is more than three paragraphs long OR one point you need to make in a meeting. Before you hit send or unmute, run it through the "Clarity Protocol."
-1.  Identify the single goal.
-2.  Plan your headline.
-3.  Structure the details using chunks or signposts.
-Observe the result.
+
+*   **For the Architect:** Your mission is to cut the explanatory context by 50%. Trust that the headline and bullet points are enough.
+*   **For the Connector:** Your challenge is to put the request (the headline) in the very first sentence. Resist the urge to warm up the reader first.
+*   **For the Sentinel:** Your task is to use structure to manage your own anxiety. Before you speak, write down your one goal, your headline, and your three supporting points. Stick to the script.
 
 ---
 ### **Neuro-Toolkit: The Respectful Brain**

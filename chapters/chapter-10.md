@@ -61,10 +61,10 @@ This loop—Observe, Calibrate, Test—transforms you from a passive participant
 ### **Field Work Challenge**
 
 This week, in one meeting with a group you don't know perfectly, your mission is to run the first part of the Adaptation Protocol and turn it into a prediction.
-1.  **Observe:** For the first 10 minutes, say little. Just watch the communication norms.
-2.  **Form a Hypothesis:** Based on your observations, form a simple hypothesis (e.g., "In this group, interrupting is seen as a sign of engagement").
-3.  **Make a Prediction:** Now, silently make a prediction based on your hypothesis. *"I predict that if John interrupts Jane, no one will react negatively."*
-Just watch to see if your prediction comes true. This trains your observational skills without the risk of an active test.
+
+*   **For the Architect:** Your mission is to focus on observing non-verbal data. Ignore the content of what's being said and watch the flow of eye contact, posture, and who interrupts whom. Form a hypothesis based only on that data.
+*   **For the Connector:** You naturally absorb the feeling of a room. Your task is to translate that feeling into a concrete hypothesis. Instead of "the vibe is off," try to form a specific prediction: "I predict that if the boss speaks, everyone will agree with her."
+*   **For the Sentinel:** You are already scanning for threats. Your challenge is to scan for rewards. What behavior seems to get a positive social response in this group (e.g., making a joke, praising someone else's work)? Form a hypothesis about what this group values.
 
 ---
 ### **Neuro-Toolkit: The Adaptive Brain**

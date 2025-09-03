@@ -25,7 +25,7 @@ In a normal state, the CEO is in charge. But when the amygdala detects a social 
 
 Crucially, this neurochemical flood severely impairs the function of your prefrontal cortex. The wise CEO is temporarily taken offline, and the panicked security guard is now running the show. This isn't a flaw; it's a feature of our primal hardware, a low-level failsafe designed for a world that no longer exists. The problem is that this ancient code is still running on modern systems, and it has a critical bug: it can't tell the difference between a tiger and a critical email.
 
-![Amygdala Hijack Diagram](public/images/amygdala-hijack.png)
+[AUTHOR'S NOTE: Insert professional diagram illustrating the Amygdala Hijack, showing the PFC being taken offline by the amygdala's threat response.]
 
 The key to debugging this is not to rewrite the code—we can't—but to learn how to call a specific function that manually overrides it.
 
@@ -61,7 +61,11 @@ He has just debugged a social catastrophe before it even started.
 ---
 ### **Field Work Challenge**
 
-This week, your only job is to turn on your system monitor. Just once, try to catch the *physical feeling* of frustration, anxiety, or defensiveness as it arises. Don't judge it. Just notice it. Where do you feel it in your body? In that moment, silently execute the Conductor's Breath once. That's it. You are building the most important muscle of self-awareness.
+This week, your only job is to turn on your system monitor. Your mission is to catch the *physical feeling* of frustration, anxiety, or defensiveness as it arises. Don't judge it. Just notice it. Where do you feel it in your body? In that moment, silently execute the Conductor's Breath once.
+
+*   **For the Architect:** You might notice this feeling as an intense urge to correct someone's flawed logic. That's your cue to breathe.
+*   **For the Connector:** You might feel this as a knot in your stomach when a conversation becomes tense. That's your signal.
+*   **For the Sentinel:** You are likely already very aware of this feeling. Your practice is to use the breath the *instant* you feel the familiar hum of anxiety, to see if you can catch it before it grows.
 
 ---
 ### **Neuro-Toolkit: The Regulated Brain**

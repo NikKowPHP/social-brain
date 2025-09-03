@@ -51,11 +51,11 @@ This method calms your own threat response and transforms a potential conflict i
 ---
 ### **Field Work Challenge**
 
-This week, your mission is to practice the **"Intake" Protocol**. The next time someone gives you any form of feedback (even a minor, off-hand comment), your job is to:
-1.  Take one **Conductor's Breath**.
-2.  Resist explaining.
-3.  Ask one clarifying question to find the data: *"When you say [their judgment], what's a specific instance you're thinking of?"*
-Just observe what this does to the conversation and to your own emotional state.
+This week, your mission is to practice the **"Intake" Protocol**. The next time someone gives you any form of feedback (even a minor, off-hand comment), your job is to: 1. Breathe. 2. Resist explaining. 3. Ask one clarifying question.
+
+*   **For the Architect:** You will feel a powerful urge to correct their "inaccurate" feedback. Your mission is to say nothing except the clarifying question: "Can you give me an example?" Your goal is data collection, not a debate.
+*   **For the Connector:** You will want to immediately agree with the feedback to restore harmony. Your mission is to resist that urge and ask the clarifying question. This shows you are taking the feedback seriously enough to want more detail.
+*   **For the Sentinel:** Your system will feel under attack. Your challenge is to use the Conductor's Breath and then deliver the clarifying question with a neutral, curious tone, not an accusatory one.
 
 ---
 ### **Neuro-Toolkit: The Learning Brain**

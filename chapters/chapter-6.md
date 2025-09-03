@@ -57,11 +57,11 @@ This is a simple but profound change to your verbal code. The words "you" and "I
 ---
 ### **Field Work Challenge**
 
-This week, your mission is to run one small trust protocol. Choose one:
-a) Execute one "Calibrated Vulnerability" test and observe the result.
-b) Try to find one uncommon commonality with a colleague.
-c) In one meeting or email, intentionally replace a "you" or "I" statement with a "we" statement.
-Just run the protocol and observe the output.
+This week, your mission is to run one small trust protocol. Choose one: a) Execute one "Calibrated Vulnerability" test, b) try to find one uncommon commonality, or c) intentionally use "we" language.
+
+*   **For the Architect:** Your challenge is (a). Share one small, professional vulnerability. It will feel risky, but it is a logical test to gather data on the safety of a relationship.
+*   **For the Connector:** Your challenge is to focus on step (b) in the vulnerability protocol: *pause and observe*. Resist the urge to fill the silence after you share. Your job is to watch what happens next.
+*   **For the Sentinel:** Your challenge is (c). Start one difficult email or conversation with the word "We." This small shift can change the entire neurochemical context of the interaction.
 
 ---
 ### **Neuro-Toolkit: The Chemistry of Trust**

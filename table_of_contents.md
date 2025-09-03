@@ -4,6 +4,8 @@
 
 **Introduction:** Your Brain's Operator's Manual
 
+**The Conductor's Method™ Cheat Sheet**
+
 ---
 
 ### **Part I: Your Operating System - Understanding Your Social Brain**
@@ -45,14 +47,17 @@
 **Chapter 11:** The Learning Brain
 *The Neuroscience of Feedback and Lasting Change*
 
+**Chapter 12:** Conducting the Meeting
+*The Conductor's Stage*
+
 ---
 
 ### **Part III: Integration and Lasting Change**
 
-**Chapter 12:** The Integrated Brain
+**Chapter 13:** The Integrated Brain
 *Conducting the Orchestra of Communication*
 
-**Chapter 13:** The Conductor's Legacy
+**Chapter 14:** The Conductor's Legacy
 *Building a Psychologically Safe Culture*
 
 **Conclusion:** Rewiring for a Connected Life
