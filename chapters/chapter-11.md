@@ -5,13 +5,9 @@ For a long time, I believed the toolkit in this book was a universal master key.
 
 In a planning meeting, I gave some direct, blunt feedback on a design mock-up. It was the kind of feedback my Architect brain sees as efficient and helpful. To my colleagues in California and Poland, it was normal. To the design team in Tokyo, it was a disaster. The lead designer went quiet for the rest of the meeting. Later, I learned from the project manager that my public critique had been perceived as a deeply disrespectful attack on the team's status, causing a significant loss of face.
 
-My code, which worked perfectly in one environment, crashed the entire system in another.
+My code, which worked perfectly in one environment, crashed the entire system in another. This forced a new line of investigation: **How can our tools be universal if human behavior is so variable?**
 
-This forced a new line of investigation: **How can our tools be universal if human behavior is so variable?** The answer lies in one of the most important distinctions I ever learned: the difference between the brain's hardware and its software.
-
-#### **The Science: Universal Hardware, Local Software**
-
-The core principles we've discussed are the brain's **universal hardware**. Everyone on the planet has an amygdala that scans for threats. Everyone's brain is wired to respond to the five domains of SCARF. This is the base-level operating system.
+The answer lies in one of the most important distinctions I ever learned: the difference between the brain's hardware and its software. The core principles we've discussed are the brain's **universal hardware**. Everyone on the planet has an amygdala that scans for threats. Everyone's brain is wired to respond to the five domains of SCARF. This is the base-level operating system.
 
 **Culture and group norms are the software** running on top of that hardware. This software defines *what* specifically triggers a threat or reward signal in each of the SCARF domains.
 
@@ -22,27 +18,7 @@ The brain's need to navigate these differences is deeply rooted in the neuroscie
 
 ***Investigator's Note:*** *This was the final piece of the puzzle for me. I had been trying to find a single communication protocol that would work on all systems. I now understand that my job isn't to have one perfect protocol, but to have a meta-protocol for rapidly learning the local rules of any new system I encounter.*
 
----
-### **System Alert: The Cognitive Cost of "Code-Switching"**
-
-The "Adaptation Protocol" is a powerful tool for navigating new environments. But it is important to acknowledge that this process consumes significant mental energy. The constant act of monitoring your own behavior and translating it to fit a different set of social norms is a form of high cognitive load.
-
-For individuals from non-dominant or minority groups, this isn't an occasional strategy; it's often a daily survival tactic known as **"code-switching."** This constant self-monitoring can be a major source of stress and burnout.
-
-Understanding this has two implications for a conductor. First, have empathy for those who may be carrying a heavier cognitive load than you in any given meeting. Second, the ultimate goal of a great leader is to create a team culture (a "local software") that is so inclusive and psychologically safe that it *reduces* the need for code-switching, allowing everyone to bring their authentic selves to the work. True adaptation isn't just about fitting in; it's about helping to build better systems.
----
-
-#### **The Practice: Run the "Adaptation Protocol"**
-
-You cannot memorize the rules for every culture and group. The only sustainable strategy is to have a simple, real-time protocol for observing and adapting to any new social environment.
-
-**Your Profile and Adaptation**
-*   For the **Architect**, your risk is assuming your logical framework is universal. Your strength is your analytical ability, which you can now apply to observing and deconstructing social systems.
-*   For the **Connector**, your strength is your natural ability to sense social harmony. Your risk is that you might mirror the new group's norms so well that you lose your own authentic voice.
-*   For the **Sentinel**, your strength is your high sensitivity to social threats, which can make you a quick learner of a new culture's "danger zones." Your risk is that your threat response might be overactive in an unfamiliar environment.
-
-**The Adaptation Protocol:**
-This is a three-step loop: Observe, Calibrate, Test.
+This means you cannot memorize the rules for every culture and group. The only sustainable strategy is to have a simple, real-time protocol for observing and adapting to any new social environment. This is the **Adaptation Protocol**, a three-step loop: Observe, Calibrate, Test.
 
 **1. Observe (Data Collection Mode).**
 When you first enter a new group, your primary job is to listen and collect data. Resist the urge to immediately contribute. Spend the first 10-15 minutes in pure observation mode. Notice the patterns: How is status demonstrated? How is feedback given? How are decisions made?
@@ -55,8 +31,16 @@ Based on your observations, form a simple hypothesis about the local "software."
 Do not try to change your entire personality. Run a small, low-risk experiment to test your hypothesis.
 *   If you hypothesize that feedback is private, send a private message to one person after the meeting instead of saying it publicly. Observe the result.
 
-This loop—Observe, Calibrate, Test—transforms you from a passive participant into an active, intelligent investigator.
+This loop—Observe, Calibrate, Test—transforms you from a passive participant into an active, intelligent investigator. Your brain profile will influence how you run this protocol. An **Architect**'s risk is assuming logic is universal; a **Connector** might over-mirror the group and lose their voice; a **Sentinel** may be over-sensitive to threats in a new environment. Awareness of your tendency is the first step to adapting skillfully.
 
+---
+### **System Alert: The Cognitive Cost of "Code-Switching"**
+
+The "Adaptation Protocol" is a powerful tool for navigating new environments. But it is important to acknowledge that this process consumes significant mental energy. The constant act of monitoring your own behavior and translating it to fit a different set of social norms is a form of high cognitive load.
+
+For individuals from non-dominant or minority groups, this isn't an occasional strategy; it's often a daily survival tactic known as **"code-switching."** This constant self-monitoring can be a major source of stress and burnout.
+
+Understanding this has two implications for a conductor. First, have empathy for those who may be carrying a heavier cognitive load than you in any given meeting. Second, the ultimate goal of a great leader is to create a team culture (a "local software") that is so inclusive and psychologically safe that it *reduces* the need for code-switching, allowing everyone to bring their authentic selves to the work. True adaptation isn't just about fitting in; it's about helping to build better systems.
 ---
 ### **Field Work Challenge**
 
