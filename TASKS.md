@@ -4,4 +4,5 @@
 - [x] Add new chapter "Breaking the Silence" and renumber subsequent chapters.
 - [x] Update the book's introduction to the "Three Operating Systems" version.
 - [x] Implement major editorial feedback to strengthen narrative, deepen author's story, and inject "Aha!" moments.
+- [x] Perform final polish: add visual cues, pocket scripts, pacing enhancements, "hard mode" section, and gamified practice challenge.
       

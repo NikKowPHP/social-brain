@@ -92,9 +92,5 @@ Run a "Trust Protocol."
 
 ---
 
-We have now established a secure, trusted connection. The other person's defenses are lowered, and their brain is neurochemically primed for collaboration.
-
-Now, and only now, are we ready to transmit our own ideas. But even with a perfect connection, we can cause the system to crash if we send the data in the wrong way.
-
-Our next step is to investigate the mortal enemy of clear communication: cognitive load.
+You now have the tools to build a deep and resilient sense of trust. But what happens when you're too afraid to even start the conversation? Our next step is a practical interlude: a simple protocol for making the first move.
       

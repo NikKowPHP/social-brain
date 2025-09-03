@@ -18,14 +18,14 @@ The answer came from the work of David Rock, a leader in the field of neuroleade
 SCARF is an acronym for the five key domains of social experience that your brain's security guard (the amygdala) is constantly monitoring. When these domains are threatened, the brain triggers a primary threat response. When they are rewarded, the brain enters a state of trust and collaboration.
 
 1.  **Status:** Our sense of importance and ranking relative to others.
-2.  **Certainty:** Our ability to predict the future and understand what's on.
+2.  **Certainty:** Our ability to predict the future and understand what's going on.
 3.  **Autonomy:** Our sense of control over events; our ability to make choices.
 4.  **Relatedness:** Our feeling of safety with others; the distinction between "friend" and "foe."
 5.  **Fairness:** Our perception of a fair and equitable exchange.
 
 The SCARF model is a Rosetta Stone for almost every recurring argument in a family. The fight that seems to be about 'who takes out the trash' is almost never about the trash. It's a battle of dueling SCARF threats. One person feels a threat to **Fairness** ('I'm doing more than my share'), while the other feels a threat to their **Status** ('You're treating me like a child, not an equal partner') or their **Autonomy** ('Stop telling me what to do'). By diagnosing the real SCARF threat, you can stop arguing about the surface-level issue and address the real 'bug' in the system.
 
-[AUTHOR'S NOTE: A clean, professional infographic should be here, with icons for each of the five SCARF domains: Status, Certainty, Autonomy, Relatedness, and Fairness.]
+[AUTHOR'S NOTE: A key visual for the book. This should be a "Social Brain Dashboard" with five gauges, one for each SCARF domain. In examples, we can show the needles on these gauges moving into the "red" (threat) or "green" (reward) zone.]
 
 ***Investigator's Note:*** *For years, I avoided conflict like the plague. For me, a difficult conversation felt like a guaranteed, massive SCARF threat. The model in this chapter wasn't just an academic curiosity; it was the blueprint I needed to de-mine the interaction and finally have conversations I’d been dreading for months.*
 
@@ -89,6 +89,26 @@ Maria takes a Conductor's Breath and starts differently.
 *   **(REWARD: Autonomy)**
 
 She has successfully created the neurochemical conditions for a productive conversation to occur.
+
+---
+> ### **Bestseller Breakout: Three Phrases That Can Save a Conversation**
+>
+> In a high-stress moment, you won't remember the theory. Memorize these three pocket scripts. They are lifelines that execute the Hijack Emergency Protocol for you.
+>
+> 1.  **"Help me understand what's most important here for you."** (This is a perfect Empathy Switch that also rewards Status).
+> 2.  **"It sounds like you feel [X]. Is that right?"** (This is a perfect Playback that validates the feeling without agreeing to the content).
+> 3.  **"This is clearly important. Let's pause for a moment and make sure we get this right."** (This is a perfect way to Regulate your own system and Restore Autonomy to both parties).
+---
+
+#### **The Practice: "Hard Mode" Communication**
+A reader will inevitably ask: "But what if the other person is a manipulative actor who won't reciprocate?" It's a critical question. The toolkit is not about "fixing" other people. It's about conducting yourself skillfully, even when the other orchestra refuses to play. When facing a bad-faith actor, your goal changes from connection to self-preservation and clarity.
+
+1.  **Self-Regulation is Your Shield:** Your primary tool is the **Conductor's Breath**. A manipulative person's main weapon is to trigger your amygdala hijack, making you emotional and easy to control. Staying regulated is your defense.
+2.  **Use Clarity for Boundaries, Not Persuasion:** The **Clarity Protocol** becomes your tool for setting firm boundaries. Do not get pulled into a long, emotional debate. State your position or your boundary clearly, concisely, and with as little emotional charge as possible.
+    *   *"I will not be able to continue this conversation if you are raising your voice."*
+    *   *"My position on this is X, and that is not going to change."*
+3.  **Use the Empathy Loop for Data, Not Connection:** The **Empathy Loop** is still useful, but for a different purpose: gathering data on their strategy. By understanding their position (without validating it), you can navigate the interaction more effectively.
+    *   *"What I'm hearing is that you see this as the only possible outcome. Is that correct?"* This isn't about feeling with them; it's about confirming their position so you can respond logically.
 
 ---
 ### **Field Work Challenge**

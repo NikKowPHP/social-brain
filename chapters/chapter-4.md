@@ -13,6 +13,8 @@ She is offering a perfect, logical strategy. But she notices something strange. 
 
 The connection has been broken. Maria, despite her good intentions, offered a brilliant solution but completely missed what Leo truly needed.
 
+This "premature solution" bug is one of the most common viruses in parent-child communication. Your teenager comes home, throws their bag on the floor, and says, 'I completely failed my history test.' The Architect brain in the parent immediately boots up: 'Okay, we need a new study schedule. I'm hiring a tutor. Did you not do the reading?' We offer a perfect, logical strategy, but our child just shuts down. They didn't need a project manager; they needed a connection. The Empathy Switch—'Wow, that sounds incredibly frustrating. What's the hardest part for you right now?'—is the only way to debug that disconnection.
+
 ---
 ### **System Alert: The Threat of Unsolicited Advice**
 
@@ -52,6 +54,8 @@ First, connect with the feeling. Only then, explore the problem.
 
 #### **The Practice: The Empathy Loop**
 
+[AUTHOR'S NOTE: This is a perfect place for a simple circular diagram showing the two steps of the Empathy Loop: 1. The Switch (Question Mark Icon) -> 2. The Playback (Reflecting Arrows Icon), which then leads back to the start, creating a continuous loop.]
+
 The fix for this bug is a simple, protocol-driven loop to intentionally stop yourself from problem-solving and instead create a powerful circuit of understanding.
 
 **Step 1: Flip the Empathy Switch.**
@@ -76,7 +80,7 @@ This protocol closes the loop. It debugs the disconnection and builds a foundati
 ---
 ### **Field Work Challenge**
 
-In one conversation this week, your challenge is to consciously **resist jumping to a solution**. When someone shares a problem, execute the full Empathy Loop protocol: 1) Ask one "What" or "How" question. 2) Listen for the "music." 3) Use The Playback to reflect back the emotion you heard.
+This week, your challenge is to consciously **resist jumping to a solution**. When someone shares a problem, execute the full Empathy Loop protocol. Try this in one non-work conversation. Use it with your partner, a friend, or your child. Resist solving, and just connect.
 
 *   **For the Architect:** This will feel unnatural. Your brain wants to fix things. Your specific mission is to use the loop and then *remain silent* for a few seconds to see what happens next.
 *   **For the Connector:** You may already do this naturally. Your challenge is to use the "Playback" with more precision. Instead of a generic "That sounds hard," try to name the specific emotion: "It sounds like you felt *betrayed*."

@@ -62,7 +62,7 @@ When you are telling a compelling story, the listener's brain is not just passiv
 
 You do not need to be a great novelist to leverage this system. You just need a simple, repeatable protocol for wrapping your data in a narrative structure. The most powerful and simple structure is the "Tension & Resolution" arc. It has three parts: And, But, Therefore (ABT).
 
-[AUTHOR'S NOTE: Insert a professional diagram here illustrating the And, But, Therefore (ABT) story arc, showing the rise in tension and the subsequent resolution.]
+[AUTHOR'S NOTE: This is a perfect spot for a simple line graph diagram. The Y-axis is "Tension" and the X-axis is "Time." The line starts low for "And," rises sharply for "But," and falls for "Therefore," visually representing the Tension & Resolution arc.]
 
 ***Investigator's Note: How to Choose Your Tool***
 At this point, you might be wondering when to use the "Clarity Protocol" from the last chapter and when to use a story. This was a critical question in my own investigation. Here is the simple rule I discovered:

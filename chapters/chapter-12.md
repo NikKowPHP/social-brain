@@ -55,6 +55,15 @@ When someone gives *you* feedback, even if it's clumsy, your job is to find the 
 This method calms your own threat response and transforms a potential conflict into a data collection session.
 
 ---
+> ### **Bestseller Breakout: The Only Sentence You Need When Receiving Feedback**
+>
+> When you feel the defensive heat of criticism, your brain will flood with a dozen explanations and justifications. Ignore them all. There is only one sentence you need to deploy. It is your shield and your learning tool all in one.
+>
+> **"Thank you for telling me that. To help me learn, can you give me a specific example?"**
+>
+> This phrase is a masterpiece of social neuroscience. "Thank you" rewards their Status. "To help me learn" frames you as a collaborator, not a defendant. "Can you give me an example?" calmly pushes past emotional drama to find the actionable data. Master this one sentence, and you will become unflappable in the face of criticism.
+---
+
 ### **Field Work Challenge**
 
 This week, your mission is to practice the **"Intake" Protocol**. The next time someone gives you any form of feedback (even a minor, off-hand comment), your job is to: 1. Breathe. 2. Resist explaining. 3. Ask one clarifying question.
