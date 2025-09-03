@@ -78,6 +78,7 @@ This week, find one email you are about to send that is more than three paragrap
 *   **For the Architect:** Your mission is to cut the explanatory context by 50%. Trust that the headline and bullet points are enough.
 *   **For the Connector:** Your challenge is to put the request (the headline) in the very first sentence. Resist the urge to warm up the reader first.
 *   **For the Sentinel:** Your task is to use structure to manage your own anxiety. Before you speak, write down your one goal, your headline, and your three supporting points. Stick to the script.
+*   **For the Adaptive Profile:** You can tailor your communication style well. Your mission is to act as a translator for your team. Find one confusing email or statement from a colleague and, using the Clarity Protocol, rephrase it for someone else. Notice how translating for others sharpens your own thinking.
 
 ---
 ### **Neuro-Toolkit: The Respectful Brain**
@@ -105,4 +106,3 @@ You now have a protocol for transmitting information with crystal clarity, in a 
 But what if a clear, logical message isn't enough? What if your goal isn't just to inform, but to inspire, persuade, and make an idea truly stick?
 
 To do that, we need to move beyond the brain's tiny workbench and engage its most ancient and powerful processing system: the engine of storytelling.
-      

@@ -24,6 +24,8 @@ Treat feedback like fire: it can provide warmth (growth) or burn down a structur
 *   **Never give it by surprise.** (Massive Certainty threat).
 ---
 
+***Investigator's Note:*** *I once received feedback from a manager that I was "intimidating" in meetings. My Architect brain immediately rejected the data as illogical. I wasn't trying to intimidate; I was trying to be efficient. I spent a week mentally building a case against his feedback. It was only when I forced myself to run the "Intake Protocol" on my own memory of the event—asking "what was the specific data point?"—that I had a breakthrough. I realized I would physically lean forward and narrow my eyes when I disagreed with someone's logic. I was broadcasting a non-verbal threat signal without even knowing it. The feedback wasn't an attack; it was a critical piece of data about my own system's unintended outputs.*
+
 #### **The Practice: Two Protocols for Learning**
 
 To solve both problems, we need a protocol for giving feedback safely and a protocol for receiving it gracefully.
@@ -71,6 +73,7 @@ This week, your mission is to practice the **"Intake" Protocol**. The next time 
 *   **For the Architect:** You will feel a powerful urge to correct their "inaccurate" feedback. Your mission is to say nothing except the clarifying question: "Can you give me an example?" Your goal is data collection, not a debate.
 *   **For the Connector:** You will want to immediately agree with the feedback to restore harmony. Your mission is to resist that urge and ask the clarifying question. This shows you are taking the feedback seriously enough to want more detail.
 *   **For the Sentinel:** Your system will feel under attack. Your challenge is to use the Conductor's Breath and then deliver the clarifying question with a neutral, curious tone, not an accusatory one.
+*   **For the Adaptive Profile:** You are likely skilled at receiving feedback in a way that preserves harmony. Your challenge is to go one step further and help someone else receive feedback better. When you see a colleague getting defensive about feedback in a meeting, your mission is to gently intervene by asking a clarifying question on their behalf, modeling the 'Intake' Protocol for the group.
 
 ---
 ### **Neuro-Toolkit: The Learning Brain**
@@ -88,4 +91,3 @@ Feedback is a primary social threat that the brain is wired to reject. Lasting c
 **The Immediate Practice:**
 1.  **To Give Feedback:** Use the "Debug" Protocol (Permission, Data, Co-Create).
 2.  **To Make Change Stick:** Use the "Upgrade" Protocol (Define Micro-Behavior, Create Trigger, Self-Acknowledge).
-      

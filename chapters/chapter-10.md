@@ -118,6 +118,7 @@ Think of one potentially difficult conversation you need to have in the next wee
 *   **For the Architect:** Your tendency is to focus on the logical flaw in the other person's position. Instead, focus your diagnosis only on their potential **Status** threat. How can you open the conversation by making them feel more, not less, important?
 *   **For the Connector:** You worry about damaging the relationship. Your diagnosis should focus on **Certainty**. How can you be crystal clear about the purpose of the meeting while still being kind, so you don't soften the message into ambiguity?
 *   **For the Sentinel:** You are already an expert at seeing the threats. Your challenge is to flip the script. For each SCARF domain, your task is not to list the threat, but to brainstorm one way you could create a *reward*.
+*   **For the Adaptive Profile:** Your challenge is to diagnose the SCARF landscape for the entire group, not just one individual. In your next team meeting, listen for which SCARF domains are most frequently being threatened or rewarded for the team as a whole. Your mission is observation and system-level diagnosis.
 
 ---
 ### **Neuro-Toolkit: Taming the Threat**
@@ -145,4 +146,3 @@ You now have a diagnostic tool to prepare for and de-mine the most challenging c
 But all of these tools have been tested in the context of our own culture. What happens when our communication system has to interface with a completely different one?
 
 Our next step is to investigate how the brain adapts to the complex and nuanced worlds of group dynamics and cross-cultural communication.
-      

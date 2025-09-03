@@ -70,6 +70,7 @@ This week, your mission is to run one small trust protocol. Choose one: a) Execu
 *   **For the Architect:** Your challenge is (a). Share one small, professional vulnerability. It will feel risky, but it is a logical test to gather data on the safety of a relationship.
 *   **For the Connector:** Your challenge is to focus on step (b) in the vulnerability protocol: *pause and observe*. Resist the urge to fill the silence after you share. Your job is to watch what happens next.
 *   **For the Sentinel:** Your challenge is (c). Start one difficult email or conversation with the word "We." This small shift can change the entire neurochemical context of the interaction.
+*   **For the Adaptive Profile:** You're skilled at matching the energy of others. Your challenge is to *initiate* rather than match. Be the first person in a conversation to offer a small, calibrated vulnerability or to intentionally use 'we' language, and observe how it shifts the dynamic of the interaction.
 
 ---
 ### **Neuro-Toolkit: The Chemistry of Trust**
@@ -93,4 +94,3 @@ Run a "Trust Protocol."
 ---
 
 You now have the tools to build a deep and resilient sense of trust. But what happens when you're too afraid to even start the conversation? Our next step is a practical interlude: a simple protocol for making the first move.
-      

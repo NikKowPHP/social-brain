@@ -65,6 +65,7 @@ In one important conversation this week (in-person, video, or chat), your only m
 *   **For the Architect:** Your mission is to use the "Intelligent Pause." Bite your tongue for one full second longer than is comfortable before you respond. Just notice what it does to the conversation.
 *   **For the Connector:** Your challenge is to maintain the "tripod of attention" even when the conversation gets uncomfortable. Resist the urge to look away or physically disengage to smooth things over.
 *   **For the Sentinel:** Your focus is on your own non-verbals. Try to relax your jaw and shoulders while you listen. Your goal is to broadcast "calm presence," not "high alert."
+*   **For the Adaptive Profile:** Your challenge is to observe your own adaptability. In a group conversation, notice if you give more focused attention to certain people or styles. Your mission is to consciously redirect and offer a strong 'Signal of Presence' to the person in the room you feel the *least* natural connection with.
 
 ---
 ### **Neuro-Toolkit: The Attentive Brain**
@@ -88,4 +89,3 @@ Broadcast a "Signal of Presence."
 ---
 
 By creating a regulated state within yourself and broadcasting powerful signals of presence to others, you create the neurochemical foundation for trust. You have calmed the system and established a secure connection. But how do we build on that foundation? How do we consciously cultivate the rapport that makes difficult conversations possible? Our next step is to investigate the brain's bonding chemical and the subtle signals that create a state of deep and lasting trust.
-      

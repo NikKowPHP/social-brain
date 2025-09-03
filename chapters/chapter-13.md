@@ -3,7 +3,9 @@
 
 For years, I believed that if I mastered one-on-one communication, the rest would take care of itself. Then I had to lead a high-stakes project meeting, and I discovered a terrifying truth: a group is not just a collection of individuals. It is a complex, emergent system with its own neurochemistry. One person's amygdala hijack can infect the entire room in seconds, turning a productive planning session into a chaotic mess.
 
-The most common "performance space" for any leader, programmer, or professional is the team meeting. It is the conductor's primary stage. All the tools we have assembled—self-regulation, empathy, SCARF, storytelling—are essential, but they must be integrated and deployed in a new, more complex environment.
+This doesn't just happen in a glass-walled conference room. It happens in a parent-teacher association meeting, a non-profit's volunteer planning session, or a family discussion about a difficult topic.
+
+The most common "performance space" for any leader is the group meeting—whether it's a corporate board, a non-profit committee, or a family council. It is the conductor's primary stage. All the tools we have assembled—self-regulation, empathy, SCARF, storytelling—are essential, but they must be integrated and deployed in a new, more complex environment.
 
 This forced a new investigation: **How do you conduct the collective brain of a group?** The answer is that you must treat the meeting itself as a system to be designed, not an event to be endured.
 
@@ -51,6 +53,7 @@ This week, you will conduct one meeting, even if you are not the official leader
 *   **For the Architect:** Your task is to send out a "Clarity Protocol" agenda 24 hours in advance, with a single, clear goal at the top.
 *   **For the Connector:** Your mission is to intentionally use the Empathy Loop when you hear a point of disagreement in a meeting. Your only job is to make the dissenting person feel heard.
 *   **For the Sentinel:** Your challenge is to be the one who sends the follow-up email with clear decisions and action items. This allows you to channel your need for control and risk-mitigation into an act that provides Certainty for the whole group.
+*   **For the Adaptive Profile:** Your challenge is to act as the meeting's conductor of energy. If the energy is low, your mission is to inject an 'Autonomy & Status' reward by asking a brainstorming question. If the energy is tense, your mission is to use the Empathy Loop to calm the system. Your job is to consciously choose and apply the tool the meeting needs in real-time.
 
 ---
 ### **Neuro-Toolkit: Conducting the Meeting**
@@ -74,4 +77,3 @@ Use the three-part Meeting Blueprint.
 ---
 
 We have now seen how to use our tools in the most common performance setting: the team meeting. We're ready for the final stage of our journey. How do we move from consciously using these tools to unconsciously embodying them? It's time to integrate everything we've learned and build a personal plan for mastery.
-      

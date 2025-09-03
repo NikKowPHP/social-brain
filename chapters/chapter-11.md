@@ -49,6 +49,7 @@ This week, in one meeting with a group you don't know perfectly, your mission is
 *   **For the Architect:** Your mission is to focus on observing non-verbal data. Ignore the content of what's being said and watch the flow of eye contact, posture, and who interrupts whom. Form a hypothesis based only on that data.
 *   **For the Connector:** You naturally absorb the feeling of a room. Your task is to translate that feeling into a concrete hypothesis. Instead of "the vibe is off," try to form a specific prediction: "I predict that if the boss speaks, everyone will agree with her."
 *   **For the Sentinel:** You are already scanning for threats. Your challenge is to scan for rewards. What behavior seems to get a positive social response in this group (e.g., making a joke, praising someone else's work)? Form a hypothesis about what this group values.
+*   **For the Adaptive Profile:** This chapter is your superpower. Your challenge is to test your adaptation skills consciously. Intentionally adopt the communication style of the group for the first half of a meeting, and then intentionally introduce a slightly different (but still respectful) style in the second half. For example, if the group is very direct, try using an Empathy Loop. Observe what happens.
 
 ---
 ### **Neuro-Toolkit: The Adaptive Brain**
@@ -76,4 +77,3 @@ You now have a protocol for adapting your entire toolkit to new and complex soci
 But how do we ensure these new skills stick? How do we use our knowledge to not only improve our own communication, but to help others improve as well?
 
 Our final step in the toolkit is to investigate the neuroscience of learning and feedback—the system that allows us to debug and upgrade our own social software for a lifetime.
-      
