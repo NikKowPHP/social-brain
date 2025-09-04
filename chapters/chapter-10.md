@@ -30,6 +30,9 @@ The SCARF model is a Rosetta Stone for almost every recurring argument in a fami
 ***Investigator's Note:*** *For years, I avoided conflict like the plague. For me, a difficult conversation felt like a guaranteed, massive SCARF threat. The model in this chapter wasn't just an academic curiosity; it was the blueprint I needed to de-mine the interaction and finally have conversations I’d been dreading for months.*
 
 ---
+*"Which of these five letters is your most sensitive trigger? When you get hijacked, is it typically a threat to your Status? Your Autonomy? Knowing your primary SCARF trigger is like discovering the root password to your own emotional operating system."*
+---
+
 > ### **Bestseller Breakout: De-escalating with the SCARF Model**
 >
 > The principles of the SCARF model are used at the highest levels of international diplomacy. Consider a hostage negotiator facing a tense standoff. Their approach is a masterclass in SCARF management.

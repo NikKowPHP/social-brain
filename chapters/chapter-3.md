@@ -11,7 +11,7 @@ The review starts well, but then Maria says, "Overall, your work is solid. Howev
 
 The social pain alarm goes off.
 
-Mark’s heart rate quickens. That familiar hot flush creeps up his neck. His Sentinel Brain screams, *"Threat detected! Status under attack!"* He can feel a defensive, angry response bubbling up in his throat. He wants to interrupt, to list all the times his ideas were the right ones, to defend his reputation.
+Mark’s heart rate quickens. That familiar hot flush creeps up his neck as if hot water is rising behind his ears. His hearing seems to narrow, the ambient sounds of the office fading into a low hum. His vision develops a subtle tunnel, with Maria's face becoming the only thing in sharp focus. His Sentinel Brain isn't just screaming; it's a physical vibration in his chest: *"Threat detected!"* He can feel a defensive, angry response bubbling up in his throat. He wants to interrupt, to list all the times his ideas were the right ones, to defend his reputation.
 
 He is at a critical fork in the road. One path leads to a defensive argument that will prove Maria’s point and damage their relationship. The other path leads to a productive conversation that could change the course of his career.
 
