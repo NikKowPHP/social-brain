@@ -106,3 +106,4 @@ You now have a protocol for transmitting information with crystal clarity, in a 
 But what if a clear, logical message isn't enough? What if your goal isn't just to inform, but to inspire, persuade, and make an idea truly stick?
 
 To do that, we need to move beyond the brain's tiny workbench and engage its most ancient and powerful processing system: the engine of storytelling.
+      

@@ -124,3 +124,4 @@ You now have the tools to regulate your own internal system and to build a genui
 But how do you make that feeling last? How do you create a secure connection that allows for the free flow of honest data?
 
 The next step is to move from temporary connection to lasting rapport. We are going to explore the surprising neuroscience of deep listening, and how the simple act of paying attention can change the chemistry of another person's brain.
+      

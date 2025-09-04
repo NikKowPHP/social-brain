@@ -91,3 +91,4 @@ Broadcast a "Signal of Presence."
 ---
 
 By creating a regulated state within yourself and broadcasting powerful signals of presence to others, you create the neurochemical foundation for trust. You have calmed the system and established a secure connection. But how do we build on that foundation? How do we consciously cultivate the rapport that makes difficult conversations possible? Our next step is to investigate the brain's bonding chemical and the subtle signals that create a state of deep and lasting trust.
+      

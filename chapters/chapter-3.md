@@ -99,3 +99,4 @@ You now have the tool to manually override your own internal alarm state. You've
 Once you can create this space of internal calm, an incredible new capacity opens up: the ability to stop focusing on your own system alerts and turn your full attention outward. You gain the ability to truly, deeply listen to the music being played by someone else.
 
 But what does it really mean to understand another person's mind? How do we build that interface? As I found in my research, the answer lies in a remarkable set of "mirror" cells in your brain.
+      

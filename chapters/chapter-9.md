@@ -113,6 +113,7 @@ Use the "Tension & Resolution" Arc (And, But, Therefore).
 
 You are now equipped with a protocol to make your ideas not just clear, but memorable, influential, and persuasive. You can connect with another person's mind and leave a lasting impression.
 
-But what happens when the idea you need to communicate is inherently difficult? What if it's not a proposal, but a piece of negative feedback? What if the conversation is guaranteed to be involve conflict?
+But what if the idea you need to communicate is inherently difficult? What if it's not a proposal, but a piece of negative feedback? What if the conversation is guaranteed to be involve conflict?
 
 To handle that, we need to combine all our tools. Our next step is to investigate the most challenging scenario of all: navigating a difficult conversation without causing the system to crash.
+      

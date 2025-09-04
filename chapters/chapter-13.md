@@ -77,3 +77,4 @@ Use the three-part Meeting Blueprint.
 ---
 
 We have now seen how to use our tools in the most common performance setting: the team meeting. We're ready for the final stage of our journey. How do we move from consciously using these tools to unconsciously embodying them? It's time to integrate everything we've learned and build a personal plan for mastery.
+      

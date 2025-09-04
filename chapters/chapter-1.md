@@ -70,7 +70,7 @@ So, what did you discover? Take a moment to look at your responses. Most of us h
 
 **What if your results are a balanced mix?**
 If you found yourself with a near-even split, you don't have one dominant style—you have what's known as an **Adaptive Profile**. Your superpower is situational fluency; you can access the logic of the Architect, the empathy of the Connector, and the instincts of the Sentinel as needed. You are the versatile conductor who is comfortable leading every section of the orchestra.
-*   **Your Growth Edge:** Your adaptability can become a liability. You might be a social "chameleon" to a fault, mirroring the styles of others so effectively that you lose your own authentic voice, or you may delay making a decision, waiting to see how others react first. Your focus for this book will be on choosing your response with *intention* rather than by default.
+*   **Your Growth Edge:** Your adaptability is your greatest strength, but it can hide a sophisticated challenge. Your risk is not just being a social "chameleon," but a potential lack of a strong, authentic core. You might adapt to a dysfunctional system rather than conducting it toward a healthier state, or enable bad behavior by over-empathizing with it. Your focus for this book will be on choosing your response with *intention* rather than by default, becoming a master conductor, not just a mirror.
 
 ---
 *"Pause for a moment and consider your result. Does it resonate? Think of a recent difficult conversation. Did your dominant profile show up? The first step to conducting the orchestra is simply to hear the music it's already playing."*
@@ -92,3 +92,4 @@ You now have your starting point. You know your orchestra.
 You've also likely noticed that many of these questions touch upon feelings of threat, defensiveness, and social danger. This is no accident. The single most important element governing the quality of our communication is how our brain processes social pain. Understanding that system is our first landmark.
 
 Turn the page. Let's explore why a harsh word can feel like a physical wound.
+      

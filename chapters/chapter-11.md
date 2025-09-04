@@ -77,3 +77,4 @@ You now have a protocol for adapting your entire toolkit to new and complex soci
 But how do we ensure these new skills stick? How do we use our knowledge to not only improve our own communication, but to help others improve as well?
 
 Our final step in the toolkit is to investigate the neuroscience of learning and feedback—the system that allows us to debug and upgrade our own social software for a lifetime.
+      

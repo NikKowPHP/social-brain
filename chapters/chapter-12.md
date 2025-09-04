@@ -91,3 +91,4 @@ Feedback is a primary social threat that the brain is wired to reject. Lasting c
 **The Immediate Practice:**
 1.  **To Give Feedback:** Use the "Debug" Protocol (Permission, Data, Co-Create).
 2.  **To Make Change Stick:** Use the "Upgrade" Protocol (Define Micro-Behavior, Create Trigger, Self-Acknowledge).
+      

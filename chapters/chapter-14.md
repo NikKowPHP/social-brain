@@ -75,3 +75,4 @@ Your mission this week is to conduct a complete performance.
 **A Note for the Adaptive Profile:** Your challenge is one of *intentionality*. You can access all the tools, so your practice is to consciously choose a tool before an interaction rather than defaulting to the easiest one in the moment. Before your next important conversation, ask yourself: "Does this moment call for the Architect, the Connector, or the Sentinel?"
 
 Remember, this is a practice. The goal is not perfection on day one. The goal is to get 1% better every day. Some days you will fail, your old programming will take over, and you will react instead of conducting. That's okay. Simply notice the failure without judgment, take a Conductor's Breath, and get ready for the next performance. Progress, not perfection, is the path to mastery.
+      
