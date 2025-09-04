@@ -27,7 +27,8 @@ Our journey is organized into three parts:
 *   **Part 2: The Toolkit.** Each chapter will hand you a new tool from **The Conductor Method™**, forged in the fires of neuroscience.
 *   **Part 3: Integration and Lasting Change.** We will bring it all together, moving from practicing scales to conducting a symphony.
 
+This is a journey of practice, not a quest for perfection. You will not become a flawless conductor overnight. The goal is to get 1% better with every interaction, to learn from your mistakes, and to gradually re-wire your responses. This book is not a rulebook; it is a rehearsal space.
+
 The journey to becoming the conductor starts with a single step: understanding your orchestra.
 
 Turn the page. Your diagnostic awaits.
-      
