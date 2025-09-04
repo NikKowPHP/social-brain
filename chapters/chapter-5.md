@@ -38,6 +38,8 @@ These primal signals of safety and threat don't disappear when we're behind a sc
     *   **Use 'Digital Prosody':** Text has no tone of voice, so you must add it back in. A well-chosen emoji or an exclamation point isn't unprofessional; it's a critical tool for replacing a smile or a reassuring tone, reducing the threat of misinterpretation.
     *   **Manage Expectations (Certainty):** The biggest threat in chat is a long, unexplained silence. It creates a vacuum of uncertainty. Replace this threat with the reward of certainty by explicitly stating your timeline: "In a meeting, will get back to you after" or "Good question, let me think on that for 10 mins."
 ---
+*"Take a moment to reflect on your own digital presence. On your last video call, how many other tabs did you have open? When was the last time a 'k' or 'ok' text message left you feeling uncertain? Recognizing the threat potential in these small digital habits is the first step toward becoming a better digital conductor."*
+---
 
 #### **The Practice: Broadcast a "Signal of Presence"**
 

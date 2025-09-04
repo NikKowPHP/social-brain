@@ -18,7 +18,7 @@ Here's what it does:
 *   **It Increases Generosity and Empathy:** In classic experiments, participants given a nasal spray of oxytocin were significantly more willing to entrust their money to a stranger. It biologically primes us for collaboration.
 *   **It Promotes "In-Group" Bonding:** Oxytocin helps us create strong bonds with people we perceive as part of our tribe. It's the neurochemical glue that holds teams and families together.
 
-***Investigator's Note:*** *My first attempt at 'calibrated vulnerability' was a disaster. I overshared with a new colleague, trying to force a connection too quickly, and it made them visibly uncomfortable. It was a painful but critical lesson in the importance of the *'calibrate'* part of that phrase. The goal is not to dump your innermost secrets, but to send a small, safe signal and wait for a response.*
+***Investigator's Note:*** *My disastrous first attempt at 'calibrated vulnerability' is burned into my memory. I was at a networking dinner with a potential client I wanted to impress. I had just learned about this research and decided to "accelerate trust." So, I blurted out a story about a major coding mistake I'd made on a past project, thinking it would make me seem human and relatable. Instead, a deeply awkward silence fell over the table. My 'ping' wasn't a small, safe signal; it was a cannonball. I hadn't established any shared context or warmth. I just dumped an inappropriate amount of information into a formal environment. It was a painful but critical lesson: vulnerability is not about oversharing. It's about calibrating the signal to the context, sending a small, safe test, and patiently waiting for the echo.*
 
 ---
 ### **System Alert: The Double-Edged Sword of Oxytocin**

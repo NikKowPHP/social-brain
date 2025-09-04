@@ -103,17 +103,18 @@ She has successfully created the neurochemical conditions for a productive conve
 > 3.  **"This is clearly important. Let's pause for a moment and make sure we get this right."** (This is a perfect way to Regulate your own system and Restore Autonomy to both parties).
 ---
 
-#### **The Practice: "Hard Mode" Communication**
-A reader will inevitably ask: "But what if the other person is a manipulative actor who won't reciprocate?" It's a critical question. The toolkit is not about "fixing" other people. It's about conducting yourself skillfully, even when the other orchestra refuses to play. When facing a bad-faith actor, your goal changes from connection to self-preservation and clarity.
-
-1.  **Self-Regulation is Your Shield:** Your primary tool is the **Conductor's Breath**. A manipulative person's main weapon is to trigger your amygdala hijack, making you emotional and easy to control. Staying regulated is your defense.
-2.  **Use Clarity for Boundaries, Not Persuasion:** The **Clarity Protocol** becomes your tool for setting firm boundaries. Do not get pulled into a long, emotional debate. State your position or your boundary clearly, concisely, and with as little emotional charge as possible.
-    *   *"I will not be able to continue this conversation if you are raising your voice."*
-    *   *"My position on this is X, and that is not going to change."*
-3.  **Use the Empathy Loop for Data, Not Connection:** The **Empathy Loop** is still useful, but for a different purpose: gathering data on their strategy. By understanding their position (without validating it), you can navigate the interaction more effectively.
-    *   *"What I'm hearing is that you see this as the only possible outcome. Is that correct?"* This isn't about feeling with them; it's about confirming their position so you can respond logically.
-
+> ### **Bestseller Breakout: Hard Mode Communication**
+>
+> A reader will inevitably ask: "But what if the other person is a manipulative actor who won't reciprocate?" It's a critical question. The toolkit is not about "fixing" other people. It's about conducting yourself skillfully, even when the other orchestra refuses to play. When facing a bad-faith actor, your goal changes from connection to self-preservation and clarity.
+>
+> 1.  **Self-Regulation is Your Shield:** Your primary tool is the **Conductor's Breath**. A manipulative person's main weapon is to trigger your amygdala hijack, making you emotional and easy to control. Staying regulated is your defense.
+> 2.  **Use Clarity for Boundaries, Not Persuasion:** The **Clarity Protocol** becomes your tool for setting firm boundaries. Do not get pulled into a long, emotional debate. State your position or your boundary clearly, concisely, and with as little emotional charge as possible.
+>     *   *"I will not be able to continue this conversation if you are raising your voice."*
+>     *   *"My position on this is X, and that is not going to change."*
+> 3.  **Use the Empathy Loop for Data, Not Connection:** The **Empathy Loop** is still useful, but for a different purpose: gathering data on their strategy. By understanding their position (without validating it), you can navigate the interaction more effectively.
+>     *   *"What I'm hearing is that you see this as the only possible outcome. Is that correct?"* This isn't about feeling with them; it's about confirming their position so you can respond logically.
 ---
+
 ### **Field Work Challenge**
 
 Think of one potentially difficult conversation you need to have in the next week or two. **Do not have the conversation.** Your only mission is to run a pre-mortem SCARF diagnosis.

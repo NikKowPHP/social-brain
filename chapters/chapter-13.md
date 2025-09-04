@@ -3,7 +3,7 @@
 
 For years, I believed that if I mastered one-on-one communication, the rest would take care of itself. Then I had to lead a high-stakes project meeting, and I discovered a terrifying truth: a group is not just a collection of individuals. It is a complex, emergent system with its own neurochemistry. One person's amygdala hijack can infect the entire room in seconds, turning a productive planning session into a chaotic mess.
 
-This doesn't just happen in a glass-walled conference room. It happens in a parent-teacher association meeting, a non-profit's volunteer planning session, or a family discussion about a difficult topic.
+This doesn't just happen in a glass-walled conference room. It happens in a parent-teacher association meeting where a controversial new policy is being debated. It happens in a non-profit's volunteer planning session when deciding how to allocate a tight budget. It happens in a family discussion about a difficult topic.
 
 The most common "performance space" for any leader is the group meeting—whether it's a corporate board, a non-profit committee, or a family council. It is the conductor's primary stage. All the tools we have assembled—self-regulation, empathy, SCARF, storytelling—are essential, but they must be integrated and deployed in a new, more complex environment.
 

@@ -22,10 +22,10 @@ This book is the baton.
 
 Together, we will learn to lead each section of your brain's orchestra. You will learn to calm the jumpy percussion of your threat response, tune the elegant strings of your empathy, and bring all the instruments together to create the beautiful music of genuine human connection.
 
-Our journey is organized into three parts:
-*   **Part 1: Your Operating System.** We’ll begin with the **Social Brain Diagnostic** to give you a clear picture of your own neural wiring.
-*   **Part 2: The Toolkit.** Each chapter will hand you a new tool from **The Conductor Method™**, forged in the fires of neuroscience.
-*   **Part 3: Integration and Lasting Change.** We will bring it all together, moving from practicing scales to conducting a symphony.
+Our journey is organized into three parts, mapping to your own transformation:
+*   **Part I: Gaining Awareness.** We’ll begin by diagnosing your social brain. You will find relief in understanding that the "bugs" in your interactions are not personal failings, but predictable neural patterns.
+*   **Part II: Building the Toolkit.** Each chapter will hand you a new tool from **The Conductor Method™**, forged in the fires of neuroscience. This is your core training for navigating any human interaction.
+*   **Part III: Achieving Mastery & Legacy.** We will bring it all together, moving from practicing scales to conducting a symphony, creating a lasting impact on your teams, families, and communities.
 
 This is a journey of practice, not a quest for perfection. You will not become a flawless conductor overnight. The goal is to get 1% better with every interaction, to learn from your mistakes, and to gradually re-wire your responses. This book is not a rulebook; it is a rehearsal space.
 

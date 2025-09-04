@@ -69,7 +69,12 @@ So, what did you discover? Take a moment to look at your responses. Most of us h
 *   **Your Growth Edge:** Your threat-detection system can be overactive. You may perceive threats where none exist, leading to a defensive posture that can inadvertently create a climate of fear or distrust, putting others on the defensive as well.
 
 **What if your results are a balanced mix?**
-If you found yourself with a near-even split, you don't have one dominant style—you have what's known as an **Adaptive Profile**. Your superpower is situational fluency; you can access the logic of the Architect, the empathy of the Connector, and the instincts of the Sentinel as needed. You are the versatile conductor who is comfortable leading every section of the orchestra. Your growth edge? Sometimes, in high-pressure moments, this adaptability can feel like indecision. Your focus for this book will be on choosing your response with *intention* rather than by default. For you, the **Personal Development Map** in the conclusion will be an especially powerful tool for honing that intentionality.
+If you found yourself with a near-even split, you don't have one dominant style—you have what's known as an **Adaptive Profile**. Your superpower is situational fluency; you can access the logic of the Architect, the empathy of the Connector, and the instincts of the Sentinel as needed. You are the versatile conductor who is comfortable leading every section of the orchestra.
+*   **Your Growth Edge:** Your adaptability can become a liability. You might be a social "chameleon" to a fault, mirroring the styles of others so effectively that you lose your own authentic voice, or you may delay making a decision, waiting to see how others react first. Your focus for this book will be on choosing your response with *intention* rather than by default.
+
+---
+*"Pause for a moment and consider your result. Does it resonate? Think of a recent difficult conversation. Did your dominant profile show up? The first step to conducting the orchestra is simply to hear the music it's already playing."*
+---
 
 **A Note on Stress and Context**
 Remember, your dominant style is your "peacetime" preference. Under stress, your brain may react differently. An Architect, when feeling threatened, might suddenly become a Sentinel. A Connector, when their empathy is exhausted, might retreat into the cold logic of an Architect. The goal isn't to eliminate any style; it's to understand your own patterns and learn to conduct the entire orchestra with intention, especially under pressure.
@@ -87,4 +92,3 @@ You now have your starting point. You know your orchestra.
 You've also likely noticed that many of these questions touch upon feelings of threat, defensiveness, and social danger. This is no accident. The single most important element governing the quality of our communication is how our brain processes social pain. Understanding that system is our first landmark.
 
 Turn the page. Let's explore why a harsh word can feel like a physical wound.
-      
