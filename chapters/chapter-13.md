@@ -9,6 +9,8 @@ The most common "performance space" for any leader is the group meeting—whethe
 
 This forced a new investigation: **How do you conduct the collective brain of a group?** The answer is that you must treat the meeting itself as a system to be designed, not an event to be endured.
 
+***Investigator's Note:*** *I used to treat meetings as a necessary evil—a gauntlet of egos and agendas to be survived. My goal was to get through them as quickly as possible. The result was that I often left with "fake alignment," where people nodded along but nothing actually changed. It was only when I started treating the meeting itself as a system to be designed—thinking about the neurochemistry of the room before I even sent the agenda—that they transformed from a stage for conflict into an engine for collaboration. The blueprint in this chapter is the direct result of many, many failed performances.*
+
 #### **The Science: The Contagious Brain**
 
 Our brains are exquisitely social. We are wired to subconsciously mirror the emotional and neurological states of those around us. This is why a colleague's yawn can make you feel tired, and why one person's panic can quickly spread. In a meeting, this neural contagion is amplified.

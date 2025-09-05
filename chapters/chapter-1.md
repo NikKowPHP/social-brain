@@ -76,6 +76,8 @@ If you found yourself with a near-even split, you don't have one dominant styleâ
 *"Pause for a moment and consider your result. Does it resonate? Think of a recent difficult conversation. Did your dominant profile show up? The first step to conducting the orchestra is simply to hear the music it's already playing."*
 ---
 
+This self-awareness is the first step. The second is understanding the central paradox that underpins the entire Conductor Method: to gain real influence, you must give up control. An Architect must give up the need to be right, a Connector the need to please, and a Sentinel the need to preempt every threat. This is the subtle art we will explore together.
+
 **A Note on Stress and Context**
 Remember, your dominant style is your "peacetime" preference. Under stress, your brain may react differently. An Architect, when feeling threatened, might suddenly become a Sentinel. A Connector, when their empathy is exhausted, might retreat into the cold logic of an Architect. The goal isn't to eliminate any style; it's to understand your own patterns and learn to conduct the entire orchestra with intention, especially under pressure.
 
