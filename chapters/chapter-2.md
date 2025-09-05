@@ -28,7 +28,7 @@ This may sound like a mouthful, but its function is brutally simple. It's the br
 
 Let that sink in.
 
-**From your brain's perspective, a dismissive email from your boss can feel neurologically identical to a physical injury.**
+> *From your brain's perspective, a dismissive email from your boss can feel neurologically identical to a physical injury.*
 
 This isn't an exaggeration; it is a biological fact, and it is the key to decoding almost every communication breakdown you have ever experienced.
 
@@ -43,7 +43,7 @@ The reverse, of course, is also true. The brain treats social *rewards*—a word
 For a programmer, debugging starts with observation and logging. Our first practice is exactly that. We are going to become "Social Pain Detectives"—observing the system in its natural environment to understand its trigger points.
 
 1.  **Log Your Own Events:** The next time you feel that hot flush of defensiveness, that knot of anxiety, or the sting of a curt reply—pause. Instead of getting lost in the emotion, just log the event. Think, *"Log entry: Social threat alarm activated."* Simply noticing it is the first step to controlling it.
-2.  **Analyze the Triggers in Others:** The next time you see someone get defensive, shut down, or become overly aggressive, ask yourself the magic question: ***"What social threat might they be perceiving right now?"*** Specifically, look for threats to one of these five domains:
+2.  **Analyze the Triggers in Others:** The next time you see someone get defensive, shut down, or become overly aggressive, ask yourself the magic question: ***"What social threat might they be perceiving right now?"*** Specifically, look for threats to one of these five domains (which we will explore as the **SCARF model**):
     *   **Status:** Do they feel their importance or ranking is being diminished?
     *   **Certainty:** Do they feel the future is unpredictable or that expectations are unclear?
     *   **Autonomy:** Do they feel a lack of control or that their ability to choose is being taken away?
@@ -51,6 +51,12 @@ For a programmer, debugging starts with observation and logging. Our first pract
     *   **Fairness:** Do they feel that there has been an unjust exchange or that the rules have been applied inequitably?
 
 By reframing "difficult people" as "people perceiving a threat," you move from a place of judgment to a place of curiosity and strategic analysis. This is the foundation of everything we will do from this point forward.
+
+---
+
+> ### **Investigator's Log: The Boardroom Bug Report**
+>
+> When I first read Lieberman and Eisenberger's research, it was like finding the bug report for my own life. The hot flush I felt in that boardroom wasn't a 'feeling'—it was a neurological event. The marketing director hadn't attacked my data; he had inadvertently triggered a physical pain response by threatening my status in the tribe. This discovery was the key: to debug human interaction, I first had to understand the hardware.
 
 ---
 ### **Neuro-Toolkit: Social Pain**

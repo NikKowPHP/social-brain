@@ -1,3 +1,4 @@
+- [x] Implement final strategic enhancements based on editorial review (narrative arc, character progression, chapter rhythm, examples, and visual language).
 - [x] Implement final 'sellability' editorial review to deepen emotional arc and broaden appeal.
 - [x] Standardize call-out box titles, replacing placeholder "Bestseller Breakout" with thematic names like "Case Study" and "Neuro-Toolkit".
 - [x] Implement comprehensive improvements based on manuscript review.

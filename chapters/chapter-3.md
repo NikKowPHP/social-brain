@@ -29,6 +29,8 @@ Crucially, this neurochemical flood severely impairs the function of your prefro
 
 [AUTHOR'S NOTE: Insert professional diagram illustrating the Amygdala Hijack, showing the PFC being taken offline by the amygdala's threat response.]
 
+> *You cannot think your way out of an amygdala hijack; you must regulate your way out of it.*
+
 The key to debugging this is not to rewrite the code—we can't—but to learn how to call a specific function that manually overrides it.
 
 **How the Hijack Affects Your Profile**

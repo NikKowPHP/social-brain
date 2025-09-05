@@ -21,6 +21,8 @@ This is a brutal hardware limitation. It's like having a top-of-the-line CPU tha
 
 When a message like David's arrives, it attempts to dump a dozen different items onto a workbench that can only hold four. The system doesn't just slow down; it crashes. The brain's defense mechanism against this overload—known as **cognitive load**—is to simply reject the entire data packet.
 
+> *Clarity is an act of empathy. Brevity is a form of respect for another person's finite mental energy.*
+
 **The Neuro-Why: Confusion is a Threat**
 The negative feeling of cognitive load isn't just about overload; it's a direct social threat. When you receive a confusing message, it attacks two of the core domains from Chapter 2:
 *   It threatens your **Certainty**. Your brain has no clear path forward, which feels unstable and dangerous.
@@ -38,6 +40,7 @@ How do you apply the Clarity Protocol when you're speaking? The principles are t
 *   **One Goal Per Message:** Before you unmute, know the single, most important point you need to make.
 *   **Headline First (The Verbal Subject Line):** Do not bury your main point. Start with a verbal headline that tells the listener's brain how to file what you're about to say.
     *   Instead of starting with a long backstory, start with: *"I have a specific proposal on the budget..."* or *"I want to raise a concern about the timeline..."*
+    *   This protocol is a relationship-saver at home. Instead of a long, anxiety-inducing preamble ('Honey, we need to talk about something...'), deliver a clear, calm headline first: **'I'd like to find 15 minutes to plan our summer vacation budget so we're on the same page.'** This replaces a threat to Certainty with a reward.
 *   **Chunk the Details (Signposting):** Use verbal "bullet points" to structure your thoughts. Use transition phrases called signposts. For example:
     *   "My point has three parts. First... Second... And finally..."
     *   "The main issue is X. The reason this is happening is Y. My proposed solution is Z."
@@ -94,7 +97,7 @@ The brain's working memory is extremely limited. Overloading it with too much un
 ---
 
 **The Immediate Practice:**
-Execute the "Clarity Protocol."
+Execute the **Clarity Protocol**.
 1.  **One Goal Per Message:** Define your single desired outcome.
 2.  **Headline First:** State your main point or request immediately.
 3.  **Chunk the Details:** Use short paragraphs, bullet points, and bolding (or verbal signposts) to make information easy to process.

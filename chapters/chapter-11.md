@@ -1,7 +1,7 @@
 ### **Chapter 11: The Adaptive Brain**
 #### Navigating Group and Cultural Dynamics
 
-For a long time, I believed the toolkit in this book was a universal master key. I had deconstructed the human OS, and I assumed it ran the same everywhere. My first major project with a distributed team—programmers in Krakow, designers in Tokyo, and project managers in California—proved that my assumption was a critical bug.
+The human brain's social operating system has universal hardware. Everyone has an amygdala. Everyone's brain tracks the five SCARF domains. But culture—whether in a country or a company—is the software running on top. And trying to run your software on their hardware without a compatibility check is a recipe for a system crash. My first project with our team in Tokyo was that crash.
 
 In a planning meeting, I gave some direct, blunt feedback on a design mock-up. It was the kind of feedback my Architect brain sees as efficient and helpful. To my colleagues in California and Poland, it was normal. To the design team in Tokyo, it was a disaster. The lead designer went quiet for the rest of the meeting. Later, I learned from the project manager that my public critique had been perceived as a deeply disrespectful attack on the team's status, causing a significant loss of face.
 
@@ -29,7 +29,7 @@ Based on your observations, form a simple hypothesis about the local "software."
 
 **3. Test (Run a Small Experiment).**
 Do not try to change your entire personality. Run a small, low-risk experiment to test your hypothesis.
-*   If you hypothesize that feedback is private, send a private message to one person after the meeting instead of saying it publicly. Observe the result.
+*   If you hypothesize that feedback is private, send a private message to one person after the meetaing instead of saying it publicly. Observe the result.
 
 This loop—Observe, Calibrate, Test—transforms you from a passive participant into an active, intelligent investigator. Your brain profile will influence how you run this protocol. An **Architect**'s risk is assuming logic is universal; a **Connector** might over-mirror the group and lose their voice; a **Sentinel** may be over-sensitive to threats in a new environment. Awareness of your tendency is the first step to adapting skillfully.
 

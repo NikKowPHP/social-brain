@@ -1,7 +1,7 @@
 ### **Chapter 5: The Attentive Brain**
 #### The Neuroscience of Deep Listening and Non-Verbal Cues
 
-In the last chapter, we installed the "Empathy Loop" protocol. It’s a powerful piece of code for understanding another person's internal state. But executing that code successfully depends entirely on the quality of the data you receive. If the other person doesn't feel safe, they will never transmit the real, honest data you need.
+Attention is the most valuable and depleted resource of the 21st century. It is the currency of connection. Every time you unlock your phone while someone is talking, you are making a tiny withdrawal from your relational bank account. This chapter is about the neuroscience of making massive deposits. We will investigate why deep, undivided attention is not a soft skill, but a powerful biological intervention that changes the chemistry of another person's brain.
 
 This leads to the next critical question in our investigation: **What is the most powerful signal of safety we can send to another human brain?**
 

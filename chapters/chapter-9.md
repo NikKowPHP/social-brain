@@ -60,7 +60,7 @@ When you are telling a compelling story, the listener's brain is not just passiv
 
 #### **The Practice: Use the "Tension & Resolution" Arc**
 
-You do not need to be a great novelist to leverage this system. You just need a simple, repeatable protocol for wrapping your data in a narrative structure. The most powerful and simple structure is the "Tension & Resolution" arc. It has three parts: And, But, Therefore (ABT).
+You do not need to be a great novelist to leverage this system. You just need a simple, repeatable protocol for wrapping your data in a narrative structure. The most powerful and simple structure is the **Tension & Resolution Arc**. It has three parts: And, But, Therefore (ABT).
 
 [AUTHOR'S NOTE: This is a perfect spot for a simple line graph diagram. The Y-axis is "Tension" and the X-axis is "Time." The line starts low for "And," rises sharply for "But," and falls for "Therefore," visually representing the Tension & Resolution arc.]
 

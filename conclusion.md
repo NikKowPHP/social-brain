@@ -1,6 +1,6 @@
 ### **Conclusion: Rewiring for a Connected Life**
 
-A decade ago, I stood in a boardroom and felt invisible. I had perfect data, an airtight argument, and a complete inability to connect with the human beings in the room. I left that meeting feeling frustrated and powerless, my logical world shattered by a simple, emotional story.
+A decade ago, I stood in a boardroom and felt invisible. I had perfect data, an airtight argument, and a complete inability to connect with the human beings in the room. I left that meeting feeling frustrated and powerless, my logical world shattered by a simple, emotional story. Today, I understand that the goal isn't for logic to win, but for the entire orchestra to play in harmony.
 
 My investigation began with a simple premise: that this frustrating, unpredictable world of human interaction was not random, but a system. A system that could be understood, debugged, and conducted with intention. We have found the source code.
 

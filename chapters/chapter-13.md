@@ -21,7 +21,7 @@ A well-conducted meeting is a system that systematically rewards the five SCARF 
 
 #### **The Practice: A Conductor's Meeting Blueprint**
 
-You cannot control what every person says, but you can design a structure that makes productive conversation the path of least resistance.
+You cannot control what every person says, but you can design a structure that makes productive conversation the path of least resistance. This blueprint isn't just for boardrooms. Use it to conduct a difficult family meeting. **Before:** Set the agenda ('Our goal is to agree on a fair way to split chores'). **During:** Use the Empathy Loop when a sibling feels unheard. **After:** Send a text summarizing what you agreed to, creating clarity and fairness.
 
 **1. Before the Meeting: Setting the Stage (The Score)**
 A great performance starts long before the curtain rises.
