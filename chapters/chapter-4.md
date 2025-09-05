@@ -18,7 +18,7 @@ The connection has been broken. Maria, despite her good intentions, offered a br
 This "premature solution" bug is one of the most common viruses in parent-child communication. Your teenager comes home, throws their bag on the floor, and says, 'I completely failed my history test.' The Architect brain in the parent immediately boots up: 'Okay, we need a new study schedule. I'm hiring a tutor. Did you not do the reading?' We offer a perfect, logical strategy, but our child just shuts down. They didn't need a project manager; they needed a connection. The Empathy Switch—'Wow, that sounds incredibly frustrating. What's the hardest part for you right now?'—is the only way to debug that disconnection.
 
 ---
-> ### **Bestseller Breakout: The Doctor's Diagnostic Tool**
+> ### **Case Study: The Doctor's Diagnostic Tool**
 >
 > A study of doctor-patient communication found that patient satisfaction and even health outcomes were dramatically improved when doctors used a simple form of the Empathy Loop. The least effective doctors were those who interrupted the patient within the first 15 seconds to start diagnosing (a classic 'premature solution').
 >

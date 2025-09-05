@@ -57,7 +57,7 @@ When someone gives *you* feedback, even if it's clumsy, your job is to find the 
 This method calms your own threat response and transforms a potential conflict into a data collection session.
 
 ---
-> ### **Bestseller Breakout: The Only Sentence You Need When Receiving Feedback**
+> ### **Neuro-Toolkit: The Only Sentence You Need When Receiving Feedback**
 >
 > When you feel the defensive heat of criticism, your brain will flood with a dozen explanations and justifications. Ignore them all. There is only one sentence you need to deploy. It is your shield and your learning tool all in one.
 >

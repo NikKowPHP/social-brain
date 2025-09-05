@@ -10,7 +10,7 @@ This is the scenario where most communication advice breaks down. Generic tips l
 My investigation led me to a simple but profound conclusion: **You cannot win a difficult conversation. You can only create the conditions for a productive one.** This requires moving from a mindset of confrontation to a mindset of system diagnostics. The problem isn't the other person; the problem is that the conversation itself is a threat-rich environment. Our job is to de-mine that environment before we even take the first step.
 
 ---
-> ### **Bestseller Breakout: De-escalating with the SCARF Model**
+> ### **Case Study: De-escalating with the SCARF Model**
 >
 > The principles of the SCARF model are used at the highest levels of international diplomacy. Consider a hostage negotiator facing a tense standoff. Their approach is a masterclass in SCARF management.
 >
@@ -95,7 +95,7 @@ Maria takes a Conductor's Breath and starts differently.
 She has successfully created the neurochemical conditions for a productive conversation to occur.
 
 ---
-> ### **Bestseller Breakout: Three Phrases That Can Save a Conversation**
+> ### **Neuro-Toolkit: Three Phrases That Can Save a Conversation**
 >
 > In a high-stress moment, you won't remember the theory. Memorize these three pocket scripts. They are lifelines that execute the Hijack Emergency Protocol for you.
 >
@@ -104,7 +104,7 @@ She has successfully created the neurochemical conditions for a productive conve
 > 3.  **"This is clearly important. Let's pause for a moment and make sure we get this right."** (This is a perfect way to Regulate your own system and Restore Autonomy to both parties).
 ---
 
-> ### **Bestseller Breakout: Hard Mode Communication**
+> ### **Neuro-Toolkit: Hard Mode Communication**
 >
 > A reader will inevitably ask: "But what if the other person is a manipulative actor who won't reciprocate?" It's a critical question. The toolkit is not about "fixing" other people. It's about conducting yourself skillfully, even when the other orchestra refuses to play. When facing a bad-faith actor, your goal changes from connection to self-preservation and clarity.
 >

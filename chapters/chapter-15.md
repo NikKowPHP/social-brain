@@ -23,7 +23,7 @@ As a leader, your job is to be the chief architect of this environment. You set 
 You cannot command a team to feel safe. You must design a system where safety is the natural output. This requires moving from personal protocols to systemic routines.
 
 ---
-> ### **Bestseller Breakout: Satya Nadella and Psychological Safety**
+> ### **Case Study: Satya Nadella and Psychological Safety**
 >
 > When Satya Nadella became CEO of Microsoft in 2014, he inherited a culture famous for its internal competition and "stack ranking"—a system that pitted employees against each other (creating constant **Status** and **Relatedness** threats).
 >
