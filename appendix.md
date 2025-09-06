@@ -2,6 +2,8 @@
 
 This book has translated complex neuroscience into simple, actionable protocols. For those who, like me, want to see the "source code," this appendix provides a brief overview of the key scientific concepts and researchers whose work underpins our journey.
 
+[AUTHOR'S NOTE: Insert a simple, clean diagram of the human brain, highlighting the key regions discussed in the book: Prefrontal Cortex (PFC), Amygdala, and Dorsal Anterior Cingulate Cortex (dACC).]
+
 *   **Social vs. Physical Pain:** The foundational idea that social threats are processed in the same brain regions as physical pain (the dorsal anterior cingulate cortex) was pioneered by neuroscientists like **Dr. Naomi Eisenberger** and **Dr. Matthew Lieberman** at UCLA. Their fMRI studies using the "Cyberball" game, where participants were socially excluded, are landmark works in social neuroscience.
 *   **The SCARF Model:** This brilliant synthesis of social neuroscience was developed by **David Rock**. It is a cornerstone of the field of neuroleadership and provides the most practical framework for understanding the five key domains that trigger social threat and reward responses in the brain.
 *   **The Amygdala Hijack:** The term was popularized by psychologist and author **Daniel Goleman** in his work on emotional intelligence. It describes the process by which the amygdala, the brain's threat-detector, can "hijack" the prefrontal cortex, leading to a state of emotional reactivity.

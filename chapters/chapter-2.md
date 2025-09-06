@@ -24,7 +24,7 @@ They brought people into an fMRI scanner, a machine that watches the brain in re
 
 As the participants felt the sting of being left out, something incredible lit up on the researchers' screens. The part of the brain that was screaming with activity was the **dorsal anterior cingulate cortex**.
 
-This may sound like a mouthful, but its function is brutally simple. It's the brain's alarm system for physical pain. It's the exact same neural circuit that activates when you slam your finger in a car door, burn your hand, or break a bone.
+Don't let the name fool you; its function is brutally simple. It's the brain's alarm system for physical pain. It's the exact same neural circuit that activates when you slam your finger in a car door, burn your hand, or break a bone.
 
 Let that sink in.
 
@@ -76,7 +76,5 @@ Become a "Social Pain Detective." When you see a defensive reaction (in yourself
 
 ---
 
-We now understand the alarm system. We know why a harsh word can hijack our entire nervous system, and why Mark's physical reaction to that email was so powerful. But knowing the alarm exists is not the same as controlling it. What happens when that bell starts ringing in the middle of a high-stakes conversation? How do you, the conductor, keep the orchestra from descending into chaos?
-
-The answer lies not in ignoring the alarm, but in learning how to skillfully turn down its volume. Our next step is to master the art of emotional self-regulation, the first true act of a conductor.
+We now understand the alarm system. We know why a harsh word can hijack our entire nervous system and why Mark's reaction was so powerful. But knowing the alarm exists is not the same as controlling it. What happens when that bell starts ringing in the middle of a high-stakes conversation? How do you, the conductor, keep the orchestra from descending into chaos? The answer lies not in ignoring the alarm, but in learning how to skillfully turn down its volume. Our next step is to master the art of emotional self-regulation, the first true act of a conductor.
       

@@ -68,9 +68,9 @@ This protocol is for after you've received useful feedback. It uses the science 
 
 This week, your mission is to practice the **"Intake" Protocol**. The next time someone gives you any form of feedback (even a minor, off-hand comment), your job is to: 1. Breathe. 2. Resist explaining. 3. Ask one clarifying question.
 
-*   **For the Architect:** You will feel a powerful urge to correct their "inaccurate" feedback. Your mission is to say nothing except the clarifying question: "Can you give me an example?" Your goal is data collection, not a debate.
-*   **For the Connector:** You will want to immediately agree with the feedback to restore harmony. Your mission is to resist that urge and ask the clarifying question. This shows you are taking the feedback seriously enough to want more detail.
-*   **For the Sentinel:** Your system will feel under attack. Your challenge is to use the Conductor's Breath and then deliver the clarifying question with a neutral, curious tone, not an accusatory one.
+*   **For the Architect:** You will feel a powerful urge to correct their "inaccurate" feedback. For example, if someone says "Your code is hard to read," your instinct is to explain your elegant design. Instead, your mission is to say nothing except the clarifying question: "Can you show me a specific function that was confusing?" Your goal is data collection, not a debate.
+*   **For the Connector:** You will want to immediately agree with the feedback to restore harmony ("You're right, I'm sorry."). Your mission is to resist that urge and ask the clarifying question. This shows you are taking the feedback seriously enough to want more detail. "Thank you for telling me. Can you give me an example of when my email tone felt off?"
+*   **For the Sentinel:** Your system will feel under attack. Your challenge is to use the Conductor's Breath and then deliver the clarifying question with a neutral, curious tone, not an accusatory one. Practice the phrase in the mirror so it sounds genuinely inquisitive, not like a challenge.
 *   **For the Adaptive Profile:** You are likely skilled at receiving feedback in a way that preserves harmony. Your challenge is to go one step further and help someone else receive feedback better. When you see a colleague getting defensive about feedback in a meeting, your mission is to gently intervene by asking a clarifying question on their behalf, modeling the 'Intake' Protocol for the group.
 
 ---

@@ -64,9 +64,9 @@ For every profile, the goal is the same: to use these tools with intention to cr
 
 In one important conversation this week (in-person, video, or chat), your only mission is to broadcast a powerful Signal of Presence. Put your phone away, close extra tabs, or use an acknowledgment message in chat.
 
-*   **For the Architect:** Your mission is to use the "Intelligent Pause." Bite your tongue for one full second longer than is comfortable before you respond. Just notice what it does to the conversation.
-*   **For the Connector:** Your challenge is to maintain the "tripod of attention" even when the conversation gets uncomfortable. Resist the urge to look away or physically disengage to smooth things over.
-*   **For the Sentinel:** Your focus is on your own non-verbals. Try to relax your jaw and shoulders while you listen. Your goal is to broadcast "calm presence," not "high alert."
+*   **For the Architect:** Your mission is to use the "Intelligent Pause." During a technical debate, after a colleague makes their point, bite your tongue for one full second longer than is comfortable before you respond. Notice if it changes the tone of their reply.
+*   **For the Connector:** Your challenge is to maintain the "tripod of attention" even when the conversation gets uncomfortable. If someone gives you critical feedback, resist the urge to look away or physically disengage to smooth things over. Hold your gaze to show you can handle the truth.
+*   **For the Sentinel:** Your focus is on your own non-verbals. During a conversation where you feel anxious, try to relax your jaw and shoulders while you listen. Your goal is to broadcast "calm presence," not "high alert."
 *   **For the Adaptive Profile:** Your challenge is to observe your own adaptability. In a group conversation, notice if you give more focused attention to certain people or styles. Your mission is to consciously redirect and offer a strong 'Signal of Presence' to the person in the room you feel the *least* natural connection with.
 
 ---

@@ -94,9 +94,9 @@ This protocol closes the loop. It debugs the disconnection and builds a foundati
 
 This week, your challenge is to consciously **resist jumping to a solution**. When someone shares a problem, execute the full Empathy Loop protocol. Try this in one non-work conversation. Use it with your partner, a friend, or your child. Resist solving, and just connect.
 
-*   **For the Architect:** This will feel unnatural. Your brain wants to fix things. Your specific mission is to use the loop and then *remain silent* for a few seconds to see what happens next.
-*   **For the Connector:** You may already do this naturally. Your challenge is to use the "Playback" with more precision. Instead of a generic "That sounds hard," try to name the specific emotion: "It sounds like you felt *betrayed*."
-*   **For the Sentinel:** Your focus might be on the risk in their story. Your challenge is to consciously ignore the "danger" for a moment and focus only on reflecting their emotional state.
+*   **For the Architect:** This will feel unnatural. Your brain wants to fix things. For example, if a team member says, "The new software is so buggy," your instinct is to ask for bug reports. Instead, your mission is to use the loop: "That sounds frustrating. What's the most annoying part of it for you?" and then remain silent.
+*   **For the Connector:** You may already do this naturally. Your challenge is to use the "Playback" with more precision. Instead of a generic "That sounds hard," try to name the specific emotion. If a friend is complaining about their boss, listen for whether the music is about disrespect, unfairness, or something else, and reflect that: "It sounds like you felt completely disrespected."
+*   **For the Sentinel:** Your focus might be on the risk in their story. If a colleague is worried about a deadline, your instinct is to plan for the worst-case scenario. Your challenge is to consciously ignore the "danger" for a moment and focus only on reflecting their emotional state: "It sounds like you're feeling a lot of pressure right now."
 *   **For the Adaptive Profile:** You can easily switch between Architect (solving) and Connector (feeling) modes. Your challenge is one of *timing*. Consciously stay in Connector/empathy mode for 30 seconds longer than feels natural before allowing your Architect brain to start looking for solutions. Notice what new information emerges in that extra time.
 
 ---
@@ -119,5 +119,5 @@ Use the two-step **Empathy Loop** protocol.
 
 ---
 
-You now have the tools to regulate your own internal system and to build a genuine interface to someone else's. You can create a state of calm and a feeling of connection. The next step is to move from temporary connection to lasting rapport. We are going to explore the surprising neuroscience of deep listening, and how the simple act of paying attention can change the chemistry of another person's brain.
+You now have the tools to regulate your own internal system and to build a genuine interface to someone else's. You can create a state of calm and a feeling of connection. But how do you make that feeling last? The next step is to move from temporary connection to lasting rapport. We are going to explore the surprising neuroscience of deep listening, and how the simple act of paying attention can change the chemistry of another person's brain.
       

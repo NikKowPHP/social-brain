@@ -46,9 +46,9 @@ Understanding this has two implications for a conductor. First, have empathy for
 
 This week, in one meeting with a group you don't know perfectly, your mission is to run the first part of the Adaptation Protocol and turn it into a prediction.
 
-*   **For the Architect:** Your mission is to focus on observing non-verbal data. Ignore the content of what's being said and watch the flow of eye contact, posture, and who interrupts whom. Form a hypothesis based only on that data.
-*   **For the Connector:** You naturally absorb the feeling of a room. Your task is to translate that feeling into a concrete hypothesis. Instead of "the vibe is off," try to form a specific prediction: "I predict that if the boss speaks, everyone will agree with her."
-*   **For the Sentinel:** You are already scanning for threats. Your challenge is to scan for rewards. What behavior seems to get a positive social response in this group (e.g., making a joke, praising someone else's work)? Form a hypothesis about what this group values.
+*   **For the Architect:** Your mission is to focus on observing non-verbal data. Ignore the content of what's being said and watch the flow of eye contact, posture, and who interrupts whom. Form a hypothesis based only on that data. For example: "Hypothesis: The person who leans back in their chair the most holds the most informal power."
+*   **For the Connector:** You naturally absorb the feeling of a room. Your task is to translate that feeling into a concrete hypothesis. Instead of "the vibe is off," try to form a specific prediction: "I predict that if the boss tells a joke, everyone will laugh, even if it isn't funny. This shows her status is very high."
+*   **For the Sentinel:** You are already scanning for threats. Your challenge is to scan for rewards. What behavior seems to get a positive social response in this group (e.g., making a joke, praising someone else's work)? Form a hypothesis about what this group values. "Hypothesis: Praising a colleague's work publicly seems to be a major Status and Relatedness reward in this team."
 *   **For the Adaptive Profile:** This chapter is your superpower. Your challenge is to test your adaptation skills consciously. Intentionally adopt the communication style of the group for the first half of a meeting, and then intentionally introduce a slightly different (but still respectful) style in the second half. For example, if the group is very direct, try using an Empathy Loop. Observe what happens.
 
 ---

@@ -3,9 +3,9 @@
 ### **The Conductor Method™ Cheat Sheet**
 
 **The 3 Brains (Your Orchestra Sections)**
-*   **Architect:** Logic, data, structure. (Can seem cold).
-*   **Connector:** Empathy, harmony, relationship. (Can avoid conflict).
-*   **Sentinel:** Threat detection, risk, safety. (Can be overactive).
+*   **[ICON: Blueprint] Architect:** Logic, data, structure. (Can seem cold).
+*   **[ICON: Bridge] Connector:** Empathy, harmony, relationship. (Can avoid conflict).
+*   **[ICON: Shield] Sentinel:** Threat detection, risk, safety. (Can be overactive).
 
 **The 5 SCARF Domains (The Brain's Social Radar)**
 *   **Status:** Importance, rank, being valued.
@@ -15,23 +15,23 @@
 *   **Fairness:** Equity, just exchanges, transparency.
 
 **Core Protocols & Tools**
-*   **The Conductor's Breath (Chapter 3):** Double inhale through the nose, long exhale through the mouth. (Manual override for an amygdala hijack).
-*   **The Empathy Loop (Chapter 4):**
+*   **[ICON: Lungs] The Conductor's Breath (Chapter 3):** Double inhale through the nose, long exhale through the mouth. (Manual override for an amygdala hijack).
+*   **[ICON: Reflecting Arrows] The Empathy Loop (Chapter 4):**
     1.  **The Switch:** Ask an open "What" or "How" question (e.g., "What's the hardest part of this for you?").
     2.  **The Playback:** Summarize the underlying emotion you heard (e.g., "So it sounds like you felt invisible.").
-*   **The Trust Protocol (Chapter 6):**
+*   **[ICON: Handshake] The Trust Protocol (Chapter 6):**
     *   Execute **Calibrated Vulnerability**: Share a small, professional vulnerability and observe the response.
-*   **The Safety Signal Protocol (Chapter 7):**
+*   **[ICON: Radio Signal] The Safety Signal Protocol (Chapter 7):**
     1. Regulate First (Breathe). 2. Find Shared Context. 3. Offer Low-Stakes Observation.
-*   **The Clarity Protocol (Chapter 8):**
+*   **[ICON: Bullet Points] The Clarity Protocol (Chapter 8):**
     1.  **One Goal Per Message.**
     2.  **Headline First** (state your request immediately).
     3.  **Chunk the Details** (use bullets, bolding, short paragraphs).
-*   **The Tension & Resolution Arc (Chapter 9):**
+*   **[ICON: Tension Graph] The Tension & Resolution Arc (Chapter 9):**
     *   **And...** (The stable situation).
     *   **But...** (The problem/tension).
     *   **Therefore...** (Your idea as the solution).
-*   **The Feedback Protocols (Chapter 12):**
+*   **[ICON: Gears] The Feedback Protocols (Chapter 12):**
     *   **Giving (Debug):** 1. Get Permission. 2. Share Data, Not Drama. 3. Co-Create Solution.
     *   **Receiving (Intake):** 1. Regulate (Breathe). 2. Resist Defending. 3. Ask for Data ("Can you give an example?").
 

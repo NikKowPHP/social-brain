@@ -9,7 +9,7 @@ A true conductor doesn't just lead the orchestra; they build it. They create an 
 
 The work of Harvard researcher Amy Edmondson has given a name to this optimal environment: **psychological safety**. It is a shared belief held by members of a team that the team is safe for interpersonal risk-taking. It is the single greatest predictor of high-performing, innovative teams.
 
-Why? Because psychological safety is the systemic, group-level application of the SCARF model. A psychologically safe culture is one where the default settings are rewarding to the social brain:
+Why? Because psychological safety is the systemic, group-level application of the SCARF model. A psychologically safe culture is one where the default settings are rewarding to the social brain. It's an environment where:
 *   **Status** is high because people feel their voice is valued.
 *   **Certainty** is high because the rules of engagement are clear and fair.
 *   **Autonomy** is high because people are trusted to do their work.
@@ -44,5 +44,5 @@ You cannot command a team to feel safe. You must design a system where safety is
     *   **Don't ask:** *"Who is responsible for this?"* (Triggers a massive threat response).
     *   **Do ask:** *"What did we learn from this, and how can we use that learning to make our next experiment better?"* (Frames the work as collaborative discovery).
 
-By implementing these routines, you are doing more than managing people; you are nurturing their brains. You are creating the conditions for brilliance to emerge.
+By implementing these routines, you are doing more than managing people; you are nurturing their brains. You are creating the conditions for brilliance to emerge. This is the conductor's true legacy.
       

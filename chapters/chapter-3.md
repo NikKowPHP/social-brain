@@ -71,9 +71,9 @@ He has just debugged a social catastrophe before it even started.
 
 This week, your only job is to turn on your system monitor. Your mission is to catch the *physical feeling* of frustration, anxiety, or defensiveness as it arises. Don't judge it. Just notice it. Where do you feel it in your body? In that moment, silently execute the Conductor's Breath once.
 
-*   **For the Architect:** You might notice this feeling as an intense urge to correct someone's flawed logic. That's your cue to breathe.
-*   **For the Connector:** You might feel this as a knot in your stomach when a conversation becomes tense. That's your signal.
-*   **For the Sentinel:** You are likely already very aware of this feeling. Your practice is to use the breath the *instant* you feel the familiar hum of anxiety, to see if you can catch it before it grows.
+*   **For the Architect:** You might notice this feeling as an intense urge to correct someone's flawed logic. For example, when a colleague makes an inaccurate statement in a meeting, you feel a tension in your jaw. That's your cue to breathe before you speak.
+*   **For the Connector:** You might feel this as a knot in your stomach when a conversation becomes tense, like when two friends start to argue. Your instinct is to smooth it over. Instead, just breathe and notice the feeling.
+*   **For the Sentinel:** You are likely already very aware of this feeling. Your practice is to use the breath the *instant* you feel the familiar hum of anxiety—that first flutter in your chest when you get an unexpected calendar invite from your boss—to see if you can catch it before it grows.
 *   **For the Adaptive Profile:** Your adaptability can sometimes lead you to mirror the emotional state of a room. Your challenge is to notice when you're absorbing others' stress and use the Conductor's Breath to create a clear boundary, maintaining your own regulated state instead of simply reflecting theirs.
 
 ---
@@ -96,7 +96,5 @@ An emotional reaction (an "amygdala hijack") is a biological process that impair
 
 ---
 
-You now have the tool to manually override your own internal alarm state. You've learned how to keep your orchestra playing harmoniously, even when the outside world feels chaotic.
-
-Once you can create this space of internal calm, an incredible new capacity opens up: the ability to stop focusing on your own system alerts and turn your full attention outward. You gain the ability to truly, deeply listen to the music being played by someone else. But what does it really mean to understand another person's mind? As my research revealed, the answer lies in a remarkable set of "mirror" cells in your brain.
+You now have the tool to manually override your own internal alarm state. You've learned how to keep your orchestra playing harmoniously, even when the outside world feels chaotic. Once you can create this space of internal calm, an incredible new capacity opens up: the ability to stop focusing on your own system alerts and turn your full attention outward. You gain the ability to truly, deeply listen to the music being played by someone else. But what does it really mean to understand another person's mind? As my research revealed, the answer lies in a remarkable set of "mirror" cells in your brain.
       

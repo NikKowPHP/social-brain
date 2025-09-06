@@ -75,5 +75,5 @@ Use the three-step "Safety Signal" Protocol.
 
 ---
 
-You've broken the silence and started a conversation. But now, how do you transmit your own ideas clearly without overloading their brain and destroying the very trust you just built? The answer lies in understanding the severe hardware limitations of your listener's brain.
+You've broken the silence and started a conversation. But now, how do you transmit your own ideas clearly without overloading their brain and destroying the very trust you just built? The answer lies in understanding the severe hardware limitations of your listener's brain, which is our next investigation.
       

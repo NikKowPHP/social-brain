@@ -78,9 +78,9 @@ Once the main point is clear, you can provide context. But you must format it fo
 
 This week, find one email you are about to send that is more than three paragraphs long OR one point you need to make in a meeting. Before you hit send or unmute, run it through the "Clarity Protocol."
 
-*   **For the Architect:** Your mission is to cut the explanatory context by 50%. Trust that the headline and bullet points are enough.
-*   **For the Connector:** Your challenge is to put the request (the headline) in the very first sentence. Resist the urge to warm up the reader first.
-*   **For the Sentinel:** Your task is to use structure to manage your own anxiety. Before you speak, write down your one goal, your headline, and your three supporting points. Stick to the script.
+*   **For the Architect:** Your mission is to cut the explanatory context by 50%. Take that five-paragraph email and turn it into one headline sentence and three bullet points. Trust that it's enough.
+*   **For the Connector:** Your challenge is to put the request (the headline) in the very first sentence of an email. Resist the urge to start with "Hope you're having a great week!" Put the social connection *after* the clear request.
+*   **For the Sentinel:** Your task is to use structure to manage your own anxiety. Before you speak about a risk, write down your one goal, your headline, and your three supporting points. Stick to that script to avoid a "threat-dump."
 *   **For the Adaptive Profile:** You can tailor your communication style well. Your mission is to act as a translator for your team. Find one confusing email or statement from a colleague and, using the Clarity Protocol, rephrase it for someone else. Notice how translating for others sharpens your own thinking.
 
 ---

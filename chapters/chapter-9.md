@@ -85,9 +85,9 @@ This simple structure can be used for anything from a multi-million dollar propo
 
 This week, find one data point or key message you need to communicate. Before you share it, take 30 seconds to wrap it in a one-sentence "Tension & Resolution" arc.
 
-*   **For the Architect:** Your challenge is to find an emotional word to put in the "BUT" section. Instead of "BUT we have a 15% shortfall," try "BUT we have a *disappointing* 15% shortfall."
-*   **For the Connector:** You excel at telling stories about people. Your challenge is to use the ABT structure to tell a story about *data*. "We were on track (AND), BUT the QA data shows a problem, THEREFORE we need to pause."
-*   **For the Sentinel:** Your tendency is to start with the "BUT" (the threat). Your mission is to force yourself to start with a stable "AND" first, creating a safe context before you introduce the risk.
+*   **For the Architect:** Your challenge is to find an emotional word to put in the "BUT" section. Instead of "BUT we have a 15% shortfall," try "BUT we have a *disappointing* 15% shortfall that puts our promises to the team at risk."
+*   **For the Connector:** You excel at telling stories about people. Your challenge is to use the ABT structure to tell a story about *data*. For example: "We've been getting great customer reviews (AND), BUT our response time metric has dropped by 10%, THEREFORE we need to focus on that this week."
+*   **For the Sentinel:** Your tendency is to start with the "BUT" (the threat). Your mission is to force yourself to start with a stable "AND" first, creating a safe context before you introduce the risk. "Everyone has been working incredibly hard (AND), BUT I'm concerned we're heading for burnout, THEREFORE I think we need to push back the deadline."
 *   **For the Adaptive Profile:** Your challenge is to use storytelling to bridge the gap between different profiles on your team. Take a logical point from an Architect and wrap it in a story that will resonate with a Connector. Or take a Connector's concern and frame it using the ABT structure to make it land with an Architect.
 
 ---

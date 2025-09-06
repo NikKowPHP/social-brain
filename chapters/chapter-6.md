@@ -67,9 +67,9 @@ This is a simple but profound change to your verbal code. The words "you" and "I
 
 This week, your mission is to run one small trust protocol. Choose one: a) Execute one "Calibrated Vulnerability" test, b) try to find one uncommon commonality, or c) intentionally use "we" language.
 
-*   **For the Architect:** Your challenge is (a). Share one small, professional vulnerability. It will feel risky, but it is a logical test to gather data on the safety of a relationship.
-*   **For the Connector:** Your challenge is to focus on step (b) in the vulnerability protocol: *pause and observe*. Resist the urge to fill the silence after you share. Your job is to watch what happens next.
-*   **For the Sentinel:** Your challenge is (c). Start one difficult email or conversation with the word "We." This small shift can change the entire neurochemical context of the interaction.
+*   **For the Architect:** Your challenge is (a). Share one small, professional vulnerability. For example, at the start of a meeting, say "I admit I'm not the expert on this topic, so I'm relying on you all." It will feel risky, but it is a logical test to gather data on the safety of a relationship.
+*   **For the Connector:** Your challenge is to focus on step (b) in the vulnerability protocol: *pause and observe*. After you share something like, "I'm feeling a little overwhelmed this week," resist the urge to immediately ask how they are. Just pause and see how they respond to your signal.
+*   **For the Sentinel:** Your challenge is (c). Start one difficult email or conversation with the word "We." For example, instead of "I need to talk to you about the budget overage," try "I was hoping we could find a few minutes to look at the budget together." This small shift can change the entire neurochemical context.
 *   **For the Adaptive Profile:** You're skilled at matching the energy of others. Your challenge is to *initiate* rather than match. Be the first person in a conversation to offer a small, calibrated vulnerability or to intentionally use 'we' language, and observe how it shifts the dynamic of the interaction.
 
 ---

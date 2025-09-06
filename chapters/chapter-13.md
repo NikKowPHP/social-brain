@@ -33,11 +33,12 @@ A great performance starts long before the curtain rises.
 **2. During the Meeting: Conducting the Music**
 *   **The Opening (The Downbeat):** The first two minutes set the neurochemical weather. Start by creating safety.
     *   Restate the meeting's single purpose (**Certainty**).
-    *   Clarify the rules of engagement: "We need everyone's perspective, especially dissenting ones." (**Status, Relatedness**).
+    *   Clarify the rules of engagement: "We need everyone's perspective, especially dissenting ones. No idea is a bad idea at this stage." (**Status, Relatedness**).
 *   **Handling Dissent (Tuning the Instruments):** When disagreement arises, a conductor doesn't silence it; they tune it. Your tool here is the **Empathy Loop (Chapter 4)**, performed for the group.
-    *   When one person objects, turn to them and run the loop: "That's a critical point. What's the biggest concern for you here?" Then, use The Playback: "So, if I'm hearing you right, the risk is X. Is that correct?" This makes the dissenter feel heard and translates their "threat" into useful data for the entire group.
+    *   When one person objects ("That will never work!"), turn to them and run the loop: "That's a critical point. It sounds like you see a major risk here. What's the biggest concern for you?" Then, use The Playback: "So, if I'm hearing you right, the risk is that this approach could alienate our existing user base. Is that correct?" This makes the dissenter feel heard and translates their "threat" into useful data for the entire group.
 *   **Managing Hijacks (Calming the Percussion):** If the conversation gets heated, you must intervene immediately. Use the **Hijack Emergency Protocol (Chapter 10)**.
-    *   "Pause. I'm noticing the tension is rising here." (Regulate/Validate). "Let's all take one breath. Leo, it sounds like you're concerned about fairness. Jane, it sounds like you're focused on the risk. Both are valid. How should we proceed from here?" (Restore Autonomy).
+    *   One person says, "This is the same mistake we always make!" Another replies, "Well, if you had finished your part on time, we wouldn't be here!"
+    *   You intervene: "Pause. I'm noticing the tension is rising here." (Regulate/Validate). "Let's all take one breath. Leo, it sounds like you're concerned about fairness. Jane, it sounds like you're focused on the risk. Both are valid. How should we proceed from here to find a solution?" (Restore Autonomy).
 
 **3. After the Meeting: The Echo**
 The meeting isn't over when the video call ends. The final step is to reinforce the progress made.
@@ -52,8 +53,8 @@ By designing the meeting before, during, and after, you transform it from a pote
 
 This week, you will conduct one meeting, even if you are not the official leader. Your mission is to choose and implement **one** practice from the blueprint.
 
-*   **For the Architect:** Your task is to send out a "Clarity Protocol" agenda 24 hours in advance, with a single, clear goal at the top.
-*   **For the Connector:** Your mission is to intentionally use the Empathy Loop when you hear a point of disagreement in a meeting. Your only job is to make the dissenting person feel heard.
+*   **For the Architect:** Your task is to send out a "Clarity Protocol" agenda 24 hours in advance, with a single, clear goal at the top and questions instead of statements for the agenda items.
+*   **For the Connector:** Your mission is to intentionally use the Empathy Loop when you hear a point of disagreement in a meeting. Your only job is to make the dissenting person feel heard. For example, "It sounds like you're worried about the team's workload. Is that right?"
 *   **For the Sentinel:** Your challenge is to be the one who sends the follow-up email with clear decisions and action items. This allows you to channel your need for control and risk-mitigation into an act that provides Certainty for the whole group.
 *   **For the Adaptive Profile:** Your challenge is to act as the meeting's conductor of energy. If the energy is low, your mission is to inject an 'Autonomy & Status' reward by asking a brainstorming question. If the energy is tense, your mission is to use the Empathy Loop to calm the system. Your job is to consciously choose and apply the tool the meeting needs in real-time.
 
