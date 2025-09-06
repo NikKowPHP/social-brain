@@ -10,7 +10,7 @@ He spent the next two hours in a state of low-grade anxiety, checking his inbox 
 
 *"This needs a lot of work."*
 
-Mark felt it instantly. Not as a thought, but as a physical sensation. A prickling heat spread across the back of his neck. His stomach tightened into a knot. For a moment, his screen seemed to blur. He wasn’t thinking about the project's data anymore. He was thinking, *"She thinks I'm incompetent. I failed."* The detailed feedback he needed was absent; the feeling of rejection was overwhelming.
+Mark's neck prickled with heat as his stomach knotted. For a moment, his screen seemed to blur. He wasn’t thinking about the project's data anymore. He was thinking, *"She thinks I'm incompetent. I failed."* The detailed feedback he needed was absent; the feeling of rejection was overwhelming.
 
 This bug doesn't just corrupt our professional code. Consider the text message from a partner or a close friend. You send a thoughtful, multi-line message, and the reply you get back is simply: **'Fine.'** The physical sensation—that knot in your stomach, that wave of cold dread—is identical to the one Mark felt. Your brain's social pain alarm isn't distinguishing between your boss and your partner; it's simply registering a social threat.
 
@@ -34,21 +34,19 @@ This isn't an exaggeration; it is a biological fact, and it is the key to decodi
 
 ***Investigator's Note:*** *I once watched a brilliant, data-driven executive get completely flustered in a board meeting. Later, he told me, "I just shut down." Why? Because the CEO had said, "I'm not sure I see the value you're adding here." That wasn't a critique of his data; it was a threat to his social standing in the tribe, and his primal brain hit the alarm bell, drowning out his rational prefrontal cortex.*
 
-Why is the system designed this way? From an evolutionary perspective, it's a brilliant survival feature. For our ancestors, social connection wasn't a "nice-to-have." Banishment from the tribe meant certain death. Therefore, our brains evolved to treat social threats with the same life-or-death urgency as a physical threat.
-
-The reverse, of course, is also true. The brain treats social *rewards*—a word of praise, a feeling of belonging, a public acknowledgment of your status—with the same pleasure as it treats primary rewards like food and water. This is why a simple compliment can make your whole day. Our brains are exquisitely tuned to a constant, ancient calculus: **move toward connection (reward), move away from rejection (threat).**
+Why is the system designed this way? From an evolutionary perspective, it's a brilliant survival feature. For our ancestors, social connection wasn't a "nice-to-have." Banishment from the tribe meant certain death. Therefore, our brains evolved to treat social threats with the same life-or-death urgency as a physical threat. The reverse is also true: the brain savors social rewards like praise and belonging as much as it does food or water. Our brains are exquisitely tuned to a constant, ancient calculus: **move toward connection (reward), move away from rejection (threat).**
 
 #### **The Practice: Become a Social Pain Detective**
 
 For a programmer, debugging starts with observation and logging. Our first practice is exactly that. We are going to become "Social Pain Detectives"—observing the system in its natural environment to understand its trigger points.
 
 1.  **Log Your Own Events:** The next time you feel that hot flush of defensiveness, that knot of anxiety, or the sting of a curt reply—pause. Instead of getting lost in the emotion, just log the event. Think, *"Log entry: Social threat alarm activated."* Simply noticing it is the first step to controlling it.
-2.  **Analyze the Triggers in Others:** The next time you see someone get defensive, shut down, or become overly aggressive, ask yourself the magic question: ***"What social threat might they be perceiving right now?"*** Specifically, look for threats to one of these five domains (which we will explore as the **SCARF model**):
-    *   **Status:** Do they feel their importance or ranking is being diminished?
-    *   **Certainty:** Do they feel the future is unpredictable or that expectations are unclear?
-    *   **Autonomy:** Do they feel a lack of control or that their ability to choose is being taken away?
-    *   **Relatedness:** Do they feel excluded, or that you are an 'outsider' and not part of their 'in-group'?
-    *   **Fairness:** Do they feel that there has been an unjust exchange or that the rules have been applied inequitably?
+2.  **Analyze the Triggers in Others:** The next time you see someone get defensive, shut down, or become overly aggressive, ask yourself the magic question: ***"What social threat might they be perceiving right now?"*** This is where we get our first glimpse of the **SCARF model**, a powerful framework we'll return to in detail in Chapter 10. For now, simply ask if the threat is related to their sense of:
+    *   **S**tatus (importance)
+    *   **C**ertainty (predictability)
+    *   **A**utonomy (control)
+    *   **R**elatedness (belonging)
+    *   **F**airness (equity)
 
 By reframing "difficult people" as "people perceiving a threat," you move from a place of judgment to a place of curiosity and strategic analysis. This is the foundation of everything we will do from this point forward.
 

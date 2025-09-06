@@ -48,27 +48,14 @@ In five minutes, Maria has used five different tools from our toolkit not as a c
 
 Mastery is not an accident; it is the result of intentional, gamified practice. This challenge is designed to build the core neural pathways of a conductor, one week at a time. It turns the book from a passive reading experience into an active, ongoing practice.
 
-**Week 1: Self-Regulation & Observation**
-Your only mission this week is to tune your own instrument.
-*   **Practice:** Execute the **Conductor's Breath (Chapter 3)** three times a day when you are calm. This builds the pathway.
-*   **Notice:** In one conversation, your only goal is to notice the physical sensation of your own emotional state changing. Don't act on it. Just observe the data.
-
-**Week 2: Listening & Connection**
-Your mission this week is to create safety for others.
-*   **Practice:** Use the **Empathy Loop (Chapter 4)** in one conversation per day. It can be with a colleague, your partner, or your child. Your goal is not to solve, but only to make the other person feel heard. Ask "What's the hardest part?" and then "Playback" what you heard.
-*   **Notice:** Pay attention to how people's posture and tone of voice change when you use The Playback.
-
-**Week 3: Clarity & Impact**
-Your mission this week is to transmit your ideas effectively.
-*   **Practice:** Run one important email through the **Clarity Protocol (Chapter 8)** before you send it. In a meeting, frame one idea using the **Tension & Resolution Arc (Chapter 9)**.
-*   **Notice:** Observe whether you get a faster, clearer response to your email and whether your idea in the meeting seems to land with more impact.
-
-**Week 4: Integration & Design**
-Your mission this week is to conduct a complete performance.
-*   **Practice:** Consciously design one meeting using the **Conductor's Blueprint (Chapter 13)**. Pay special attention to setting a SCARF-aware agenda and sending a clear follow-up email.
-*   **Notice:** Did the meeting feel more focused and less tense than usual?
+| Week | Focus | Practice | Notice |
+| :--- | :--- | :--- | :--- |
+| **1** | **Self-Regulation & Observation** | Execute the **Conductor's Breath (Ch. 3)** three times a day when you are calm to build the pathway. | In one conversation, your only goal is to notice the physical sensation of your own emotional state changing. Don't act on it. Just observe. |
+| **2** | **Listening & Connection** | Use the **Empathy Loop (Ch. 4)** in one conversation per day. Your goal is not to solve, but only to make the other person feel heard. | Pay attention to how people's posture and tone of voice change when you use The Playback. |
+| **3** | **Clarity & Impact** | Run one important email through the **Clarity Protocol (Ch. 8)**. Frame one idea in a meeting using the **Tension & Resolution Arc (Ch. 9)**. | Observe whether you get a faster, clearer response to your email and whether your idea in the meeting seems to land with more impact. |
+| **4** | **Integration & Design** | Consciously design one meeting using the **Conductor's Blueprint (Ch. 13)**, paying special attention to the agenda and follow-up. | Did the meeting feel more focused and less tense than usual? |
 
 **A Note for the Adaptive Profile:** Your challenge is one of *intentionality*. You can access all the tools, so your practice is to consciously choose a tool before an interaction rather than defaulting to the easiest one in the moment. Before your next important conversation, ask yourself: "Does this moment call for the Architect, the Connector, or the Sentinel?"
 
-Remember, this is a practice. The goal is not perfection on day one. The goal is to get 1% better every day. Some days you will fail, your old programming will take over, and you will react instead of conducting. That's okay. Simply notice the failure without judgment, take a Conductor's Breath, and get ready for the next performance. Progress, not perfection, is the path to mastery.
+Remember, this is a practice. The goal is not perfection on day one. An aim for 1% improvement every day is a powerful path to mastery. Some days you will fail, your old programming will take over, and you will react instead of conducting. That's okay. Simply notice the failure without judgment, take a Conductor's Breath, and get ready for the next performance.
       

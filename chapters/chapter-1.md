@@ -7,16 +7,16 @@ As a programmer, I learned a fundamental rule early on: you never start fixing c
 
 My goal here is simple: to provide a mirror that helps you see the underlying patterns in your own social operating system. This is not a test. There are no right or wrong answers, no good or bad scores. There is only self-awareness. This diagnostic is a snapshot of your brain's current tendencies—its incredible, innate superpowers and its hidden blind spots or "growth edges."
 
-Answer the following questions with your first, honest gut reaction. Don't overthink it. While some scenarios are set in an office, the underlying human dynamics are universal—they apply equally to a family dinner, a negotiation with a contractor, or a conversation with your partner. The goal is to capture your most natural instinct.
+Answer the following questions with your first, honest gut reaction. Don't overthink it. The goal is to capture your most natural instinct.
 
 ---
 
 #### **The Diagnostic**
 
-**1. Imagine your boss reviews a project you've spent weeks on and says, "I'm just not convinced by this section. It feels disappointing." Your immediate, internal reaction is to:**
+**1. A colleague reviews a project you've spent weeks on and says, "I'm just not convinced by this section. It feels disappointing." Your immediate, internal reaction is to:**
 
    a) Focus on the data. You mentally start assembling the evidence and logical arguments to prove your approach was correct.
-   b) Focus on the relationship. You feel a pang of social pain and worry about your boss's perception of you, wondering what you can do to fix their disappointment.
+   b) Focus on the relationship. You feel a pang of social pain and worry about their perception of you, wondering what you can do to fix their disappointment.
    c) Focus on the threat. You feel a flash of defensive anger or shame, and your mind races to identify who's to blame or why the criticism is unfair.
 
 **2. You're in a tense team meeting. One colleague is speaking passionately, but their argument seems flawed. You find yourself paying the most attention to:**
@@ -31,7 +31,7 @@ Answer the following questions with your first, honest gut reaction. Don't overt
    b) Ensuring the tone is supportive and empathetic. The email is written to acknowledge everyone's hard work and to minimize feelings of frustration or demotivation.
    c) Getting the difficult news out as quickly as possible to manage the fallout. The email is direct and protective, establishing the non-negotiable reality of the situation.
 
-**4. You are listening to a friend describe a complex personal problem. As they speak, your dominant mental activity is:**
+**4. A close family member calls you, upset after a bad day. As they describe their problem, your dominant mental activity is:**
 
    a) Structuring the problem and trying to architect a solution. You are organizing their story into a logical framework to identify the most efficient way to fix it.
    b) Feeling their emotional state along with them. You are imagining what it must be like to be in their shoes, connecting with their feelings of frustration or sadness.

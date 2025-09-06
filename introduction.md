@@ -14,7 +14,7 @@ That question led me on a ten-year journey from the clean logic of a compiler to
 
 What if you could see those rules? What if you could debug a difficult conversation before it even starts, transforming the pain of miscommunication into the power of connection?
 
-This book is the result of that investigation. It is the map I wished I'd had on my journey from being invisible in the boardroom to learning how to conduct symphonies of human connection. I will share the source code I discovered and hand you a complete toolkit of neuroscience-backed protocols I developed—a system I call **The Conductor Method™**.
+This book is the result of that investigation. It is the map I wished I'd had on my journey from being invisible in the boardroom to learning how to conduct symphonies of human connection. I will share the source code I discovered and hand you a complete toolkit of neuroscience-backed protocols I developed—a system I call **The Conductor Method™**. By the end, you'll be able to conduct your own orchestra in boardrooms, at the dinner table, and everywhere in between.
 
 Think of it this way: your brain is a magnificent orchestra. But in high-stakes moments, it often feels like chaos. You are already the conductor of this orchestra. The problem is, no one ever handed you the baton.
 

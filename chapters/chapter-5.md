@@ -7,7 +7,7 @@ This leads to the next critical question in our investigation: **What is the mos
 
 For years, I thought the answer was in what you say—finding the perfect, reassuring words. The research, however, points to a far more ancient and powerful system: the raw, undivided focus of your attention.
 
-Let's run a simulation. Imagine you are in a café, pouring your heart out to a friend. As you talk, your friend nods and says, "Uh-huh," but their eyes keep flicking down to their phone. A notification lights up the screen, and for a split second, their focus is gone. You feel a tiny disconnection. Their brain has just broadcasted a subtle but clear message: *"You are not my priority."*
+Let's run a simulation. Imagine you are in a café, pouring your heart out to a friend. As you talk, your friend nods and says, "Uh-huh," but their eyes keep flicking down to their phone. A notification lights up the screen, and for a split second, their focus is gone. The connection frays. Their brain has just broadcasted a subtle but clear message: *"You are not my priority."*
 
 Now, imagine the opposite. Your friend puts their phone away, turns their body toward you, and listens with a quiet, focused intensity. This feels like safety. This feeling is not a metaphor; it's a chemical reaction.
 
@@ -43,7 +43,7 @@ These primal signals of safety and threat don't disappear when we're behind a sc
 
 #### **The Practice: Broadcast a "Signal of Presence"**
 
-Your goal is to become an expert at broadcasting a powerful, non-verbal "Signal of Presence."
+Your goal is to become an expert at broadcasting a powerful, non-verbal "Signal of Presence," whether in person or online.
 
 **Your Profile and Presence**
 How you broadcast this signal is often filtered through your dominant profile.
@@ -53,11 +53,11 @@ How you broadcast this signal is often filtered through your dominant profile.
 
 For every profile, the goal is the same: to use these tools with intention to create a state of safety for the other person.
 
-**1. Point the Tripod of Attention.** Think of your attention as a tripod with three legs: your eyes, your head, and your torso. Intentionally and gently aim the tripod at the person you are with.
+**1. Point the Tripod of Attention.** Think of your attention as a tripod with three legs: your eyes, your head, and your torso. Intentionally and gently aim the tripod at the person you are with. If you are in a tense conversation, leaning in slightly sends an even stronger signal of engagement.
 
-**2. Master the "Intelligent Pause."** After they finish a thought, wait a full one or two seconds before you respond. This proves you were absorbing, not just waiting for your turn.
+**2. Master the "Intelligent Pause."** After they finish a thought, wait a full one or two seconds before you respond. This proves you were absorbing, not just waiting for your turn to speak.
 
-**3. Listen for the Music, Not Just the Lyrics (Revisited).** As you listen, ask yourself, "What is the core feeling being expressed beneath these words?" This is what you will use in your "Playback."
+**3. Listen for the Music, Not Just the Lyrics (Revisited).** As you listen, ask yourself, "What is the core feeling being expressed beneath these words?" This is what you will use in your "Playback" from the last chapter.
 
 ---
 ### **Field Work Challenge**

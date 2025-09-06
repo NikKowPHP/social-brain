@@ -10,10 +10,10 @@ My investigation revealed it's not one problem, but two distinct neurological ch
 #### **The Science: The Brain's Two-Part Problem**
 
 **Part 1: The Threat of Feedback**
-Unsolicited feedback is one of the most potent triggers for the brain's security guard (the amygdala). It is a direct threat to **Status**, **Certainty**, and **Relatedness**. The classic "feedback sandwich" fails because it tries to soften the blow but instead creates a new threat to **Certainty**, making the message feel ambiguous and manipulative.
+Unsolicited feedback is one of the most potent triggers for the brain's security guard (the amygdala). As we saw with the SCARF model, it is a direct threat to **Status**, **Certainty**, and **Relatedness**. The classic "feedback sandwich" fails because it tries to soften the blow but instead creates a new threat to **Certainty**, making the message feel ambiguous and manipulative.
 
 **Part 2: The Hardware of Habit (Neuroplasticity)**
-Even if feedback is delivered perfectly, changing behavior is a matter of physics. Your brain's current behaviors are efficient, myelinated neural pathways. Asking someone to change is asking them to build a new road through a dense forest. **Lasting change only happens through neuroplasticity**—the process of physically re-wiring the brain through focused repetition and a dopamine reward that signals "That worked! Do it again."
+Even if feedback is delivered perfectly, changing behavior is a matter of physics. Your brain's current behaviors are efficient, myelinated neural pathways. Asking someone to change is asking them to build a new road through a dense forest. **Lasting change only happens through neuroplasticity**—the process of physically re-wiring the brain through focused repetition and a dopamine reward that signals "That worked! Do it again." This is how we learn to type, to drive, or to regulate our temper. The brain wraps the new neural circuit in myelin, making it faster and more automatic over time.
 
 ---
 ### **System Alert: Feedback is a Fire, Not a Food**

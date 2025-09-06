@@ -86,6 +86,9 @@
 
 **S**
 *   SCARF Model (Chapters 2, 7, 10, 11, 15)
+    *   In difficult conversations (Chapter 10)
+    *   In psychological safety (Chapter 15)
+    *   As a diagnostic tool (Chapter 2)
 *   Sentinel Brain Profile (Chapters 1, 3, 5, 6, 8, 10, 14)
 *   Social Pain (Chapter 2)
 *   Status (SCARF) (Chapters 2, 4, 9, 10, 11, 12, 15)

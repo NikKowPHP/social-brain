@@ -78,7 +78,7 @@ A master conductor knows when the orchestra needs a clear, simple beat and when 
 3.  **THEREFORE (The Resolution):** Propose the solution or the call to action that resolves the tension.
     *   *"**THEREFORE**, I propose we create a dedicated task force to develop a new, lower-cost product line to compete directly with them."*
 
-This simple structure can be used for anything from a multi-million dollar proposal to a one-minute update in a team meeting.
+This simple structure can be used for anything from a multi-million dollar proposal to persuading a child to clean their room: *"We all love playing with your toys (**AND**), **BUT** when they're left all over the floor, someone could trip and get hurt, **THEREFORE** let's put them back in the bin so we're all safe."*
 
 ---
 ### **Field Work Challenge**

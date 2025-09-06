@@ -9,18 +9,13 @@ A true conductor doesn't just lead the orchestra; they build it. They create an 
 
 The work of Harvard researcher Amy Edmondson has given a name to this optimal environment: **psychological safety**. It is a shared belief held by members of a team that the team is safe for interpersonal risk-taking. It is the single greatest predictor of high-performing, innovative teams.
 
-Why? Because psychological safety is the systemic, group-level application of the SCARF model. A psychologically safe culture is one where the default settings are rewarding to the social brain. It's an environment where:
-*   **Status** is high because people feel their voice is valued.
-*   **Certainty** is high because the rules of engagement are clear and fair.
-*   **Autonomy** is high because people are trusted to do their work.
-*   **Relatedness** is high because colleagues treat each other as "in-group" allies.
-*   **Fairness** is high because mistakes are treated as learning opportunities, not reasons for blame.
+Why? Because psychological safety is the systemic, group-level application of the SCARF model. A psychologically safe culture is one where the default settings are rewarding to the social brain. It's an environment where the five domains are consistently nurtured: Status is high because voices are valued; Certainty is high because rules are clear; Autonomy is high because people are trusted; Relatedness is high because colleagues are allies; and Fairness is high because mistakes are for learning, not blaming.
 
 As a leader, your job is to be the chief architect of this environment. You set the neurochemical weather for your entire team.
 
 #### **The Practice: The Cultural Blueprint**
 
-You cannot command a team to feel safe. You must design a system where safety is the natural output. This requires moving from personal protocols to systemic routines.
+You cannot command a team to feel safe. You must design a system where safety is the natural output. This requires moving from personal protocols to systemic routines. A simple metric for success is observing team behavior: Do junior members ask questions? Do people openly admit mistakes? The frequency of these small risks is a powerful indicator of the level of psychological safety.
 
 ---
 > ### **Case Study: Satya Nadella and Psychological Safety**
