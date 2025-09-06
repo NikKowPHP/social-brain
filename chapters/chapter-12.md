@@ -26,9 +26,9 @@ Treat feedback like fire: it can provide warmth (growth) or burn down a structur
 
 ***Investigator's Note:*** *I once received feedback from a manager that I was "intimidating" in meetings. My Architect brain immediately rejected the data as illogical. I wasn't trying to intimidate; I was trying to be efficient. I spent a week mentally building a case against his feedback. It was only when I forced myself to run the "Intake Protocol" on my own memory of the event—asking "what was the specific data point?"—that I had a breakthrough. I realized I would physically lean forward and narrow my eyes when I disagreed with someone's logic. I was broadcasting a non-verbal threat signal without even knowing it. The feedback wasn't an attack; it was a critical piece of data about my own system's unintended outputs.*
 
-#### **The Practice: Two Protocols for Learning**
+#### **The Practice: Three Protocols for Learning**
 
-To solve both problems, we need a protocol for giving feedback safely and a protocol for receiving it gracefully.
+To solve both problems, we need a protocol for giving feedback safely, a protocol for receiving it gracefully, and a protocol for making the change stick.
 
 **Protocol 1: The "Debug" Method (For Giving Feedback)**
 Instead of a "sandwich," run a collaborative debugging session.
@@ -40,12 +40,6 @@ Instead of a "sandwich," run a collaborative debugging session.
     *   *"What's your perspective on what happened?"*
     *   *"How might we ensure everyone feels safe to brainstorm, while still leveraging your ability to spot flaws?"*
 
-This feedback protocol is even more critical in our personal relationships, where the emotional stakes are higher. Your friend is consistently 20 minutes late, and it's driving you crazy. The default 'feedback sandwich' is a disaster: 'You're a great friend, but you're so disrespectful of my time, but I still value our friendship.' This only creates confusion and defensiveness. The 'Debug' protocol saves the relationship:
-1.  **Get Permission:** 'Hey, I wanted to talk about something that's on my mind regarding our plans. Is now a good time?' (Rewards Autonomy & Certainty).
-2.  **Share Data, Not Drama:** 'I've noticed that for our last three meetups, you've arrived about 20 minutes after we agreed. The data point is the time difference.' (Minimizes Status threat).
-3.  **Co-Create the Upgrade:** 'Is there something going on that's making it hard to get away? How can we plan things so we're both on the same page and not feeling stressed?' (Rewards Autonomy & Relatedness).
-This transforms a potential conflict into a collaborative problem-solving session.
-
 **Protocol 2: The "Intake" Method (For Receiving Feedback)**
 When someone gives *you* feedback, even if it's clumsy, your job is to find the valuable data inside the clumsy delivery.
 1.  **Regulate Your System First (Chapter 3):** As you feel the hot flush of a Status threat, take one silent **Conductor's Breath**. This is non-negotiable. Keep your own CEO online.
@@ -54,16 +48,20 @@ When someone gives *you* feedback, even if it's clumsy, your job is to find the 
     *   If they say: "You're just not being a team player."
     *   You ask: *"Thank you for sharing that. To help me understand, can you give me a specific example of when you saw that happen?"*
 
-This method calms your own threat response and transforms a potential conflict into a data collection session.
+**Protocol 3: The "Upgrade" Method (For Making Change Stick)**
+This protocol is for after you've received useful feedback. It uses the science of neuroplasticity to build a new habit.
+1.  **Define the Micro-Behavior:** You can't just "be less intimidating." That's too abstract. You must define a tiny, specific, observable action. *"When I start to feel the urge to interrupt in a meeting, I will take one silent sip of water."* This is your new "software patch."
+2.  **Create a Trigger:** Link the new behavior to a clear, existing cue. *"The trigger is the physical feeling of leaning forward in my chair."* When you notice the trigger, you execute the micro-behavior.
+3.  **Self-Acknowledge for Dopamine:** The moment you successfully execute the new behavior, you must create a small, internal reward. A simple mental acknowledgement like, *"Yes. I did it."* is enough. This tiny celebration releases a small amount of dopamine, which is the brain's signal for "That worked! Do that again." This is the chemical that tells your brain to myelinate the new neural pathway, turning a conscious effort into an unconscious habit.
 
 ---
 > ### **Neuro-Toolkit: The Only Sentence You Need When Receiving Feedback**
 >
-> When you feel the defensive heat of criticism, your brain will flood with a dozen explanations and justifications. Ignore them all. There is only one sentence you need to deploy. It is your shield and your learning tool all in one.
+> When you feel the defensive heat of criticism, your brain will flood with a dozen explanations. Ignore them all. There is only one sentence you need.
 >
 > **"Thank you for telling me that. To help me learn, can you give me a specific example?"**
 >
-> This phrase is a masterpiece of social neuroscience. "Thank you" rewards their Status. "To help me learn" frames you as a collaborator, not a defendant. "Can you give me an example?" calmly pushes past emotional drama to find the actionable data. Master this one sentence, and you will become unflappable in the face of criticism.
+> This phrase is a masterpiece of social neuroscience. "Thank you" rewards their Status. "To help me learn" frames you as a collaborator, not a defendant. "Can you give me an example?" calmly pushes past emotional drama to find the actionable data. Master this one sentence, and you will become unflappable.
 ---
 
 ### **Field Work Challenge**
@@ -84,11 +82,12 @@ Feedback is a primary social threat that the brain is wired to reject. Lasting c
 ---
 
 > **Investigator's Key:**
-> *"Stop giving feedback. Start a collaborative debugging session. Stop trying to break old habits; start building new ones."*
+> *"Stop giving feedback; start a collaborative debugging session. Stop trying to break old habits; start building new ones."*
 
 ---
 
 **The Immediate Practice:**
 1.  **To Give Feedback:** Use the "Debug" Protocol (Permission, Data, Co-Create).
-2.  **To Make Change Stick:** Use the "Upgrade" Protocol (Define Micro-Behavior, Create Trigger, Self-Acknowledge).
+2.  **To Receive Feedback:** Use the "Intake" Protocol (Regulate, Resist, Request Data).
+3.  **To Make Change Stick:** Use the "Upgrade" Protocol (Define Micro-Behavior, Create Trigger, Self-Acknowledge).
       

@@ -13,8 +13,6 @@ She is offering a perfect, logical strategy. But she notices something strange. 
 
 The connection has been broken. Maria, despite her good intentions, offered a brilliant solution but completely missed what Leo truly needed. In that moment, Maria realized Leo wasn't just a junior engineer; he was the orchestra's canary in the coal mine, a living barometer of the team's emotional state. Protecting his psychological safety was essential for everyone.
 
-> *Connection isn't a prelude to the solution; connection *is* the solution.*
-
 This "premature solution" bug is one of the most common viruses in parent-child communication. Your teenager comes home, throws their bag on the floor, and says, 'I completely failed my history test.' The Architect brain in the parent immediately boots up: 'Okay, we need a new study schedule. I'm hiring a tutor. Did you not do the reading?' We offer a perfect, logical strategy, but our child just shuts down. They didn't need a project manager; they needed a connection. The Empathy Switch—'Wow, that sounds incredibly frustrating. What's the hardest part for you right now?'—is the only way to debug that disconnection.
 
 ---
@@ -36,7 +34,7 @@ This is why Maria's perfectly logical help triggered Leo's defensive withdrawal.
 
 > ### **Investigator's Log: Mr. Fix-It vs. The Conductor**
 >
-> My wife used to call me "Mr. Fix-It," and it wasn't a compliment. The marketing director in that boardroom wasn't selling a better idea; he was creating a shared feeling. My 'Mr. Fix-It' brain, both at home and at work, was obsessed with solving the logical problem. He understood the real task was to connect with the emotional problem—the fear of losing a customer. He conducted the music of the room, while I was just shouting the notes. That was the day I realized connection isn't the prelude to the solution; it *is* the solution.
+> My wife used to call me "Mr. Fix-It," and it wasn't a compliment. I now realize why. In a conversation, my Architect brain was obsessed with solving the logical problem. The marketing director in that boardroom understood the real task was to connect with the emotional problem—the fear of losing a customer. He conducted the music of the room, while I was just shouting the notes. That was the day I realized connection isn't a prelude to the solution; connection *is* the solution.
 ---
 
 ### **System Alert: Is This Manipulation?**
@@ -121,9 +119,5 @@ Use the two-step **Empathy Loop** protocol.
 
 ---
 
-You now have the tools to regulate your own internal system and to build a genuine interface to someone else's. You can create a state of calm and a feeling of connection.
-
-But how do you make that feeling last? How do you create a secure connection that allows for the free flow of honest data?
-
-The next step is to move from temporary connection to lasting rapport. We are going to explore the surprising neuroscience of deep listening, and how the simple act of paying attention can change the chemistry of another person's brain.
+You now have the tools to regulate your own internal system and to build a genuine interface to someone else's. You can create a state of calm and a feeling of connection. The next step is to move from temporary connection to lasting rapport. We are going to explore the surprising neuroscience of deep listening, and how the simple act of paying attention can change the chemistry of another person's brain.
       

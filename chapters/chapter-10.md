@@ -95,15 +95,6 @@ Maria takes a Conductor's Breath and starts differently.
 She has successfully created the neurochemical conditions for a productive conversation to occur.
 
 ---
-> ### **Neuro-Toolkit: Three Phrases That Can Save a Conversation**
->
-> In a high-stress moment, you won't remember the theory. Memorize these three pocket scripts. They are lifelines that execute the Hijack Emergency Protocol for you.
->
-> 1.  **"Help me understand what's most important here for you."** (This is a perfect Empathy Switch that also rewards Status).
-> 2.  **"It sounds like you feel [X]. Is that right?"** (This is a perfect Playback that validates the feeling without agreeing to the content).
-> 3.  **"This is clearly important. Let's pause for a moment and make sure we get this right."** (This is a perfect way to Regulate your own system and Restore Autonomy to both parties).
----
-
 > ### **Neuro-Toolkit: Hard Mode Communication**
 >
 > A reader will inevitably ask: "But what if the other person is a manipulative actor who won't reciprocate?" It's a critical question. The toolkit is not about "fixing" other people. It's about conducting yourself skillfully, even when the other orchestra refuses to play. When facing a bad-faith actor, your goal changes from connection to self-preservation and clarity.
@@ -146,9 +137,5 @@ Run a "SCARF Diagnosis" before a tough conversation.
 
 ---
 
-You now have a diagnostic tool to prepare for and de-mine the most challenging conversations. You can navigate conflict with intention and skill.
-
-But all of these tools have been tested in the context of our own culture. What happens when our communication system has to interface with a completely different one?
-
-Our next step is to investigate how the brain adapts to the complex and nuanced worlds of group dynamics and cross-cultural communication.
+You now have a diagnostic tool to prepare for and de-mine the most challenging conversations. You can navigate conflict with intention and skill. But all these tools have been tested in the context of our own culture. The next challenge is to learn how to conduct when the orchestra is playing from a completely different sheet of music.
       

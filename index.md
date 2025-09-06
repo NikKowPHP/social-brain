@@ -7,6 +7,7 @@
 *   Architect Brain Profile (Chapters 1, 3, 5, 6, 8, 10, 14)
 *   Attention (Chapter 5)
 *   Autonomy (SCARF) (Chapters 2, 4, 10, 15)
+*   Automaticity (Chapter 14)
 
 **B**
 *   Brain Profiles (Chapter 1)
@@ -17,6 +18,7 @@
 *   Clarity Protocol (Chapter 8)
 *   Code-Switching (Chapter 11)
 *   Cognitive Load (Chapters 8, 11)
+*   Conductor's Paradox (Chapter 14)
 *   Connector Brain Profile (Chapters 1, 3, 5, 6, 8, 10, 14)
 *   Cortisol (Chapter 3, 5, 9, 10)
 *   Cross-Cultural Communication (Chapter 11)
@@ -91,6 +93,7 @@
     *   And, But, Therefore (ABT) Arc
 
 **T**
+*   30-Day Conductor's Challenge (Chapter 14)
 *   Threat Response (Chapters 2, 3, 10, 12)
 *   Trust (Chapter 6)
 

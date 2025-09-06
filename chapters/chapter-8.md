@@ -104,9 +104,5 @@ Execute the **Clarity Protocol**.
 
 ---
 
-You now have a protocol for transmitting information with crystal clarity, in a way that respects the biological limits of the human brain. Your message can now be received and understood.
-
-But what if a clear, logical message isn't enough? What if your goal isn't just to inform, but to inspire, persuade, and make an idea truly stick?
-
-To do that, we need to move beyond the brain's tiny workbench and engage its most ancient and powerful processing system: the engine of storytelling.
+You now have a protocol for transmitting information with crystal clarity, in a way that respects the biological limits of the human brain. Your message can now be received and understood. But what if a clear, logical message isn't enough? What if your goal isn't just to inform, but to inspire, persuade, and make an idea truly stick? To do that, we need to engage the brain's most ancient and powerful processing system: the engine of storytelling.
       

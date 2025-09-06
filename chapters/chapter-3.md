@@ -11,7 +11,7 @@ The review starts well, but then Maria says, "Overall, your work is solid. Howev
 
 The social pain alarm goes off.
 
-Mark’s heart rate quickens. That familiar hot flush creeps up his neck as if hot water is rising behind his ears. His hearing seems to narrow, the ambient sounds of the office fading into a low hum. His vision develops a subtle tunnel, with Maria's face becoming the only thing in sharp focus. His Sentinel Brain isn't just screaming; it's a physical vibration in his chest: *"Threat detected!"* He can feel a defensive, angry response bubbling up in his throat. He wants to interrupt, to list all the times his ideas were the right ones, to defend his reputation.
+Mark’s heart rate quickens. That familiar heat floods his face as if hot water is rising behind his ears. His hearing seems to narrow, the ambient sounds of the office fading into a low hum. His vision develops a subtle tunnel, with Maria's face becoming the only thing in sharp focus. His Sentinel Brain isn't just screaming; it's a physical vibration in his chest: *"Threat detected!"* He can feel a defensive, angry response bubbling up in his throat. He wants to interrupt, to list all the times his ideas were the right ones, to defend his reputation.
 
 He is at a critical fork in the road. One path leads to a defensive argument that will prove Maria’s point and damage their relationship. The other path leads to a productive conversation that could change the course of his career.
 
@@ -98,7 +98,5 @@ An emotional reaction (an "amygdala hijack") is a biological process that impair
 
 You now have the tool to manually override your own internal alarm state. You've learned how to keep your orchestra playing harmoniously, even when the outside world feels chaotic.
 
-Once you can create this space of internal calm, an incredible new capacity opens up: the ability to stop focusing on your own system alerts and turn your full attention outward. You gain the ability to truly, deeply listen to the music being played by someone else.
-
-But what does it really mean to understand another person's mind? How do we build that interface? As I found in my research, the answer lies in a remarkable set of "mirror" cells in your brain.
+Once you can create this space of internal calm, an incredible new capacity opens up: the ability to stop focusing on your own system alerts and turn your full attention outward. You gain the ability to truly, deeply listen to the music being played by someone else. But what does it really mean to understand another person's mind? As my research revealed, the answer lies in a remarkable set of "mirror" cells in your brain.
       

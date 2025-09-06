@@ -1,7 +1,7 @@
 ### **Chapter 9: Making It Stick**
 #### The Neuroscience of Storytelling
 
-For a long time, my approach to persuasion was a simple, logical process: assemble the best data, arrange it in an airtight argument, and present it. As an Architect, I believed that the best data would always win. And I was consistently baffled when it didn't.
+For a long time, my approach to persuasion was a simple, logical process: assemble the best data, arrange it in an airtight argument, and present it. As an Architect, I believed that the best data would always win. I was consistently baffled when it didn't.
 
 Let's look at a case study. Our engineer, Mark, a brilliant data analyst, needs to convince his leadership team to invest in a new data-security protocol. He prepares a flawless presentation. He has charts showing a 35% increase in phishing attempts, industry benchmarks, and a detailed cost-benefit analysis. As a classic Architect, he presents the data with precision and clarity.
 
@@ -111,9 +111,5 @@ Use the "Tension & Resolution" Arc (And, But, Therefore).
 
 ---
 
-You are now equipped with a protocol to make your ideas not just clear, but memorable, influential, and persuasive. You can connect with another person's mind and leave a lasting impression.
-
-But what if the idea you need to communicate is inherently difficult? What if it's not a proposal, but a piece of negative feedback? What if the conversation is guaranteed to be involve conflict?
-
-To handle that, we need to combine all our tools. Our next step is to investigate the most challenging scenario of all: navigating a difficult conversation without causing the system to crash.
+You are now equipped with a protocol to make your ideas not just clear, but memorable and influential. You can connect with another person's mind and leave a lasting impression. But what if the idea you need to communicate is inherently difficult? What if the conversation is guaranteed to involve conflict? To handle that, we need our most powerful diagnostic tool.
       

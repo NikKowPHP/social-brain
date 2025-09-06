@@ -3,9 +3,7 @@
 
 Welcome.
 
-As a programmer, I learned a fundamental rule early on: you never start fixing code until you understand the system. You don't guess; you diagnose.
-
-The same is true for the human brain. Our journey to becoming the conductor of our own orchestra starts with that same essential step: diagnostics. Before we can lead the musicians, we must first get to know them.
+As a programmer, I learned a fundamental rule early on: you never start fixing code until you understand the system. You don't guess; you diagnose. The same is true for the human brain. Our journey to becoming the conductor of our own orchestra starts with that same essential step: diagnostics. Before we can lead the musicians, we must first get to know them.
 
 My goal here is simple: to provide a mirror that helps you see the underlying patterns in your own social operating system. This is not a test. There are no right or wrong answers, no good or bad scores. There is only self-awareness. This diagnostic is a snapshot of your brain's current tendencies—its incredible, innate superpowers and its hidden blind spots or "growth edges."
 
@@ -70,7 +68,7 @@ So, what did you discover? Take a moment to look at your responses. Most of us h
 
 **What if your results are a balanced mix?**
 If you found yourself with a near-even split, you don't have one dominant style—you have what's known as an **Adaptive Profile**. Your superpower is situational fluency; you can access the logic of the Architect, the empathy of the Connector, and the instincts of the Sentinel as needed. You are the versatile conductor who is comfortable leading every section of the orchestra.
-*   **Your Growth Edge:** Your adaptability is your greatest strength, but it can hide a sophisticated challenge. Your risk is not just being a social "chameleon," but a potential lack of a strong, authentic core. You might adapt to a dysfunctional system rather than conducting it toward a healthier state, or enable bad behavior by over-empathizing with it. Your focus for this book will be on choosing your response with *intention* rather than by default, becoming a master conductor, not just a mirror.
+*   **Your Growth Edge:** Your adaptability is your greatest strength, but it can hide a sophisticated challenge. Your risk is not just being a social "chameleon," but a potential lack of a strong, authentic core. For instance, I once coached a brilliant consultant with an Adaptive profile. Her team was struggling with a toxic, Sentinel-brained client. Instead of conducting the situation towards a healthier state, her adaptability caused her to *mirror* the client's anxiety, enabling his bad behavior by over-empathizing with his perceived threats. Your focus for this book will be on choosing your response with *intention* rather than by default, becoming a master conductor, not just a mirror.
 
 ---
 *"Pause for a moment and consider your result. Does it resonate? Think of a recent difficult conversation. Did your dominant profile show up? The first step to conducting the orchestra is simply to hear the music it's already playing."*

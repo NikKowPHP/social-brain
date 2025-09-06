@@ -3,9 +3,9 @@
 
 For years, I believed that if I mastered one-on-one communication, the rest would take care of itself. Then I had to lead a high-stakes project meeting, and I discovered a terrifying truth: a group is not just a collection of individuals. It is a complex, emergent system with its own neurochemistry. One person's amygdala hijack can infect the entire room in seconds, turning a productive planning session into a chaotic mess.
 
-This doesn't just happen in a glass-walled conference room. It happens in a parent-teacher association meeting where a controversial new policy is being debated. It happens in a non-profit's volunteer planning session when deciding how to allocate a tight budget. It happens in a family discussion about a difficult topic.
+This doesn't just happen in a conference room. It happens in a parent-teacher association meeting debating a controversial policy. It happens in a non-profit's volunteer session allocating a tight budget. It happens in a family discussion about a difficult topic.
 
-The most common "performance space" for any leader is the group meeting—whether it's a corporate board, a non-profit committee, or a family council. It is the conductor's primary stage. All the tools we have assembled—self-regulation, empathy, SCARF, storytelling—are essential, but they must be integrated and deployed in a new, more complex environment.
+The most common "performance space" for any leader is the group meeting. It is the conductor's primary stage. All the tools we have assembled—self-regulation, empathy, SCARF, storytelling—are essential, but they must be integrated and deployed in a new, more complex environment.
 
 This forced a new investigation: **How do you conduct the collective brain of a group?** The answer is that you must treat the meeting itself as a system to be designed, not an event to be endured.
 
@@ -31,7 +31,7 @@ A great performance starts long before the curtain rises.
     *   **Autonomy & Status:** Frame agenda items as questions to be discussed, not proclamations to be heard (e.g., "Brainstorm options for Q3" instead of "Q3 plan review"). This signals that attendees are valued participants, not just an audience.
 
 **2. During the Meeting: Conducting the Music**
-*   **The Opening (The Downbeat):** The first two minutes set the neurochemical weather. Start by creating safety, just as Maria did in our earlier case study.
+*   **The Opening (The Downbeat):** The first two minutes set the neurochemical weather. Start by creating safety.
     *   Restate the meeting's single purpose (**Certainty**).
     *   Clarify the rules of engagement: "We need everyone's perspective, especially dissenting ones." (**Status, Relatedness**).
 *   **Handling Dissent (Tuning the Instruments):** When disagreement arises, a conductor doesn't silence it; they tune it. Your tool here is the **Empathy Loop (Chapter 4)**, performed for the group.

@@ -3,7 +3,7 @@
 
 The human brain's social operating system has universal hardware. Everyone has an amygdala. Everyone's brain tracks the five SCARF domains. But culture—whether in a country or a company—is the software running on top. And trying to run your software on their hardware without a compatibility check is a recipe for a system crash. My first project with our team in Tokyo was that crash.
 
-In a planning meeting, I gave some direct, blunt feedback on a design mock-up. It was the kind of feedback my Architect brain sees as efficient and helpful. To my colleagues in California and Poland, it was normal. To the design team in Tokyo, it was a disaster. The lead designer went quiet for the rest of the meeting. Later, I learned from the project manager that my public critique had been perceived as a deeply disrespectful attack on the team's status, causing a significant loss of face.
+In a planning meeting, I gave some direct, blunt feedback on a design mock-up. It was the kind of feedback my Architect brain sees as efficient and helpful. To my colleagues in California, it was normal. To the design team in Tokyo, it was a disaster. The lead designer went quiet for the rest of the meeting. Later, I learned from the project manager that my public critique had been perceived as a deeply disrespectful attack on the team's status, causing a significant loss of face.
 
 My code, which worked perfectly in one environment, crashed the entire system in another. This forced a new line of investigation: **How can our tools be universal if human behavior is so variable?**
 
@@ -14,7 +14,7 @@ The answer lies in one of the most important distinctions I ever learned: the di
 *   In some cultures, making direct eye contact is a signal of respect (a **Relatedness** reward). In others, it's a sign of aggression (a **Relatedness** threat).
 *   In some teams, interrupting with a better idea is a sign of engagement (a **Status** reward). In others, it's a grave insult (a **Status** threat).
 
-The brain's need to navigate these differences is deeply rooted in the neuroscience of in-groups and out-groups. Your brain's primary survival function is to quickly determine who is "us" and who is "them." When you enter a new group, your brain is on high alert, scanning for the local rules to figure out how to become part of the "in-group" and avoid the social pain of being in the "out-group."
+The brain's need to navigate these differences is deeply rooted in the neuroscience of in-groups and out-groups. Your brain's primary survival function is to quickly determine who is "us" and who is "them." When you enter a new group, your brain is on high alert, scanning for the local rules to figure out how to become part of the "in-group" and avoid the social pain of being in the "out-group." Oxytocin, the trust molecule we met in Chapter 6, plays a key role here, increasing trust for "us" but defensiveness towards "them."
 
 ***Investigator's Note:*** *This was the final piece of the puzzle for me. I had been trying to find a single communication protocol that would work on all systems. I now understand that my job isn't to have one perfect protocol, but to have a meta-protocol for rapidly learning the local rules of any new system I encounter.*
 
@@ -29,7 +29,7 @@ Based on your observations, form a simple hypothesis about the local "software."
 
 **3. Test (Run a Small Experiment).**
 Do not try to change your entire personality. Run a small, low-risk experiment to test your hypothesis.
-*   If you hypothesize that feedback is private, send a private message to one person after the meetaing instead of saying it publicly. Observe the result.
+*   If you hypothesize that feedback is private, send a private message to one person after the meeting instead of saying it publicly. Observe the result.
 
 This loop—Observe, Calibrate, Test—transforms you from a passive participant into an active, intelligent investigator. Your brain profile will influence how you run this protocol. An **Architect**'s risk is assuming logic is universal; a **Connector** might over-mirror the group and lose their voice; a **Sentinel** may be over-sensitive to threats in a new environment. Awareness of your tendency is the first step to adapting skillfully.
 
@@ -72,9 +72,5 @@ Run the three-step "Adaptation Protocol" when in a new group.
 
 ---
 
-You now have a protocol for adapting your entire toolkit to new and complex social environments. You can navigate the nuanced worlds of teams, companies, and cultures with awareness and skill.
-
-But how do we ensure these new skills stick? How do we use our knowledge to not only improve our own communication, but to help others improve as well?
-
-Our final step in the toolkit is to investigate the neuroscience of learning and feedback—the system that allows us to debug and upgrade our own social software for a lifetime.
+You now have a protocol for adapting your entire toolkit to new and complex social environments. You can navigate the nuanced worlds of teams, companies, and cultures with awareness and skill. But how do we ensure these new skills stick? How do we use our knowledge to not only improve our own communication, but to help others improve as well? Our final step in the toolkit is to investigate the neuroscience of learning and feedback.
       

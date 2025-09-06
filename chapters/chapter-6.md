@@ -16,16 +16,16 @@ Often called the "bonding hormone" or the "trust molecule," oxytocin is the biol
 Here's what it does:
 *   **It Reduces Fear:** Oxytocin directly dampens the activity in your amygdala (the brain's security guard), making you less likely to have a defensive threat response.
 *   **It Increases Generosity and Empathy:** In classic experiments, participants given a nasal spray of oxytocin were significantly more willing to entrust their money to a stranger. It biologically primes us for collaboration.
-*   **It Promotes "In-Group" Bonding:** Oxytocin helps us create strong bonds with people we perceive as part of our tribe. It's the neurochemical glue that holds teams and families together.
+*   **It Promotes "In-Group" Bonding:** Oxytocin is the neurochemical glue that holds teams and families together.
 
 ***Investigator's Note:*** *My disastrous first attempt at 'calibrated vulnerability' is burned into my memory. I was at a networking dinner with a potential client I wanted to impress. I had just learned about this research and decided to "accelerate trust." So, I blurted out a story about a major coding mistake I'd made on a past project, thinking it would make me seem human and relatable. Instead, a deeply awkward silence fell over the table. My 'ping' wasn't a small, safe signal; it was a cannonball. I hadn't established any shared context or warmth. I just dumped an inappropriate amount of information into a formal environment. It was a painful but critical lesson: vulnerability is not about oversharing. It's about calibrating the signal to the context, sending a small, safe test, and patiently waiting for the echo.*
 
 ---
-### **System Alert: The Double-Edged Sword of Oxytocin**
-
-It's crucial to understand that oxytocin is not a "love everybody" hormone. It's a "bond with my tribe" hormone. Research shows that while oxytocin increases trust and generosity towards people we perceive as part of our **in-group**, it can actually *decrease* cooperation and increase defensiveness towards those we see as part of an **out-group**.
-
-This is a critical survival feature. The implication is profound: the techniques in this chapter are for building bridges and creating a shared "in-group." But be aware that strong team bonding can, if not managed carefully, lead to the creation of organizational silos and an "us vs. them" mentality with other teams. A true conductor knows how to build trust both within the orchestra and with the audience.
+> ### **System Alert: The Double-Edged Sword of Oxytocin**
+>
+> It's crucial to understand that oxytocin is not a universal "love hormone." It's a "bond with my tribe" hormone. Research shows that while oxytocin increases trust and generosity towards people we perceive as part of our **in-group**, it can actually *decrease* cooperation and increase defensiveness towards those we see as part of an **out-group**.
+>
+> This is a critical survival feature that explains everything from team silos to nationalism. The implication for a conductor is profound: the techniques in this chapter are for building bridges and creating a shared "in-group." But be aware that strong team bonding can, if not managed carefully, lead to the creation of organizational silos and an "us vs. them" mentality with other teams. A true conductor knows how to build trust both within the orchestra and with the audience.
 ---
 > ### **Myth vs. Reality: The Trust Paradox**
 >
