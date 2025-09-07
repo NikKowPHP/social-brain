@@ -43,7 +43,7 @@ When you are telling a compelling story, the listener's brain is not just passiv
 ---
 > ### **Conductor's Confession: My Boardroom Disaster and the Replay**
 >
-> The story I told in the introduction about being publicly humiliated was, for a long time, a source of shame. Now I see it as the most valuable bug report I ever received. Let me give you the full detail.
+> This personal failure was the bug report that started my entire investigation, just as Maria's struggles sparked hers. The story I told in the introduction about being publicly humiliated was, for a long time, a source of shame. Now I see it as the most valuable bug report I ever received. Let me give you the full detail.
 >
 > **The Failure:** My presentation was a 40-slide monument to data. I showed spreadsheets, growth charts, and a flawless logical argument for why we needed to rebuild our database architecture. I ended my presentation and asked for questions. There was a polite, dead silence in the room, the kind that feels heavy. Then, a marketing executive named David stood up. He said, "I hear the data, but it's not sticking. Let me tell you about Sarah." He spent two minutes telling a story about a single, loyal customer who had a terrible experience because our slow database caused her order to be lost. He painted a picture of her frustration, her disappointment, and her decision to leave us for a competitor. As he spoke, I could feel the energy in the room shift. People who had been looking at their notes were now looking at him, some nodding. The air went from stale to charged. At the end, he said, "This isn't a database problem. It's a 'we're breaking our promise to Sarah' problem."
 >
@@ -112,4 +112,3 @@ Use the "Tension & Resolution" Arc (And, But, Therefore).
 ---
 
 You are now equipped with a protocol to make your ideas not just clear, but memorable and influential. You can connect with another person's mind and leave a lasting impression. But what if the idea you need to communicate is inherently difficult? What if the conversation is guaranteed to involve conflict? To handle that, we need our most powerful diagnostic tool.
-      

@@ -12,7 +12,7 @@ He spent the next two hours in a state of low-grade anxiety, checking his inbox 
 
 Mark's neck prickled with heat as his stomach knotted. For a moment, his screen seemed to blur. He wasn’t thinking about the project's data anymore. He was thinking, *"She thinks I'm incompetent. I failed."* The detailed feedback he needed was absent; the feeling of rejection was overwhelming.
 
-This bug doesn't just corrupt our professional code. Consider the text message from a partner or a close friend. You send a thoughtful, multi-line message, and the reply you get back is simply: **'Fine.'** The physical sensation—that knot in your stomach, that wave of cold dread—is identical to the one Mark felt. Your brain's social pain alarm doesn't distinguish between your boss and your partner; it simply registers a social threat.
+This bug doesn't just corrupt our professional code. Consider the text message from a partner or a close friend. You send a thoughtful, multi-line message, and the reply you get back is simply: **'k.'** The physical sensation—that knot in your stomach, that wave of cold dread—is identical to the one Mark felt. Your brain's social pain alarm doesn't distinguish between your boss and your partner; it simply registers a social threat.
 
 This feeling is not weakness. It is not "being too sensitive." It is a biological alarm, as real and as primitive as the pain of touching a hot stove. When I was trying to deconstruct the "bug" in Mark's story, I kept coming across a single, foundational piece of research that was so counter-intuitive it felt like finding a hidden master key. It explains everything.
 
@@ -75,4 +75,3 @@ Become a "Social Pain Detective." When you see a defensive reaction (in yourself
 ---
 
 We now understand the alarm system. We know why a harsh word can hijack our entire nervous system and why Mark's reaction was so powerful. But knowing the alarm exists is not the same as controlling it. What happens when that bell starts ringing in the middle of a high-stakes conversation? How do you, the conductor, keep the orchestra from descending into chaos? The answer lies not in ignoring the alarm, but in learning how to skillfully turn down its volume. Our next step is to master the art of emotional self-regulation, the first true act of a conductor.
-      

@@ -7,11 +7,11 @@ To answer that, we need to look at the architecture of the brain during a high-s
 
 Mark is in his annual performance review with his boss, Maria. He’s prepared, but he catches himself wiping his damp palms on his trousers for the third time. Maria is nervous, too. She knows this is a difficult conversation, and in the past, interactions like this with Mark have gone poorly, leaving her feeling flustered and ineffective. This is a moment where she needs to conduct her own orchestra before she can lead anyone else's.
 
-The review starts well, but then Maria says, "Overall, your work is solid. However, I’ve received feedback that in team meetings, you can come across as dismissive of others' ideas, which is impacting collaboration."
+The review starts well, but then Maria says, "Overall, your work is solid. However, I’ve gotten some feedback that in team meetings, you can come across as dismissive of others' ideas, which is impacting collaboration."
 
 The social pain alarm goes off.
 
-Mark’s heart rate quickens. That familiar heat floods his face as if hot water is rising behind his ears. His hearing seems to narrow, the ambient sounds of the office fading into a low hum. His vision develops a subtle tunnel, with Maria's face becoming the only thing in sharp focus. His Sentinel Brain isn't just screaming; it's a physical vibration in his chest: *"Threat detected!"* He can feel a defensive, angry response bubbling up in his throat. He wants to interrupt, to list all the times his ideas were the right ones, to defend his reputation.
+Mark’s heart rate quickens. A familiar heat floods his face as if hot water is rising behind his ears. His hearing seems to narrow, the ambient sounds of the office fading into a low hum. His vision develops a subtle tunnel, Maria's face the only thing in sharp focus. His Sentinel Brain isn't just screaming; it's a physical vibration in his chest: *"Threat detected!"* A defensive, angry response bubbles up in his throat. He wants to interrupt, to list all the times his ideas were the right ones, to defend his reputation. *She's calling me a bad teammate,* he thinks. *After all the nights I've stayed late fixing other people's bugs?*
 
 He is at a critical fork in the road. One path leads to a defensive argument that will prove Maria’s point and damage their relationship. The other path leads to a productive conversation that could change the course of his career.
 
@@ -62,7 +62,7 @@ This manual override isn't just for performance reviews. It's for the flash of a
 **3. Practice in Peacetime, Not Just in Battle.**
 A final, crucial point from my investigation: do not wait for a crisis to practice this. You cannot learn to use a fire hose in the middle of a five-alarm fire. Your "Field Work Challenge" is your real training. Practice the Conductor's Breath a few times a day when you are perfectly calm—waiting for code to compile, sitting at a red light. By doing this, you are building a new neural pathway. You are grooving the connection to your vagus nerve so that when the real alarm bell rings, your brain already knows the path to safety.
 
-Let's go back to Mark. He feels the heat rise in his neck. This is the system alert. He executes the "Conductor's Breath" function (it's completely silent). The CEO begins to come back online. Instead of blurting out a defensive reaction, he is able to pause and say, "That's difficult to hear, but I want to understand. Can you give me an example?"
+Let's go back to Mark. He feels the heat rise in his neck. This is the system alert. He executes the "Conductor's Breath" function (it's completely silent). The CEO begins to come back online. Instead of blurting out a defensive reaction, he is able to pause and say, "Okay. That's... tough to hear. Can you give me an example?"
 
 He has just debugged a social catastrophe before it even started.
 
@@ -97,4 +97,3 @@ An emotional reaction (an "amygdala hijack") is a biological process that impair
 ---
 
 You now have the tool to manually override your own internal alarm state. You've learned how to keep your orchestra playing harmoniously, even when the outside world feels chaotic. Once you can create this space of internal calm, an incredible new capacity opens up: the ability to stop focusing on your own system alerts and turn your full attention outward. You gain the ability to truly, deeply listen to the music being played by someone else. But what does it really mean to understand another person's mind? As my research revealed, the answer lies in a remarkable set of "mirror" cells in your brain.
-      

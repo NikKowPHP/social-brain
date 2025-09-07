@@ -5,16 +5,16 @@ For most of my life as a programmer, I treated emotions as bugs that needed to b
 
 Let's look at a case study I call "The Premature Solution."
 
-Our manager, Maria, is learning to be a better conductor. Her junior engineer, Leo, a natural Connector, comes to her one evening, clearly distressed. "I'm so frustrated," he says. "My project idea was just shot down in the architecture review—the one I've been working on for a month. They didn't even seem to listen to the pitch."
+Our manager, Maria, is learning to be a better conductor. Her junior engineer, Leo, a natural Connector, comes to her one evening, clearly distressed. "I'm so frustrated," he says, his voice tight. "My project idea was just shot down in the architecture review—the one I've been working on for a month. They didn't even seem to listen."
 
-Maria's Architect brain immediately boots up. As a manager, she sees a problem, and her instinct is to solve it. "Okay," she says, leaning forward. "First, did you document their objections in an email? Second, we need to create a new presentation that preemptively counters their main arguments. Third, have you considered going to the senior director with the data?"
+Maria's Architect brain immediately boots up. As a manager, she sees a problem, and her instinct is to solve it. *"Okay, problem identified. Deploy solution,"* she thinks. "Right," she says, leaning forward. "First, did you document their objections in an email? Second, we need to create a new presentation that preemptively counters their main arguments. Third, have you considered going to the senior director with the data?"
 
-She is offering a perfect, logical strategy. But she notices something strange. The connection evaporates. Leo isn't looking relieved. He's withdrawing, his shoulders slumping. "Yeah, I guess," he mutters, looking at the floor. The connection broke.
+She is offering a perfect, logical strategy. But she notices something strange. The connection evaporates. Leo isn't looking relieved. He's withdrawing, his shoulders slumping. "Yeah... I guess," he mutters, looking at the floor. The connection broke.
 
-Now let's replay that with the toolkit. Imagine the new Maria. She takes a Conductor's Breath, resists the urge to fix, and instead flips the Empathy Switch.
+Now let's replay that with the toolkit. Imagine the new Maria. She feels the urge to fix, but she recognizes it. *"The old me would have jumped in with a solution. Breathe. Connect first."* She takes a Conductor's Breath and flips the Empathy Switch.
 **Maria:** "Ugh, that sounds awful. What was the hardest part about that for you?"
 **Leo:** "The hardest part was that I felt completely invisible."
-**Maria:** "So it wasn't just about the idea, it was about them making you feel... invisible. Is that right?"
+**Maria:** "So, it wasn't just the idea. It was that feeling of... of being invisible. Did I get that right?"
 Leo nods, and this time, his shoulders relax. The connection is rebuilt. Now, and only now, can they begin to solve the problem together.
 
 This "premature solution" bug is one of the most common viruses in parent-child communication. Your teenager comes home, throws their bag on the floor, and says, 'I completely failed my history test.' The Architect brain in the parent immediately boots up: 'Okay, we need a new study schedule. I'm hiring a tutor. Did you not do the reading?' We offer a perfect, logical strategy, but our child just shuts down. They didn't need a project manager; they needed a connection. The Empathy Switch—'Wow, that sounds incredibly frustrating. What's the hardest part for you right now?'—is the only way to debug that disconnection.
