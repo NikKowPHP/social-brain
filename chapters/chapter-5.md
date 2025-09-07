@@ -24,7 +24,7 @@ This signal of safety does two extraordinary things:
 
 In short, deep listening is not a soft skill. It is a biological intervention. You are actively changing the neurochemical state of the other person's brain, moving it from a state of threat to a state of trust.
 
-***Investigator's Note:*** *This discovery was a game-changer for me. As an Architect, I used to think of listening as the passive process of downloading data before it was my turn to speak. I now understand it is an active process of creating the neurochemical conditions for honest data to be shared in the first place.*
+***Investigator's Note:*** *Maria learned this the hard way. During a one-on-one, Leo was explaining a complex dependency issue. As he spoke, Maria was half-listening, but also mentally planning her next meeting and glancing at the Slack notifications on her second monitor. She noticed Leo's energy fade. He trailed off mid-sentence and said, "…anyway, it's probably not a big deal." The connection was broken. She had failed to give him the most valuable thing she possessed: her undivided attention. That was the day she realized deep listening wasn't a passive activity, but an active broadcast of the signal, "You matter."*
 
 ---
 ### **System Alert: Broadcasting Presence in a Digital World**
@@ -38,7 +38,7 @@ These primal signals of safety and threat don't disappear when we're behind a sc
     *   **Use 'Digital Prosody':** Text has no tone of voice, so you must add it back in. A well-chosen emoji or an exclamation point isn't unprofessional; it's a critical tool for replacing a smile or a reassuring tone, reducing the threat of misinterpretation.
     *   **Manage Expectations (Certainty):** The biggest threat in chat is a long, unexplained silence. It creates a vacuum of uncertainty. Replace this threat with the reward of certainty by explicitly stating your timeline: "In a meeting, will get back to you after" or "Good question, let me think on that for 10 mins."
 ---
-*"Take a moment to reflect on your own digital presence. On your last video call, how many other tabs did you have open? When was the last time a 'k' or 'ok' text message left you feeling uncertain? Recognizing the threat potential in these small digital habits is the first step toward becoming a better digital conductor."*
+> *"Take a moment to reflect on your own digital presence. On your last video call, how many other tabs did you have open? When was the last time a 'k' or 'ok' text message left you feeling uncertain? Recognizing the threat potential in these small digital habits is the first step toward becoming a better digital conductor."*
 ---
 
 #### **The Practice: Broadcast a "Signal of Presence"**
@@ -53,7 +53,7 @@ How you broadcast this signal is often filtered through your dominant profile.
 
 For every profile, the goal is the same: to use these tools with intention to create a state of safety for the other person.
 
-**1. Point the Tripod of Attention.** Think of your attention as a tripod with three legs: your eyes, your head, and your torso. Intentionally and gently aim the tripod at the person you are with. If you are in a tense conversation, leaning in slightly sends an even stronger signal of engagement.
+**1. Point the Tripod of Attention.** Think of your attention as a tripod with three legs: your eyes, your head, and your torso. Intentionally and gently aim the tripod at the person you are with. If you are in a tense conversation, leaning in slightly sends an even stronger signal of engagement. This also includes subtle mirroring of posture—not mimicry, but a gentle alignment that signals "I'm with you."
 
 **2. Master the "Intelligent Pause."** After they finish a thought, wait a full one or two seconds before you respond. This proves you were absorbing, not just waiting for your turn to speak.
 
@@ -91,4 +91,3 @@ Broadcast a "Signal of Presence."
 ---
 
 By creating a regulated state within yourself and broadcasting powerful signals of presence to others, you create the neurochemical foundation for trust. You have calmed the system and established a secure connection. But how do we build on that foundation? How do we consciously cultivate the rapport that makes difficult conversations possible? Our next step is to investigate the brain's bonding chemical and the subtle signals that create a state of deep and lasting trust.
-      

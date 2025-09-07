@@ -1,7 +1,7 @@
 ### **Chapter 15: The Conductor's Legacy**
 #### Building a Psychologically Safe Culture
 
-Our investigation has, until now, focused on the individual conductor. We have learned to manage our own orchestra and to interface skillfully with others, one-on-one. But the ultimate expression of this work is not just to navigate the existing environment, but to *create* a new one.
+Maria's investigation has, until now, focused on her skills as an individual conductor. She has learned to manage her own orchestra and to interface skillfully with others, one-on-one. But she realized the ultimate expression of her work was not just to navigate the existing environment, but to *create* a new one for her team.
 
 A true conductor doesn't just lead the orchestra; they build it. They create an environment where every musician feels safe enough to play their best, take creative risks, and point out when something is out of tune. This is the final and most profound application of our toolkit: designing a team's entire social operating system.
 
@@ -9,13 +9,13 @@ A true conductor doesn't just lead the orchestra; they build it. They create an 
 
 The work of Harvard researcher Amy Edmondson has given a name to this optimal environment: **psychological safety**. It is a shared belief held by members of a team that the team is safe for interpersonal risk-taking. It is the single greatest predictor of high-performing, innovative teams.
 
-Why? Because psychological safety is the systemic, group-level application of the SCARF model. A psychologically safe culture is one where the default settings are rewarding to the social brain. It's an environment where the five domains are consistently nurtured: Status is high because voices are valued; Certainty is high because rules are clear; Autonomy is high because people are trusted; Relatedness is high because colleagues are allies; and Fairness is high because mistakes are for learning, not blaming.
+Why? Because psychological safety is the systemic, group-level application of the SCARF model we discussed in Chapter 10. A psychologically safe culture is one where the default settings are rewarding to the social brain. It's an environment where the five domains are consistently nurtured: Status is high because voices are valued; Certainty is high because rules are clear; Autonomy is high because people are trusted; Relatedness is high because colleagues are allies; and Fairness is high because mistakes are for learning, not blaming.
 
 As a leader, your job is to be the chief architect of this environment. You set the neurochemical weather for your entire team.
 
 #### **The Practice: The Cultural Blueprint**
 
-You cannot command a team to feel safe. You must design a system where safety is the natural output. This requires moving from personal protocols to systemic routines. A simple metric for success is observing team behavior: Do junior members ask questions? Do people openly admit mistakes? The frequency of these small risks is a powerful indicator of the level of psychological safety.
+Maria couldn't command Mark, Leo, and Jane to feel safe. She had to design a system where safety was the natural output. This requires moving from personal protocols to systemic routines. A simple metric for success is observing team behavior: Do junior members like Leo ask questions? Do people like Mark and Jane openly admit mistakes? The frequency of these small risks is a powerful indicator of the level of psychological safety.
 
 ---
 > ### **Case Study: Satya Nadella and Psychological Safety**
@@ -31,7 +31,7 @@ You cannot command a team to feel safe. You must design a system where safety is
 > By changing the "local software" of Microsoft's culture, Nadella created the conditions for a massive surge in innovation and market value. He acted as the conductor, creating the environment for the orchestra to thrive.
 ---
 
-1.  **Model Calibrated Vulnerability (Chapter 6):** Safety starts at the top. The single fastest way to create it is for the leader to demonstrate it. Start your next team meeting by sharing a small, professional vulnerability. *"I was wrong about my initial timeline estimate on the X project, and I've learned we need to be more conservative. That's on me."* This isn't weakness; it is a powerful broadcast signal that it's safe for others to be human.
+1.  **Model Calibrated Vulnerability (Chapter 6):** Safety starts at the top. The single fastest way to create it is for the leader to demonstrate it. Maria started her next team meeting by sharing a small, professional vulnerability. *"I was wrong about my initial timeline estimate on the X project, and I've learned we need to be more conservative. That's on me."* This isn't weakness; it is a powerful broadcast signal that it's safe for others to be human.
 2.  **Systematize SCARF Rewards (Chapter 10):** Intentionally design your team's routines to reward the social brain.
     *   **To reward Status:** Begin every project debrief by having each person share one thing they are proud of *before* discussing what went wrong.
     *   **To reward Certainty:** Create and share a clear agenda for every meeting. End every meeting by stating the clear, concrete next steps.
@@ -40,4 +40,3 @@ You cannot command a team to feel safe. You must design a system where safety is
     *   **Do ask:** *"What did we learn from this, and how can we use that learning to make our next experiment better?"* (Frames the work as collaborative discovery).
 
 By implementing these routines, you are doing more than managing people; you are nurturing their brains. You are creating the conditions for brilliance to emerge. This is the conductor's true legacy.
-      

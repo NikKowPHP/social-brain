@@ -51,24 +51,24 @@ When you are telling a compelling story, the listener's brain is not just passiv
 >
 > **The Replay:** For years, I replayed that moment. If I could do it again, knowing what I know now, how would I have conducted that performance?
 >
-> I wouldn't have started with 40 slides of data. I would have opened with the **Tension & Resolution Arc**.
+> I wouldn't have started with 40 slides of data. I would have opened by explicitly using the **Tension & Resolution Arc.**
 >
 > *"Team, for five years we have built a reputation for being the most reliable platform for customers like Sarah (**AND**). We promise them a seamless experience, and they reward us with their loyalty. **BUT** our underlying architecture is getting old. Last month, that aging system caused us to lose Sarah's order, and she left us for our biggest competitor. We broke our promise to her. **THEREFORE**, I'm proposing a project to rebuild our architecture, not just for better performance, but to ensure we never break our promise to another 'Sarah' again."*
 >
 > Same data. Same conclusion. But by wrapping it in a story, I would have transformed it from a dry technical issue into a mission to uphold the company's core values. That is the work of a conductor.
 ---
 
-#### **The Practice: Use the "Tension & Resolution" Arc**
-
-You do not need to be a great novelist to leverage this system. You just need a simple, repeatable protocol for wrapping your data in a narrative structure. The most powerful and simple structure is the **Tension & Resolution Arc**. It has three parts: And, But, Therefore (ABT).
-
-[AUTHOR'S NOTE: This is a perfect spot for a simple line graph diagram. The Y-axis is "Tension" and the X-axis is "Time." The line starts low for "And," rises sharply for "But," and falls for "Therefore," visually representing the Tension & Resolution arc.]
-
 ***Investigator's Note: How to Choose Your Tool***
 At this point, you might be wondering when to use the "Clarity Protocol" from the last chapter and when to use a story. This was a critical question in my own investigation. Here is the simple rule I discovered:
 *   **Use the Clarity Protocol when your goal is to TRANSMIT INFORMATION.** (e.g., confirming a meeting time, asking for a status update). Your primary concern is avoiding cognitive load.
 *   **Use the Storytelling Protocol when your goal is to TRANSMIT MEANING.** (e.g., persuading a stakeholder, explaining the "why" behind a change). Your primary concern is making an emotional and memorable impact.
 A master conductor knows when the orchestra needs a clear, simple beat and when it needs a soaring melody.
+
+#### **The Practice: Use the "Tension & Resolution" Arc**
+
+You do not need to be a great novelist to leverage this system. You just need a simple, repeatable protocol for wrapping your data in a narrative structure. The most powerful and simple structure is the **Tension & Resolution Arc**. It has three parts: And, But, Therefore (ABT).
+
+[AUTHOR'S NOTE: This is a perfect spot for a simple line graph diagram. The Y-axis is "Tension" and the X-axis is "Time." The line starts low for "And," rises sharply for "But," and falls for "Therefore," visually representing the Tension & Resolution arc.]
 
 **The ABT Protocol:**
 1.  **AND (The Setup):** Start with a statement of the current, stable reality.

@@ -5,7 +5,7 @@ For most of my life as a programmer, I treated emotions as bugs that needed to b
 
 Let's look at a case study I call "The Premature Solution."
 
-Our manager, Maria, is learning to be a better conductor. Her junior engineer, Leo, a natural Connector, comes to her one evening, clearly distressed. "I'm so frustrated," he says. "My project idea was just shot down in the architecture review—the one I've been working on for a month. They didn't even really seem to listen to the pitch."
+Our manager, Maria, is learning to be a better conductor. Her junior engineer, Leo, a natural Connector, comes to her one evening, clearly distressed. "I'm so frustrated," he says. "My project idea was just shot down in the architecture review—the one I've been working on for a month. They didn't even seem to listen to the pitch."
 
 Maria's Architect brain immediately boots up. As a manager, she sees a problem, and her instinct is to solve it. "Okay," she says, leaning forward. "First, did you document their objections in an email? Second, we need to create a new presentation that preemptively counters their main arguments. Third, have you considered going to the senior director with the data?"
 
@@ -14,7 +14,7 @@ She is offering a perfect, logical strategy. But she notices something strange. 
 Now let's replay that with the toolkit. Imagine the new Maria. She takes a Conductor's Breath, resists the urge to fix, and instead flips the Empathy Switch.
 **Maria:** "Ugh, that sounds awful. What was the hardest part about that for you?"
 **Leo:** "The hardest part was that I felt completely invisible."
-**Maria:** "Okay, so what I'm hearing is, it wasn't just the feedback that hurt, it was the feeling of being made to feel invisible. Is that right?"
+**Maria:** "So it wasn't just about the idea, it was about them making you feel... invisible. Is that right?"
 Leo nods, and this time, his shoulders relax. The connection is rebuilt. Now, and only now, can they begin to solve the problem together.
 
 This "premature solution" bug is one of the most common viruses in parent-child communication. Your teenager comes home, throws their bag on the floor, and says, 'I completely failed my history test.' The Architect brain in the parent immediately boots up: 'Okay, we need a new study schedule. I'm hiring a tutor. Did you not do the reading?' We offer a perfect, logical strategy, but our child just shuts down. They didn't need a project manager; they needed a connection. The Empathy Switch—'Wow, that sounds incredibly frustrating. What's the hardest part for you right now?'—is the only way to debug that disconnection.
@@ -114,4 +114,3 @@ Use the two-step **Empathy Loop** protocol.
 ---
 
 You now have the tools to regulate your own internal system and to build a genuine interface to someone else's. You can create a state of calm and a feeling of connection. But how do you make that feeling last? The next step is to move from temporary connection to lasting rapport. We are going to explore the surprising neuroscience of deep listening, and how the simple act of paying attention can change the chemistry of another person's brain.
-      

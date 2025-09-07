@@ -1,18 +1,18 @@
 ### **Chapter 2: The Pain of Miscommunication**
 #### Why a Harsh Word Feels Like a Physical Wound
 
-Let's start our investigation with a case study that introduces the core characters we will follow on our journey. Think of it as a common but critical bug report from the human operating system.
+Let's start our investigation with a case study that introduces the core characters we will follow on our journey. Think of it as a common but critical bug report from the human operating system. For our well-intentioned manager, Maria, this incident was the catalyst for her entire journey to become a better conductor.
 
 **Case Study:** The Single-Sentence Email.
-An engineer named Mark poured two weeks of his life into a proposal. He worked late, triple-checked the data, and crafted what he felt was the most compelling argument his team had ever produced. He hit "send" on the email to his boss, Maria, with a deep sense of pride and anticipation.
+An engineer named Mark poured two weeks of his life into a proposal. He worked late, triple-checked the data, and crafted what he felt was the most compelling argument his team had ever produced. He hit "send" on the email to Maria with a deep sense of pride and anticipation.
 
-He spent the next two hours in a state of low-grade anxiety, checking his inbox every few minutes. Finally, a reply notification popped up. It was from Maria. He opened it. The email contained only his original attachment and a single, brutal sentence:
+He spent the next two hours in a state of low-grade anxiety, checking his inbox every few minutes. Finally, a notification from Maria popped up. He opened it. The email held only his attachment and a single, brutal sentence:
 
 *"This needs a lot of work."*
 
 Mark's neck prickled with heat as his stomach knotted. For a moment, his screen seemed to blur. He wasn’t thinking about the project's data anymore. He was thinking, *"She thinks I'm incompetent. I failed."* The detailed feedback he needed was absent; the feeling of rejection was overwhelming.
 
-This bug doesn't just corrupt our professional code. Consider the text message from a partner or a close friend. You send a thoughtful, multi-line message, and the reply you get back is simply: **'Fine.'** The physical sensation—that knot in your stomach, that wave of cold dread—is identical to the one Mark felt. Your brain's social pain alarm isn't distinguishing between your boss and your partner; it's simply registering a social threat.
+This bug doesn't just corrupt our professional code. Consider the text message from a partner or a close friend. You send a thoughtful, multi-line message, and the reply you get back is simply: **'Fine.'** The physical sensation—that knot in your stomach, that wave of cold dread—is identical to the one Mark felt. Your brain's social pain alarm doesn't distinguish between your boss and your partner; it simply registers a social threat.
 
 This feeling is not weakness. It is not "being too sensitive." It is a biological alarm, as real and as primitive as the pain of touching a hot stove. When I was trying to deconstruct the "bug" in Mark's story, I kept coming across a single, foundational piece of research that was so counter-intuitive it felt like finding a hidden master key. It explains everything.
 

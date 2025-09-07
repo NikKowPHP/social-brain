@@ -18,7 +18,7 @@ Here's what it does:
 *   **It Increases Generosity and Empathy:** In classic experiments, participants given a nasal spray of oxytocin were significantly more willing to entrust their money to a stranger. It biologically primes us for collaboration.
 *   **It Promotes "In-Group" Bonding:** Oxytocin is the neurochemical glue that holds teams and families together.
 
-***Investigator's Note:*** *My disastrous first attempt at 'calibrated vulnerability' is burned into my memory. I was at a networking dinner with a potential client I wanted to impress. I had just learned about this research and decided to "accelerate trust." So, I blurted out a story about a major coding mistake I'd made on a past project, thinking it would make me seem human and relatable. Instead, a deeply awkward silence fell over the table. My 'ping' wasn't a small, safe signal; it was a cannonball. I hadn't established any shared context or warmth. I just dumped an inappropriate amount of information into a formal environment. It was a painful but critical lesson: vulnerability is not about oversharing. It's about calibrating the signal to the context, sending a small, safe test, and patiently waiting for the echo.*
+***Investigator's Note:*** *Maria's biggest challenge was Jane, a brilliant but deeply cynical senior architect with a strong Sentinel profile. Jane had seen too many initiatives fail and trusted no one. To build a bridge, Maria decided to run a trust protocol. In their next one-on-one, after discussing a technical issue, Maria took a breath and executed a small, calibrated vulnerability. "You know," she said, "I'll admit I'm a little intimidated by this project's scope. I'm worried about letting the team down." Then, she waited. Jane was silent for a long moment. Maria's own Sentinel brain screamed at her to fill the silence, but she held firm. Finally, Jane gave a slight nod. "The scope is unrealistic," she said, her tone softening almost imperceptibly. "Don't let them push you into a timeline that will burn us out." It wasn't a huge breakthrough, but it was an echo. The sonar ping had come back. The trust loop had begun.*
 
 ---
 > ### **System Alert: The Double-Edged Sword of Oxytocin**
@@ -94,4 +94,3 @@ Run a "Trust Protocol."
 ---
 
 You now have the tools to build a deep and resilient sense of trust. But what happens when you're too afraid to even start the conversation? Our next step is a practical interlude: a simple protocol for making the first move.
-      

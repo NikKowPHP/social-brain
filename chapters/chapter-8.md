@@ -3,13 +3,13 @@
 
 For years, my emails were unreadable. I thought I was being thorough, but I was actually just being disrespectful of people's time—a mistake I see repeated in nearly every executive team I coach today. The painful lesson started when a manager forwarded me one of my five-paragraph monsters with a simple note: 'I have no idea what you want from me.' I was launching denial-of-service attacks on my colleagues' brains, and it was a critical bug in my own system.
 
-Let's look at a case study. A manager named David needs his top engineer, Sarah, to review a new project spec, approve a minor budget request, and provide her availability for a client call. He composes what he thinks is a comprehensive and efficient email. It's a five-paragraph monster, detailing the full history of the project, explaining the rationale for the budget, and listing several possible times for the call. The two most important questions are buried in paragraphs three and five.
+Let's look at a case study. This was exactly the bug in Maria's system early in her journey as a manager. She needed her top engineer, Mark, to review a new project spec, approve a minor budget request, and provide his availability for a client call. Reflecting on it later, she realized she had composed what she thought was a comprehensive and efficient email. It was a five-paragraph monster, detailing the full history of the project, explaining the rationale for the budget, and listing several possible times for the call. The two most important questions were buried in paragraphs three and five.
 
-Sarah opens the email. She sees a wall of text. Her brain, already juggling a dozen other complex tasks, balks. She feels a wave of overwhelm. It’s not clear what the single most important action is. She thinks, *"I don't have time to deal with this right now,"* and archives the email to read "later."
+Mark opened the email. He saw a wall of text. His brain, already juggling a dozen other complex tasks, balked. He felt a wave of overwhelm. It wasn’t clear what the single most important action is. He thought, *"I don't have time to deal with this right now,"* and archived the email to read "later."
 
-David's message was never delivered, not because the channel was broken, but because the data packet was too large and poorly formatted for the receiver's hardware.
+Maria's message was never delivered, not because the channel was broken, but because the data packet was too large and poorly formatted for the receiver's hardware.
 
-This denial-of-service attack isn't just an email problem. Think about trying to explain a series of weekend chores to a family member: 'Okay, so first I need you to go to the grocery store, but make sure you get the oat milk, not the almond milk, and then on the way back, can you drop off my library books—they're in the blue bag—and after you get home, we need to clear out the garage before my parents arrive.' The listener's brain, with its tiny four-item workbench, has already crashed. The result is the same as Sarah's: the entire 'data packet' is rejected, and nothing gets done. The Clarity Protocol—one goal at a time, with a clear headline—is just as critical at home as it is at work.
+This denial-of-service attack isn't just an email problem. Think about trying to explain a series of weekend chores to a family member: 'Okay, so first I need you to go to the grocery store, but make sure you get the oat milk, not the almond milk, and then on the way back, can you drop off my library books—they're in the blue bag—and after you get home, we need to clear out the garage before my parents arrive.' The listener's brain, with its tiny four-item workbench, has already crashed. The result is the same as Mark's: the entire 'data packet' is rejected, and nothing gets done. The Clarity Protocol—one goal at a time, with a clear headline—is just as critical at home as it is at work.
 
 #### **The Science: The Brain's Tiny Workbench**
 
@@ -19,7 +19,7 @@ In the 1950s, cognitive psychologist George A. Miller famously proposed that thi
 
 This is a brutal hardware limitation. It's like having a top-of-the-line CPU that only has a few megabytes of RAM.
 
-When a message like David's arrives, it attempts to dump a dozen different items onto a workbench that can only hold four. The system doesn't just slow down; it crashes. The brain's defense mechanism against this overload—known as **cognitive load**—is to simply reject the entire data packet.
+When a message like Maria's arrives, it attempts to dump a dozen different items onto a workbench that can only hold four. The system doesn't just slow down; it crashes. The brain's defense mechanism against this overload—known as **cognitive load**—is to simply reject the entire data packet.
 
 > *Clarity is an act of empathy. Brevity is a form of respect for another person's finite mental energy.*
 
@@ -65,7 +65,7 @@ Before you write or speak, finish this sentence: "The one thing I need this pers
 **2. Headline First.**
 Just like a good newspaper article, put the main point or the single request right at the top.
 *   **Subject Line:** Be specific. Instead of "Update," write "ACTION REQUIRED: Please Approve Budget Request by EOD."
-*   **First Sentence:** "Sarah, I need your approval on the attached $500 budget request by the end of today."
+*   **First Sentence:** "Mark, I need your approval on the attached $500 budget request by the end of today."
 
 **3. Chunk the Details.**
 Once the main point is clear, you can provide context. But you must format it for the brain.
@@ -105,4 +105,3 @@ Execute the **Clarity Protocol**.
 ---
 
 You now have a protocol for transmitting information with crystal clarity, in a way that respects the biological limits of the human brain. Your message can now be received and understood. But what if a clear, logical message isn't enough? What if your goal isn't just to inform, but to inspire, persuade, and make an idea truly stick? To do that, we need to engage the brain's most ancient and powerful processing system: the engine of storytelling.
-      

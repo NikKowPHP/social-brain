@@ -10,7 +10,7 @@ My investigation revealed it's not one problem, but two distinct neurological ch
 #### **The Science: The Brain's Two-Part Problem**
 
 **Part 1: The Threat of Feedback**
-Unsolicited feedback is one of the most potent triggers for the brain's security guard (the amygdala). As we saw with the SCARF model, it is a direct threat to **Status**, **Certainty**, and **Relatedness**. The classic "feedback sandwich" fails because it tries to soften the blow but instead creates a new threat to **Certainty**, making the message feel ambiguous and manipulative.
+Unsolicited feedback is one of the most potent triggers for the brain's security guard (the amygdala). As we now know, it is a direct threat to **Status**, **Certainty**, and **Relatedness**. The classic "feedback sandwich" fails because it tries to soften the blow but instead creates a new threat to **Certainty**, making the message feel ambiguous and manipulative.
 
 **Part 2: The Hardware of Habit (Neuroplasticity)**
 Even if feedback is delivered perfectly, changing behavior is a matter of physics. Your brain's current behaviors are efficient, myelinated neural pathways. Asking someone to change is asking them to build a new road through a dense forest. **Lasting change only happens through neuroplasticity**—the process of physically re-wiring the brain through focused repetition and a dopamine reward that signals "That worked! Do it again." This is how we learn to type, to drive, or to regulate our temper. The brain wraps the new neural circuit in myelin, making it faster and more automatic over time.
@@ -24,7 +24,7 @@ Treat feedback like fire: it can provide warmth (growth) or burn down a structur
 *   **Never give it by surprise.** (Massive Certainty threat).
 ---
 
-***Investigator's Note:*** *I once received feedback from a manager that I was "intimidating" in meetings. My Architect brain immediately rejected the data as illogical. I wasn't trying to intimidate; I was trying to be efficient. I spent a week mentally building a case against his feedback. It was only when I forced myself to run the "Intake Protocol" on my own memory of the event—asking "what was the specific data point?"—that I had a breakthrough. I realized I would physically lean forward and narrow my eyes when I disagreed with someone's logic. I was broadcasting a non-verbal threat signal without even knowing it. The feedback wasn't an attack; it was a critical piece of data about my own system's unintended outputs.*
+***Investigator's Note:*** *After the "single-sentence email" incident, Maria realized she needed to give Mark real feedback. Using the SCARF-aware opening from Chapter 10, she finally told him that he was perceived as "intimidating" in meetings. Mark's Architect brain immediately rejected the data as illogical. He wasn't trying to intimidate; he was trying to be efficient. He spent a week mentally building a case against her feedback. It was only when he forced himself to run the "Intake Protocol" on his own memory of the event—asking "what was the specific data point?"—that he had a breakthrough. He realized he would physically lean forward and narrow his eyes when he disagreed with someone's logic. He was broadcasting a non-verbal threat signal without even knowing it. The feedback wasn't an attack; it was a critical piece of data about his own system's unintended outputs. It was the beginning of his journey from being a solo genius to a true collaborator.*
 
 #### **The Practice: Three Protocols for Learning**
 
@@ -46,7 +46,7 @@ When someone gives *you* feedback, even if it's clumsy, your job is to find the 
 2.  **Resist Explaining or Defending:** Your brain will want to prove the "bug report" is wrong. Resist this urge. Your goal is not to win the argument, but to understand their perception.
 3.  **Turn Judgment into Data:** Use a clarifying question to find the specific, observable data point that triggered their feedback.
     *   If they say: "You're just not being a team player."
-    *   You ask: *"Thank you for sharing that. To help me understand, can you give me a specific example of when you saw that happen?"*
+    *   You ask: *"Thanks for sharing that. To help me understand, can you give me a specific example of when you saw that happen?"*
 
 **Protocol 3: The "Upgrade" Method (For Making Change Stick)**
 This protocol is for after you've received useful feedback. It uses the science of neuroplasticity to build a new habit.
@@ -90,4 +90,7 @@ Feedback is a primary social threat that the brain is wired to reject. Lasting c
 1.  **To Give Feedback:** Use the "Debug" Protocol (Permission, Data, Co-Create).
 2.  **To Receive Feedback:** Use the "Intake" Protocol (Regulate, Resist, Request Data).
 3.  **To Make Change Stick:** Use the "Upgrade" Protocol (Define Micro-Behavior, Create Trigger, Self-Acknowledge).
-      
+
+---
+
+You now have the tools to give and receive feedback in a way that fosters growth, not threat. You can debug one-on-one interactions. But how do you apply this in the most complex and high-stakes environment of all—the team meeting? It is time to step onto the conductor's stage.

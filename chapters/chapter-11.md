@@ -16,7 +16,7 @@ The answer lies in one of the most important distinctions I ever learned: the di
 
 The brain's need to navigate these differences is deeply rooted in the neuroscience of in-groups and out-groups. Your brain's primary survival function is to quickly determine who is "us" and who is "them." When you enter a new group, your brain is on high alert, scanning for the local rules to figure out how to become part of the "in-group" and avoid the social pain of being in the "out-group." Oxytocin, the trust molecule we met in Chapter 6, plays a key role here, increasing trust for "us" but defensiveness towards "them."
 
-***Investigator's Note:*** *This was the final piece of the puzzle for me. I had been trying to find a single communication protocol that would work on all systems. I now understand that my job isn't to have one perfect protocol, but to have a meta-protocol for rapidly learning the local rules of any new system I encounter.*
+***Investigator's Note:*** *Maria's team hit this wall when they had to collaborate with an external vendor whose team culture was brutally aggressive. In meetings, the vendor's engineers would interrupt constantly and publicly criticize ideas—a massive Status threat that caused Maria's team, especially Leo, to shut down. Maria realized she couldn't change their software, but she could run the Adaptation Protocol. She coached her team: **Observe:** "Notice that their interruptions aren't personal; it's how they show engagement." **Calibrate:** "Our hypothesis is that they value speed and directness over harmony." **Test:** "Mark, you're best at this. Next time they interrupt, try interrupting them right back with a data point. Let's see what happens." It was a small experiment that helped her team learn to navigate, rather than be defeated by, the different culture.*
 
 This means you cannot memorize the rules for every culture and group. The only sustainable strategy is to have a simple, real-time protocol for observing and adapting to any new social environment. This is the **Adaptation Protocol**, a three-step loop: Observe, Calibrate, Test.
 
@@ -73,4 +73,3 @@ Run the three-step "Adaptation Protocol" when in a new group.
 ---
 
 You now have a protocol for adapting your entire toolkit to new and complex social environments. You can navigate the nuanced worlds of teams, companies, and cultures with awareness and skill. But how do we ensure these new skills stick? How do we use our knowledge to not only improve our own communication, but to help others improve as well? Our final step in the toolkit is to investigate the neuroscience of learning and feedback.
-      

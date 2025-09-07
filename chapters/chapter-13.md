@@ -9,7 +9,7 @@ The most common "performance space" for any leader is the group meeting. It is t
 
 This forced a new investigation: **How do you conduct the collective brain of a group?** The answer is that you must treat the meeting itself as a system to be designed, not an event to be endured.
 
-***Investigator's Note:*** *I used to treat meetings as a necessary evil—a gauntlet of egos and agendas to be survived. My goal was to get through them as quickly as possible. The result was that I often left with "fake alignment," where people nodded along but nothing actually changed. It was only when I started treating the meeting itself as a system to be designed—thinking about the neurochemistry of the room before I even sent the agenda—that they transformed from a stage for conflict into an engine for collaboration. The blueprint in this chapter is the direct result of many, many failed performances.*
+***Investigator's Note:*** *This blueprint was Maria's turning point. She used to dread her team's weekly status meeting, which often devolved into a tense, unstructured debate between Mark's push for efficiency and Jane's constant risk-spotting. Before her next meeting, she sent out a **SCARF-aware agenda** with a single goal and questions instead of topics. She opened the meeting by stating the rules of engagement. When Jane raised a concern, Maria used the **Empathy Loop** to validate it, making Jane feel heard instead of dismissed. The change wasn't instant, but for the first time, it felt less like a battle and more like an orchestra tuning itself.*
 
 #### **The Science: The Contagious Brain**
 
@@ -80,4 +80,3 @@ Use the three-part Meeting Blueprint.
 ---
 
 We have now seen how to use our tools in the most common performance setting: the team meeting. We're ready for the final stage of our journey. How do we move from consciously using these tools to unconsciously embodying them? It's time to integrate everything we've learned and build a personal plan for mastery.
-      

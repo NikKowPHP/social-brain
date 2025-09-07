@@ -58,4 +58,7 @@ Mastery is not an accident; it is the result of intentional, gamified practice. 
 **A Note for the Adaptive Profile:** Your challenge is one of *intentionality*. You can access all the tools, so your practice is to consciously choose a tool before an interaction rather than defaulting to the easiest one in the moment. Before your next important conversation, ask yourself: "Does this moment call for the Architect, the Connector, or the Sentinel?"
 
 Remember, this is a practice. The goal is not perfection on day one. An aim for 1% improvement every day is a powerful path to mastery. Some days you will fail, your old programming will take over, and you will react instead of conducting. That's okay. Simply notice the failure without judgment, take a Conductor's Breath, and get ready for the next performance.
-      
+
+---
+
+This is how you turn practice into mastery. But mastery is not just for your own benefit. The final act of a conductor is to move beyond personal skill and use these tools to shape the environment for your entire orchestra. It's time to build your legacy.

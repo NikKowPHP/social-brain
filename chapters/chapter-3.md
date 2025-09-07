@@ -5,7 +5,7 @@ The "social pain" bug we documented in the last chapter is one of the most criti
 
 To answer that, we need to look at the architecture of the brain during a high-stress moment. Let's run a new simulation with our case study, Mark.
 
-Mark is in his annual performance review with his boss, Maria. He’s prepared, but nervous. Maria is too. She knows this is a difficult conversation, and in the past, interactions like this with Mark have gone poorly, leaving her feeling flustered and ineffective. This is a moment where she needs to conduct her own orchestra before she can lead anyone else's.
+Mark is in his annual performance review with his boss, Maria. He’s prepared, but he catches himself wiping his damp palms on his trousers for the third time. Maria is nervous, too. She knows this is a difficult conversation, and in the past, interactions like this with Mark have gone poorly, leaving her feeling flustered and ineffective. This is a moment where she needs to conduct her own orchestra before she can lead anyone else's.
 
 The review starts well, but then Maria says, "Overall, your work is solid. However, I’ve received feedback that in team meetings, you can come across as dismissive of others' ideas, which is impacting collaboration."
 
@@ -46,7 +46,7 @@ Your first tool as a conductor is learning how to skillfully apply this biologic
 In programming, you have monitors to track system status. Interoception is the skill of monitoring your own internal state. The hijack doesn’t start with angry words; it starts with a physical error message: a tightening in your chest, a clenching in your jaw, heat in your face. Your "Field Work" is to become an expert at noticing these subtle system alerts.
 
 **2. Use "The Conductor's Breath" to Execute the Override.**
-When you notice that physical alert, you have a brief window to intervene. In that moment, you will use a technique rooted in modern neuroscience, known as the **physiological sigh**. It is the fastest known way to voluntarily calm your body's stress response. I call it **The Conductor's Breath** because it is the quickest way to regain command of your internal orchestra.
+When you notice that physical alert, you have a brief window to intervene. In that moment, your goal is to use a technique rooted in modern neuroscience, known as the **physiological sigh**. It is the fastest known way to voluntarily calm your body's stress response. I call it **The Conductor's Breath** because it is the quickest way to regain command of your internal orchestra.
 
 Here is the function call:
 *   Take a deep inhale through your nose.
