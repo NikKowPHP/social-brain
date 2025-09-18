@@ -9,7 +9,21 @@ The most common "performance space" for any leader is the group meeting. It is t
 
 This forced a new investigation: **How do you conduct the collective brain of a group?** The answer is that you must treat the meeting itself as a system to be designed, not an event to be endured.
 
-***Investigator's Note:*** *This blueprint was Maria's turning point. She used to dread her team's weekly status meeting, which often devolved into a tense, unstructured debate between Mark's push for efficiency and Jane's constant risk-spotting. Before her next meeting, she sent out a **SCARF-aware agenda** with a single goal and questions instead of topics. She opened the meeting by stating the rules of engagement. When Jane raised a concern, Maria used the **Empathy Loop** to validate it, making Jane feel heard instead of dismissed. The change wasn't instant, but for the first time, it felt less like a battle and more like an orchestra tuning itself.*
+***
+
+#### **Case Study: The Meeting Makeover**
+
+This blueprint was Maria's turning point. She used to dread her team's weekly status meeting, which often devolved into a tense, unstructured debate between Mark's push for efficiency and Jane's constant risk-spotting, while Leo stayed silent. The meeting was a perfect storm of competing brain profiles.
+
+Before her next meeting, she decided to stop being a participant and start being the conductor.
+1.  **Before:** She sent out a **SCARF-aware agenda** 24 hours in advance. The title was the meeting's single goal: "Decide on Q3 Launch Date." The items were questions ("How can we mitigate the server-load risk Jane identified?"), not topics.
+2.  **During (The Opening):** She opened the meeting by stating the goal and the rules of engagement. "Our goal is to leave with a firm date. To do that, we need everyone's perspective. Mark, I need your logic. Jane, I need your risk-analysis. Leo, I need your user-focused ideas." She gave everyone a role, a massive Status reward.
+3.  **During (The Dissent):** When Jane raised a concern, the old Maria would have seen it as a roadblock. The new Maria used the **Empathy Loop** to validate it publicly. "That's a critical point, Jane. It sounds like you're concerned we're not taking the database-failure risk seriously enough. Is that right?" Jane, feeling heard instead of dismissed, said "Yes, exactly." The tension in the room dropped.
+4.  **After:** Within an hour of the meeting ending, she sent a follow-up email. It had two sections: **Decision:** "The launch date is September 1st." **Action Items:** "Mark to finalize server specs by Friday. Jane to draft a risk-mitigation plan by Friday. Leo to prepare user-comms by Monday."
+
+The change wasn't instant, but for the first time, it felt less like a battle and more like an orchestra tuning itself.
+
+***
 
 #### **The Science: The Contagious Brain**
 
@@ -49,34 +63,11 @@ The meeting isn't over when the video call ends. The final step is to reinforce 
 By designing the meeting before, during, and after, you transform it from a potential threat environment into a powerful engine for collaboration and clarity.
 
 ---
-### **Field Work Challenge**
+### **Logbook Entry**
 
 This week, you will conduct one meeting, even if you are not the official leader. Your mission is to choose and implement **one** practice from the blueprint.
 
-*   **For the Architect:** Your task is to send out a "Clarity Protocol" agenda 24 hours in advance, with a single, clear goal at the top and questions instead of statements for the agenda items.
-*   **For the Connector:** Your mission is to intentionally use the Empathy Loop when you hear a point of disagreement in a meeting. Your only job is to make the dissenting person feel heard. For example, "It sounds like you're worried about the team's workload. Is that right?"
-*   **For the Sentinel:** Your challenge is to be the one who sends the follow-up email with clear decisions and action items. This allows you to channel your need for control and risk-mitigation into an act that provides Certainty for the whole group.
-*   **For the Adaptive Profile:** Your challenge is to act as the meeting's conductor of energy. If the energy is low, your mission is to inject an 'Autonomy & Status' reward by asking a brainstorming question. If the energy is tense, your mission is to use the Empathy Loop to calm the system. Your job is to consciously choose and apply the tool the meeting needs in real-time.
-
----
-### **Neuro-Toolkit: Conducting the Meeting**
-
-**The Core Principle:**
-A meeting is a complex social system where emotional states are contagious. A conductor's job is to design a structure that systematically creates psychological safety and channels the group's collective intelligence.
-
----
-
-> **Investigator's Key:**
-> *"Don't just run the meeting. Design the meeting. Structure is the ultimate tool for creating group safety."*
-
----
-
-**The Immediate Practice:**
-Use the three-part Meeting Blueprint.
-1.  **Before:** Send a SCARF-aware agenda with one clear goal.
-2.  **During:** Open by creating safety, use the Empathy Loop for dissent, and use the Hijack Protocol for high tension.
-3.  **After:** Send a clear follow-up with only decisions and action items.
-
----
-
-We have now seen how to use our tools in the most common performance setting: the team meeting. We're ready for the final stage of our journey. How do we move from consciously using these tools to unconsciously embodying them? It's time to integrate everything we've learned and build a personal plan for mastery.
+1.  **The Meeting:** Which meeting did you choose to focus on?
+2.  **The Intervention:** Which single practice from the blueprint (e.g., sending a SCARF-aware agenda, using the Empathy Loop on a dissenter, sending a clear follow-up) did you implement?
+3.  **The Result:** What was the observable impact on the meeting's tone or outcome?
+      

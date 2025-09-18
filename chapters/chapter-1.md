@@ -92,3 +92,13 @@ You now have your starting point. You know your orchestra.
 You've also likely noticed that many of these questions touch upon feelings of threat, defensiveness, and social danger. This is no accident. The single most important element governing the quality of our communication is how our brain processes social pain. Understanding that system is our first landmark.
 
 Turn the page. Let's explore why a harsh word can feel like a physical wound.
+
+---
+### **Logbook Entry**
+
+This is your first entry in your personal training manual. Take a moment to reflect.
+
+1.  **What was your dominant profile?** (Architect, Connector, Sentinel, or Adaptive)
+2.  **Describe a recent situation where this profile's "Growth Edge" showed up.** How did it impact the interaction?
+3.  **What is the one thing you hope to learn from this book?**
+      

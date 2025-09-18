@@ -5,13 +5,15 @@
 
 #### **Case Study: The Connector's Courage**
 
-Let's revisit Leo, our Connector-brained junior engineer. He's at his first major industry conference, and his personal goal is to meet a senior engineer he's admired for years. He sees her talking in a small group. His Sentinel brain floods with the familiar alerts: *"Don't interrupt! You'll say something stupid!"* He feels the freeze response kicking in.
+As part of her new approach to management, Maria has encouraged her team to engage more with the wider industry. She sends Leo, her Connector-brained junior engineer, to his first major conference. His personal goal is to meet a senior engineer he's admired for years.
 
-But Leo has been practicing. He takes a **Conductor's Breath** (Regulate). He waits for a natural pause in the conversation. He finds a **Shared Context**: they are all near a widely mocked, futuristic-looking coffee machine. He approaches the edge of the group and offers a **Low-Stakes Observation**.
+He sees her talking in a small group. His Sentinel brain floods with the familiar alerts: *"Don't interrupt! You'll say something stupid!"* He feels the freeze response kicking in.
+
+But Leo has been learning from Maria. He's been practicing. He takes a **Conductor's Breath** (Regulate). He waits for a natural pause in the conversation. He finds a **Shared Context**: they are all near a widely mocked, futuristic-looking coffee machine. He approaches the edge of the group and offers a **Low-Stakes Observation**.
 
 "I'm still trying to figure out if this is a coffee machine or a time machine," he says with a small smile to the group. "Have any of you been brave enough to try it?"
 
-The group laughs. The senior engineer turns to him and says, "We've got a running bet on whether it'll dispense coffee or just teleport you to another dimension." Leo has successfully broken the silence, not by being impressive, but by sending a signal of safe, shared humor.
+The group laughs. The senior engineer turns to him and says, "We've got a running bet on whether it'll dispense coffee or just teleport you to another dimension." Leo has successfully broken the silence, not by being impressive, but by sending a signal of safe, shared humor. He's applying the conductor's tools for himself.
 
 #### **The Science: The Pain of the Unknown**
 
@@ -74,5 +76,11 @@ Use the three-step "Safety Signal" Protocol.
 3.  **Offer a Low-Stakes Observation:** Make a simple observation and ask an open-ended, low-pressure question about your shared context.
 
 ---
+### **Logbook Entry**
 
-You've broken the silence and started a conversation. But now, how do you transmit your own ideas clearly without overloading their brain and destroying the very trust you just built? The answer lies in understanding the severe hardware limitations of your listener's brain, which is our next investigation.
+This week, your mission is to break the silence once using the "Safety Signal" Protocol. It can be in a very low-stakes environment like a coffee shop or a grocery store line.
+
+1.  **The Situation:** Where were you and who did you approach?
+2.  **The Protocol:** Write down the exact "Shared Context" and "Low-Stakes Observation" you used.
+3.  **The Result:** What was the outcome? The goal isn't a long conversation, just a brief, safe connection.
+      

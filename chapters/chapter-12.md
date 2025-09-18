@@ -24,7 +24,19 @@ Treat feedback like fire: it can provide warmth (growth) or burn down a structur
 *   **Never give it by surprise.** (Massive Certainty threat).
 ---
 
-***Investigator's Note:*** *After the "single-sentence email" incident, Maria realized she needed to give Mark real feedback. Using the SCARF-aware opening from Chapter 10, she finally told him that he was perceived as "intimidating" in meetings. Mark's Architect brain immediately rejected the data as illogical. He wasn't trying to intimidate; he was trying to be efficient. He spent a week mentally building a case against her feedback. It was only when he forced himself to run the "Intake Protocol" on his own memory of the event—asking "what was the specific data point?"—that he had a breakthrough. He realized he would physically lean forward and narrow his eyes when he disagreed with someone's logic. He was broadcasting a non-verbal threat signal without even knowing it. The feedback wasn't an attack; it was a critical piece of data about his own system's unintended outputs. It was the beginning of his journey from being a solo genius to a true collaborator.*
+#### **Case Study: The Conductor as Coach**
+
+A month after Maria's pivotal conversation with Mark, the team dynamic had improved dramatically. But Maria noticed a new, subtle problem. Leo, the junior Connector, was so afraid of Mark's critiques that he had stopped offering creative ideas in meetings.
+
+The old Maria would have spoken to Mark again. The conductor saw a different opportunity: to move from directing the orchestra to developing the musicians. She needed to teach Leo how to give feedback, not just receive it.
+
+She called Leo into her office. "I've noticed you have great ideas but you're holding back in meetings," she began. "Let's talk about how to get your voice heard." She didn't give him advice; she coached him on the "Debug" protocol.
+
+"Next time you disagree with Mark," she said, "I don't want you to argue. I want you to run a collaborative debugging session. Get permission: 'Mark, can I offer a different perspective?' Then share data, not drama: 'My data shows that this other approach might be 15% faster.' Finally, co-create: 'How might we combine the safety of your approach with the speed of this one?'"
+
+Leo was terrified, but he agreed to try. In the next meeting, he found his moment. His voice shook slightly, but he executed the protocol. Mark paused, surprised. He looked at Leo's data. "Huh," he said. "That's... interesting. Let's look at that." It wasn't a standing ovation, but it was a breakthrough. Maria hadn't just solved a problem; she had upgraded her team's entire operating system.
+
+---
 
 #### **The Practice: Three Protocols for Learning**
 
@@ -64,33 +76,11 @@ This protocol is for after you've received useful feedback. It uses the science 
 > This phrase is a masterpiece of social neuroscience. "Thank you" rewards their Status. "To help me learn" frames you as a collaborator, not a defendant. "Can you give me an example?" calmly pushes past emotional drama to find the actionable data. Master this one sentence, and you will become unflappable.
 ---
 
-### **Field Work Challenge**
+### **Logbook Entry**
 
-This week, your mission is to practice the **"Intake" Protocol**. The next time someone gives you any form of feedback (even a minor, off-hand comment), your job is to: 1. Breathe. 2. Resist explaining. 3. Ask one clarifying question.
+This week, your mission is to practice the **"Intake" Protocol**. The next time someone gives you any form of feedback (even a minor, off-hand comment), your job is to use "the sentence."
 
-*   **For the Architect:** You will feel a powerful urge to correct their "inaccurate" feedback. For example, if someone says "Your code is hard to read," your instinct is to explain your elegant design. Instead, your mission is to say nothing except the clarifying question: "Can you show me a specific function that was confusing?" Your goal is data collection, not a debate.
-*   **For the Connector:** You will want to immediately agree with the feedback to restore harmony ("You're right, I'm sorry."). Your mission is to resist that urge and ask the clarifying question. This shows you are taking the feedback seriously enough to want more detail. "Thank you for telling me. Can you give me an example of when my email tone felt off?"
-*   **For the Sentinel:** Your system will feel under attack. Your challenge is to use the Conductor's Breath and then deliver the clarifying question with a neutral, curious tone, not an accusatory one. Practice the phrase in the mirror so it sounds genuinely inquisitive, not like a challenge.
-*   **For the Adaptive Profile:** You are likely skilled at receiving feedback in a way that preserves harmony. Your challenge is to go one step further and help someone else receive feedback better. When you see a colleague getting defensive about feedback in a meeting, your mission is to gently intervene by asking a clarifying question on their behalf, modeling the 'Intake' Protocol for the group.
-
----
-### **Neuro-Toolkit: The Learning Brain**
-
-**The Core Principle:**
-Feedback is a primary social threat that the brain is wired to reject. Lasting change is not an act of will, but a physical process of re-wiring neural pathways through focused repetition (neuroplasticity).
-
----
-
-> **Investigator's Key:**
-> *"Stop giving feedback; start a collaborative debugging session. Stop trying to break old habits; start building new ones."*
-
----
-
-**The Immediate Practice:**
-1.  **To Give Feedback:** Use the "Debug" Protocol (Permission, Data, Co-Create).
-2.  **To Receive Feedback:** Use the "Intake" Protocol (Regulate, Resist, Request Data).
-3.  **To Make Change Stick:** Use the "Upgrade" Protocol (Define Micro-Behavior, Create Trigger, Self-Acknowledge).
-
----
-
-You now have the tools to give and receive feedback in a way that fosters growth, not threat. You can debug one-on-one interactions. But how do you apply this in the most complex and high-stakes environment of all—the team meeting? It is time to step onto the conductor's stage.
+1.  **The Feedback:** What was the feedback, criticism, or comment you received?
+2.  **The Feeling:** What was the immediate physical or emotional sensation you felt? (e.g., heat in the face, knot in the stomach).
+3.  **The Response:** Did you manage to use the clarifying question ("Can you give me a specific example?")? What was the result? If you didn't, what got in the way?
+      
