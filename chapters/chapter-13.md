@@ -35,7 +35,15 @@ A well-conducted meeting is a system that systematically rewards the five SCARF 
 
 #### **The Practice: A Conductor's Meeting Blueprint**
 
-You cannot control what every person says, but you can design a structure that makes productive conversation the path of least resistance. This blueprint isn't just for boardrooms. Use it to conduct a difficult family meeting. **Before:** Set the agenda ('Our goal is to agree on a fair way to split chores'). **During:** Use the Empathy Loop when a sibling feels unheard. **After:** Send a text summarizing what you agreed to, creating clarity and fairness.
+You cannot control what every person says, but you can design a structure that makes productive conversation the path of least resistance.
+
+> ### **From the Boardroom to the Living Room: The Family Meeting**
+>
+> This blueprint isn't just for boardrooms. It's a powerful tool for navigating a difficult family conversation.
+>
+> *   **Before:** Set the agenda. Sending a text ahead of time saying, "Hey everyone, tonight I'd like to talk about our goal for a fair way to split chores" prevents ambushing people and gives them time to think (rewards Certainty and Autonomy).
+> *   **During:** Use the Empathy Loop when a sibling feels unheard. "It sounds like you feel the current system is unfair because you have more evening activities. Is that right?" This validates their perspective before debating it.
+> *   **After:** Send a text summarizing what you agreed to. "Great talk. We agreed: Person A does dishes M/W/F, Person B does them T/Th/Sat." This creates clarity and accountability (rewards Fairness).
 
 > ### **Profile Alert: Meetings**
 >

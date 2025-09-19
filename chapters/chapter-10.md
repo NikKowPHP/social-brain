@@ -31,7 +31,14 @@ As we discovered in Chapter 2, the brain is constantly scanning for social threa
 
 When these domains are threatened, the brain triggers a primary threat response. When they are rewarded, the brain enters a state of trust and collaboration. A difficult conversation is, by its nature, a minefield of potential SCARF threats.
 
-The SCARF model is a Rosetta Stone for almost every recurring argument in a family. The fight that seems to be about 'who takes out the trash' is almost never about the trash. It's a battle of dueling SCARF threats. One person feels a threat to **Fairness** ('I'm doing more than my share'), while the other feels a threat to their **Status** ('You're treating me like a child, not an equal partner') or their **Autonomy** ('Stop telling me what to do'). By diagnosing the real SCARF threat, you can stop arguing about the surface-level issue and address the real 'bug' in the system.
+> ### **SCARF in the Wild: The Argument About the Trash**
+>
+> The SCARF model is a Rosetta Stone for almost every recurring argument in a family. The fight that seems to be about "who takes out the trash" is almost never about the trash. It's a battle of dueling SCARF threats.
+>
+> *   **Your Perception:** You are feeling a threat to **Fairness** ("I'm doing more than my share of the work around here").
+> *   **Their Perception:** When you say, "You forgot to take out the trash again," they don't hear a logistical reminder. They hear a threat to their **Status** ("You're treating me like an irresponsible child") and their **Autonomy** ("Stop telling me what to do"). Their amygdala hijacks them.
+>
+> A conductor's approach diagnoses the SCARF threat and addresses that instead. You might say: "(Reward Status) I know you've had a crazy busy day. (State need without blame) I'm feeling a little overwhelmed by the chores. (Co-create solution) Would it work for you if I handle dinner tonight and you tackle the trash?"
 
 [AUTHOR'S NOTE: A key visual for the book. This should be a "Social Brain Dashboard" with five gauges, one for each SCARF domain. In examples, we can show the needles on these gauges moving into the "red" (threat) or "green" (reward) zone.]
 

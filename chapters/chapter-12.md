@@ -42,6 +42,16 @@ Leo was terrified, but he agreed to try. In the next meeting, he found his momen
 
 To solve both problems, we need a protocol for giving feedback safely, a protocol for receiving it gracefully, and a protocol for making the change stick.
 
+> ### **From the Boardroom to the Living Room: The "Messy Room" Debug**
+>
+> The feedback protocols are lifesavers for sensitive conversations with a partner or child. Instead of saying, "You're always so messy!" (a judgmental attack that guarantees a fight), the Debug protocol gives you a better script.
+>
+> 1.  **Get Permission:** "Is now a good time to talk about the kitchen?"
+> 2.  **Share Data, Not Drama:** "I noticed the dishes were in the sink this morning." (A neutral, undeniable fact).
+> 3.  **Co-Create the Solution:** "What's a system we can create that works for both of us to keep the kitchen feeling like a space we both enjoy?"
+>
+> This transforms a potential fight into a collaborative problem-solving session.
+
 > ### **Profile Alert: Feedback**
 >
 > *   **Architect Alert:** You are skilled at spotting flaws, making you effective at the "Share Data, Not Drama" step of giving feedback. Your challenge is the "Get Permission" step—remembering to create safety before delivering the data.

@@ -20,7 +20,16 @@ Later that day, she tried again. *"Breathe. Connect first,"* she reminded hersel
 **Maria:** "So, it wasn't just about the idea. It was that feeling of... of being invisible. Did I get that right?"
 Leo nodded, and this time, his shoulders relaxed. A flicker of connection. Now, and only now, could they begin to solve the problem together.
 
-This "premature solution" bug is one of the most common viruses in parent-child communication. Your teenager comes home, throws their bag on the floor, and says, 'I completely failed my history test.' The Architect brain in the parent immediately boots up: 'Okay, we need a new study schedule. I'm hiring a tutor. Did you not do the reading?' We offer a perfect, logical strategy, but our child just shuts down. They didn't need a project manager; they needed a connection. The Empathy Switch—'Wow, that sounds incredibly frustrating. What's the hardest part for you right now?'—is the only way to debug that disconnection.
+---
+> ### **From the Boardroom to the Living Room: The Parent-Teenager Disconnect**
+>
+> This "premature solution" bug is the root cause of the classic parent-teenager disconnect. Your teenager comes home, throws their bag on the floor, and says, "I completely failed my history test."
+>
+> The Architect brain in the parent immediately boots up: "Okay, we need a new study schedule. I'm hiring a tutor. Did you not do the reading?" We offer a perfect, logical strategy, but our child just shuts down.
+>
+> The teen wants to be heard; the parent wants to solve. The conductor knows you cannot solve until they feel heard.
+>
+> Flipping the Empathy Switch—"Wow, that sounds incredibly frustrating. What's the hardest part for you right now?"—is the only way to debug that disconnection and turn a potential argument into a moment of trust.
 
 ---
 > ### **Case Study: The Doctor's Diagnostic Tool**

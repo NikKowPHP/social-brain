@@ -11,7 +11,11 @@ Mark opened the email. He saw a wall of text. His brain, already juggling a doze
 
 Maria's message was never delivered, not because the channel was broken, but because the data packet was too large and poorly formatted for the receiver's hardware. She had inadvertently trained Mark to ignore her emails.
 
-This denial-of-service attack isn't just an email problem. Think about trying to explain a series of weekend chores to a family member: 'Okay, so first I need you to go to the grocery store, but make sure you get the oat milk, not the almond milk, and then on the way back, can you drop off my library books—they're in the blue bag—and after you get home, we need to clear out the garage before my parents arrive.' The listener's brain, with its tiny four-item workbench, has already crashed. The result is the same as Mark's: the entire 'data packet' is rejected, and nothing gets done. The Clarity Protocol—one goal at a time, with a clear headline—is just as critical at home as it is at work.
+> ### **From the Boardroom to the Living Room: The Chore List**
+>
+> This denial-of-service attack happens at home all the time. Think about trying to explain a series of weekend chores to a family member: "Okay, so first I need you to go to the grocery store, but make sure you get the oat milk, not the almond milk, and then on the way back, can you drop off my library books—they're in the blue bag—and after you get home, we need to clear out the garage before my parents arrive."
+>
+> The listener's brain, with its tiny four-item workbench, has already crashed. The result is the same as Mark's: the entire "data packet" is rejected, and nothing gets done. The Clarity Protocol—one goal at a time, with a clear headline—is just as critical at home. A simple text message saying "Goal for today: garage cleanup!" is far more likely to succeed.
 
 #### **The Science: The Brain's Tiny Workbench**
 
