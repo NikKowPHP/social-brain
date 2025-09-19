@@ -42,6 +42,12 @@ Leo was terrified, but he agreed to try. In the next meeting, he found his momen
 
 To solve both problems, we need a protocol for giving feedback safely, a protocol for receiving it gracefully, and a protocol for making the change stick.
 
+> ### **Profile Alert: Feedback**
+>
+> *   **Architect Alert:** You are skilled at spotting flaws, making you effective at the "Share Data, Not Drama" step of giving feedback. Your challenge is the "Get Permission" step—remembering to create safety before delivering the data.
+> *   **Connector Power-Up:** Your focus on harmony can make giving critical feedback feel like a betrayal. The "Debug" protocol is your script to deliver hard truths in a way that feels collaborative, not confrontational.
+> *   **Sentinel Shield-Training:** Receiving feedback can feel like a direct attack. The "Intake" protocol is your most important tool. Your primary mission is to regulate your own system before you respond. Master "the sentence."
+
 **Protocol 1: The "Debug" Method (For Giving Feedback)**
 Instead of a "sandwich," run a collaborative debugging session.
 1.  **Get Permission & State Intent (Reward Autonomy & Certainty):** *"Leo, I have some observations from today's sync that I think could make your proposals even more impactful. Are you open to discussing them for 10 minutes?"*
@@ -76,6 +82,14 @@ This protocol is for after you've received useful feedback. It uses the science 
 > This phrase is a masterpiece of social neuroscience. "Thank you" rewards their Status. "To help me learn" frames you as a collaborator, not a defendant. "Can you give me an example?" calmly pushes past emotional drama to find the actionable data. Master this one sentence, and you will become unflappable.
 ---
 
+Leo had found his voice. The team was learning. But their weekly Phoenix Project status meeting was still a black hole of productivity, often devolving into tense, unstructured debate. It was time for Maria to conduct her biggest performance yet: the team meeting itself.
+
+---
+> ### **The 1% Upgrade**
+>
+> The next time you receive even minor feedback, your only mission is to fight the urge to explain or defend. Just say "Thank you for that feedback. I'll think about it." You are training your brain to see feedback as data, not a threat.
+
+---
 ### **Logbook Entry**
 
 This week, your mission is to practice the **"Intake" Protocol**. The next time someone gives you any form of feedback (even a minor, off-hand comment), your job is to use "the sentence."
@@ -83,4 +97,3 @@ This week, your mission is to practice the **"Intake" Protocol**. The next time 
 1.  **The Feedback:** What was the feedback, criticism, or comment you received?
 2.  **The Feeling:** What was the immediate physical or emotional sensation you felt? (e.g., heat in the face, knot in the stomach).
 3.  **The Response:** Did you manage to use the clarifying question ("Can you give me a specific example?")? What was the result? If you didn't, what got in the way?
-      

@@ -101,4 +101,3 @@ This is your first entry in your personal training manual. Take a moment to refl
 1.  **What was your dominant profile?** (Architect, Connector, Sentinel, or Adaptive)
 2.  **Describe a recent situation where this profile's "Growth Edge" showed up.** How did it impact the interaction?
 3.  **What is the one thing you hope to learn from this book?**
-      

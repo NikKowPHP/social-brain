@@ -31,7 +31,13 @@ Maria couldn't command Mark, Leo, and Jane to feel safe. She had to design a sys
 > By changing the "local software" of Microsoft's culture, Nadella created the conditions for a massive surge in innovation and market value. He acted as the conductor, creating the environment for the orchestra to thrive.
 ---
 
-1.  **Model Calibrated Vulnerability (Chapter 6):** Safety starts at the top. The single fastest way to create it is for the leader to demonstrate it. Maria started her next team meeting by sharing a small, professional vulnerability. *"I was wrong about my initial timeline estimate on the X project, and I've learned we need to be more conservative. That's on me."* This isn't weakness; it is a powerful broadcast signal that it's safe for others to be human.
+> ### **Profile Alert: Building Safety**
+>
+> *   **Architect Alert:** You build safety through clarity and fairness—creating transparent systems and processes. Your growth edge is in modeling vulnerability, which can feel inefficient but is the fastest way to build trust.
+> *   **Connector Power-Up:** You are a natural at creating Relatedness and rewarding Status by making people feel valued. Your challenge is to hold people accountable for mistakes (Fairness) in a way that feels like a learning opportunity, not a personal attack.
+> *   **Sentinel Shield-Training:** Because you are so attuned to risk, your default can be to create processes that reduce errors but also reduce Autonomy. Your work is to trust your team, empowering them to make and learn from their own mistakes.
+
+1.  **Model Calibrated Vulnerability (Chapter 6):** Safety starts at the top. The single fastest way to create it is for the leader to demonstrate it. Maria started her next team meeting by sharing a small, professional vulnerability. *"I was wrong about my initial timeline estimate on the Phoenix project, and I've learned we need to be more conservative. That's on me."* This isn't weakness; it is a powerful broadcast signal that it's safe for others to be human.
 2.  **Systematize SCARF Rewards (Chapter 10):** Intentionally design your team's routines to reward the social brain.
     *   **To reward Status:** Begin every project debrief by having each person share one thing they are proud of *before* discussing what went wrong.
     *   **To reward Certainty:** Create and share a clear agenda for every meeting. End every meeting by stating the clear, concrete next steps.
@@ -40,3 +46,8 @@ Maria couldn't command Mark, Leo, and Jane to feel safe. She had to design a sys
     *   **Do ask:** *"What did we learn from this, and how can we use that learning to make our next experiment better?"* (Frames the work as collaborative discovery).
 
 By implementing these routines, you are doing more than managing people; you are nurturing their brains. You are creating the conditions for brilliance to emerge. This is the conductor's true legacy.
+
+---
+> ### **The 1% Upgrade**
+>
+> In your next team meeting, when a small mistake or issue comes up, resist the urge to find a solution immediately. Instead, ask the group one question: **"What can we learn from this?"** This simple reframe begins to build a culture of learning over blaming.

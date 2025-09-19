@@ -55,17 +55,19 @@ What do you do if, despite your best efforts, the other person's "security guard
     *   "This is clearly a critical point. Would it be more productive to talk through this now, or should we take a five-minute break to reset?"
 
 This protocol—Regulate, Validate, Restore—is your fire extinguisher for a conversation that has caught fire.
+
+[QR CODE: Watch a 60-second video of the Hijack Emergency Protocol in action.]
 ---
 
 #### **The Practice: Run a SCARF Diagnosis**
 
 Your job as a conductor is to re-orchestrate the conversation to minimize the threats and maximize the rewards across the five SCARF domains.
 
-**Your Profile in a Difficult Conversation**
-Your native wiring changes the nature of the conflict.
-*   An **Architect**'s conflict is often about *being right*. Your biggest risk is using logic as a weapon, which is a massive Status threat. Your work is to shift from winning the argument to solving the problem together.
-*   A **Connector**'s conflict is often about *avoiding hurt*. Your biggest risk is softening the message so much that it becomes unclear, which is a Certainty threat. Your work is to be both compassionate *and* clear.
-*   A **Sentinel**'s conflict is often about *feeling safe*. Your biggest risk is that your own threat response is so high that you broadcast danger, triggering a hijack in the other person. Your work is to use the Conductor's Breath to find calm before you even begin.
+> ### **Profile Alert: Difficult Conversations**
+>
+> *   **Architect Alert:** Your conflict is often about *being right*. Your biggest risk is using logic as a weapon, which is a massive Status threat. Your work is to shift from winning the argument to solving the problem together.
+> *   **Connector Power-Up:** Your conflict is often about *avoiding hurt*. Your biggest risk is softening the message so much that it becomes unclear, a Certainty threat. Your work is to be both compassionate *and* clear.
+> *   **Sentinel Shield-Training:** Your conflict is often about *feeling safe*. Your biggest risk is that your own threat response is so high that you broadcast danger, triggering a hijack in the other person. Your work is to use the Conductor's Breath to find calm before you even begin.
 
 Let's look at Maria's two options for starting the conversation with Mark.
 
@@ -99,6 +101,14 @@ She has successfully created the neurochemical conditions for a productive conve
 >     *   *"What I'm hearing is that you see this as the only possible outcome. Is that correct?"* This isn't about feeling with them; it's about confirming their position so you can respond logically.
 ---
 
+The conversation with Mark was a success. He heard the feedback and, to Maria's surprise, agreed to work on his approach. But just as internal harmony was achieved, a new threat emerged. The Phoenix Project required them to collaborate with an external vendor whose team culture was brutally aggressive. The rules of engagement had just changed completely.
+
+---
+> ### **The 1% Upgrade**
+>
+> Before your next difficult conversation, take two minutes to script only your opening two sentences. Use the "SCARF-Aware Opening" as a template. Your goal is not to plan the whole conversation, but to ensure you start by creating safety, not threat.
+
+---
 ### **Logbook Entry**
 
 Think of one potentially difficult conversation you need to have in the next week or two. **Do not have the conversation.** Your only mission is to run a pre-mortem SCARF diagnosis and script your opening.
@@ -106,4 +116,3 @@ Think of one potentially difficult conversation you need to have in the next wee
 1.  **The Situation:** Briefly describe the difficult conversation you need to have.
 2.  **SCARF Diagnosis:** What are the primary SCARF threats the other person is likely to feel from your message?
 3.  **Script Your Opening:** Write out the exact sentences you will use to open the conversation, intentionally rewarding as many SCARF domains as possible before you introduce the difficult topic.
-      

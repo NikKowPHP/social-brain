@@ -77,6 +77,12 @@ First, connect with the feeling. Only then, explore the problem.
 
 The fix for this bug is a simple, protocol-driven loop to intentionally stop yourself from problem-solving and instead create a powerful circuit of understanding.
 
+> ### **Profile Alert: The Empathy Loop**
+>
+> *   **Architect Alert:** Your instinct will be to see this Empathy Loop as inefficient. This is your 'growth edge.' Resisting the urge to solve is your main quest for this level.
+> *   **Connector Power-Up:** You are naturally skilled at this, but your challenge is to use the Playback with clarity to confirm you understood, not just to make the other person feel good.
+> *   **Sentinel Shield-Training:** Your focus on threat can make you listen for what's wrong, not what's felt. Your practice is to consciously listen for the emotion, not just the potential danger.
+
 **Step 1: Flip the Empathy Switch.**
 The switch is a specific type of query. Instead of "Why" questions, which can feel accusatory, the Empathy Switch uses **"What" and "How" questions.** These are open-ended discovery questions that invite exploration.
 
@@ -87,6 +93,15 @@ This is the key to making this technique feel natural and not robotic. As they a
 After they've shared their data, your next job is to confirm the data was received correctly. The most powerful way to do this is to summarize the essence of what they said back to them in your own words. This is **The Playback**. You are acting as a **mirror for their emotion.** Your goal is to hold up a mirror that accurately reflects the 'music' they are feeling, so they can see it, point to it, and say, "Yes, that. That's what it feels like."
 
 ---
+
+The connection with Leo was restored, and he felt seen. But in their next one-on-one, Maria noticed that while she was talking, Leo was glancing at his phone. She had earned his empathy, but she hadn't captured his attention. She was about to discover that deep listening wasn't a passive activity, but a powerful broadcast signal.
+
+---
+> ### **The 1% Upgrade**
+>
+> In your next conversation where someone shares a frustration, your only goal is to ask one question: **"What's the hardest part about that for you?"** Then, just listen. Don't solve. Don't judge. Just listen.
+
+---
 ### **Logbook Entry**
 
 This week, your challenge is to consciously **resist jumping to a solution**. When someone shares a problem, execute the full Empathy Loop protocol. Try this in one non-work conversation. Use it with your partner, a friend, or your child. Resist solving, and just connect.
@@ -94,4 +109,3 @@ This week, your challenge is to consciously **resist jumping to a solution**. Wh
 1.  **The Situation:** Who did you practice with, and what was the problem they shared?
 2.  **The "Music":** What was the underlying emotion, value, or need ("the music") you heard beneath the facts of their story ("the lyrics")?
 3.  **The Playback:** Write down the exact "Playback" sentence you used (or could have used). (e.g., "So it sounds like you felt really disrespected.") How did they respond?
-      

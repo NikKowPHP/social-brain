@@ -33,12 +33,11 @@ You cannot defeat this fear by telling yourself to "just be confident." That's l
 
 The goal is not to be brilliant, witty, or impressive. The goal is to **send a signal of safety.**
 
-**Your Profile and the First Move:**
-*   **The Architect's Fear:** Looking foolish or inefficient. You might over-plan the "perfect" opening line, leading to analysis paralysis.
-*   **The Connector's Fear:** Being disliked or creating awkwardness. You worry more about making *them* uncomfortable than about your own needs.
-*   **The Sentinel's Fear:** Perceiving the entire interaction as a danger zone. Your threat detection is on overdrive, making the risk feel enormous.
-
-The "Safety Signal" protocol works for all profiles because it lowers the stakes for everyone.
+> ### **Profile Alert: The First Move**
+>
+> *   **Architect Alert:** Your fear is looking foolish or inefficient. You might over-plan the "perfect" opening line, leading to analysis paralysis. Your practice is to ship the v1 opening line, even if it's not perfect.
+> *   **Connector Power-Up:** Your fear is being disliked or creating awkwardness. You worry more about making *them* uncomfortable than about your own needs. The protocol is your shield: by giving them autonomy to disengage, you are being respectful, not awkward.
+> *   **Sentinel Shield-Training:** You perceive the entire interaction as a danger zone. Your threat detection is on overdrive. The protocol is designed to de-risk the situation for you first. By focusing on the shared context, you ground yourself in the observable reality, not your brain's simulated catastrophe.
 
 **The Three-Step Protocol:**
 
@@ -60,6 +59,10 @@ The "Safety Signal" protocol works for all profiles because it lowers the stakes
 This protocol systematically de-risks the entire interaction. It calms your own system, establishes a Relatedness reward, and gives the other person the Autonomy to engage without feeling pressured. You have successfully broken the silence by sending a clear signal of safety, not a demand for attention.
 
 ---
+
+Leo managed to connect with the senior engineer, but in his follow-up email, his enthusiasm and detail got completely lost in a wall of text. He had just launched a denial-of-service attack on the engineer's brain, and Maria realized her team didn't just need to connect; they needed a protocol for clarity.
+
+---
 ### **Neuro-Toolkit: Breaking the Silence**
 
 **The Core Principle:**
@@ -68,6 +71,11 @@ The fear of approaching new people is the brain's rational response to an antici
 ---
 > **Investigator's Key:**
 > *"Stop trying to be impressive. Start by being safe. Your first job is to lower the perceived threat level for both your brain and theirs."*
+---
+> ### **The 1% Upgrade**
+>
+> Next time you're standing in a line (coffee shop, grocery store), try a micro-dose of this protocol. Find a shared context ("This line is moving slowly") and offer a low-stakes observation to the person near you ("I'm hoping the coffee is worth it"). The goal isn't a long conversation, just the small victory of breaking the silence.
+
 ---
 **The Immediate Practice:**
 Use the three-step "Safety Signal" Protocol.
@@ -83,4 +91,3 @@ This week, your mission is to break the silence once using the "Safety Signal" P
 1.  **The Situation:** Where were you and who did you approach?
 2.  **The Protocol:** Write down the exact "Shared Context" and "Low-Stakes Observation" you used.
 3.  **The Result:** What was the outcome? The goal isn't a long conversation, just a brief, safe connection.
-      

@@ -4,7 +4,7 @@
 Our investigation begins with the incident that started it all for Maria, a well-intentioned manager who felt like she was failing. We'll follow her journey throughout this book, but it all began with a critical bug report from her own team—a single, damaging email. This was the catalyst for her entire journey to become a conductor.
 
 **Case Study:** The Single-Sentence Email.
-An engineer named Mark, a brilliant Architect, poured two weeks of his life into a proposal. He worked late, triple-checked the data, and crafted what he felt was the most compelling argument his team had ever produced. He hit "send" on the email to his manager, Maria, with a deep sense of pride and anticipation.
+An engineer named Mark, a brilliant Architect, poured two weeks of his life into a proposal for the Phoenix Project. He worked late, triple-checked the data, and crafted what he felt was the most compelling argument his team had ever produced. He hit "send" on the email to his manager, Maria, with a deep sense of pride and anticipation.
 
 He spent the next two hours in a state of low-grade anxiety, checking his inbox every few minutes. Finally, a notification from Maria popped up. He opened it. The email held only his attachment and a single, brutal sentence:
 
@@ -51,10 +51,13 @@ For a programmer, debugging starts with observation and logging. Our first pract
 By reframing "difficult people" as "people perceiving a threat," you move from a place of judgment to a place of curiosity and strategic analysis. This is the foundation of everything we will do from this point forward.
 
 ---
-
 > ### **Investigator's Log: The Boardroom Bug Report**
 >
 > When I first read Lieberman and Eisenberger's research, it was like finding the bug report for my own life. The hot flush I felt in that boardroom wasn't a 'feeling'—it was a neurological event. The marketing director hadn't attacked my data; he had inadvertently triggered a physical pain response by threatening my status in the tribe. This discovery was the key: to debug human interaction, I first had to understand the hardware.
+
+---
+
+We now understand the alarm system. We know why a harsh word can hijack our entire nervous system and why Mark's reaction was so powerful. But knowing the alarm exists is not the same as controlling it. Maria now faces a withdrawn and resentful Mark, and she can feel her own anxiety rising. What happens when that bell starts ringing in the middle of a high-stakes conversation? How do you, the conductor, keep the orchestra from descending into chaos? The answer lies not in ignoring the alarm, but in learning how to skillfully turn down its volume, starting with your own.
 
 ---
 ### **Neuro-Toolkit: Social Pain**
@@ -69,12 +72,14 @@ The brain processes social threats (rejection, exclusion, loss of status) in the
 
 ---
 
-**The Immediate Practice:**
-Become a "Social Pain Detective." When you see a defensive reaction (in yourself or others), ask: *Which of the five social domains (Status, Certainty, Autonomy, Relatedness, Fairness) is being threatened right now?*
+> ### **The 1% Upgrade**
+>
+> The next time you feel the sting of a curt email or a dismissive comment, try this: Label the feeling as a "social pain event." That's it. Don't try to fix it or ignore it. Just the act of labeling the neurological event can give your rational brain a tiny bit of distance and control.
 
 ---
 
-We now understand the alarm system. We know why a harsh word can hijack our entire nervous system and why Mark's reaction was so powerful. But knowing the alarm exists is not the same as controlling it. What happens when that bell starts ringing in the middle of a high-stakes conversation? How do you, the conductor, keep the orchestra from descending into chaos? The answer lies not in ignoring the alarm, but in learning how to skillfully turn down its volume. Our next step is to master the art of emotional self-regulation, the first true act of a conductor.
+**The Immediate Practice:**
+Become a "Social Pain Detective." When you see a defensive reaction (in yourself or others), ask: *Which of the five social domains (Status, Certainty, Autonomy, Relatedness, Fairness) is being threatened right now?*
 
 ---
 ### **Logbook Entry**
@@ -83,4 +88,3 @@ Time to practice being a Social Pain Detective. Over the next few days, your mis
 
 1.  **The Event:** Briefly describe a moment when you saw someone (or yourself) have a defensive or emotional reaction. (e.g., "My partner got angry when I reminded them to take out the trash.")
 2.  **The Detective Work:** What social threat might they have been perceiving? Analyze it using the SCARF model. (e.g., "It wasn't about the trash. It was a threat to their **Autonomy**—they felt I was telling them what to do.")
-      

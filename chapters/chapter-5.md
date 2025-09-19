@@ -9,7 +9,7 @@ For years, I thought the answer was in what you say—finding the perfect, reass
 
 #### **Case Study: The Divided-Attention Mistake**
 
-Maria learned this the hard way. During a one-on-one with Leo, he was explaining a complex dependency issue. As he spoke, Maria was half-listening, but also mentally planning her next meeting and glancing at the Slack notifications on her second monitor. She was physically in the room, but her brain was somewhere else.
+Maria learned this the hard way. During a one-on-one with Leo, he was explaining a complex dependency issue for the Phoenix Project. As he spoke, Maria was half-listening, but also mentally planning her next meeting and glancing at the Slack notifications on her second monitor. She was physically in the room, but her brain was somewhere else.
 
 She noticed Leo's energy fade. He trailed off mid-sentence and said, "…anyway, it's probably not a big deal." The connection she had carefully built in the last chapter was broken. She had failed to give him the most valuable thing she possessed: her undivided attention. That was the day she realized deep listening wasn't a passive activity, but an active broadcast of the signal, "You matter."
 
@@ -47,19 +47,26 @@ These primal signals of safety and threat don't disappear when we're behind a sc
 
 Your goal is to become an expert at broadcasting a powerful, non-verbal "Signal of Presence," whether in person or online.
 
-**Your Profile and Presence**
-How you broadcast this signal is often filtered through your dominant profile.
-*   For the **Architect**, the challenge is that your intense focus on the "lyrics" (the data) can make your non-verbals seem cold or detached.
-*   For the **Connector**, the challenge is the opposite. You might eagerly fill every silence to maintain harmony, forgetting the "Intelligent Pause."
-*   For the **Sentinel**, the challenge is that your hyper-vigilance can be broadcast non-verbally, making your attention feel like an interrogation.
-
-For every profile, the goal is the same: to use these tools with intention to create a state of safety for the other person.
+> ### **Profile Alert: Presence**
+>
+> *   **Architect Alert:** Your intense focus on the "lyrics" (the data) can make your non-verbals seem cold or detached. Your practice is to consciously "point the tripod" to show you're engaged with the person, not just their information.
+> *   **Connector Power-Up:** Your challenge is the opposite. You might eagerly fill every silence to maintain harmony. Your practice is to master the "Intelligent Pause" to prove you are listening, not just waiting to agree.
+> *   **Sentinel Shield-Training:** Your hyper-vigilance can be broadcast non-verbally, making your attention feel like an interrogation. Your practice is to soften your gaze and posture to signal curiosity, not threat-assessment.
 
 **1. Point the Tripod of Attention.** Think of your attention as a tripod with three legs: your eyes, your head, and your torso. Intentionally and gently aim the tripod at the person you are with. If you are in a tense conversation, leaning in slightly sends an even stronger signal of engagement. This also includes subtle mirroring of posture—not mimicry, but a gentle alignment that signals "I'm with you."
 
 **2. Master the "Intelligent Pause."** After they finish a thought, wait a full one or two seconds before you respond. This proves you were absorbing, not just waiting for your turn to speak.
 
 **3. Listen for the Music, Not Just the Lyrics (Revisited).** As you listen, ask yourself, "What is the core feeling being expressed beneath these words?" This is what you will use in your "Playback" from the last chapter.
+
+---
+
+Maria had Leo's full attention now. But attention wasn't trust. Her next challenge, and the biggest roadblock to the Phoenix Project's success, was Jane, the cynical senior architect who trusted no one. Empathy and attention wouldn't be enough; Maria would need to understand the very chemistry of trust itself.
+
+---
+> ### **The 1% Upgrade**
+>
+> In your next conversation, practice the "Intelligent Pause" just once. After the other person finishes speaking, wait two full seconds before you respond. Notice how it changes the dynamic of the conversation.
 
 ---
 ### **Logbook Entry**
@@ -69,4 +76,3 @@ In one important conversation this week (in-person, video, or chat), your only m
 1.  **The Context:** Describe the conversation (e.g., "Video call with my team," "Dinner with my partner").
 2.  **The Technique:** Which "Signal of Presence" technique did you consciously practice? (e.g., put phone away, single-tasked on video, used an 'Intelligent Pause,' acknowledged receipt in chat).
 3.  **The Observation:** Did you notice any change in the other person's energy, tone, or engagement?
-      

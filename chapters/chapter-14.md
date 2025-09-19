@@ -30,7 +30,7 @@ An automated skill no longer requires the CEO's full attention. It becomes an in
 
 #### **Case Study: The Conductor's Symphony**
 
-This is the climax of Maria's journey. Having started as a frustrated Architect, she now leads a new, high-profile project. She is about to face her biggest test yet. Her star engineer, Mark (now a collaborator, not a combatant), is on the team, along with Leo (now confident, not timid) and Jane, the senior Sentinel architect (now a trusted advisor, not a cynic). The project hits a crisis: a key supplier has defaulted, putting the entire launch schedule at risk. The team meeting is fraught with tension.
+This is the climax of Maria's journey. Having started as a frustrated Architect, she now leads a new, high-profile project. She is about to face her biggest test yet. Her star engineer, Mark (now a collaborator, not a combatant), is on the team, along with Leo (now confident, not timid) and Jane, the senior Sentinel architect (now a trusted advisor, not a cynic). The Phoenix Project hits a crisis: a key supplier has defaulted, putting the entire launch schedule at risk. The team meeting is fraught with tension.
 
 Here is how the old Maria would have run the meeting: by stating facts, assigning blame, and demanding solutions, triggering a cascade of SCARF threats.
 
@@ -55,11 +55,17 @@ Mastery is not an accident; it is the result of intentional, gamified practice. 
 | **3** | **Clarity & Impact** | Run one important email through the **Clarity Protocol (Ch. 8)**. Frame one idea in a meeting using the **Tension & Resolution Arc (Ch. 9)**. | Log the "Before" and "After" of your message. Did you get a different result? |
 | **4** | **Integration & Design** | Consciously design one meeting using the **Conductor's Blueprint (Ch. 13)**, paying special attention to the agenda and follow-up. | Did the meeting feel more focused and less tense than usual? Log the evidence. |
 
-**A Note for the Adaptive Profile:** Your challenge is one of *intentionality*. You can access all the tools, so your practice is to consciously choose a tool before an interaction rather than defaulting to the easiest one in the moment. Before your next important conversation, ask yourself: "Does this moment call for the Architect, the Connector, or the Sentinel?"
+> ### **Profile Alert: The Challenge**
+>
+> *   **Adaptive Profile:** Your challenge is one of *intentionality*. You can access all the tools, so your practice is to consciously choose a tool before an interaction rather than defaulting to the easiest one in the moment. Before your next important conversation, ask yourself: "Does this moment call for the Architect, the Connector, or the Sentinel?"
 
 Remember, this is a practice. The goal is not perfection on day one. An aim for 1% improvement every day is a powerful path to mastery. Some days you will fail, your old programming will take over, and you will react instead of conducting. That's okay. Simply notice the failure without judgment in your logbook, take a Conductor's Breath, and get ready for the next performance.
 
 ---
 
 This is how you turn practice into mastery. But mastery is not just for your own benefit. The final act of a conductor is to move beyond personal skill and use these tools to shape the environment for your entire orchestra. It's time to build your legacy.
-      
+
+---
+> ### **The 1% Upgrade**
+>
+> Pick one practice from the 30-Day Challenge that feels most difficult for you. For the next week, focus only on that single micro-habit. Don't try to do everything. Master one tool at a time.

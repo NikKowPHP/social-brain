@@ -1,6 +1,5 @@
 ### **Table of Contents**
 
-**Foreword**
 
 **Introduction:** Your Brain's Operator's Manual
 

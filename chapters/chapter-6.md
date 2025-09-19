@@ -9,7 +9,7 @@ The answer, I discovered, is a definitive yes. Trust is not a mystery; it is a f
 
 #### **Case Study: Cracking the Code on Jane**
 
-Maria's biggest challenge was Jane, a brilliant but deeply cynical senior architect with a strong Sentinel profile. Jane had seen too many initiatives fail and trusted no one. She was a constant, skeptical roadblock in meetings, and Maria knew that without Jane's trust, her team would never truly succeed.
+Maria's biggest challenge on the Phoenix Project was Jane, a brilliant but deeply cynical senior architect with a strong Sentinel profile. Jane had seen too many initiatives fail and trusted no one. She was a constant, skeptical roadblock in meetings, and Maria knew that without Jane's trust, her team would never truly succeed.
 
 To build a bridge, Maria decided to run a trust protocol. In their next one-on-one, after discussing a technical issue, Maria took a breath and executed a small, calibrated vulnerability.
 
@@ -48,11 +48,11 @@ Here's what it does:
 
 You can't force someone to trust you, but you can run a protocol of behaviors that are highly likely to trigger an oxytocin release, creating the neurochemical conditions for trust to emerge.
 
-**Your Profile and the Trust Protocol**
-Your innate wiring creates a specific challenge when running this protocol.
-*   For the **Architect**, the biggest barrier is that vulnerability can feel illogical or inefficient. Your work is to see that sharing a small, human imperfection is actually the most logical path to a high-functioning team.
-*   For the **Connector**, the risk is the opposite: a tendency toward *uncalibrated* vulnerability. Your work is to ensure you are sharing with discernment, using the "pause and observe" step to avoid oversharing with untrustworthy people.
-*   For the **Sentinel**, the challenge is immense. Your entire system is built to avoid lowering your shield. For you, signaling even a small vulnerability is an act of courage that requires you to use your "Conductor's Breath" first.
+> ### **Profile Alert: The Trust Protocol**
+>
+> *   **Architect Alert:** The biggest barrier is that vulnerability can feel illogical or inefficient. Your work is to see that sharing a small, human imperfection is actually the most logical path to building a high-functioning team.
+> *   **Connector Power-Up:** Your risk is the opposite: a tendency toward *uncalibrated* vulnerability. Your practice is to ensure you are sharing with discernment, using the "pause and observe" step to avoid oversharing.
+> *   **Sentinel Shield-Training:** Your entire system is built to avoid lowering your shield. For you, signaling even a small vulnerability is an act of courage that requires you to use your "Conductor's Breath" first. This is your hardest, but most important, training.
 
 **1. Execute "Calibrated Vulnerability."**
 This is the most powerful and counter-intuitive trigger, and it must be done with precision. Think of it as a **social sonar ping.** You send out a small, safe signal into the conversation. Then you go quiet and listen for the echo. If the signal bounces back with empathy and reciprocity, you know the waters are safe to navigate. If it's met with silence or judgment, you know there's a wall ahead. This is a low-risk test with a very high information reward.
@@ -73,6 +73,15 @@ This is a simple but profound change to your verbal code. The words "you" and "I
 "We" language is a constant, low-level signal to the brain that "we are in the same tribe, working on the same problem."
 
 ---
+
+Maria was slowly building trust inside her team. But the Phoenix Project required engaging with skeptical stakeholders and intimidating executives. To succeed, she had to teach her team, especially the timid Leo, how to break the silence and connect with powerful strangers.
+
+---
+> ### **The 1% Upgrade**
+>
+> In one meeting or email this week, find an opportunity to replace a "you" or "I" statement with a "we" statement. For example, instead of "I need your feedback," try "How can we get this to a good place?" Notice the subtle shift in tone from a demand to a collaboration.
+
+---
 ### **Logbook Entry**
 
 This week, your mission is to run one small trust protocol with someone you'd like to build a stronger connection with.
@@ -80,4 +89,3 @@ This week, your mission is to run one small trust protocol with someone you'd li
 1.  **The Person & Goal:** Who did you choose, and what was your goal for the interaction?
 2.  **The Protocol:** Which trust protocol did you run? (Calibrated Vulnerability, Uncommon Commonality, or "We" Language). Describe exactly what you said or did.
 3.  **The Result:** How did they respond? Did you get an "echo" back? How did the feeling of the interaction change?
-      

@@ -13,10 +13,10 @@ This forced a new investigation: **How do you conduct the collective brain of a 
 
 #### **Case Study: The Meeting Makeover**
 
-This blueprint was Maria's turning point. She used to dread her team's weekly status meeting, which often devolved into a tense, unstructured debate between Mark's push for efficiency and Jane's constant risk-spotting, while Leo stayed silent. The meeting was a perfect storm of competing brain profiles.
+This blueprint was Maria's turning point. She used to dread her team's weekly Phoenix Project status meeting, which often devolved into a tense, unstructured debate between Mark's push for efficiency and Jane's constant risk-spotting, while Leo stayed silent. The meeting was a perfect storm of competing brain profiles.
 
 Before her next meeting, she decided to stop being a participant and start being the conductor.
-1.  **Before:** She sent out a **SCARF-aware agenda** 24 hours in advance. The title was the meeting's single goal: "Decide on Q3 Launch Date." The items were questions ("How can we mitigate the server-load risk Jane identified?"), not topics.
+1.  **Before:** She sent out a **SCARF-aware agenda** 24 hours in advance. The title was the meeting's single goal: "Decide on Q3 Launch Date for Phoenix." The items were questions ("How can we mitigate the server-load risk Jane identified?"), not topics.
 2.  **During (The Opening):** She opened the meeting by stating the goal and the rules of engagement. "Our goal is to leave with a firm date. To do that, we need everyone's perspective. Mark, I need your logic. Jane, I need your risk-analysis. Leo, I need your user-focused ideas." She gave everyone a role, a massive Status reward.
 3.  **During (The Dissent):** When Jane raised a concern, the old Maria would have seen it as a roadblock. The new Maria used the **Empathy Loop** to validate it publicly. "That's a critical point, Jane. It sounds like you're concerned we're not taking the database-failure risk seriously enough. Is that right?" Jane, feeling heard instead of dismissed, said "Yes, exactly." The tension in the room dropped.
 4.  **After:** Within an hour of the meeting ending, she sent a follow-up email. It had two sections: **Decision:** "The launch date is September 1st." **Action Items:** "Mark to finalize server specs by Friday. Jane to draft a risk-mitigation plan by Friday. Leo to prepare user-comms by Monday."
@@ -36,6 +36,12 @@ A well-conducted meeting is a system that systematically rewards the five SCARF 
 #### **The Practice: A Conductor's Meeting Blueprint**
 
 You cannot control what every person says, but you can design a structure that makes productive conversation the path of least resistance. This blueprint isn't just for boardrooms. Use it to conduct a difficult family meeting. **Before:** Set the agenda ('Our goal is to agree on a fair way to split chores'). **During:** Use the Empathy Loop when a sibling feels unheard. **After:** Send a text summarizing what you agreed to, creating clarity and fairness.
+
+> ### **Profile Alert: Meetings**
+>
+> *   **Architect Alert:** You excel at creating a clear agenda ("Before"). Your growth edge is in managing the live conversation ("During"), especially using the Empathy Loop when discussions become emotional and seem to derail from the logical plan.
+> *   **Connector Power-Up:** You are a natural at making people feel heard ("During"). Your challenge is to maintain structure ("Before" and "After") to ensure the meeting doesn't just feel good but also achieves a clear outcome.
+> *   **Sentinel Shield-Training:** You are skilled at spotting risks in a plan, but you may deliver these warnings in a way that hijacks the room. Your practice is to use the Empathy Loop on others who dissent, modeling how to handle disagreement constructively.
 
 **1. Before the Meeting: Setting the Stage (The Score)**
 A great performance starts long before the curtain rises.
@@ -63,6 +69,15 @@ The meeting isn't over when the video call ends. The final step is to reinforce 
 By designing the meeting before, during, and after, you transform it from a potential threat environment into a powerful engine for collaboration and clarity.
 
 ---
+
+Maria's meetings were transformed. But she felt herself constantly referring to her notes, consciously using the tools like a checklist. The final step on her journey was to move from practice to mastery, where conducting wasn't something she *did*, but who she *was*.
+
+---
+> ### **The 1% Upgrade**
+>
+> For the very next meeting you run, send out an agenda with a title that explicitly states the single goal of the meeting (e.g., "Goal: Decide on Vendor X or Y"). This one change dramatically increases focus.
+
+---
 ### **Logbook Entry**
 
 This week, you will conduct one meeting, even if you are not the official leader. Your mission is to choose and implement **one** practice from the blueprint.
@@ -70,4 +85,3 @@ This week, you will conduct one meeting, even if you are not the official leader
 1.  **The Meeting:** Which meeting did you choose to focus on?
 2.  **The Intervention:** Which single practice from the blueprint (e.g., sending a SCARF-aware agenda, using the Empathy Loop on a dissenter, sending a clear follow-up) did you implement?
 3.  **The Result:** What was the observable impact on the meeting's tone or outcome?
-      
