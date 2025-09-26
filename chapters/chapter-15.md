@@ -30,7 +30,7 @@ A month after Maria's pivotal conversation with Mark, the team dynamic had impro
 
 The old Maria would have spoken to Mark again. The conductor saw a different opportunity: to move from directing the orchestra to developing the musicians. She needed to teach Leo how to give feedback, not just receive it.
 
-She called Leo into her office. "I'venoticed you have great ideas but you're holding back in meetings," she began. "Let's talk about how to get your voice heard." She didn't give him advice; she coached him on the "Debug" protocol.
+She called Leo into her office. "I've noticed you have great ideas but you're holding back in meetings," she began. "Let's talk about how to get your voice heard." She didn't give him advice; she coached him on the "Debug" protocol.
 
 "Next time you disagree with Mark," she said, "I don't want you to argue. I want you to run a collaborative debugging session. Get permission: 'Mark, can I offer a different perspective?' Then share data, not drama: 'My data shows that this other approach might be 15% faster.' Finally, co-create: 'How might we combine the safety of your approach with the speed of this one?'"
 
@@ -53,6 +53,10 @@ Leo, expecting a lecture, was surprised by the question. He explained his reason
 
 To solve both problems, we need a protocol for giving feedback safely, a protocol for receiving it gracefully, and a protocol for making the change stick.
 
+> ### **Positional Alert: The Gravity of Feedback**
+>
+> Giving feedback "down" (to a direct report) carries inherent Status and Certainty threats. Your primary job is to create safety using the "Get Permission" step. Giving feedback "up" (to a boss) is risky. Your primary job is to frame it in a way that serves their goals and respects their Status, such as asking for their advice on the data you're presenting.
+
 > ### **From the Boardroom to the Living Room: The "Car Keys" Debug**
 >
 > The feedback protocols are lifesavers for sensitive conversations. Instead of a parent saying, "You're too old to be driving at night!" (a Status and Autonomy attack that guarantees a fight), the Debug protocol gives an adult child a much better script.
@@ -65,9 +69,9 @@ To solve both problems, we need a protocol for giving feedback safely, a protoco
 
 > ### **Profile Alert: Feedback**
 >
-> *   **Architect Alert:** You are skilled at spotting flaws, making you effective at the "Share Data, Not Drama" step of giving feedback. Your challenge is the "Get Permission" step—remembering to create safety before delivering the data.
-> *   **Connector Power-Up:** Your focus on harmony can make giving critical feedback feel like a betrayal. The "Debug" protocol is your script to deliver hard truths in a way that feels collaborative, not confrontational.
-> *   **Sentinel Shield-Training:** Receiving feedback can feel like a direct attack. The "Intake" protocol is your most important tool. Your primary mission is to regulate your own system before you respond. Master "the sentence."
+> *   **[ICON: Blueprint] Architect Alert:** You are skilled at spotting flaws, making you effective at the "Share Data, Not Drama" step of giving feedback. Your challenge is the "Get Permission" step—remembering to create safety before delivering the data.
+> *   **[ICON: Bridge] Connector Power-Up:** Your focus on harmony can make giving critical feedback feel like a betrayal. The "Debug" protocol is your script to deliver hard truths in a way that feels collaborative, not confrontational.
+> *   **[ICON: Shield] Sentinel Shield-Training:** Receiving feedback can feel like a direct attack. The "Intake" protocol is your most important tool. Your primary mission is to regulate your own system before you respond. Master "the sentence."
 
 **Protocol 1: The "Debug" Method (For Giving Feedback)**
 Instead of a "sandwich," run a collaborative debugging session.

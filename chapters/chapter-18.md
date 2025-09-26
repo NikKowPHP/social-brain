@@ -47,15 +47,15 @@ You cannot control what every person says, but you can design a structure that m
 
 > ### **Profile Alert: Meetings**
 >
-> *   **Architect Alert:** You excel at creating a clear agenda ("Before"). Your growth edge is in managing the live conversation ("During"), especially using the Empathy Loop when discussions become emotional and seem to derail from the logical plan.
-> *   **Connector Power-Up:** You are a natural at making people feel heard ("During"). Your challenge is to maintain structure ("Before" and "After") to ensure the meeting doesn't just feel good but also achieves a clear outcome.
-> *   **Sentinel Shield-Training:** You are skilled at spotting risks in a plan, but you may deliver these warnings in a way that hijacks the room. Your practice is to use the Empathy Loop on others who dissent, modeling how to handle disagreement constructively.
+> *   **[ICON: Blueprint] Architect Alert:** You excel at creating a clear agenda ("Before"). Your growth edge is in managing the live conversation ("During"), especially using the Empathy Loop when discussions become emotional and seem to derail from the logical plan.
+> *   **[ICON: Bridge] Connector Power-Up:** You are a natural at making people feel heard ("During"). Your challenge is to maintain structure ("Before" and "After") to ensure the meeting doesn't just feel good but also achieves a clear outcome.
+> *   **[ICON: Shield] Sentinel Shield-Training:** You are skilled at spotting risks in a plan, but you may deliver these warnings in a way that hijacks the room. Your practice is to use the Empathy Loop on others who dissent, modeling how to handle disagreement constructively.
 > *   **Cognitive Style Alert (Introversion):** The introverted Conductor's superpower is preparation. You can create immense psychological safety by sending out a "Questions for Consideration" document 24 hours before the meeting. This allows fellow internal processors to contribute their best thinking, rather than rewarding only the fastest thinkers in the room.
 
 **1. Before the Meeting: Setting the Stage (The Score)**
 A great performance starts long before the curtain rises.
 *   **Use the Clarity Protocol (Chapter 10) on the Agenda.** Every invitation must answer one question: "What is the one thing we must *know* or *do* by the end of this meeting?" This becomes the title of the agenda.
-*   **Design a SCARF-Aware Agenda.** An agenda is not just a list of topics; it is a tool for creating safety.
+*   **Design a SCARF-aware Agenda.** An agenda is not just a list of topics; it is a tool for creating safety.
     *   **Certainty:** Send the agenda well in advance with clear timings.
     *   **Autonomy & Status:** Frame agenda items as questions to be discussed, not proclamations to be heard (e.g., "Brainstorm options for Q3" instead of "Q3 plan review"). This signals that attendees are valued participants, not just an audience.
 

@@ -11,11 +11,15 @@ The key to saying "no" effectively is to find a way to honor your own **Autonomy
 
 A bad "no" is a blunt, flat rejection that triggers a massive threat response ("No, I can't do that."). A masterful "no" is a three-part protocol that protects the relationship while holding the boundary.
 
+> ### **Positional Alert: The Risk of "No"**
+>
+> The social risk of saying "no" changes dramatically based on your position. Saying "no" to your boss carries a much higher potential cost than saying "no" to a peer. When saying "no" up the chain of command, the "Validate" and "Offer" steps are critical to softening the message and showing respect for their authority.
+
 > ### **Profile Alert: Saying "No"**
 >
-> *   **Architect Alert:** Your challenge isn't saying "no," it's saying it in a way that doesn't create a relational fire. You may be too blunt. Your practice is the "Validate" step, remembering to acknowledge the person before declining the request.
-> *   **Connector Power-Up:** This is your core training. Saying "no" feels like a betrayal of your core value. This protocol is your script to say "no" to the request while saying "yes" to the relationship. Practice it on small things first.
-> *   **Sentinel Shield-Training:** You might say "no" too quickly out of a sense of perceived threat or overwhelm. Your work is to use the Conductor's Breath to pause, assess if the request is a real threat, and then use the full protocol to decline gracefully if needed.
+> *   **[ICON: Blueprint] Architect Alert:** Your challenge isn't saying "no," it's saying it in a way that doesn't create a relational fire. You may be too blunt. Your practice is the "Validate" step, remembering to acknowledge the person before declining the request.
+> *   **[ICON: Bridge] Connector Power-Up:** This is your core training. Saying "no" feels like a betrayal of your core value. This protocol is your script to say "no" to the request while saying "yes" to the relationship. Practice it on small things first.
+> *   **[ICON: Shield] Sentinel Shield-Training:** You might say "no" too quickly out of a sense of perceived threat or overwhelm. Your work is to use the Conductor's Breath to pause, assess if the request is a real threat, and then use the full protocol to decline gracefully if needed.
 
 1.  **Validate the Request (Reward Status & Relatedness):** Start by acknowledging the value and legitimacy of their request. This shows you are listening and that you respect them. You are signaling, "I see you, and your request is reasonable."
     *   *"Thank you so much for thinking of me for this."*

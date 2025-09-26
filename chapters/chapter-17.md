@@ -13,9 +13,9 @@ An effective apology is a protocol with four distinct steps. Missing any one of 
 
 > ### **Profile Alert: Apologizing**
 >
-> *   **Architect Alert:** Your challenge is the "Regret" step. You may be quick to take Responsibility ("That was my mistake") but struggle to connect with the emotional impact on the other person. Practice focusing on their experience, not just the logical error.
-> *   **Connector Power-Up:** You may be tempted to over-apologize or take responsibility for things that aren't yours. Your work is to deliver a clean, complete apology for your part without taking on blame for the entire situation.
-> *   **Sentinel Shield-Training:** Apologizing can feel like admitting a catastrophic failure or making yourself vulnerable to attack. For you, the most important step is to see that a real apology is an act of strength and control, not weakness.
+> *   **[ICON: Blueprint] Architect Alert:** Your challenge is the "Regret" step. You may be quick to take Responsibility ("That was my mistake") but struggle to connect with the emotional impact on the other person. Practice focusing on their experience, not just the logical error.
+> *   **[ICON: Bridge] Connector Power-Up:** You may be tempted to over-apologize or take responsibility for things that aren't yours. Your work is to deliver a clean, complete apology for your part without taking on blame for the entire situation.
+> *   **[ICON: Shield] Sentinel Shield-Training:** Apologizing can feel like admitting a catastrophic failure or making yourself vulnerable to attack. For you, the most important step is to see that a real apology is an act of strength and control, not weakness.
 
 1.  **Recognize:** Demonstrate that you understand the specific harm you caused, from their perspective. This shows you have listened and engaged your empathy. Vague apologies feel dismissive.
     *   *Bad:* "I'm sorry about what happened at the meeting."

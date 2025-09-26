@@ -65,11 +65,15 @@ Here's what it does:
 
 You can't force someone to trust you, but you can run a protocol of behaviors that are highly likely to trigger an oxytocin release, creating the neurochemical conditions for trust to emerge.
 
+> ### **Positional Alert: Vulnerability & Power**
+>
+> Remember the "Social Gravity" principle from Chapter 4. The risk of Calibrated Vulnerability is inversely proportional to your systemic power. If you are in a low-power position (like an intern speaking to a CEO), sharing a vulnerability can backfire and confirm negative stereotypes. In these situations, consider using a Status-rewarding question (like Maria did with Jane) instead of a vulnerable statement.
+
 > ### **Profile Alert: The Trust Protocol**
 >
-> *   **Architect Alert:** The biggest barrier is that vulnerability can feel illogical or inefficient. Your work is to see that sharing a small, human imperfection is actually the most logical path to building a high-functioning team.
-> *   **Connector Power-Up:** Your risk is the opposite: a tendency toward *uncalibrated* vulnerability. Your practice is to ensure you are sharing with discernment, using the "pause and observe" step to avoid oversharing.
-> *   **Sentinel Shield-Training:** Your entire system is built to avoid lowering your shield. For you, signaling even a small vulnerability is an act of courage that requires you to use your "Conductor's Breath" first. This is your hardest, but most important, training.
+> *   **[ICON: Blueprint] Architect Alert:** The biggest barrier is that vulnerability can feel illogical or inefficient. Your work is to see that sharing a small, human imperfection is actually the most logical path to building a high-functioning team.
+> *   **[ICON: Bridge] Connector Power-Up:** Your risk is the opposite: a tendency toward *uncalibrated* vulnerability. Your practice is to ensure you are sharing with discernment, using the "pause and observe" step to avoid oversharing.
+> *   **[ICON: Shield] Sentinel Shield-Training:** Your entire system is built to avoid lowering your shield. For you, signaling even a small vulnerability is an act of courage that requires you to use your "Conductor's Breath" first. This is your hardest, but most important, training.
 
 **1. Execute "Calibrated Vulnerability."**
 This is the most powerful and counter-intuitive trigger, and it must be done with precision. Think of it as a **social sonar ping.** You send out a small, safe signal into the conversation. Then you go quiet and listen for the echo. If the signal bounces back with empathy and reciprocity, you know the waters are safe to navigate. If it's met with silence or judgment, you know there's a wall ahead. This is a low-risk test with a very high information reward.

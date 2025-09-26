@@ -17,6 +17,11 @@ What if you could see those rules? What if you could debug a difficult conversat
 This book is the result of that investigation. It is the map I wished I'd had on my journey. I will share the source code I discovered and hand you a complete toolkit of neuroscience-backed protocols I developed—a system I call **The Conductor Method**.
 
 ---
+> ### **A Note on Authenticity**
+> 
+> A fair warning: as you begin to practice the protocols in this book, they might feel clumsy or even robotic. You may worry that you're "performing" connection instead of genuinely feeling it. This is a normal and necessary stage of learning. Think of it like learning musical scales. At first, the practice is mechanical and stiff. But the goal of practicing scales is not to perform them in a concert; it is to internalize the patterns so deeply that you can forget them and simply play the music. The tools in this book are your scales. The goal is to practice them until they move from conscious effort to unconscious intuition, becoming an authentic part of your personal conducting style.
+
+---
 > ### **CRITICAL WARNING: Where This Toolkit Ends and Professional Help Begins**
 >
 > This book is a guide for improving communication skills and managing the normal, everyday emotional reactions of a healthy brain. It is **NOT** a substitute for professional mental health treatment.
