@@ -1,4 +1,4 @@
-### **Chapter 14.5: Conducting the Asynchronous Orchestra**
+### **Chapter 16.5: Conducting the Asynchronous Orchestra**
 #### Building Connection Across Time and Space
 
 The principles of The Conductor Method™ are universal because the hardware of the human brain is universal. However, the environment in which we conduct is changing. For a growing number of us, the "performance space" is not a conference room, but a collection of text documents, chat channels, and email threads.
@@ -37,4 +37,3 @@ Tense, text-based exchanges are a recipe for disaster. The negative interpretati
     *   *Do say:* "This is an important conversation, and I want to make sure I'm fully understanding your perspective. I think it would be faster and easier to sync up on a quick call. Are you free for 10 minutes this afternoon?" (Rewards Status, Relatedness, and Autonomy).
 
 By adopting these protocols, you can transform the chaotic, threat-rich environment of asynchronous work into a calm, clear, and connected space for your orchestra to thrive.
-      

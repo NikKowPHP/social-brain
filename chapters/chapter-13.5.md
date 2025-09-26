@@ -1,4 +1,4 @@
-### **Chapter 11.5: Conducting a Hostile Orchestra (Hard Mode)**
+### **Chapter 13.5: Conducting a Hostile Orchestra (Hard Mode)**
 #### **Navigating Manipulation and Bad-Faith Arguments**
 
 The tools we have developed so far operate on a fundamental assumption: that both parties are engaging in good faith. We assume that even in a difficult conversation, the shared goal is to find a productive outcome.
@@ -39,10 +39,10 @@ This is the most important step. You must consciously abandon the goal of persua
 
 **2. Go "Gray Rock."**
 A manipulator feeds on your emotional reactions. The "Gray Rock Method" is the practice of becoming as boring and unreactive as a gray rock.
-*   **Regulate Your System (Chapter 4):** Use the **Conductor's Breath** continuously and silently.
+*   **Regulate Your System (Chapter 6):** Use the **Conductor's Breath** continuously and silently.
 *   **Control Your Non-Verbals:** Maintain a neutral facial expression and calm posture. Do not show anger, frustration, or excitement.
 
-**3. Use Clarity as a Scalpel, Not a Bridge (Chapter 9).**
+**3. Use Clarity as a Scalpel, Not a Bridge (Chapter 11).**
 Your goal is not to be understood, but to be undeniable.
 *   **State Facts, Not Interpretations:**
     *   *Don't say:* "That's not fair!"
@@ -54,4 +54,3 @@ You can still use the Empathy Loop, but with a different intent. Your goal is no
 *   *"So, if I'm hearing you correctly, your position is that we cannot move forward until this new, undocumented risk is addressed. Is that right?"* This isn't about validating their feeling; it's about pinning down their argument so it can't shift later.
 
 Maria used this protocol in her next meeting with David. When he began his vague attacks, she went Gray Rock. She took a breath and said, "David, that's an interesting point. To make sure we can address it, could you please send me an email by EOD with the specific data on the risks you've identified?" She calmly deflected, documented, and returned to the agenda. She didn't "win," but she didn't lose. She contained the threat and conducted her orchestra safely through the storm.
-      

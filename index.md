@@ -1,108 +1,120 @@
 ### **Index**
 
 **A**
-*   Adaptation Protocol (Chapter 12)
-*   Amygdala (Chapters 2, 4, 8, 11, 17)
-*   Amygdala Hijack (Chapter 4, 11)
-*   Architect Brain Profile (Chapters 1, 4, 7, 8, 10, 11, 16)
-*   Asynchronous Communication (Chapter 14.5)
-*   Attention (Chapter 6)
-*   Autonomy (SCARF) (Chapters 3, 5, 11, 17)
-*   Automaticity (Chapter 16)
+*   Adaptation Protocol (Chapter 14)
+*   Amygdala (Chapters 3, 6, 9, 13, 19)
+*   Amygdala Hijack (Chapter 6, 13)
+*   Architect Brain Profile (Chapters 1, 6, 8, 9, 11, 13, 17)
+*   Asynchronous Communication (Chapter 16.5)
+*   Attention (Chapter 8)
+*   Autonomy (SCARF) (Chapters 5, 7, 13, 19)
+*   Automaticity (Chapter 17)
 
 **B**
-*   Boundary Protocol (Chapter 13.5a)
+*   Boundary Protocol (Chapter 15.5a)
 *   Brain Profiles (Chapter 1)
-*   Breathing, Conductor's Breath (Chapters 4, 11, 16, 17)
+*   Breathing, Conductor's Breath (Chapters 6, 13, 17, 19)
+*   Burnout (Chapter 18)
 
 **C**
-*   Certainty (SCARF) (Chapters 3, 6, 11, 14, 17)
-*   Clarity Protocol (Chapter 9)
-*   Code-Switching (Chapter 12)
-*   Cognitive Load (Chapters 9, 12)
-*   Conductor's Paradox (Chapter 16)
-*   Connector Brain Profile (Chapters 1, 4, 7, 8, 10, 11, 16)
-*   Cortisol (Chapter 4, 6, 10, 11)
-*   Cross-Cultural Communication (Chapter 12)
+*   Certainty (SCARF) (Chapters 5, 8, 13, 16, 19)
+*   Clarity Protocol (Chapter 11)
+*   Code-Switching (Chapter 14)
+*   Cognitive Load (Chapters 11, 14)
+*   Cognitive Style (Chapter 1, 10, 16)
+*   Conductor's Paradox (Chapter 17)
+*   Connector Brain Profile (Chapters 1, 6, 8, 9, 11, 13, 17)
+*   Cortisol (Chapter 6, 8, 12, 13)
+*   Cross-Cultural Communication (Chapter 14)
 
 **D**
-*   Data vs. Drama (Chapter 13)
-*   Dopamine (Chapter 10, 13)
+*   Data vs. Drama (Chapter 15)
+*   Dopamine (Chapter 12, 15)
 
 **E**
-*   Eisenberger, Naomi (Chapter 2, Appendix)
-*   Edmondson, Amy (Chapter 17)
-*   Email (Chapters 2, 6, 9, 10)
-*   Emotional Self-Regulation (Chapter 4)
-*   Empathy (Chapter 5)
-    *   Affective vs. Cognitive (Chapter 5)
-*   Empathy Loop (Chapter 5, 16)
+*   Eisenberger, Naomi (Chapter 3, Appendix)
+*   Edmondson, Amy (Chapter 19)
+*   Email (Chapters 3, 8, 11, 12)
+*   Emotional Self-Regulation (Chapter 6)
+*   Empathy (Chapter 7)
+    *   Affective vs. Cognitive (Chapter 7)
+*   Empathy Loop (Chapter 7, 17)
+*   Eudaimonic Well-being (Chapter 2)
+*   Extraversion/Introversion (Chapter 1)
 
 **F**
-*   Fairness (SCARF) (Chapters 3, 11, 17)
-*   Feedback (Chapter 13)
+*   Fairness (SCARF) (Chapters 5, 13, 19)
+*   Feedback (Chapter 15)
     *   Giving (Debug Protocol)
     *   Receiving (Intake Protocol)
-*   Feedback Sandwich (Chapter 13)
-*   First Move, The (Chapter 8)
+*   Feedback Sandwich (Chapter 15)
+*   First Move, The (Chapter 10)
 
 **G**
-*   Goleman, Daniel (Chapter 4, Appendix)
-*   Group Dynamics (Chapter 12)
+*   Goleman, Daniel (Chapter 6, Appendix)
+*   Group Dynamics (Chapter 14)
 
 **H**
-*   Habit Formation (Chapter 13)
-*   Hasson, Uri (Chapter 10, Appendix)
+*   Habit Formation (Chapter 15)
+*   Hasson, Uri (Chapter 12, Appendix)
+
+**I**
+*   Introversion (Chapter 1, 10, 16)
 
 **L**
-*   Leadership (Chapter 17)
-*   Lieberman, Matthew (Chapter 2, Appendix)
-*   Listening (Chapter 6)
+*   Leadership (Chapter 19)
+*   Lieberman, Matthew (Chapter 3, Appendix)
+*   Listening (Chapter 8)
 
 **M**
-*   Meetings (Chapter 14)
-*   Mentalizing (Chapter 5)
-*   Micro-Behaviors (Chapter 13, 16)
-*   Miller, George A. (Chapter 9, Appendix)
-*   Mirror Neurons (Chapter 5)
+*   Meetings (Chapter 16)
+*   Mentalizing (Chapter 7)
+*   Micro-Behaviors (Chapter 15, 17)
+*   Miller, George A. (Chapter 11, Appendix)
+*   Mirror Neurons (Chapter 7)
 
 **N**
-*   Neural Coupling (Chapter 10)
-*   Neuroplasticity (Chapter 13)
+*   Neural Coupling (Chapter 12)
+*   Neuroplasticity (Chapter 15)
 
 **O**
-*   Oxytocin (Chapters 7, 10)
+*   Oxytocin (Chapters 9, 12)
 
 **P**
-*   Pain, Social vs. Physical (Chapter 2)
-*   Personal Development Map (Chapter 16)
-*   Playback, The (Chapter 5, 11, 16)
-*   Prefrontal Cortex (PFC) (Chapters 4, 5, 16)
-*   Presence, Signal of (Chapter 6)
-*   Psychological Safety (Chapter 17)
+*   Pain, Social vs. Physical (Chapter 3)
+*   Personal Development Map (Chapter 17)
+*   Playback, The (Chapter 7, 13, 17)
+*   Power Dynamics (Chapter 4)
+*   Prefrontal Cortex (PFC) (Chapters 6, 7, 17)
+*   Presence, Signal of (Chapter 8)
+*   Privilege (Chapter 4)
+*   Psychological Safety (Chapter 19)
 
 **R**
-*   Rapport (Chapter 7)
-*   Relatedness (SCARF) (Chapters 3, 11, 12, 13, 17)
-*   Repair Protocol (Chapter 13.5b)
-*   Rock, David (Chapter 3, 11, Appendix)
+*   Rapport (Chapter 9)
+*   Relatedness (SCARF) (Chapters 5, 13, 14, 15, 19)
+*   Repair Protocol (Chapter 15.5b)
+*   Resilience (Chapter 18)
+*   Rock, David (Chapter 5, 13, Appendix)
 
 **S**
-*   SCARF Model (Chapters 2, 3, 8, 11, 12, 17)
-    *   In difficult conversations (Chapter 11)
-    *   In psychological safety (Chapter 17)
-    *   As a diagnostic tool (Chapter 3)
-*   Sentinel Brain Profile (Chapters 1, 4, 7, 8, 10, 11, 16)
-*   Social Pain (Chapter 2)
-*   Status (SCARF) (Chapters 3, 5, 10, 11, 12, 13, 17)
-*   Storytelling (Chapter 10)
+*   SCARF Model (Chapters 3, 4, 5, 10, 13, 14, 19)
+    *   In difficult conversations (Chapter 13)
+    *   In psychological safety (Chapter 19)
+    *   As a diagnostic tool (Chapter 5)
+*   Self-Compassion (Chapter 18)
+*   Sentinel Brain Profile (Chapters 1, 6, 8, 9, 11, 13, 17)
+*   Social Gravity (Chapter 4)
+*   Social Pain (Chapter 3)
+*   Status (SCARF) (Chapters 5, 7, 12, 13, 14, 15, 19)
+*   Storytelling (Chapter 12)
     *   And, But, Therefore (ABT) Arc
 
 **T**
-*   30-Day Conductor's Challenge (Chapter 16)
-*   Threat Response (Chapters 2, 4, 11, 13)
-*   Trust (Chapter 7)
+*   30-Day Conductor's Challenge (Chapter 17)
+*   Threat Response (Chapters 3, 6, 13, 15)
+*   Trust (Chapter 9)
 
 **V**
-*   Vagus Nerve (Chapter 4)
-*   Vulnerability, Calibrated (Chapter 7, 17)
+*   Vagus Nerve (Chapter 6)
+*   Vulnerability, Calibrated (Chapter 9, 19)

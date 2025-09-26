@@ -1,4 +1,4 @@
-### **Chapter 13.5a: The Boundary Protocol**
+### **Chapter 15.5a: The Boundary Protocol**
 #### The Neuroscience of Saying "No"
 
 For many of us, especially those with a strong Connector profile, the word "no" can feel like a conversational hand grenade. We avoid it at all costs, terrified of the relational shrapnel. We say "yes" to projects we don't have time for, to social events we don't want to attend, and to requests that drain our energy. The result is burnout, resentment, and the quiet erosion of our own priorities.
@@ -44,4 +44,3 @@ Your mission is to find one, low-stakes opportunity this week to say "no" using 
 1.  **The Request:** What were you asked to do?
 2.  **Your Script:** Write down the exact "Validate, State, Offer" sentence you used.
 3.  **The Outcome:** How did the other person react? How did it feel for you, compared to how you normally feel when declining something?
-      
