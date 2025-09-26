@@ -43,6 +43,9 @@
 **Chapter 10:** Taming the Threat
 *Navigating Difficult Conversations*
 
+**Chapter 10.5:** Conducting a Hostile Orchestra (Hard Mode)
+*Navigating Manipulation and Bad-Faith Arguments*
+
 **Chapter 11:** The Adaptive Brain
 *Navigating Group and Cultural Dynamics*
 

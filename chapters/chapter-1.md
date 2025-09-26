@@ -70,6 +70,8 @@ So, what did you discover? Take a moment to look at your responses. Most of us h
 If you found yourself with a near-even split, you don't have one dominant style—you have what's known as an **Adaptive Profile**. Your superpower is situational fluency; you can access the logic of the Architect, the empathy of the Connector, and the instincts of the Sentinel as needed. You are the versatile conductor who is comfortable leading every section of the orchestra.
 *   **Your Growth Edge:** Your adaptability is your greatest strength, but it can hide a sophisticated challenge. Your risk is not just being a social "chameleon," but a potential lack of a strong, authentic core. For instance, I once coached a brilliant consultant with an Adaptive profile. Her team was struggling with a toxic, Sentinel-brained client. Instead of conducting the situation towards a healthier state, her adaptability caused her to *mirror* the client's anxiety, enabling his bad behavior by over-empathizing with his perceived threats. Your focus for this book will be on choosing your response with *intention* rather than by default, becoming a master conductor, not just a mirror.
 
+**Ultimately, the Adaptive Profile is the goal for everyone on this journey.** It represents the integrated brain of a true Conductor. Maria begins her story leading with her Architect brain, but her transformation throughout this book is a journey *toward* becoming Adaptive—a leader who can call upon the Architect's logic, the Connector's empathy, and the Sentinel's insight with skill and intention. This book is your roadmap to developing your own Adaptive, Conductor profile.
+
 ---
 > *"Pause for a moment and consider your result. Does it resonate? Think of a recent difficult conversation. Did your dominant profile show up? The first step to conducting the orchestra is simply to hear the music it's already playing."*
 ---
@@ -101,3 +103,4 @@ This is your first entry in your personal training manual. Take a moment to refl
 1.  **What was your dominant profile?** (Architect, Connector, Sentinel, or Adaptive)
 2.  **Describe a recent situation where this profile's "Growth Edge" showed up.** How did it impact the interaction?
 3.  **What is the one thing you hope to learn from this book?**
+      
