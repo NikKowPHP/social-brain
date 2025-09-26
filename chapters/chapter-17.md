@@ -18,8 +18,8 @@ This blueprint was Maria's turning point. She used to dread her team's weekly Ph
 Before her next meeting, she decided to stop being a participant and start being the conductor.
 1.  **Before:** She sent out a **SCARF-aware agenda** 24 hours in advance. The title was the meeting's single goal: "Decide on Q3 Launch Date for Phoenix." The items were questions ("How can we mitigate the server-load risk Jane identified?"), not topics.
 2.  **During (The Opening):** She opened the meeting by stating the goal and the rules of engagement. "Our goal is to leave with a firm date. To do that, we need everyone's perspective. Mark, I need your logic. Jane, I need your risk-analysis. Leo, I need your user-focused ideas." She gave everyone a role, a massive Status reward.
-3.  **During (The Dissent):** When Jane raised a concern, the old Maria would have seen it as a roadblock. The new Maria used the **Empathy Loop** to validate it publicly. "That's a critical point, Jane. It sounds like you're concerned we're not taking the database-failure risk seriously enough. Is that right?" Jane, feeling heard instead of dismissed, said "Yes, exactly." The tension in the room dropped.
-4.  **After:** Within an hour of the meeting ending, she sent a follow-up email. It had two sections: **Decision:** "The launch date is September 1st." **Action Items:** "Mark to finalize server specs by Friday. Jane to draft a risk-mitigation plan by Friday. Leo to prepare user-comms by Monday."
+3.  **During (The Dissent):** When Jane raised a concern, the old Maria would have seen it as a roadblock. The new Maria used the **Empathy Loop** to validate it publicly. "That's a critical point, Jane. It sounds like you're concerned we're not taking the database-failure risk seriously enough. Is that right?" Jane, feeling heard instead of dismissed, said "Yes, exactly." The tension in the room dropped. This was Jane's breakthrough moment. Instead of stopping there, she continued, "And because I don't feel like I have to fight to be heard on that, I can also see a creative way we might be able to use a caching layer to mitigate it. It's a bit of a risk, but it might just work." She had moved from roadblock to creative partner.
+4.  **After:** Within an hour of the meeting ending, she sent a follow-up email. It had two sections: **Decision:** "The launch date is September 1st." **Action Items:** "Mark to finalize server specs by Friday. Jane to draft a risk-mitigation plan for the caching layer idea by Friday. Leo to prepare user-comms by Monday."
 
 The change wasn't instant, but for the first time, it felt less like a battle and more like an orchestra tuning itself.
 
@@ -94,3 +94,4 @@ This week, you will conduct one meeting, even if you are not the official leader
 1.  **The Meeting:** Which meeting did you choose to focus on?
 2.  **The Intervention:** Which single practice from the blueprint (e.g., sending a SCARF-aware agenda, using the Empathy Loop on a dissenter, sending a clear follow-up) did you implement?
 3.  **The Result:** What was the observable impact on the meeting's tone or outcome?
+      

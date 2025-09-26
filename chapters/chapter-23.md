@@ -50,7 +50,7 @@ By implementing these routines, you are doing more than managing people; you are
 ---
 > ### **Neuro-Toolkit: The Conductor's Dashboard: Measuring What Matters**
 >
-> For a system to be credible, especially to an Architect, it needs a feedback loop. While the ultimate goals of this work (innovation, well-being) are lagging indicators, we can measure the small, observable behaviors that are *leading indicators* of a healthy culture.
+> As promised in the introduction for the logic-driven reader, this is the toolkit for measuring what matters. For a system to be credible, especially to an Architect, it needs a feedback loop. While the ultimate goals of this work (innovation, well-being) are lagging indicators, we can measure the small, observable behaviors that are *leading indicators* of a healthy culture.
 >
 > **A Metrics Menu to Track Your Progress:**
 > *   **Meeting Equity Score:** In a key team meeting, track who speaks and for how long. What percentage of the time are junior members speaking vs. senior members? Is that ratio improving over time?
@@ -63,3 +63,4 @@ By implementing these routines, you are doing more than managing people; you are
 > ### **The 1% Upgrade**
 >
 > In your next team meeting, when a small mistake or issue comes up, resist the urge to find a solution immediately. Instead, ask the group one question: **"What can we learn from this?"** This simple reframe begins to build a culture of learning over blaming.
+      

@@ -53,4 +53,10 @@ Your goal is not to be understood, but to be undeniable.
 You can still use the Empathy Loop, but with a different intent. Your goal is not to feel *with* them, but to confirm you understand their stated position so you can address it logically.
 *   *"So, if I'm hearing you correctly, your position is that we cannot move forward until this new, undocumented risk is addressed. Is that right?"* This isn't about validating their feeling; it's about pinning down their argument so it can't shift later.
 
-Maria used this protocol in her next meeting with David. When he began his vague attacks, she went Gray Rock. She took a breath and said, "David, that's an interesting point. To make sure we can address it, could you please send me an email by EOD with the specific data on the risks you've identified?" She calmly deflected, documented, and returned to the agenda. She didn't "win," but she didn't lose. She contained the threat and conducted her orchestra safely through the storm.
+**5. Create an Audit Trail.**
+Bad-faith actors thrive in the ambiguity of verbal conversations. Your most powerful tool is to move the conversation from the verbal to the written. This creates an evidence trail that is difficult to deny.
+*   **The Script:** *"That's an important point. To make sure I capture it accurately, could you please send me an email with the specifics on that?"*
+*   This simple request does three things: It respectfully disengages from the immediate conflict, it forces them to translate vague assertions into concrete data, and it creates a written record that can be referred to later. This is your most powerful tool for enforcing accountability.
+
+Maria used this full protocol in her next meeting with David. When he began his vague attacks, she went Gray Rock. She used the Empathy Loop for reconnaissance: "So, if I'm hearing you right, your concern is about undocumented risks." Then she deployed the final step: "To make sure we can address that, could you please send me an email by EOD with the specific data on those risks?" She calmly deflected, created an audit trail, and returned to the agenda. She didn't "win" the fight, but she didn't lose. She contained the threat and conducted her orchestra safely through the storm.
+      

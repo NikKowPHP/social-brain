@@ -37,6 +37,17 @@ She called Leo into her office. "I've noticed you have great ideas but you're ho
 Leo was terrified, but he agreed to try. In the next meeting, he found his moment. His voice shook slightly, but he executed the protocol. Mark paused, surprised. He looked at Leo's data. "Huh," he said. "That's... interesting. Let's look at that." It wasn't a standing ovation, but it was a breakthrough. Maria hadn't just solved a problem; she had upgraded her team's entire operating system.
 
 ---
+#### **Case Study: The Architect's Upgrade**
+
+The change in Mark wasn't instantaneous. His Architect brain still saw the world in terms of flaws and optimizations. But seeing Maria's success, he began to see effective communication as a system worth learning. His own practice moment came a week later.
+
+He saw a flaw in a code branch Leo had submitted. His old instinct was to write a blunt, multi-point critique directly in the code review tool. Instead, he paused. He decided to try the protocol he had seen Maria coach Leo on.
+
+He messaged Leo directly. "Hey, got a minute to talk about the authentication branch?" (Get Permission). When they hopped on a call, Mark was clumsy. "Your approach here is inefficient," he started, then caught himself. "What I mean is, I saw you used three API calls. My data suggests we can do it in one. What was your thinking on that?" (Share Data, Not Drama).
+
+Leo, expecting a lecture, was surprised by the question. He explained his reasoning, which was based on a legacy constraint Mark had forgotten about. Together, they found a third way that was both efficient and safe. Mark had not just found a bug in the code; he had found one in his own communication style and had successfully run his first "patch." He was learning to debug relationships, not just repositories.
+
+---
 
 #### **The Practice: Three Protocols for Learning**
 
@@ -107,3 +118,4 @@ This week, your mission is to practice the **"Intake" Protocol**. The next time 
 1.  **The Feedback:** What was the feedback, criticism, or comment you received?
 2.  **The Feeling:** What was the immediate physical or emotional sensation you felt? (e.g., heat in the face, knot in the stomach).
 3.  **The Response:** Did you manage to use the clarifying question ("Can you give me a specific example?")? What was the result? If you didn't, what got in the way?
+      
