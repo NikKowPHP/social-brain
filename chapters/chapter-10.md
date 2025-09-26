@@ -9,15 +9,26 @@ The answer, I discovered, is a definitive yes. Trust is not a mystery; it is a f
 
 #### **Case Study: Cracking the Code on Jane**
 
-Maria's biggest challenge on the Phoenix Project was Jane, a brilliant but deeply cynical senior architect with a strong Sentinel profile. Jane had seen too many initiatives fail and trusted no one. She was a constant, skeptical roadblock in meetings, and Maria knew that without Jane's trust, her team would never truly succeed.
+Maria's biggest challenge on the Phoenix Project was Jane, a brilliant but deeply cynical senior architect with a strong Sentinel profile. Jane had seen too many initiatives fail and trusted no one. She was a constant, skeptical roadblock, and Maria knew that without Jane's trust, the project was doomed.
 
-To build a bridge, Maria decided to run a trust protocol. In their next one-on-one, after discussing a technical issue, Maria took a breath and executed a small, calibrated vulnerability.
+**Attempt 1: Vulnerability Backfires.**
+Remembering the Trust Protocol, Maria decided to run an experiment. In their next one-on-one, she tried Calibrated Vulnerability.
+"You know," she said, "I'll admit I'm a little intimidated by this project's scope. I'm worried about letting the team down." Then, she waited for the echo.
 
-"You know," she said, "I'll admit I'm a little intimidated by this project's scope. I'm worried about letting the team down." Then, she waited.
+What came back was not an echo, but a wall. Jane's eyes narrowed. "What do you want me to say to that?" she asked, her voice flat. The sonar ping hadn't just failed to return; it had hit a defensive shield and disintegrated. The connection was worse than before.
 
-Jane was silent for a long moment. Maria's own Sentinel brain screamed at her to fill the silence, but she held firm. Finally, Jane gave a slight nod. "The scope is unrealistic," she said, her tone softening almost imperceptibly. "Don't let them push you into a timeline that will burn us out."
+That night, Maria couldn't stop replaying the interaction. The protocol had failed. *Why?* Her first instinct was to blame Jane, but she forced herself to debug her own strategy. She realized her mistake: for a deep Sentinel profile like Jane, who is hyper-attuned to threats and hidden agendas, an unexpected offering of vulnerability from a superior isn't a signal of safety—it can be a **Certainty threat**. It's an unpredictable move that raises the question, "What is this *really* about?" It can feel like a setup.
 
-It wasn't a huge breakthrough, but it was an echo. The sonar ping had come back. The trust loop had begun.
+**Attempt 2: The Correct Tool.**
+Maria realized she had used the wrong tool for the job. To connect with a Sentinel, you don't offer vulnerability; you demonstrate respect for their greatest strength: threat-detection.
+
+A week later, she tried a different approach. She came to Jane with a specific architectural diagram. "Jane," she said, "I've been looking at this data flow, and my gut says there's a security risk here I'm not seeing. You're the best person in the company at spotting this stuff. Would you mind showing me what I'm missing?"
+
+This was a masterpiece of protocol integration. It wasn't vulnerability; it was a massive **Status reward**. It explicitly valued Jane's unique skill. It also created **Certainty** (a clear, defined problem) and gave Jane **Autonomy** to control the analysis.
+
+The shift was immediate. Jane leaned forward, took the printout, and for the first time, a flicker of genuine engagement appeared in her eyes. "You're right to be worried," she said, grabbing a red pen. "The risk isn't here. It's here."
+
+The trust loop had begun, not through a shared weakness, but through a shared respect for strength. Maria learned a crucial lesson: a conductor must know not only how to use their instruments, but which one to choose for the specific musician they're trying to connect with.
 
 #### **The Science: The Trust Molecule**
 
