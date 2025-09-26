@@ -1,4 +1,4 @@
-### **Chapter 12: The Learning Brain**
+### **Chapter 13: The Learning Brain**
 #### The Neuroscience of Feedback and Lasting Change
 
 For a programmer, a bug report is a gift. Early in my career, I assumed feedback worked the same way with people. I would deliver a logical, data-rich "bug report" on someone's performance, expecting them to be grateful. I was consistently shocked when their system crashed.
@@ -70,7 +70,7 @@ Instead of a "sandwich," run a collaborative debugging session.
 
 **Protocol 2: The "Intake" Method (For Receiving Feedback)**
 When someone gives *you* feedback, even if it's clumsy, your job is to find the valuable data inside the clumsy delivery.
-1.  **Regulate Your System First (Chapter 3):** As you feel the hot flush of a Status threat, take one silent **Conductor's Breath**. This is non-negotiable. Keep your own CEO online.
+1.  **Regulate Your System First (Chapter 4):** As you feel the hot flush of a Status threat, take one silent **Conductor's Breath**. This is non-negotiable. Keep your own CEO online.
 2.  **Resist Explaining or Defending:** Your brain will want to prove the "bug report" is wrong. Resist this urge. Your goal is not to win the argument, but to understand their perception.
 3.  **Turn Judgment into Data:** Use a clarifying question to find the specific, observable data point that triggered their feedback.
     *   If they say: "You're just not being a team player."

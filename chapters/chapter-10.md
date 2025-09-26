@@ -1,4 +1,4 @@
-### **Chapter 9: Making It Stick**
+### **Chapter 10: Making It Stick**
 #### The Neuroscience of Storytelling
 
 For a long time, my approach to persuasion was a simple, logical process: assemble the best data, arrange it in an airtight argument, and present it. As an Architect, I believed that the best data would always win. I was consistently baffled when it didn't.

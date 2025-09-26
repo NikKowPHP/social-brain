@@ -1,4 +1,4 @@
-### **Chapter 3: The Regulated Brain**
+### **Chapter 4: The Regulated Brain**
 #### The Neuroscience of Emotional Self-Regulation
 
 The "social pain" bug that Maria triggered in Mark is one of the most critical in the human operating system. For Maria, the fallout from that email was a wake-up call. Mark was sullen and withdrawn for a week, and the tension on her team was palpable. She felt a familiar wave of anxiety and frustration at her own inability to lead.

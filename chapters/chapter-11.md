@@ -1,4 +1,4 @@
-### **Chapter 10: Taming the Threat**
+### **Chapter 11: Taming the Threat**
 #### Navigating Difficult Conversations
 
 This is it. This is the conversation the entire book has been building towards. The one Maria has been dreading, the one that prompted her journey in the first place. She has to give tough feedback to Mark, her senior engineer who is brilliant but abrasive. His code is top-tier, but he's dismissive of junior developers' ideas in meetings, and two people have already complained to her. This is the high-stakes test of everything she has learned so far.
@@ -7,7 +7,7 @@ Maria's own system is on high alert. Her Sentinel brain is screaming *"This will
 
 This is the scenario where most communication advice breaks down. Generic tips like "be honest" are useless when both people's brains are flooded with cortisol and primed for a threat response.
 
-My investigation led me to a simple but profound conclusion: **You cannot win a difficult conversation. You can only create the conditions for a productive one.** This requires moving from a mindset of confrontation to a mindset of system diagnostics. The problem isn't the other person; the problem is that the conversation itself is a threat-rich environment. Our job is to de-mine that environment before we even take the first step.
+My investigation led me to a simple but profound conclusion: **You cannot win a difficult conversation. You can only create the conditions for a productive one.** This requires moving from a mindset of confrontation to a mindset of system diagnostics. The problem isn't the other person; the problem is that the conversation itself is a threat-rich environment. Our job is to de-mine that environment before we even take the first step, using the **SCARF model** we learned about in Chapter 3.
 
 ---
 > ### **Case Study: De-escalating with the SCARF Model**
@@ -27,9 +27,7 @@ My investigation led me to a simple but profound conclusion: **You cannot win a 
 
 #### **The Science: The Brain's Threat-Detection Matrix**
 
-As we discovered in Chapter 2, the brain is constantly scanning for social threats. David Rock's SCARF model gives us the user manual for this threat system. It identifies the five key domains of social experience that the amygdala is constantly monitoring: **Status, Certainty, Autonomy, Relatedness, and Fairness.**
-
-When these domains are threatened, the brain triggers a primary threat response. When they are rewarded, the brain enters a state of trust and collaboration. A difficult conversation is, by its nature, a minefield of potential SCARF threats.
+As we discovered, the brain is constantly scanning for social threats across the five SCARF domains. A difficult conversation is, by its nature, a minefield of potential threats. Our job is to anticipate and mitigate them.
 
 > ### **SCARF in the Wild: The Argument About the Trash**
 >
@@ -54,8 +52,8 @@ What do you do if, despite your best efforts, the other person's "security guard
 
 **Execute this three-step de-escalation protocol:**
 
-1.  **Regulate Yourself First (Chapter 3):** Their hijack will try to trigger your own. Take one silent **Conductor's Breath**. This is non-negotiable. You must keep your own CEO online.
-2.  **Validate the Feeling, Not the Content (Chapter 4):** Do not argue with their words ("That's not true!"). Find the "music" beneath their defensive "lyrics" and validate *that*. Use **The Playback**.
+1.  **Regulate Yourself First (Chapter 4):** Their hijack will try to trigger your own. Take one silent **Conductor's Breath**. This is non-negotiable. You must keep your own CEO online.
+2.  **Validate the Feeling, Not the Content (Chapter 5):** Do not argue with their words ("That's not true!"). Find the "music" beneath their defensive "lyrics" and validate *that*. Use **The Playback**.
     *   If they say: "This is completely unfair! You're only listening to the juniors!"
     *   You say: "It sounds like you feel this process is unfair and that your perspective isn't being valued. Is that right?"
 3.  **Create a Moment of Autonomy (Chapter 10):** After validating, give them a choice to restore their sense of control.

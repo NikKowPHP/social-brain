@@ -1,4 +1,4 @@
-### **Chapter 5: The Attentive Brain**
+### **Chapter 6: The Attentive Brain**
 #### The Neuroscience of Deep Listening and Non-Verbal Cues
 
 Attention is the most valuable and depleted resource of the 21st century. It is the currency of connection. Every time you unlock your phone while someone is talking, you are making a tiny withdrawal from your relational bank account. This chapter is about the neuroscience of making massive deposits. We will investigate why deep, undivided attention is not a soft skill, but a powerful biological intervention that changes the chemistry of another person's brain.

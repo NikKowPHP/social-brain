@@ -9,7 +9,7 @@ A true conductor doesn't just lead the orchestra; they build it. They create an 
 
 The work of Harvard researcher Amy Edmondson has given a name to this optimal environment: **psychological safety**. It is a shared belief held by members of a team that the team is safe for interpersonal risk-taking. It is the single greatest predictor of high-performing, innovative teams.
 
-Why? Because psychological safety is the systemic, group-level application of the SCARF model we discussed in Chapter 11. A psychologically safe culture is one where the default settings are rewarding to the social brain. It's an environment where the five domains are consistently nurtured: Status is high because voices are valued; Certainty is high because rules are clear; Autonomy is high because people are trusted; Relatedness is high because colleagues are allies; and Fairness is high because mistakes are for learning, not blaming.
+Why? Because psychological safety is the systemic, group-level application of the SCARF model we discussed in Chapter 3. A psychologically safe culture is one where the default settings are rewarding to the social brain. It's an environment where the five domains are consistently nurtured: Status is high because voices are valued; Certainty is high because rules are clear; Autonomy is high because people are trusted; Relatedness is high because colleagues are allies; and Fairness is high because mistakes are for learning, not blaming.
 
 As a leader, your job is to be the chief architect of this environment. You set the neurochemical weather for your entire team.
 
@@ -51,4 +51,3 @@ By implementing these routines, you are doing more than managing people; you are
 > ### **The 1% Upgrade**
 >
 > In your next team meeting, when a small mistake or issue comes up, resist the urge to find a solution immediately. Instead, ask the group one question: **"What can we learn from this?"** This simple reframe begins to build a culture of learning over blaming.
-      

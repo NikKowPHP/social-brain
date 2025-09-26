@@ -65,4 +65,3 @@ Pick one of the five SCARF domains that you think is your most sensitive persona
 1.  **Your Primary Trigger:** Which domain (Status, Certainty, Autonomy, Relatedness, or Fairness) most often triggers a threat response in you?
 2.  **Describe a Recent Event:** Briefly describe a time in the last month when you felt that trigger. What happened?
 3.  **The Physical Sensation:** What was the physical feeling associated with that threat? (e.g., "When my boss rewrote my slide without telling me (Autonomy threat), I felt a hot flush in my face.")
-      

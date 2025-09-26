@@ -80,4 +80,3 @@ This is how you turn practice into mastery. But mastery is not just for your own
 > ### **The 1% Upgrade**
 >
 > Pick one practice from the 30-Day Challenge that feels most difficult for you. For the next week, focus only on that single micro-habit. Don't try to do everything. Master one tool at a time.
-      

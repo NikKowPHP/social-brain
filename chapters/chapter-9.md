@@ -1,4 +1,4 @@
-### **Chapter 8: The Respectful Brain**
+### **Chapter 9: The Respectful Brain**
 #### Defeating Cognitive Load
 
 For years, my emails were unreadable. I thought I was being thorough, but I was actually just being disrespectful of people's time—a mistake I see repeated in nearly every executive team I coach today. The painful lesson started when a manager forwarded me one of my five-paragraph monsters with a simple note: 'I have no idea what you want from me.' I was launching denial-of-service attacks on my colleagues' brains, and it was a critical bug in my own system.
@@ -30,7 +30,7 @@ When a message like Maria's arrives, it attempts to dump a dozen different items
 > *Clarity is an act of empathy. Brevity is a form of respect for another person's finite mental energy.*
 
 **The Neuro-Why: Confusion is a Threat**
-The negative feeling of cognitive load isn't just about overload; it's a direct social threat. When you receive a confusing message, it attacks two of the core domains from Chapter 2:
+The negative feeling of cognitive load isn't just about overload; it's a direct social threat. When you receive a confusing message, it attacks two of the core domains from Chapter 3:
 *   It threatens your **Certainty**. Your brain has no clear path forward, which feels unstable and dangerous.
 *   It can threaten your **Status**. It can make you feel stupid for not understanding, triggering the brain's social pain network.
 

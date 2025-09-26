@@ -1,4 +1,4 @@
-### **Chapter 11: The Adaptive Brain**
+### **Chapter 12: The Adaptive Brain**
 #### Navigating Group and Cultural Dynamics
 
 The human brain's social operating system has universal hardware. Everyone has an amygdala. Everyone's brain tracks the five SCARF domains. But culture—whether in a country or a company—is the software running on top. And trying to run your software on their hardware without a compatibility check is a recipe for a system crash. My first project with our team in Tokyo was that crash.
@@ -14,7 +14,7 @@ The answer lies in one of the most important distinctions I ever learned: the di
 *   In some cultures, making direct eye contact is a signal of respect (a **Relatedness** reward). In others, it's a sign of aggression (a **Relatedness** threat).
 *   In some teams, interrupting with a better idea is a sign of engagement (a **Status** reward). In others, it's a grave insult (a **Status** threat).
 
-The brain's need to navigate these differences is deeply rooted in the neuroscience of in-groups and out-groups. Your brain's primary survival function is to quickly determine who is "us" and who is "them." When you enter a new group, your brain is on high alert, scanning for the local rules to figure out how to become part of the "in-group" and avoid the social pain of being in the "out-group." Oxytocin, the trust molecule we met in Chapter 6, plays a key role here, increasing trust for "us" but defensiveness towards "them."
+The brain's need to navigate these differences is deeply rooted in the neuroscience of in-groups and out-groups. Your brain's primary survival function is to quickly determine who is "us" and who is "them." When you enter a new group, your brain is on high alert, scanning for the local rules to figure out how to become part of the "in-group" and avoid the social pain of being in the "out-group." Oxytocin, the trust molecule we met in Chapter 7, plays a key role here, increasing trust for "us" but defensiveness towards "them."
 
 ***
 

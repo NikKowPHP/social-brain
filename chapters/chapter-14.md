@@ -1,4 +1,4 @@
-### **Chapter 13: Conducting the Meeting**
+### **Chapter 14: Conducting the Meeting**
 #### The Conductor's Stage
 
 For years, I believed that if I mastered one-on-one communication, the rest would take care of itself. Then I had to lead a high-stakes project meeting, and I discovered a terrifying truth: a group is not just a collection of individuals. It is a complex, emergent system with its own neurochemistry. One person's amygdala hijack can infect the entire room in seconds, turning a productive planning session into a chaotic mess.
@@ -53,7 +53,7 @@ You cannot control what every person says, but you can design a structure that m
 
 **1. Before the Meeting: Setting the Stage (The Score)**
 A great performance starts long before the curtain rises.
-*   **Use the Clarity Protocol (Chapter 8) on the Agenda.** Every invitation must answer one question: "What is the one thing we must *know* or *do* by the end of this meeting?" This becomes the title of the agenda.
+*   **Use the Clarity Protocol (Chapter 9) on the Agenda.** Every invitation must answer one question: "What is the one thing we must *know* or *do* by the end of this meeting?" This becomes the title of the agenda.
 *   **Design a SCARF-Aware Agenda.** An agenda is not just a list of topics; it is a tool for creating safety.
     *   **Certainty:** Send the agenda well in advance with clear timings.
     *   **Autonomy & Status:** Frame agenda items as questions to be discussed, not proclamations to be heard (e.g., "Brainstorm options for Q3" instead of "Q3 plan review"). This signals that attendees are valued participants, not just an audience.
@@ -62,9 +62,9 @@ A great performance starts long before the curtain rises.
 *   **The Opening (The Downbeat):** The first two minutes set the neurochemical weather. Start by creating safety.
     *   Restate the meeting's single purpose (**Certainty**).
     *   Clarify the rules of engagement: "We need everyone's perspective, especially dissenting ones. No idea is a bad idea at this stage." (**Status, Relatedness**).
-*   **Handling Dissent (Tuning the Instruments):** When disagreement arises, a conductor doesn't silence it; they tune it. Your tool here is the **Empathy Loop (Chapter 4)**, performed for the group.
+*   **Handling Dissent (Tuning the Instruments):** When disagreement arises, a conductor doesn't silence it; they tune it. Your tool here is the **Empathy Loop (Chapter 5)**, performed for the group.
     *   When one person objects ("That will never work!"), turn to them and run the loop: "That's a critical point. It sounds like you see a major risk here. What's the biggest concern for you?" Then, use The Playback: "So, if I'm hearing you right, the risk is that this approach could alienate our existing user base. Is that correct?" This makes the dissenter feel heard and translates their "threat" into useful data for the entire group.
-*   **Managing Hijacks (Calming the Percussion):** If the conversation gets heated, you must intervene immediately. Use the **Hijack Emergency Protocol (Chapter 10)**.
+*   **Managing Hijacks (Calming the Percussion):** If the conversation gets heated, you must intervene immediately. Use the **Hijack Emergency Protocol (Chapter 11)**.
     *   One person says, "This is the same mistake we always make!" Another replies, "Well, if you had finished your part on time, we wouldn't be here!"
     *   You intervene: "Pause. I'm noticing the tension is rising here." (Regulate/Validate). "Let's all take one breath. Leo, it sounds like you're concerned about fairness. Jane, it sounds like you're focused on the risk. Both are valid. How should we proceed from here to find a solution?" (Restore Autonomy).
 

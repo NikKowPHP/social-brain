@@ -1,4 +1,4 @@
-### **Chapter 4: The Empathy Switch**
+### **Chapter 5: The Empathy Switch**
 #### Mirror Neurons, "Mentalizing," and the Art of Understanding
 
 For most of my life as a programmer, I treated emotions as bugs that needed to be fixed with logic. This was a critical flaw in my own social operating system, and it made me a brilliant problem-solver but a terrible listener. Debugging this flaw in myself led to one of the most important discoveries of my entire investigation: you can't solve a problem for someone until you first connect with the feeling they are showing you.
@@ -132,4 +132,3 @@ This week, your challenge is to consciously **resist jumping to a solution**. Wh
 1.  **The Situation:** Who did you practice with, and what was the problem they shared?
 2.  **The "Music":** What was the underlying emotion, value, or need ("the music") you heard beneath the facts of their story ("the lyrics")?
 3.  **The Playback:** Write down the exact "Playback" sentence you used (or could have used). (e.g., "So it sounds like you felt really disrespected.") How did they respond?
-      

@@ -1,4 +1,4 @@
-### **Chapter 7: Breaking the Silence**
+### **Chapter 8: Breaking the Silence**
 #### **The Neuroscience of the First Move**
 
 ***Investigator's Note:*** *This chapter is a practical interlude. Think of it as a short, punchy command-line utility. The previous chapters have given you the foundational code for self-regulation and connection. This chapter gives you a simple script to execute when you need to run that code in a new environment—from a networking event to a family gathering.*
