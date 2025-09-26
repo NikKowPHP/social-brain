@@ -13,6 +13,13 @@ This requires a shift in your role. You move from being the real-time performer 
 
 This is the highest form of leadership.
 
+#### **Capstone Case Study: The Orchestra Plays Itself**
+Faced with David's political maneuvering, the old Maria would have gathered her team for a top-down strategy session. The new Maria trusted the system she had built. She called a meeting, but her approach was different. She simply presented the problem: "Team, here's the presentation David gave to my boss. What are your thoughts?"
+
+What happened next was her reward for months of work. Mark, the Architect, didn't just get angry; he started asking questions. "His metrics are misleading. What's a SCARF-aware way we can reframe this data to show the real story without making him look like a liar?" Jane, the Sentinel, didn't just see the threat; she saw the path through it. "This is a Status and Fairness threat to the whole team. We need to use the Clarity Protocol on our response." Leo, the Connector, voiced the team's feeling: "This feels incredibly unfair, but a direct attack is what he wants. We need to conduct this from a place of calm."
+
+They were using the shared language. They were diagnosing the social threats. They were co-creating the solution. Maria realized she wasn't conducting anymore; she was listening to a self-tuning orchestra play a symphony she had helped them compose.
+
 #### **The Practice: Protocols for Distributing Competence**
 
 **1. The Shared Language Protocol**
@@ -36,3 +43,4 @@ Even as you teach others, you must learn to set boundaries on your own emotional
     *   *"That's an important conflict between you two. I trust that you can work it out. My role here is to focus on the project deadline, so I'm going to steer us back to that."*
 
 By distributing the work of connection, you not only protect your own energy but also build a far more resilient and capable team. You create a culture where everyone feels responsible for the music.
+      

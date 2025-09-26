@@ -5,6 +5,9 @@ Throughout our investigation, we have assembled a powerful toolkit for conscious
 
 This is the ultimate paradox of mastery: the goal of all this structured practice is to get to a place where you no longer need it. It is the difference between a student pilot running through a checklist and a veteran pilot who simply *flies the plane*. This chapter is about moving from conscious competence to unconscious intuition. It is about learning when to conduct, and when to simply be.
 
+#### **Case Study: The Conductor's Final Test**
+The Phoenix Project was a success, launching on time and to great acclaim. But Maria's final test as a conductor came a week later. David, the saboteur stakeholder from the "Hard Mode" chapter, began a campaign to claim his team deserved the majority of the credit and the corresponding budget increase for the next phase. He ambushed Maria's boss with a polished presentation full of misleading metrics, creating a serious political threat to her team's future. The old Maria would have panicked or marshaled a furious, data-heavy counter-attack. The new, integrated Maria saw it as a final performance. This single, culminating event would test every tool she had developed, from self-regulation to building a self-tuning orchestra. We will follow this final test through the next chapters as a capstone case study for Part III.
+
 #### **From Conscious Protocol to Conductor's Intuition**
 
 When you first learn these tools, they feel clumsy. You are consciously thinking, *"Okay, now I need to use The Playback."* Your prefrontal cortex is working overtime, and it can feel inauthentic. This is a necessary stage.
@@ -32,3 +35,4 @@ There is a profound difference between a destructive amygdala hijack and a momen
 *   The master conductor knows the difference between a musician hitting a wrong note and a moment of powerful, unplanned improvisation. Your intuition, built upon thousands of hours of practice, is what allows you to tell the difference.
 
 The ultimate goal of this work is not to turn you into a perfect communication machine. It is to give you the skills and the wisdom to build relationships of such profound trust and safety that you feel free to be your messy, imperfect, authentic human self. That is the final symphony.
+      

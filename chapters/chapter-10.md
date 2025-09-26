@@ -43,6 +43,12 @@ Here's what it does:
 >
 > **The Reality:** The brain's trust circuits aren't built on perfection; they're built on connection. Flawless competence can be intimidating (a Status threat). Strategically admitting an imperfection (Calibrated Vulnerability) is a powerful signal that you are human, safe, and trustworthy. It's a biological invitation for the other person's brain to release oxytocin.
 ---
+> ### **Ethical Alert: The Conductor's Oath Check**
+>
+> "Calibrated Vulnerability" can be weaponized to create a false sense of intimacy. A Shadow Conductor shares a minor, calculated "vulnerability" to trick the other person into sharing a genuine one, which they can later exploit. This is a profound violation of trust.
+>
+> **Check your intent.** Are you sharing to create a genuine human connection, or are you sharing to extract information? True vulnerability is an invitation; weaponized vulnerability is a trap. Only share something that is genuinely true for you, and never pressure the other person to reciprocate.
+---
 
 #### **The Practice: Execute a "Trust Protocol"**
 
@@ -93,3 +99,4 @@ This week, your mission is to run one small trust protocol with someone you'd li
 1.  **The Person & Goal:** Who did you choose, and what was your goal for the interaction?
 2.  **The Protocol:** Which trust protocol did you run? (Calibrated Vulnerability, Uncommon Commonality, or "We" Language). Describe exactly what you said or did.
 3.  **The Result:** How did they respond? Did you get an "echo" back? How did the feeling of the interaction change?
+      

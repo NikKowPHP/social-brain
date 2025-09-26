@@ -39,10 +39,12 @@ Holding the crucible means using the entire toolkit not to eliminate tension, bu
 This is the leader's highest calling: to have the courage to name the dissonant chord and the skill to hold the orchestra together as it is resolved into a new, more honest, and more powerful key. This is the work that changes the world.
 
 ---
+#### **The Conductor's Oath Revisited**
+You have now reached the end of this manual. You are holding a powerful set of tools. How you use them defines not only your legacy as a leader, but who you are as a person. Before you close this book, I ask you to consider one last time the oath from Chapter 2:
 
-For the last 300 pages, I have been engaged in a monologue about the importance of dialogue. This book, by its nature, is a paradox. Its purpose is not to be the final word, but to be the first word in a new conversation you will have with yourself and with the world.
+*I commit to using these tools to build, not to break. My primary goal is clarity and safety, not compliance. I will use empathy to understand, not to steer. I will create space for ideas that challenge my own.*
 
-Do not just read this book—argue with it. In the margins, write where you disagree. Underline the parts that do not resonate with your lived experience. Your first act as a Conductor is to have a difficult, honest conversation with the text itself.
+The world has enough skilled manipulators. What it needs are more conductors—people with the skill to create profound psychological safety and the integrity to use that skill in the service of others.
 
 The music is waiting.
       

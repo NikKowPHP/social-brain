@@ -1,3 +1,12 @@
+### **Toolkit Summary & Cheat Sheet**
+
+You have now collected all the core instruments for your toolkit. You've learned to regulate your own nervous system, to listen with deep empathy, to build trust, to speak with clarity, and to navigate even the most difficult conversations. This is a significant accomplishment.
+
+The following cheat sheet is your consolidated reference for the core protocols we've covered in Part II. Use it to refresh your memory, to prepare for a challenging interaction, or to diagnose a conversation that went wrong. It turns the volume of information you've just learned from a burden into a feeling of accomplishment and readiness.
+
+This is the toolkit you've built.
+
+---
 [AUTHOR'S NOTE: This cheat sheet should be designed as a full-page, visually engaging infographic for easy reference.]
 
 ### **The Conductor Method Cheat Sheet**
@@ -40,3 +49,4 @@
 1.  **Regulate Yourself First** (Conductor's Breath).
 2.  **Validate the Feeling, Not the Content** (Use The Playback).
 3.  **Restore Autonomy** (Give them a choice, e.g., "Should we pause for five minutes?").
+      

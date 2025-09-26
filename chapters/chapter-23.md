@@ -5,6 +5,9 @@ Maria's investigation has, until now, focused on her skills as an individual con
 
 A true conductor doesn't just lead the orchestra; they build it. They create an environment where every musician feels safe enough to play their best, take creative risks, and point out when something is out of tune. This is the final and most profound application of our toolkit: designing a team's entire social operating system.
 
+#### **Capstone Case Study: The Real Victory**
+Maria's team won the political battle with David. But Maria realized their true legacy wasn't this single victory. It was the *way* they won. They didn't resort to gossip or personal attacks. They used shared protocols to build a logical, respectful, and undeniable case. They operated from a place of psychological safety in a high-threat situation. Months later, her boss commented, "The most impressive thing about the Phoenix Project wasn't the launch. It was how your team handled that conflict with David's group. You've built something rare here." That was Maria's legacy: not just a successful project, but a resilient and healthy culture that could navigate future challenges on its own.
+
 #### **The Science: Psychological Safety**
 
 The work of Harvard researcher Amy Edmondson has given a name to this optimal environment: **psychological safety**. It is a shared belief held by members of a team that the team is safe for interpersonal risk-taking. It is the single greatest predictor of high-performing, innovative teams.

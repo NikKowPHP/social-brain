@@ -7,7 +7,7 @@ But what happens when that assumption is false? What do you do when the other pe
 
 This is Hard Mode. This is when you face a manipulative actor—someone whose goal is not mutual understanding, but personal victory, control, or even chaos. Their tactics are designed to hijack your amygdala, exhaust your cognitive resources, and force you into a corner. Using the Empathy Loop to connect with a bad-faith actor is like trying to harmonize with a siren. You will be pulled onto the rocks.
 
-In this environment, your goal must shift. You are no longer trying to conduct a collaborative symphony. You are trying to protect your orchestra, hold your ground, and navigate through the storm without losing your baton.
+In this environment, your goal must shift. You are no longer trying to conduct a collaborative symphony. You are trying to protect your orchestra, hold your ground, and navigate through the storm without losing your baton. In this situation, you must be willing to temporarily set aside the Conductor's baton and pick up the Sentinel's shield. The goal is no longer to create music together, but to protect your orchestra from the storm.
 
 **Case Study: The Saboteur Stakeholder**
 

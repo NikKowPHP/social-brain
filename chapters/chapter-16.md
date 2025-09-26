@@ -53,15 +53,15 @@ Leo, expecting a lecture, was surprised by the question. He explained his reason
 
 To solve both problems, we need a protocol for giving feedback safely, a protocol for receiving it gracefully, and a protocol for making the change stick.
 
-> ### **From the Boardroom to the Living Room: The "Messy Room" Debug**
+> ### **From the Boardroom to the Living Room: The "Car Keys" Debug**
 >
-> The feedback protocols are lifesavers for sensitive conversations with a partner or child. Instead of saying, "You're always so messy!" (a judgmental attack that guarantees a fight), the Debug protocol gives you a better script.
+> The feedback protocols are lifesavers for sensitive conversations. Instead of a parent saying, "You're too old to be driving at night!" (a Status and Autonomy attack that guarantees a fight), the Debug protocol gives an adult child a much better script.
 >
-> 1.  **Get Permission:** "Is now a good time to talk about the kitchen?"
-> 2.  **Share Data, Not Drama:** "I noticed the dishes were in the sink this morning." (A neutral, undeniable fact).
-> 3.  **Co-Create the Solution:** "What's a system we can create that works for both of us to keep the kitchen feeling like a space we both enjoy?"
+> 1.  **Get Permission:** "Dad, is now a good time to talk about planning for the future?"
+> 2.  **Share Data, Not Drama:** "I was looking at the insurance bill and noticed a 20% increase this year. I also saw a new scratch on the passenger door." (Neutral, observable facts).
+> 3.  **Co-Create the Solution:** "I want to make sure you have all the independence you want for as long as possible. What's a plan we can create together to make sure you're safe and that we have options for getting around?"
 >
-> This transforms a potential fight into a collaborative problem-solving session.
+> This transforms a potential fight over autonomy into a collaborative problem-solving session about preserving it.
 
 > ### **Profile Alert: Feedback**
 >

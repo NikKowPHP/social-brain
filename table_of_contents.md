@@ -4,8 +4,6 @@
 
 **Introduction:** Your Brain's Operator's Manual
 
-**The Conductor's Method Cheat Sheet**
-
 ---
 
 ### **Part I: Your Operating System - Understanding Your Social Brain**
@@ -71,6 +69,8 @@
 **Chapter 16.5b:** The Repair Protocol
 *The Neuroscience of a Real Apology*
 
+**Toolkit Summary & Cheat Sheet**
+
 ---
 
 ### **Part III: Integration and Lasting Change**
@@ -117,3 +117,4 @@
 **Acknowledgments**
 
 **About the Author**
+      

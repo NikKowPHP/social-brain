@@ -5,6 +5,9 @@ The role of the Conductor, as we have described it, is incredibly demanding. It 
 
 An operating system that requires peak performance at all times is a brittle system. A robust system accounts for failure, fatigue, and the messy reality of being human. By not providing tools for self-compassion and energy management, we risk setting you up for burnout. This chapter is about building a system that is not just effective, but sustainable.
 
+#### **Capstone Case Study: The Cost of the Performance**
+The week Maria and her team spent preparing their response to David was one of the most intense of her career. They successfully navigated the politics, presenting a clear, data-backed case to leadership that respectfully corrected David's narrative and secured the team's reputation. It was a huge win. But that Friday evening, Maria felt nothing but a deep, hollow exhaustion. She snapped at her partner over a minor question and felt a wave of guilt. She had conducted the orchestra perfectly at work, but she had come home with no music left in her. This is the Conductor's fatigue—the inevitable result of a high-stakes performance. Her recovery depended on the tools in this chapter.
+
 #### **The Science: The Threat of Self-Criticism**
 
 When you make a mistake—when you get hijacked in a meeting or send a clumsy email—your brain's threat system activates. For many of us, especially high-achievers, we amplify this threat with a brutal wave of internal self-criticism. We tell ourselves, *"I can't believe I did that. I'm a terrible leader. I'll never get this right."*
@@ -36,3 +39,4 @@ You must give yourself permission to not always be "on." There will be days when
 This simple act of communication prevents your team from spinning up negative stories ("Is she mad at us?"). It replaces a threat to **Certainty** with a reward, and it is a powerful act of Calibrated Vulnerability that gives others permission to be human, too.
 
 A truly masterful conductor knows that the health of the orchestra depends on the health of the conductor. Sustainability is not a luxury; it is a prerequisite for a long and meaningful career.
+      
