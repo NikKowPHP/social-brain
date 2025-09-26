@@ -8,9 +8,9 @@ Most apologies fail. Why? Because they are designed to soothe the ego of the per
 A real apology is not about you. It is a focused, intentional act designed to restore the other person's sense of safety and social standing. It is a powerful tool for rebuilding trust and repairing a fractured connection.
 
 #### **Case Study: The Conductor's Mistake**
-The Phoenix Project was in a high-stress phase, and Maria was feeling the pressure. In a team meeting, Leo, her junior Connector, nervously pointed out a potential flaw in a plan Maria had just proposed. Feeling defensive and short on time, Maria shut him down curtly. "We don't have time to re-litigate this, Leo. Let's move on."
+The Phoenix Project was in a high-stress phase, and Maria was feeling the pressure. In a team meeting, Leo, her junior **Connector**, nervously pointed out a potential flaw in a plan Maria had just proposed. Feeling defensive and short on time, Maria shut him down curtly. "We don't have time to re-litigate this, Leo. Let's move on."
 
-She immediately saw the impact. Leo physically recoiled and went silent for the rest of the meeting. The psychological safety she had worked so hard to build was visibly damaged. Her sharp response was a clear Status threat to Leo, and a Fairness threat to the team's stated value of "all ideas are welcome."
+She immediately saw the impact. Leo physically recoiled and went silent for the rest of the meeting. For his Connector profile, this public dismissal was not just a rejection of his idea, but a painful break in the team's harmony and a direct hit to his sense of psychological safety. The psychological safety she had worked so hard to build was visibly damaged. Her sharp response was a clear Status threat to Leo, and a Fairness threat to the team's stated value of "all ideas are welcome."
 
 The old Maria might have ignored it or offered a quick, "Sorry if I was a bit stressed earlier." The conductor knew she needed to execute a full repair. After the meeting, she asked Leo to stay for a moment and deployed the Four R's.
 
@@ -62,3 +62,4 @@ Think of a small, recent interaction where you made a mistake and could have apo
 1.  **The Situation:** What was the mistake you made?
 2.  **The Script:** Write out the full, four-step apology you could have used.
 3.  **The Reflection:** How does this scripted apology feel compared to what you actually said (or didn't say) in the moment?
+      

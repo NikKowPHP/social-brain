@@ -58,6 +58,12 @@ But this journey requires a counter-intuitive shift in your thinking. At its hea
 
 To make this journey tangible, we will follow the transformations of a few key individuals—a small orchestra of characters you will come to know well. We will follow Maria, a well-intentioned manager, as she tries to save the **"Phoenix Project,"** a make-or-break initiative to overhaul the company's aging customer data platform, plagued by the very communication bugs we're about to decode. We will meet her team: Mark, a brilliant but abrasive engineer; Leo, a junior developer with great ideas but little confidence; and Jane, a senior architect whose fear of risk stifles innovation. Their struggles are our struggles. Their breakthroughs, woven through every chapter, will be our guide. For the logic-driven reader, rest assured: our journey will culminate in the Conductor's Dashboard, a way to measure the very real impact of these 'soft' skills.
 
+To help you see the book's core concepts in action, here are the profiles of our main characters:
+*   **Maria:** Maria begins our story leading with her **Architect** brain, believing good data should be enough. Her journey is about developing her Connector and Sentinel sections to become a truly Adaptive Conductor.
+*   **Mark:** Mark is a classic **Architect**, whose brilliance is matched only by his bluntness.
+*   **Jane:** Jane, the senior architect, is a powerful **Sentinel**, whose past experiences have made her hyper-attuned to risk and deeply skeptical.
+*   **Leo:** Leo is a junior engineer with a strong **Connector** profile, full of empathetic ideas but often too intimidated to voice them.
+
 This is a journey of practice, not a quest for perfection. You will not become a flawless conductor overnight. The goal is to get 1% better with every interaction, to learn from your mistakes, and to gradually re-wire your responses. This book is not a rulebook; it is a rehearsal space.
 
 The journey to becoming the conductor starts now. Turn the page, and let's diagnose your orchestra.

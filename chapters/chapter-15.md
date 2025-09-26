@@ -26,9 +26,9 @@ Treat feedback like fire: it can provide warmth (growth) or burn down a structur
 
 #### **Case Study: The Conductor as Coach**
 
-A month after Maria's pivotal conversation with Mark, the team dynamic had improved dramatically. But Maria noticed a new, subtle problem. Leo, the junior Connector, was so afraid of Mark's critiques that he had stopped offering creative ideas in meetings.
+A month after Maria's pivotal conversation with Mark, the team dynamic had improved dramatically. But Maria noticed a new, subtle problem. Leo, the junior **Connector**, was so afraid of the blunt critiques from Mark, a classic **Architect**, that he had stopped offering creative ideas in meetings.
 
-The old Maria would have spoken to Mark again. The conductor saw a different opportunity: to move from directing the orchestra to developing the musicians. She needed to teach Leo how to give feedback, not just receive it.
+The old Maria would have spoken to Mark again. The conductor saw a different opportunity: to move from directing the orchestra to developing the musicians. *Leo's Connector brain is afraid of creating disharmony,* she thought. *I need to give him a protocol that feels structured and safe for him, one that allows him to challenge Mark's ideas without triggering a conflict.* She needed to teach Leo how to give feedback, not just receive it.
 
 She called Leo into her office. "I've noticed you have great ideas but you're holding back in meetings," she began. "Let's talk about how to get your voice heard." She didn't give him advice; she coached him on the "Debug" protocol.
 
@@ -122,3 +122,4 @@ This week, your mission is to practice the **"Intake" Protocol**. The next time 
 1.  **The Feedback:** What was the feedback, criticism, or comment you received?
 2.  **The Feeling:** What was the immediate physical or emotional sensation you felt? (e.g., heat in the face, knot in the stomach).
 3.  **The Response:** Did you manage to use the clarifying question ("Can you give me a specific example?")? What was the result? If you didn't, what got in the way?
+      

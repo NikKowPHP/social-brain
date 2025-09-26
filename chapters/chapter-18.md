@@ -13,7 +13,7 @@ This forced a new investigation: **How do you conduct the collective brain of a 
 
 #### **Case Study: The Meeting Makeover**
 
-This blueprint was Maria's turning point. She used to dread her team's weekly Phoenix Project status meeting, which often devolved into a tense, unstructured debate between Mark's push for efficiency and Jane's constant risk-spotting, while Leo stayed silent. The meeting was a perfect storm of competing brain profiles.
+This blueprint was Maria's turning point. She used to dread her team's weekly Phoenix Project status meeting. It was a perfect storm of competing brain profiles that constantly devolved into a tense, unstructured debate: Mark's **Architect** brain pushed for logical efficiency, Jane's **Sentinel** brain saw risk everywhere, and Leo's **Connector** brain, overwhelmed by the conflict, stayed silent to preserve harmony.
 
 Before her next meeting, she decided to stop being a participant and start being the conductor.
 1.  **Before:** She sent out a **SCARF-aware agenda** 24 hours in advance. The title was the meeting's single goal: "Decide on Q3 Launch Date for Phoenix." The items were questions ("How can we mitigate the server-load risk Jane identified?"), not topics.
@@ -94,3 +94,4 @@ This week, you will conduct one meeting, even if you are not the official leader
 1.  **The Meeting:** Which meeting did you choose to focus on?
 2.  **The Intervention:** Which single practice from the blueprint (e.g., sending a SCARF-aware agenda, using the Empathy Loop on a dissenter, sending a clear follow-up) did you implement?
 3.  **The Result:** What was the observable impact on the meeting's tone or outcome?
+      

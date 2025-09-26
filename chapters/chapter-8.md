@@ -17,7 +17,7 @@ Remembering the Trust Protocol, Maria decided to run an experiment. In their nex
 
 What came back was not an echo, but a wall. Jane's eyes narrowed. "What do you want me to say to that?" she asked, her voice flat. The sonar ping hadn't just failed to return; it had hit a defensive shield and disintegrated. The connection was worse than before.
 
-That night, Maria couldn't stop replaying the interaction. The protocol had failed. *Why?* Her first instinct was to blame Jane, but she forced herself to debug her own strategy. She realized her mistake: for a deep Sentinel profile like Jane, who is hyper-attuned to threats and hidden agendas, an unexpected offering of vulnerability from a superior isn't a signal of safety—it can be a **Certainty threat**. It's an unpredictable move that raises the question, "What is this *really* about?" It can feel like a setup.
+That night, Maria couldn't stop replaying the interaction. The protocol had failed. *Why?* Her first instinct was to blame Jane, but she forced herself to debug her own strategy. She realized her mistake: her own **Architect** brain had followed the protocol logically, but it had failed to account for the specific needs of Jane's **Sentinel** profile. For a deep Sentinel, who is hyper-attuned to threats and hidden agendas, an unexpected offering of vulnerability from a superior isn't a signal of safety—it can be a **Certainty threat**. It's an unpredictable move that raises the question, "What is this *really* about?" It can feel like a setup.
 
 **Attempt 2: The Correct Tool.**
 Maria realized she had used the wrong tool for the job. To connect with a Sentinel, you don't offer vulnerability; you demonstrate respect for their greatest strength: threat-detection.
@@ -114,3 +114,4 @@ This week, your mission is to run one small trust protocol with someone you'd li
 1.  **The Person & Goal:** Who did you choose, and what was your goal for the interaction?
 2.  **The Protocol:** Which trust protocol did you run? (Calibrated Vulnerability, Uncommon Commonality, or "We" Language). Describe exactly what you said or did.
 3.  **The Result:** How did they respond? Did you get an "echo" back? How did the feeling of the interaction change?
+      
