@@ -87,11 +87,11 @@
 **Chapter 19:** When Your Family Rejects the 'New You'
 *Navigating Relationship Homeostasis*
 
-**Chapter 20:** The Integrated Brain
-*Conducting the Orchestra of Communication*
+**Chapter 20:** The Integrated Conductor
+*Knowing When to Put the Baton Down*
 
-**Chapter 21:** Training the Orchestra
-*From Conductor to Composer*
+**Chapter 21:** The Self-Tuning Orchestra
+*Escaping the Conductor's Burden*
 
 **Chapter 22:** When the Conductor is Exhausted
 *The Neuroscience of Resilience and Self-Compassion*
@@ -99,7 +99,7 @@
 **Chapter 23:** The Conductor's Legacy
 *Building a Psychologically Safe Culture*
 
-**Conclusion:** Your Investigation Begins
+**Conclusion:** Beyond the Human Orchestra
 
 **Join the Orchestra**
 

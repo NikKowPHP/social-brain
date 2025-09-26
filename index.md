@@ -2,11 +2,13 @@
 
 **A**
 *   Adaptation Protocol (Chapter 15)
+*   AI (Artificial Intelligence), Communicating with (Conclusion)
 *   Amygdala (Chapters 3, 6, 10, 14, 23)
 *   Amygdala Hijack (Chapter 6, 14)
 *   Architect Brain Profile (Chapters 1, 6, 9, 10, 12, 14, 20)
 *   Asynchronous Communication (Chapter 17.5)
 *   Attention (Chapter 9)
+*   Authenticity (Chapter 20)
 *   Autonomy (SCARF) (Chapters 5, 7, 14, 23)
 *   Automaticity (Chapter 20)
 
@@ -14,6 +16,7 @@
 *   Boundary Protocol (Chapter 16.5a)
 *   Brain Profiles (Chapter 1)
 *   Breathing, Conductor's Breath (Chapters 6, 14, 20, 23)
+*   Burden, Conductor's (Chapter 21)
 *   Burnout (Chapter 22)
 
 **C**
@@ -22,6 +25,7 @@
 *   Code-Switching (Chapter 15)
 *   Cognitive Load (Chapters 12, 15)
 *   Cognitive Style (Chapter 1, 11, 17)
+*   Conductor's Oath (Chapter 2)
 *   Conductor's Paradox (Chapter 20)
 *   Connector Brain Profile (Chapters 1, 6, 9, 10, 12, 14, 20)
 *   Cortisol (Chapter 6, 9, 13, 14)
@@ -61,6 +65,7 @@
 *   Homeostasis, Relationship (Chapter 19)
 
 **I**
+*   Intuition (Chapter 20)
 *   Introversion (Chapter 1, 11, 17)
 
 **L**
@@ -81,6 +86,7 @@
 *   Neuroplasticity (Chapter 16)
 
 **O**
+*   Obsolescence (Conclusion)
 *   Oxytocin (Chapters 10, 13)
 
 **P**
@@ -111,6 +117,7 @@
     *   As a diagnostic tool (Chapter 5)
 *   Self-Compassion (Chapter 22)
 *   Sentinel Brain Profile (Chapters 1, 6, 9, 10, 12, 14, 20)
+*   Shadow Conductor (Chapter 2)
 *   Social Gravity (Chapter 4)
 *   Social Pain (Chapter 3)
 *   Status (SCARF) (Chapters 5, 7, 13, 14, 15, 16, 23)
