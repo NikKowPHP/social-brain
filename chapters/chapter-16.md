@@ -54,4 +54,3 @@ Your mission is to find one, low-stakes opportunity this week to say "no" using 
 1.  **The Request:** What were you asked to do?
 2.  **Your Script:** Write down the exact "Validate, State, Offer" sentence you used.
 3.  **The Outcome:** How did the other person react? How did it feel for you, compared to how you normally feel when declining something?
-      

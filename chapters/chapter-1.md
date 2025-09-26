@@ -52,17 +52,17 @@ So, what did you discover? Take a moment to look at your responses. Most of us h
 [AUTHOR'S NOTE: This is a key place for visual language. Each profile should have a simple, memorable icon that will be used throughout the book whenever the profile is mentioned.]
 
 **If you scored mostly A's, you lead with the Architect Brain.**
-[ICON IDEA: A compass or a blueprint]
+[ICON: Blueprint]
 *   **Your Superpower:** Logic, clarity, and structure. You are a master of deconstructing complex problems and presenting information in a clear, rational way. You build airtight arguments and are a rock of reason in a sea of chaos. Your orchestra's string and brass sections are world-class.
 *   **Your Growth Edge:** You can sometimes miss the emotional music of a conversation. Your focus on data and logic might lead you to accidentally trigger social threats in others, making them feel like a problem to be solved rather than a person to be understood.
 
 **If you scored mostly B's, you lead with the Connector Brain.**
-[ICON IDEA: A handshake or a bridge]
+[ICON: Bridge]
 *   **Your Superpower:** Empathy, rapport, and social harmony. You instinctively read the emotional tone of a room and know how to make people feel seen, heard, and valued. You are the orchestra's woodwinds, creating warmth and weaving the group together.
 *   **Your Growth Edge:** Your focus on harmony can sometimes lead you to avoid necessary conflict or difficult feedback. In your effort to ensure no one feels bad, you might soften a critical message so much that it loses its clarity and impact.
 
 **If you scored mostly C's, you lead with the Sentinel Brain.**
-[ICON IDEA: A shield or a radar dish]
+[ICON: Shield]
 *   **Your Superpower:** Threat detection, instinct, and rapid response. You are highly attuned to risk and can sense danger or instability before anyone else. You are the orchestra's powerful percussion, the primal rhythm that keeps everyone alert and safe from harm.
 *   **Your Growth Edge:** Your threat-detection system can be overactive. You may perceive threats where none exist, leading to a defensive posture that can inadvertently create a climate of fear or distrust, putting others on the defensive as well.
 
@@ -99,4 +99,3 @@ This diagnostic has given you your map. As you continue your journey, use it to 
 *   **For the Sentinels (Mostly C's):** Your foundational toolkit is in Chapters **6 (Self-Regulation)**, **8 (Building Trust)**, and **12 (Difficult Conversations)**. These chapters are designed to help you calm your inner alarm system so you can lead with confidence, not fear.
 
 You now have your starting point. You know your orchestra. Our next step is to explore the purpose of this work—to look beyond just "fixing" communication and understand the deeper human need for the music of connection.
-      

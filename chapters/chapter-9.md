@@ -35,9 +35,9 @@ The goal is not to be brilliant, witty, or impressive. The goal is to **send a s
 
 > ### **Profile Alert: The First Move**
 >
-> *   **Architect Alert:** Your fear is looking foolish or inefficient. You might over-plan the "perfect" opening line, leading to analysis paralysis. Your practice is to ship the v1 opening line, even if it's not perfect.
-> *   **Connector Power-Up:** Your fear is being disliked or creating awkwardness. You worry more about making *them* uncomfortable than about your own needs. The protocol is your shield: by giving them autonomy to disengage, you are being respectful, not awkward.
-> *   **Sentinel Shield-Training:** You perceive the entire interaction as a danger zone. Your threat detection is on overdrive. The protocol is designed to de-risk the situation for you first. By focusing on the shared context, you ground yourself in the observable reality, not your brain's simulated catastrophe.
+> *   **[ICON: Blueprint] Architect Alert:** Your fear is looking foolish or inefficient. You might over-plan the "perfect" opening line, leading to analysis paralysis. Your practice is to ship the v1 opening line, even if it's not perfect.
+> *   **[ICON: Bridge] Connector Power-Up:** Your fear is being disliked or creating awkwardness. You worry more about making *them* uncomfortable than about your own needs. The protocol is your shield: by giving them autonomy to disengage, you are being respectful, not awkward.
+> *   **[ICON: Shield] Sentinel Shield-Training:** You perceive the entire interaction as a danger zone. Your threat detection is on overdrive. The protocol is designed to de-risk the situation for you first. By focusing on the shared context, you ground yourself in the observable reality, not your brain's simulated catastrophe.
 > *   **Cognitive Style Alert (Introversion):** For the introverted Conductor, your goal may not be to start a long conversation, but simply to ask one thoughtful, well-formulated question and then cede the floor, demonstrating your value through the quality of your inquiry, not the quantity of your words.
 
 **The Three-Step Protocol:**
@@ -80,7 +80,7 @@ The fear of approaching new people is the brain's rational response to an antici
 ---
 **The Immediate Practice:**
 Use the three-step "Safety Signal" Protocol.
-1.  **Regulate First:** Take a silent **Conductor's Breath** to calm your own amygdala.
+1.  **Regulate First:** Take a silent **The Conductor's Breath** to calm your own amygdala.
 2.  **Find a Shared Context:** Anchor your opening in the environment you both share.
 3.  **Offer a Low-Stakes Observation:** Make a simple observation and ask an open-ended, low-pressure question about your shared context.
 
@@ -92,4 +92,3 @@ This week, your mission is to break the silence once using the "Safety Signal" P
 1.  **The Situation:** Where were you and who did you approach?
 2.  **The Protocol:** Write down the exact "Shared Context" and "Low-Stakes Observation" you used.
 3.  **The Result:** What was the outcome? The goal isn't a long conversation, just a brief, safe connection.
-      

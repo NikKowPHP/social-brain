@@ -60,9 +60,9 @@ To defeat cognitive load, you must become a master of formatting information so 
 
 > ### **Profile Alert: Cognitive Load**
 >
-> *   **Architect Alert:** This is your most critical protocol. Your love of detail means you are the most likely to *create* cognitive load in others. Your challenge is to value brevity as much as you value thoroughness.
-> *   **Connector Power-Up:** Your risk is creating cognitive load through excessive social padding. You might bury the key message in long, warm introductions and closings. Your practice is to put the headline first, then add the warmth.
-> *   **Sentinel Shield-Training:** Stress can trigger "panic-dumping"—a torrent of unstructured worries and information. This protocol provides the structure needed to stay clear and calm under pressure, which in turn calms everyone else down.
+> *   **[ICON: Blueprint] Architect Alert:** This is your most critical protocol. Your love of detail means you are the most likely to *create* cognitive load in others. Your challenge is to value brevity as much as you value thoroughness.
+> *   **[ICON: Bridge] Connector Power-Up:** Your risk is creating cognitive load through excessive social padding. You might bury the key message in long, warm introductions and closings. Your practice is to put the headline first, then add the warmth.
+> *   **[ICON: Shield] Sentinel Shield-Training:** Stress can trigger "panic-dumping"—a torrent of unstructured worries and information. This protocol provides the structure needed to stay clear and calm under pressure, which in turn calms everyone else down.
 
 **The Clarity Protocol:**
 **1. One Goal Per Message.**
@@ -96,4 +96,3 @@ This week, find one email you are about to send that is more than three paragrap
 1.  **The "Before":** Paste or describe the original, unstructured message.
 2.  **The "After":** Rewrite the message using the Clarity Protocol (One Goal, Headline First, Chunked Details).
 3.  **The Reflection:** What did you notice during the editing process? Did you get a faster or clearer response than you normally would?
-      

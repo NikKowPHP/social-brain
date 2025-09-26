@@ -32,7 +32,7 @@ The protocol is designed to break this spiral before it starts, by intentionally
 
 This is not a script, but a sequence of operations designed to keep both brains online.
 
-1.  **Regulate Yourself First (Chapter 6):** This is non-negotiable. Use the **Conductor's Breath** before and during the conversation. If you feel the heat rising, take a silent breath. Your calm is the most powerful de-escalation tool you have.
+1.  **Regulate Yourself First (Chapter 6):** This is non-negotiable. Use **The Conductor's Breath** before and during the conversation. If you feel the heat rising, take a silent breath. Your calm is the most powerful de-escalation tool you have.
 2.  **State Your Benign Intent (Chapter 2):** The first words out of your mouth must signal safety. Frame the conversation around a shared goal and a positive intent.
     *   *"My goal is to understand your perspective."* (Rewards Status)
     *   *"I want to find a solution that works for both of us."* (Rewards Relatedness)
@@ -53,7 +53,6 @@ This protocol transforms a dreaded confrontation into a structured, safe, and pr
 > ### **Emergency Protocol: The Hijack**
 >
 > What if the conversation catches fire despite your best efforts?
-> 1.  **Regulate Yourself First** (Conductor's Breath).
+> 1.  **Regulate Yourself First** (The Conductor's Breath).
 > 2.  **Validate the Feeling, Not the Content** (Use The Playback on their emotion: *"It sounds like you're incredibly frustrated right now."*).
 > 3.  **Restore Autonomy** (Give them a choice, e.g., *"This is an important conversation, and it's getting heated. Should we pause for five minutes and come back to this?"*).
-      

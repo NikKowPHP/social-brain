@@ -16,12 +16,13 @@
 **B**
 *   Boundary Protocol (Chapter 16)
 *   Brain Profiles (Chapter 1)
-*   Breathing, Conductor's Breath (Chapters 6, 12, 13, 22, 24)
+*   Breathing, The Conductor's Breath (Chapters 6, 12, 13, 22, 24)
 *   Burden, Conductor's (Chapter 24)
 *   Burnout (Chapter 23)
 
 **C**
 *   Certainty (SCARF) (Chapters 5, 9, 12, 13, 18, 24)
+*   Clarity as a Scalpel (Chapter 13)
 *   Clarity Protocol (Chapter 10)
 *   Clinical Warning (Introduction)
 *   Code-Switching (Chapter 14)
@@ -138,4 +139,3 @@
 **V**
 *   Vagus Nerve (Chapter 6)
 *   Vulnerability, Calibrated (Chapter 8, 24)
-      

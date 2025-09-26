@@ -36,9 +36,9 @@ This means you cannot memorize the rules for every culture and group. The only s
 
 > ### **Profile Alert: Adaptation**
 >
-> *   **Architect Alert:** Your risk is assuming logic is universal. You may judge other cultures' "software" as inefficient or irrational. Your practice is to approach new norms with curiosity, as if you're learning a new programming language.
-> *   **Connector Power-Up:** Your risk is *over-mirroring* the group and losing your own voice or values in an effort to maintain harmony. Your practice is to adapt your style without sacrificing your principles.
-> *   **Sentinel Shield-Training:** You may be over-sensitive to threats in a new environment, interpreting unfamiliar norms as hostile. Your practice is to consciously assume positive intent until you have data to the contrary.
+> *   **[ICON: Blueprint] Architect Alert:** Your risk is assuming logic is universal. You may judge other cultures' "software" as inefficient or irrational. Your practice is to approach new norms with curiosity, as if you're learning a new programming language.
+> *   **[ICON: Bridge] Connector Power-Up:** Your risk is *over-mirroring* the group and losing your own voice or values in an effort to maintain harmony. Your practice is to adapt your style without sacrificing your principles.
+> *   **[ICON: Shield] Sentinel Shield-Training:** You may be over-sensitive to threats in a new environment, interpreting unfamiliar norms as hostile. Your practice is to consciously assume positive intent until you have data to the contrary.
 
 **1. Observe (Data Collection Mode).**
 When you first enter a new group, your primary job is to listen and collect data. Resist the urge to immediately contribute. Spend the first 10-15 minutes in pure observation mode. Notice the patterns: How is status demonstrated? How is feedback given? How are decisions made?
@@ -78,4 +78,3 @@ This week, in one meeting with a group you don't know perfectly (a different tea
 1.  **The Group:** Which group did you observe?
 2.  **Observations (Data Collection):** What patterns did you notice? Who spoke the most? How were disagreements handled? How was humor used?
 3.  **Your Hypothesis:** Based on your observations, what is your initial hypothesis about this group's "local software"? (e.g., "Hypothesis: In this group, status is demonstrated by using complex vocabulary.")
-      

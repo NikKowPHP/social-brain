@@ -94,4 +94,3 @@ This week, you will conduct one meeting, even if you are not the official leader
 1.  **The Meeting:** Which meeting did you choose to focus on?
 2.  **The Intervention:** Which single practice from the blueprint (e.g., sending a SCARF-aware agenda, using the Empathy Loop on a dissenter, sending a clear follow-up) did you implement?
 3.  **The Result:** What was the observable impact on the meeting's tone or outcome?
-      

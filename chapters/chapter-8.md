@@ -114,4 +114,3 @@ This week, your mission is to run one small trust protocol with someone you'd li
 1.  **The Person & Goal:** Who did you choose, and what was your goal for the interaction?
 2.  **The Protocol:** Which trust protocol did you run? (Calibrated Vulnerability, Uncommon Commonality, or "We" Language). Describe exactly what you said or did.
 3.  **The Result:** How did they respond? Did you get an "echo" back? How did the feeling of the interaction change?
-      

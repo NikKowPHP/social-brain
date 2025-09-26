@@ -39,7 +39,7 @@ This is the most important step. You must consciously abandon the goal of persua
 
 **2. Go "Gray Rock."**
 A manipulator feeds on your emotional reactions. The "Gray Rock Method" is the practice of becoming as boring and unreactive as a gray rock.
-*   **Regulate Your System (Chapter 6):** Use the **Conductor's Breath** continuously and silently.
+*   **Regulate Your System (Chapter 6):** Use **The Conductor's Breath** continuously and silently.
 *   **Control Your Non-Verbals:** Maintain a neutral facial expression and calm posture. Do not show anger, frustration, or excitement.
 
 **3. Use Clarity as a Scalpel, Not a Bridge (Chapter 10).**
@@ -72,4 +72,3 @@ In these situations, your goal shifts from containment to disengagement. This ca
 *   **Setting Firm Project Boundaries:** Clearly and unemotionally state what your team will and will not do. Document these boundaries in writing. *"To be clear, my team's scope is limited to X. Any requests for Y will need to go through the formal Z process."*
 *   **Escalating to a Higher Authority:** If possible, present your documented audit trail (from Step 5 of the Shield Protocol) to a manager or HR. Frame it not as a personal complaint, but as a risk to the project or business. *"I am bringing this to you because the communication patterns on this project are creating significant delays and risks, as documented here."*
 *   **Planning an Exit:** In the most extreme cases, the only winning move is not to play. This may mean finding a way to be transferred off the project or, if the issue is systemic to the organization, starting to look for a new role. A conductor's first loyalty is to the health of their musicians, and sometimes that means finding them a new concert hall.
-      
