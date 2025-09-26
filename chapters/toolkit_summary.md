@@ -43,10 +43,11 @@ This is the toolkit you've built.
 *   **[ICON: Gears] The Feedback Protocols (Chapter 15):**
     *   **Giving (Debug):** 1. Get Permission. 2. Share Data, Not Drama. 3. Co-Create Solution.
     *   **Receiving (Intake):** 1. Regulate (Breathe). 2. Resist Defending. 3. Ask for Data ("Can you give an example?").
+*   **[ICON: Fence] The Boundary Protocol (Chapter 16):** 1. Validate Request. 2. State Your Reality. 3. Offer Alternative. (Saying "no" gracefully).
+*   **[ICON: Stitches] The Repair Protocol (Chapter 17):** 1. Recognize. 2. Regret. 3. Responsibility. 4. Resolve. (The four steps of a real apology).
 
 **Emergency Protocol: The Hijack (Chapter 12)**
 *When a conversation catches fire:*
-1.  **Regulate Yourself First** (Conductor's Breath).
+1.  **Regulate Yourself First** (The Conductor's Breath).
 2.  **Validate the Feeling, Not the Content** (Use The Playback).
 3.  **Restore Autonomy** (Give them a choice, e.g., "Should we pause for five minutes?").
-      

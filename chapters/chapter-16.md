@@ -7,6 +7,20 @@ Why is saying "no" so hard? Because it feels like a direct, intentional threat t
 
 The key to saying "no" effectively is to find a way to honor your own **Autonomy** without catastrophically threatening the other person's **Relatedness** and **Status**. You cannot eliminate the sting, but you can turn a potential explosion into a manageable emotional event.
 
+#### **Case Study: Protecting the Project**
+
+As the Phoenix Project gained momentum, its success attracted attention. A senior leader from another department, impressed with the team's work, approached Maria with a "small request." He wanted her team to build a custom dashboard for his division, using the new Phoenix data platform. It was a good idea, but it was also a significant, unplanned project that would derail the core timeline.
+
+The old Maria, eager to please and avoid conflict, would have said "yes" immediately, creating massive stress for her team. The new Maria knew she had to protect her orchestra. She used the Boundary Protocol.
+
+"Thank you so much for seeing the potential here," she started (Validate). "That dashboard sounds like a fantastic tool, and it's exactly the kind of value we hoped Phoenix would unlock."
+
+Then, she delivered the boundary. "Unfortunately, given our current, locked-down timeline for the main launch, the team simply doesn't have the capacity to build it to the quality it deserves right now" (State).
+
+Finally, she preserved the relationship. "However, this sounds like the perfect candidate for our first 'Phase 2' project after the main launch. Could Leo work with you to scope it out so it's ready to go the moment we have bandwidth?" (Offer).
+
+The stakeholder, instead of feeling rejected, felt heard and valued. He had a clear "yes" for the future, which made the "no" for today feel like a strategic partnership, not a dismissal. Maria had held her boundary, protected her team, and strengthened a key relationship.
+
 **The Practice: The "Validate, State, Offer" Protocol**
 
 A bad "no" is a blunt, flat rejection that triggers a massive threat response ("No, I can't do that."). A masterful "no" is a three-part protocol that protects the relationship while holding the boundary.

@@ -3,7 +3,7 @@
 
 The "social pain" bug that Maria triggered in Mark is one of the most critical in the human operating system. For Maria, the fallout from that email was a wake-up call. Mark was sullen and withdrawn for a week, and the tension on her team was palpable. She felt a familiar wave of anxiety and frustration at her own inability to lead.
 
-In a tense follow-up meeting, trying to get the project back on track, Maria felt herself getting flustered. As Mark stonewalled her, she could feel her own face getting hot, her heart hammering in her chest. Her mind was racing with defensive thoughts: *"Why is he being so difficult? I'm the manager, he should listen to me!"* She was having her own amygdala hijack. It was in that moment of near-panic that she realized she couldn't fix the team's dynamic until she could fix her own. She was at a critical fork in the road, and she needed a manual override.
+In a tense follow-up meeting, trying to get the project back on track, Maria felt herself getting flustered. As Mark stonewalled her, she could feel her own face getting hot, her heart hammering in her chest. Her mind was racing with defensive thoughts: *"Why is he being so difficult? I'm the manager, he should listen to me!"* She was having her own amygdala hijack. It was in that moment of near-panic that she realized she couldn't fix the team's dynamic until she could fix her own. This was the moment Maria realized that to save the Phoenix Project, she first had to conduct her own internal orchestra. Her first practice with The Conductor's Breath wasn't for a big presentation, but just to survive the next status meeting with Mark.
 
 This is where the real work of a conductor begins: not with leading others, but with regulating yourself.
 

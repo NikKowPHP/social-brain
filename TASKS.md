@@ -1,1 +1,3 @@
 - [x] Perform final refinement pass on the manuscript for consistency, reader experience, and ancillary material polish.
+- [x] Consolidate chapters, remove duplicates, and update the Table of Contents and Toolkit Summary.
+- [x] Weave the "Phoenix Project" case study through all chapters of Part II for a cohesive narrative.
