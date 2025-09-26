@@ -6,6 +6,7 @@
 *   Amygdala (Chapters 3, 6, 10, 14, 23)
 *   Amygdala Hijack (Chapter 6, 14)
 *   Architect Brain Profile (Chapters 1, 6, 9, 10, 12, 14, 20)
+    *   Architect's Shadow / Bias (Conclusion)
 *   Asynchronous Communication (Chapter 17.5)
 *   Attention (Chapter 9)
 *   Authenticity (Chapter 20)
@@ -22,17 +23,20 @@
 **C**
 *   Certainty (SCARF) (Chapters 5, 9, 14, 17, 23)
 *   Clarity Protocol (Chapter 12)
+*   Clinical Warning (Introduction)
 *   Code-Switching (Chapter 15)
 *   Cognitive Load (Chapters 12, 15)
 *   Cognitive Style (Chapter 1, 11, 17)
 *   Conductor's Oath (Chapter 2)
-*   Conductor's Paradox (Chapter 20)
+*   Conductor's Paradox (Chapter 20, Conclusion)
 *   Connector Brain Profile (Chapters 1, 6, 9, 10, 12, 14, 20)
 *   Cortisol (Chapter 6, 9, 13, 14)
 *   Cross-Cultural Communication (Chapter 15)
+*   Crucible Concept (Conclusion)
 
 **D**
 *   Data vs. Drama (Chapter 16)
+*   Dissonance, Productive (Conclusion)
 *   Dopamine (Chapter 13, 16)
 
 **E**
@@ -65,7 +69,7 @@
 *   Homeostasis, Relationship (Chapter 19)
 
 **I**
-*   Intuition (Chapter 20)
+*   Intuition (Chapter 20, Conclusion)
 *   Introversion (Chapter 1, 11, 17)
 
 **L**
@@ -83,6 +87,7 @@
 
 **N**
 *   Neural Coupling (Chapter 13)
+*   Neuromythology (Preface)
 *   Neuroplasticity (Chapter 16)
 
 **O**
@@ -94,7 +99,7 @@
 *   Personal Development Map (Chapter 20)
 *   Playback, The (Chapter 7, 14, 20)
 *   Power Dynamics (Chapter 4)
-*   Preface (Translator's Note)
+*   Preface (Translator's Note, Note on Science)
 *   Prefrontal Cortex (PFC) (Chapters 6, 7, 20)
 *   Presence, Signal of (Chapter 9)
 *   Privilege (Chapter 4)
@@ -115,6 +120,7 @@
     *   In difficult conversations (Chapter 14)
     *   In psychological safety (Chapter 23)
     *   As a diagnostic tool (Chapter 5)
+*   Science, Limitations of (Preface)
 *   Self-Compassion (Chapter 22)
 *   Sentinel Brain Profile (Chapters 1, 6, 9, 10, 12, 14, 20)
 *   Shadow Conductor (Chapter 2)

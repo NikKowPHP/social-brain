@@ -16,6 +16,22 @@ What if you could see those rules? What if you could debug a difficult conversat
 
 This book is the result of that investigation. It is the map I wished I'd had on my journey. I will share the source code I discovered and hand you a complete toolkit of neuroscience-backed protocols I developed—a system I call **The Conductor Method™**.
 
+---
+> ### **CRITICAL WARNING: Where This Toolkit Ends and Professional Help Begins**
+>
+> This book is a guide for improving communication skills and managing the normal, everyday emotional reactions of a healthy brain. It is **NOT** a substitute for professional mental health treatment.
+>
+> The tools within can help with common challenges like anxiety before a presentation, defensiveness in a disagreement, or frustration with a colleague. They are not designed to address, and can be harmful if misapplied to, clinical conditions such as chronic anxiety disorders, major depression, personality disorders, C-PTSD, or trauma.
+>
+> **If you are in a relationship that you suspect is emotionally or physically abusive, these tools are not appropriate.** The priority is your safety, which may require professional help to leave, not to communicate better within it.
+>
+> If your anxiety is persistent and debilitating, if you consistently feel unable to regulate your emotions despite practice, or if you suspect your challenges go deeper than everyday communication breakdowns, please seek help from a qualified therapist, counselor, or psychiatrist.
+>
+> **Reputable Resources:**
+> *   National Institute of Mental Health (NIMH): [nimh.nih.gov](https://www.nimh.nih.gov/health/find-help)
+> *   National Alliance on Mental Illness (NAMI): [nami.org](https://nami.org/Home)
+---
+
 Think of it as your personal training manual, a **30-day challenge to upgrade your social operating system.** Each chapter will give you a new tool and a "Logbook Entry" to track your progress as you level up. By the end, you'll be able to conduct your own orchestra in boardrooms, at the dinner table, and everywhere in between.
 
 Your brain is a magnificent orchestra. But in high-stakes moments, it often feels like chaos. You are already the conductor of this orchestra. The problem is, no one ever handed you the baton.

@@ -1,6 +1,6 @@
 ### **Table of Contents**
 
-**Preface:** A Note for the Non-Programmer
+**Preface**
 
 **Introduction:** Your Brain's Operator's Manual
 
@@ -99,7 +99,7 @@
 **Chapter 23:** The Conductor's Legacy
 *Building a Psychologically Safe Culture*
 
-**Conclusion:** Beyond the Human Orchestra
+**Conclusion:** The Conductor's Final Paradox
 
 **Join the Orchestra**
 

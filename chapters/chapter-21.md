@@ -16,10 +16,10 @@ This is the highest form of leadership.
 #### **The Practice: Protocols for Distributing Competence**
 
 **1. The Shared Language Protocol**
-As we discussed in Chapter 18, the key is to give your team a shared, non-judgmental language. When "SCARF," "amygdala hijack," and the "three brain profiles" become part of the team's vocabulary, you create a shortcut to mutual understanding.
+Give your team a shared, non-judgmental language. When "SCARF," "amygdala hijack," and the "three brain profiles" become part of the team's vocabulary, you create a powerful shortcut to understanding and empathy.
 
 **2. The "Distributed Competence" Protocol**
-You must subtly teach the tools to others without being preachy.
+Subtly teach the tools to others without being preachy.
 *   **Model Inquiry:** Instead of just using the tools, start asking questions that prompt others to use them.
     *   *"What's a SCARF-aware way we could frame this email to the client?"*
     *   *"Let's try a quick 'Playback' to make sure we're all aligned on the next steps."*
