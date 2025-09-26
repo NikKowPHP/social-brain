@@ -1,7 +1,11 @@
 ### **Join the Orchestra**
 
-The investigation in this book is complete, but the practice of becoming a conductor is a lifelong journey. The most effective conductors don't practice in isolation; they learn from the entire orchestra. This book is not a monologue; it is the beginning of a living, evolving dialogue.
+For the past several hundred pages, I have been engaged in a monologue about the importance of dialogue. This book, by its nature, is a paradox.
 
-If you are committed to applying **The Conductor Method™** in your life and leadership, I invite you to join our **Conductor's Guild**—an online community of practice and an open-source repository for new protocols. Visit **[AuthorWebsite.com/community]** to connect with other leaders, share the new protocols you design for your unique environment, and learn from a global orchestra of practitioners.
+Its purpose is not to be the final word, but to be the first word in a new conversation—one you will have with yourself, and one we can have together.
+
+The book is the theory; the community is the practice. "Join the Orchestra" is the resolution to the book's fundamental contradiction. It is the essential second half of this work, where the monologue ends and the global dialogue begins.
+
+Visit **[AuthorWebsite.com/community]** to join the Conductor's Guild, a community of practice where we share new protocols, debug communication challenges, and learn from a global ensemble of fellow investigators.
 
 Let's continue the investigation together.

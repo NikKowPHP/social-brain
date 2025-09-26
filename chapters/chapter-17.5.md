@@ -1,7 +1,7 @@
-### **Chapter 16.5: Conducting the Asynchronous Orchestra**
+### **Chapter 17.5: Conducting the Asynchronous Orchestra**
 #### Building Connection Across Time and Space
 
-The principles of The Conductor Method™ are universal because the hardware of the human brain is universal. However, the environment in which we conduct is changing. For a growing number of us, the "performance space" is not a conference room, but a collection of text documents, chat channels, and email threads.
+The principles of The Conductor Method are universal because the hardware of the human brain is universal. However, the environment in which we conduct is changing. For a growing number of us, the "performance space" is not a conference room, but a collection of text documents, chat channels, and email threads.
 
 Conducting a remote or asynchronous orchestra presents a unique and profound set of challenges. The subtle, high-bandwidth data of non-verbal cues—the head nod, the shared smile, the shift in posture—is gone. This low-data environment is a breeding ground for ambiguity, which, as we know, is a massive threat to the brain's sense of **Certainty**. Trust degrades faster, misunderstandings multiply, and the risk of feeling disconnected is constant.
 
@@ -12,7 +12,7 @@ To succeed in this environment, a conductor must become obsessively intentional 
 Our brains evolved for high-context, face-to-face interaction. When we shift to a low-context medium like Slack or email, two things happen:
 
 1.  **The "Negative Interpretation Bias" Kicks In:** Without the data from tone of voice and body language, the brain's threat-detection system (the amygdala) tends to fill in the gaps with negative assumptions. A short, efficient message like "I need that report now" can be interpreted as angry or demanding, even if the sender's intent was neutral.
-2.  **Cognitive Load Skyrockets:** Constant notifications and context-switching between different chat channels and documents create a state of continuous partial attention. This depletes our limited working memory and makes deep, focused work nearly impossible.
+2.  **Cognitive Load Skyrockets:** Constant notifications and context-switching between different chat channels and documents create a state of continuous partial attention. This depletes our limited working memory and makes deep, focused work nearly possible.
 
 **The Practice: Protocols for Asynchronous Sanity**
 

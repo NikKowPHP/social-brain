@@ -4,7 +4,7 @@
 
 **Introduction:** Your Brain's Operator's Manual
 
-**The Conductor's Method™ Cheat Sheet**
+**The Conductor's Method Cheat Sheet**
 
 ---
 

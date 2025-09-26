@@ -27,3 +27,9 @@ The field of neuroscience is in constant, rapid flux. Many of the concepts that 
 Therefore, you should treat the scientific models in this book as subway maps, not as perfect, to-scale representations of the city. They are simplified, practical tools designed for navigation. They are incredibly useful for making sense of your experience and for building better habits, but they are not the territory itself.
 
 I have framed these protocols as "scientifically-informed" and "practically effective," not as "scientifically proven to be true." Their ultimate test is not whether the model is a perfect depiction of brain function, but whether the tool works in your life. This approach shifts our foundation from a brittle certainty in today's science to a resilient pragmatism that can adapt to the discoveries of tomorrow.
+
+---
+
+#### **A Note on the 'TM'**
+
+You will see a trademark symbol on the key terms in this book's title and introduction. I want to be transparent about why. It is not to claim ownership over the fundamental human truths described here—those belong to all of us. It is a tool of stewardship, intended to protect the integrity of this specific system of practice from being diluted, misrepresented, or misused in ways that would harm the community it seeks to serve. It is a marker of a consistent method, not a paywall for connection.
