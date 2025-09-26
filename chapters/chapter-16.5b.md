@@ -1,4 +1,4 @@
-### **Chapter 15.5b: The Repair Protocol**
+### **Chapter 16.5b: The Repair Protocol**
 #### The Neuroscience of a Real Apology
 
 Every conductor, no matter how skilled, will eventually hit a wrong note. You will lose your temper, send a thoughtless email, or drop the ball on a commitment. You will cause a social pain event. In these moments, your ability to repair the damage is more important than your ability to have prevented it in the first place.
@@ -10,6 +10,12 @@ A real apology is not about you. It is a focused, intentional act designed to re
 **The Practice: The "Four R's" of Repair**
 
 An effective apology is a protocol with four distinct steps. Missing any one of them will cause the entire script to fail.
+
+> ### **Profile Alert: Apologizing**
+>
+> *   **Architect Alert:** Your challenge is the "Regret" step. You may be quick to take Responsibility ("That was my mistake") but struggle to connect with the emotional impact on the other person. Practice focusing on their experience, not just the logical error.
+> *   **Connector Power-Up:** You may be tempted to over-apologize or take responsibility for things that aren't yours. Your work is to deliver a clean, complete apology for your part without taking on blame for the entire situation.
+> *   **Sentinel Shield-Training:** Apologizing can feel like admitting a catastrophic failure or making yourself vulnerable to attack. For you, the most important step is to see that a real apology is an act of strength and control, not weakness.
 
 1.  **Recognize:** Demonstrate that you understand the specific harm you caused, from their perspective. This shows you have listened and engaged your empathy. Vague apologies feel dismissive.
     *   *Bad:* "I'm sorry about what happened at the meeting."

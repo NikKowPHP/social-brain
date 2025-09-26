@@ -1,4 +1,4 @@
-### **Chapter 19: When the Conductor is Exhausted**
+### **Chapter 22: When the Conductor is Exhausted**
 #### The Neuroscience of Resilience and Self-Compassion
 
 The role of the Conductor, as we have described it, is incredibly demanding. It requires constant self-regulation, empathy, strategic analysis, and emotional labor. We have set a very high standard. But what happens when the Conductor is tired, sick, or emotionally depleted? What happens when you just don't have the energy to run a SCARF analysis or execute a perfect Empathy Loop?

@@ -1,4 +1,4 @@
-### **Chapter 14: The Adaptive Brain**
+### **Chapter 15: The Adaptive Brain**
 #### Navigating Group and Cultural Dynamics
 
 The human brain's social operating system has universal hardware. Everyone has an amygdala. Everyone's brain tracks the five SCARF domains. But culture—whether in a country or a company—is the software running on top. And trying to run your software on their hardware without a compatibility check is a recipe for a system crash. My first project with our team in Tokyo was that crash.

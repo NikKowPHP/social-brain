@@ -1,4 +1,4 @@
-### **Chapter 20: The Conductor's Legacy**
+### **Chapter 23: The Conductor's Legacy**
 #### Building a Psychologically Safe Culture
 
 Maria's investigation has, until now, focused on her skills as an individual conductor. She has learned to manage her own orchestra and to interface skillfully with others, one-on-one. But she realized the ultimate expression of her work was not just to navigate the existing environment, but to *create* a new one for her team.

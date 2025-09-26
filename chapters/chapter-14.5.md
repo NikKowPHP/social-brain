@@ -1,4 +1,4 @@
-### **Chapter 13.5: Conducting a Hostile Orchestra (Hard Mode)**
+### **Chapter 14.5: Conducting a Hostile Orchestra (Hard Mode)**
 #### **Navigating Manipulation and Bad-Faith Arguments**
 
 The tools we have developed so far operate on a fundamental assumption: that both parties are engaging in good faith. We assume that even in a difficult conversation, the shared goal is to find a productive outcome.

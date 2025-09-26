@@ -1,4 +1,4 @@
-### **Chapter 16: Conducting the Meeting**
+### **Chapter 17: Conducting the Meeting**
 #### The Conductor's Stage
 
 For years, I believed that if I mastered one-on-one communication, the rest would take care of itself. Then I had to lead a high-stakes project meeting, and I discovered a terrifying truth: a group is not just a collection of individuals. It is a complex, emergent system with its own neurochemistry. One person's amygdala hijack can infect the entire room in seconds, turning a productive planning session into a chaotic mess.

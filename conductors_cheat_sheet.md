@@ -1,6 +1,6 @@
 [AUTHOR'S NOTE: This cheat sheet should be designed as a full-page, visually engaging infographic for easy reference.]
 
-### **The Conductor Method™ Cheat Sheet**
+### **The Conductor Method Cheat Sheet**
 
 **The 3 Brains (Your Orchestra Sections)**
 *   **[ICON: Blueprint] Architect:** Logic, data, structure. (Can seem cold).

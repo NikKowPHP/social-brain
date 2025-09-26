@@ -1,4 +1,4 @@
-### **Chapter 15.5a: The Boundary Protocol**
+### **Chapter 16.5a: The Boundary Protocol**
 #### The Neuroscience of Saying "No"
 
 For many of us, especially those with a strong Connector profile, the word "no" can feel like a conversational hand grenade. We avoid it at all costs, terrified of the relational shrapnel. We say "yes" to projects we don't have time for, to social events we don't want to attend, and to requests that drain our energy. The result is burnout, resentment, and the quiet erosion of our own priorities.
@@ -10,6 +10,12 @@ The key to saying "no" effectively is to find a way to honor your own **Autonomy
 **The Practice: The "Validate, State, Offer" Protocol**
 
 A bad "no" is a blunt, flat rejection that triggers a massive threat response ("No, I can't do that."). A masterful "no" is a three-part protocol that protects the relationship while holding the boundary.
+
+> ### **Profile Alert: Saying "No"**
+>
+> *   **Architect Alert:** Your challenge isn't saying "no," it's saying it in a way that doesn't create a relational fire. You may be too blunt. Your practice is the "Validate" step, remembering to acknowledge the person before declining the request.
+> *   **Connector Power-Up:** This is your core training. Saying "no" feels like a betrayal of your core value. This protocol is your script to say "no" to the request while saying "yes" to the relationship. Practice it on small things first.
+> *   **Sentinel Shield-Training:** You might say "no" too quickly out of a sense of perceived threat or overwhelm. Your work is to use the Conductor's Breath to pause, assess if the request is a real threat, and then use the full protocol to decline gracefully if needed.
 
 1.  **Validate the Request (Reward Status & Relatedness):** Start by acknowledging the value and legitimacy of their request. This shows you are listening and that you respect them. You are signaling, "I see you, and your request is reasonable."
     *   *"Thank you so much for thinking of me for this."*

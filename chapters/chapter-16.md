@@ -1,4 +1,4 @@
-### **Chapter 15: The Learning Brain**
+### **Chapter 16: The Learning Brain**
 #### The Neuroscience of Feedback and Lasting Change
 
 For a programmer, a bug report is a gift. Early in my career, I assumed feedback worked the same way with people. I would deliver a logical, data-rich "bug report" on someone's performance, expecting them to be grateful. I was consistently shocked when their system crashed.
