@@ -80,20 +80,25 @@
 **Chapter 17:** The Integrated Brain
 *Conducting the Orchestra of Communication*
 
-**Chapter 18:** When the Conductor is Exhausted
+**Chapter 18:** Training the Orchestra
+*From Conductor to Composer*
+
+**Chapter 19:** When the Conductor is Exhausted
 *The Neuroscience of Resilience and Self-Compassion*
 
-**Chapter 19:** The Conductor's Legacy
+**Chapter 20:** The Conductor's Legacy
 *Building a Psychologically Safe Culture*
 
-**Conclusion:** Rewiring for a Connected Life
+**Conclusion:** Your Investigation Begins
 
 **Join the Orchestra**
 
 ---
 
-**Appendix:** For the Curious Brain
+**Appendix A:** For the Curious Brain
 *The Science Behind the Strategies*
+
+**Appendix B:** Adapting the Protocols for Different Orchestras
 
 **Glossary**
 
