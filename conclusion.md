@@ -13,9 +13,9 @@ The highest form of mastery is not to perfectly execute a protocol in every situ
 In Chapter 1, we identified the "Adaptive Profile" as the ideal—a conductor who can call upon the Architect's logic, the Connector's empathy, and the Sentinel's insight with intention. The entire journey of this book is the roadmap to developing that profile. It is not a separate step, but the integrated result of practice.
 
 Developing your adaptive ability means consciously practicing the tools that feel least natural.
-*   If you are an **Architect**, your path to becoming adaptive is through the consistent practice of the **Empathy Loop (Chapter 7)** and **Calibrated Vulnerability (Chapter 10)**.
-*   If you are a **Connector**, your growth lies in mastering the **Boundary Protocol (Chapter 16.5a)** and the **Clarity Protocol (Chapter 12)**, learning to be clear even when it creates discomfort.
-*   If you are a **Sentinel**, your work is centered on the **Conductor's Breath (Chapter 6)** and the **"Intake" Method for receiving feedback (Chapter 16)**, training your system to see data instead of just threats.
+*   If you are an **Architect**, your path to becoming adaptive is through the consistent practice of the **Empathy Loop (Chapter 7)** and **Calibrated Vulnerability (Chapter 8)**.
+*   If you are a **Connector**, your growth lies in mastering the **Boundary Protocol (Chapter 16)** and the **Clarity Protocol (Chapter 10)**, learning to be clear even when it creates discomfort.
+*   If you are a **Sentinel**, your work is centered on the **Conductor's Breath (Chapter 6)** and the **"Intake" Method for receiving feedback (Chapter 15)**, training your system to see data instead of just threats.
 
 Adaptability is not about losing your native strengths; it is about expanding your range, so you can choose the right instrument for the music the moment requires.
 

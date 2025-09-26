@@ -30,43 +30,37 @@
 **Chapter 6:** The Regulated Brain
 *The Neuroscience of Emotional Self-Regulation*
 
-**Chapter 7:** The Empathy Switch
-*Mirror Neurons, "Mentalizing," and the Art of Understanding*
+**Chapter 7:** The Connection Protocol
+*The Neuroscience of Presence, Empathy, and Shared Experience*
 
-**Chapter 8:** Conducting the Quiet Music
-*The Neuroscience of Presence and Shared Experience*
-
-**Chapter 9:** The Attentive Brain
-*The Neuroscience of Deep Listening and Non-Verbal Cues*
-
-**Chapter 10:** The Chemistry of Trust
+**Chapter 8:** The Chemistry of Trust
 *Oxytocin and Rapport*
 
-**Chapter 11:** Breaking the Silence
+**Chapter 9:** Breaking the Silence
 *The Neuroscience of the First Move*
 
-**Chapter 12:** The Respectful Brain
+**Chapter 10:** The Respectful Brain
 *Defeating Cognitive Load*
 
-**Chapter 13:** Making It Stick
+**Chapter 11:** Making It Stick
 *The Neuroscience of Storytelling*
 
-**Chapter 14:** Taming the Threat
+**Chapter 12:** Taming the Threat
 *Navigating Difficult Conversations*
 
-**Chapter 14.5:** Conducting a Hostile Orchestra (Hard Mode)
+**Chapter 13:** Conducting a Hostile Orchestra (Hard Mode)
 *Navigating Manipulation and Bad-Faith Arguments*
 
-**Chapter 15:** The Adaptive Brain
+**Chapter 14:** The Adaptive Brain
 *Navigating Group and Cultural Dynamics*
 
-**Chapter 16:** The Learning Brain
+**Chapter 15:** The Learning Brain
 *The Neuroscience of Feedback and Lasting Change*
 
-**Chapter 16.5a:** The Boundary Protocol
+**Chapter 16:** The Boundary Protocol
 *The Neuroscience of Saying "No"*
 
-**Chapter 16.5b:** The Repair Protocol
+**Chapter 17:** The Repair Protocol
 *The Neuroscience of a Real Apology*
 
 **Toolkit Summary & Cheat Sheet**
@@ -75,29 +69,26 @@
 
 ### **Part III: Integration and Lasting Change**
 
-**Chapter 17:** Conducting the Meeting
+**Chapter 18:** Conducting the Meeting
 *The Conductor's Stage*
 
-**Chapter 17.5:** Conducting the Asynchronous Orchestra
+**Chapter 19:** Conducting the Asynchronous Orchestra
 *Building Connection Across Time and Space*
 
-**Chapter 18:** The Compound Interest of Connection
+**Chapter 20:** The Compound Interest of Connection
 *Mastering the Micro-Moments*
 
-**Chapter 19:** When Your Family Rejects the 'New You'
+**Chapter 21:** When Your Family Rejects the 'New You'
 *Navigating Relationship Homeostasis*
 
-**Chapter 20:** The Integrated Conductor
+**Chapter 22:** The Integrated Conductor
 *Knowing When to Put the Baton Down*
 
-**Chapter 21:** The Self-Tuning Orchestra
-*Escaping the Conductor's Burden*
-
-**Chapter 22:** When the Conductor is Exhausted
+**Chapter 23:** When the Conductor is Exhausted
 *The Neuroscience of Resilience and Self-Compassion*
 
-**Chapter 23:** The Conductor's Legacy
-*Building a Psychologically Safe Culture*
+**Chapter 24:** The Conductor's Legacy
+*Building a Self-Tuning, Psychologically Safe Orchestra*
 
 **Conclusion:** The Conductor's Final Paradox
 

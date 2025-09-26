@@ -28,23 +28,23 @@ This is the toolkit you've built.
 *   **[ICON: Reflecting Arrows] The Empathy Loop (Chapter 7):**
     1.  **The Switch:** Ask an open "What" or "How" question (e.g., "What's the hardest part of this for you?").
     2.  **The Playback:** Summarize the underlying emotion you heard (e.g., "So it sounds like you felt invisible.").
-*   **[ICON: Handshake] The Trust Protocol (Chapter 10):**
+*   **[ICON: Handshake] The Trust Protocol (Chapter 8):**
     *   Execute **Calibrated Vulnerability**: Share a small, professional vulnerability and observe the response.
-*   **[ICON: Radio Signal] The Safety Signal Protocol (Chapter 11):**
+*   **[ICON: Radio Signal] The Safety Signal Protocol (Chapter 9):**
     1. Regulate First (Breathe). 2. Find Shared Context. 3. Offer Low-Stakes Observation.
-*   **[ICON: Bullet Points] The Clarity Protocol (Chapter 12):**
+*   **[ICON: Bullet Points] The Clarity Protocol (Chapter 10):**
     1.  **One Goal Per Message.**
     2.  **Headline First** (state your request immediately).
     3.  **Chunk the Details** (use bullets, bolding, short paragraphs).
-*   **[ICON: Tension Graph] The Tension & Resolution Arc (Chapter 13):**
+*   **[ICON: Tension Graph] The Tension & Resolution Arc (Chapter 11):**
     *   **And...** (The stable situation).
     *   **But...** (The problem/tension).
     *   **Therefore...** (Your idea as the solution).
-*   **[ICON: Gears] The Feedback Protocols (Chapter 16):**
+*   **[ICON: Gears] The Feedback Protocols (Chapter 15):**
     *   **Giving (Debug):** 1. Get Permission. 2. Share Data, Not Drama. 3. Co-Create Solution.
     *   **Receiving (Intake):** 1. Regulate (Breathe). 2. Resist Defending. 3. Ask for Data ("Can you give an example?").
 
-**Emergency Protocol: The Hijack (Chapter 14)**
+**Emergency Protocol: The Hijack (Chapter 12)**
 *When a conversation catches fire:*
 1.  **Regulate Yourself First** (Conductor's Breath).
 2.  **Validate the Feeling, Not the Content** (Use The Playback).
