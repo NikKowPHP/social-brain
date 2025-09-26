@@ -1,4 +1,4 @@
-### **Chapter 10.5: Conducting a Hostile Orchestra (Hard Mode)**
+### **Chapter 11.5: Conducting a Hostile Orchestra (Hard Mode)**
 #### **Navigating Manipulation and Bad-Faith Arguments**
 
 The tools we have developed so far operate on a fundamental assumption: that both parties are engaging in good faith. We assume that even in a difficult conversation, the shared goal is to find a productive outcome.
@@ -39,10 +39,10 @@ This is the most important step. You must consciously abandon the goal of persua
 
 **2. Go "Gray Rock."**
 A manipulator feeds on your emotional reactions. The "Gray Rock Method" is the practice of becoming as boring and unreactive as a gray rock.
-*   **Regulate Your System (Chapter 3):** Use the **Conductor's Breath** continuously and silently.
+*   **Regulate Your System (Chapter 4):** Use the **Conductor's Breath** continuously and silently.
 *   **Control Your Non-Verbals:** Maintain a neutral facial expression and calm posture. Do not show anger, frustration, or excitement.
 
-**3. Use Clarity as a Scalpel, Not a Bridge (Chapter 8).**
+**3. Use Clarity as a Scalpel, Not a Bridge (Chapter 9).**
 Your goal is not to be understood, but to be undeniable.
 *   **State Facts, Not Interpretations:**
     *   *Don't say:* "That's not fair!"

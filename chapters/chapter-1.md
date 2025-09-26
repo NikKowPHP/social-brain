@@ -85,9 +85,9 @@ Remember, your dominant style is your "peacetime" preference. Under stress, your
 
 This diagnostic has given you your map. As you continue your journey, use it to pay special attention to the chapters that will help you grow the most.
 
-*   **For the Architects (Mostly A's):** Your core work is in Chapters **4 (Empathy)**, **5 (Listening)**, and **9 (Storytelling)**. These will help you connect your powerful logic to the emotional core of your listeners.
-*   **For the Connectors (Mostly B's):** Your path to mastery lies in Chapters **3 (Self-Regulation)**, **10 (Difficult Conversations)**, and **12 (Feedback)**. These will give you the tools to remain empathetic while holding your ground and speaking with clarity and strength.
-*   **For the Sentinels (Mostly C's):** Your foundational toolkit is in Chapters **3 (Self-Regulation)**, **6 (Building Trust)**, and **10 (Taming the Threat)**. These chapters are designed to help you calm your inner alarm system so you can lead with confidence, not fear.
+*   **For the Architects (Mostly A's):** Your core work is in Chapters **5 (Empathy)**, **6 (Listening)**, and **10 (Storytelling)**. These will help you connect your powerful logic to the emotional core of your listeners.
+*   **For the Connectors (Mostly B's):** Your path to mastery lies in Chapters **4 (Self-Regulation)**, **11 (Difficult Conversations)**, and **13 (Feedback)**. These will give you the tools to remain empathetic while holding your ground and speaking with clarity and strength.
+*   **For the Sentinels (Mostly C's):** Your foundational toolkit is in Chapters **4 (Self-Regulation)**, **7 (Building Trust)**, and **11 (Taming the Threat)**. These chapters are designed to help you calm your inner alarm system so you can lead with confidence, not fear.
 
 You now have your starting point. You know your orchestra.
 

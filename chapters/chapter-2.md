@@ -41,7 +41,7 @@ Why is the system designed this way? From an evolutionary perspective, it's a br
 For a programmer, debugging starts with observation and logging. Our first practice is exactly that. We are going to become "Social Pain Detectives"—observing the system in its natural environment to understand its trigger points.
 
 1.  **Log Your Own Events:** The next time you feel that hot flush of defensiveness, that knot of anxiety, or the sting of a curt reply—pause. Instead of getting lost in the emotion, just log the event. Think, *"Log entry: Social threat alarm activated."* Simply noticing it is the first step to controlling it.
-2.  **Analyze the Triggers in Others:** The next time you see someone get defensive, shut down, or become overly aggressive, ask yourself the magic question: ***"What social threat might they be perceiving right now?"*** This is where we get our first glimpse of the **SCARF model**, a powerful framework we'll return to in detail in Chapter 10. For now, simply ask if the threat is related to their sense of:
+2.  **Analyze the Triggers in Others:** The next time you see someone get defensive, shut down, or become overly aggressive, ask yourself the magic question: ***"What social threat might they be perceiving right now?"*** This is where we get our first glimpse of the **SCARF model**, a powerful framework we'll return to in detail in Chapter 3. For now, simply ask if the threat is related to their sense of:
     *   **S**tatus (importance)
     *   **C**ertainty (predictability)
     *   **A**utonomy (control)
@@ -53,7 +53,7 @@ By reframing "difficult people" as "people perceiving a threat," you move from a
 ---
 > ### **Investigator's Log: The Boardroom Bug Report**
 >
-> When I first read Lieberman and Eisenberger's research, it was like finding the bug report for my own life. The hot flush I felt in that boardroom wasn't a 'feeling'—it was a neurological event. The marketing director hadn't attacked my data; he had inadvertently triggered a physical pain response by threatening my status in the tribe. This discovery was the key: to debug human interaction, I first had to understand the hardware.
+> When I first read Lieberman and Eisenberger's research, it was like finding the bug report for my own life. The hot flush I felt in that boardroom wasn't a 'feeling'—it was a neurological event. The marketing director hadn't attacked my data; he had inadvertently triggered a physical pain response by threatening my status in the tribe. This discovery was the key: to debug human interaction, I first I had to understand the hardware.
 
 ---
 
@@ -88,3 +88,4 @@ Time to practice being a Social Pain Detective. Over the next few days, your mis
 
 1.  **The Event:** Briefly describe a moment when you saw someone (or yourself) have a defensive or emotional reaction. (e.g., "My partner got angry when I reminded them to take out the trash.")
 2.  **The Detective Work:** What social threat might they have been perceiving? Analyze it using the SCARF model. (e.g., "It wasn't about the trash. It was a threat to their **Autonomy**—they felt I was telling them what to do.")
+      

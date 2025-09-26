@@ -22,6 +22,10 @@ Your brain is a magnificent orchestra. But in high-stakes moments, it often feel
 
 This book is the baton.
 
+**Redefining the Conductor**
+
+Let's be clear about our central metaphor. The old model of a conductor is an authoritarian maestro, demanding perfection. That is not our goal. A modern conductor, a Conductor of connection, does not primarily direct; they listen. Their first job is to create an environment of such profound safety and trust that the orchestra's best music can emerge on its own. They lead not from the podium, but from the center of the music. This book will teach you how to conduct from any chair in the orchestra—whether you are the CEO or the intern.
+
 Together, we will learn to lead each section of your brain's orchestra. You will learn to calm the jumpy percussion of your threat response, tune the elegant strings of your empathy, and bring all the instruments together to create the beautiful music of genuine human connection.
 
 Our journey is organized into three parts, mapping to your own transformation:
@@ -36,3 +40,4 @@ To make this journey tangible, we will follow the transformations of a few key i
 This is a journey of practice, not a quest for perfection. You will not become a flawless conductor overnight. The goal is to get 1% better with every interaction, to learn from your mistakes, and to gradually re-wire your responses. This book is not a rulebook; it is a rehearsal space.
 
 The journey to becoming the conductor starts now. Turn the page, and let's diagnose your orchestra.
+      
