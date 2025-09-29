@@ -9,4 +9,5 @@
 - [x] Add a "Threat vs. Malice" diagnostic tool and frame the "Shield Protocol" as a last resort in Chapter 13 to provide ethical and practical safeguards.
 - [x] Address "Protocol Overload" by explicitly tiering the toolkit, enhancing check-in chapters, and adding a diagnostic flowchart.
 - [x] Make the protagonist's journey more realistic by showcasing messier failures, deeper internal struggle, and allowing other characters to succeed first.
+- [x] Vary the predictable chapter structure by reordering elements and changing chapter openings.
       
