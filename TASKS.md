@@ -14,4 +14,5 @@
 - [x] Reduce cognitive overwhelm by introducing the "Core Trio" early, reinforcing toolkit tiers within chapters, and showing how protocols "stack."
 - [x] Move the troubleshooting "Q&A" chapter earlier to the end of Part II to build reader resilience.
 - [x] Reframe the protagonist's primary goal in the introduction to make the final "culture win" a more satisfying and complete victory.
+- [x] Provide an immediate "quick start" tool (the Conductor's Breath) in the introduction to give readers instant value.
       
