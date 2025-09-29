@@ -23,38 +23,50 @@ This is the toolkit you've built.
 *   **Relatedness:** Friend vs. Foe, belonging, in-group safety.
 *   **Fairness:** Equity, just exchanges, transparency.
 
-**Core Protocols & Tools**
+---
+### **The Tiered Toolkit**
 
-#### **First Chair (The Core Engine)**
-*Mastering these three protocols is enough to change 80% of your interactions.*
+#### **Tier 1: The Core Trio (Your Daily Practice)**
+*Mastering these three foundational skills is enough to change 80% of your interactions. This is the engine.*
 *   **[ICON: Lungs] The Conductor's Breath (Chapter 6):** Double inhale through the nose, long exhale through the mouth. (Manual override for an amygdala hijack).
 *   **[ICON: Reflecting Arrows] The Empathy Loop (Chapter 7):**
-    1.  **The Switch:** Ask an open "What" or "How" question (e.g., "What's the hardest part of this for you?").
-    2.  **The Playback:** Summarize the underlying emotion you heard (e.g., "So it sounds like you felt invisible.").
+    1.  **The Switch:** Ask an open "What" or "How" question.
+    2.  **The Playback:** Summarize the underlying emotion you heard.
 *   **[ICON: Handshake] The Trust Protocol (Chapter 8):**
     *   Execute **Calibrated Vulnerability**: Share a small, professional vulnerability and observe the response.
 
-#### **The Ensemble (Situational Tools)**
-*Use these protocols for specific challenges and contexts.*
-*   **[ICON: Radio Signal] The Safety Signal Protocol (Chapter 9):**
-    1. Regulate First (Breathe). 2. Find Shared Context. 3. Offer Low-Stakes Observation.
+#### **Tier 2: The Fourth Foundational Tool**
+*Adding this protocol makes your communication effective and respectful in every context.*
 *   **[ICON: Bullet Points] The Clarity Protocol (Chapter 10):**
     1.  **One Goal Per Message.**
     2.  **Headline First** (state your request immediately).
     3.  **Chunk the Details** (use bullets, bolding, short paragraphs).
-*   **[ICON: Tension Graph] The Tension & Resolution Arc (Chapter 11):**
-    *   **And...** (The stable situation).
-    *   **But...** (The problem/tension).
-    *   **Therefore...** (Your idea as the solution).
-*   **[ICON: Gears] The Feedback Protocols (Chapter 15):**
-    *   **Giving (Debug):** 1. Get Permission. 2. Share Data, Not Drama. 3. Co-Create Solution.
-    *   **Receiving (Intake):** 1. Regulate (Breathe). 2. Resist Defending. 3. Ask for Data ("Can you give an example?").
-*   **[ICON: Fence] The Boundary Protocol (Chapter 16):** 1. Validate Request. 2. State Your Reality. 3. Offer Alternative. (Saying "no" gracefully).
-*   **[ICON: Stitches] The Repair Protocol (Chapter 17):** 1. Recognize. 2. Regret. 3. Responsibility. 4. Resolve. (The four steps of a real apology).
 
-**Emergency Protocol: The Hijack (Chapter 12)**
-*When a conversation catches fire:*
-1.  **Regulate Yourself First** (The Conductor's Breath).
-2.  **Validate the Feeling, Not the Content** (Use The Playback).
-3.  **Restore Autonomy** (Give them a choice, e.g., "Should we pause for five minutes?").
+#### **Tier 3: The Specialist's Kit (For High-Stakes Moments)**
+*Use these protocols for specific, challenging situations.*
+*   **[ICON: Radio Signal] The Safety Signal Protocol (Chapter 9):** For breaking the silence with new people.
+*   **[ICON: Tension Graph] The Tension & Resolution Arc (Chapter 11):** For making your ideas persuasive and memorable.
+*   **[ICON: Gears] The Feedback Protocols (Chapter 15):** For giving and receiving "bug reports" safely.
+*   **[ICON: Fence] The Boundary Protocol (Chapter 16):** For saying "no" gracefully while preserving the relationship.
+*   **[ICON: Stitches] The Repair Protocol (Chapter 17):** For delivering a real apology and rebuilding trust after a mistake.
+*   **[ICON: Shield] The Shield Protocol (Chapter 13):** Your defensive tool for navigating bad-faith arguments.
+
+---
+### **A Quick Diagnostic Guide: When... Then...**
+*Not sure which tool to use? Start here.*
+
+*   **When you feel yourself getting angry or anxious...**
+    *   **Then...** Use **The Conductor's Breath** to regulate your system. (Ch 6)
+*   **When someone is venting or seems upset...**
+    *   **Then...** Use **The Empathy Loop** to make them feel heard. Do not solve. (Ch 7)
+*   **When you need to send an email or make a request...**
+    *   **Then...** Use **The Clarity Protocol** to respect their cognitive load. (Ch 10)
+*   **When you have made a mistake and hurt someone...**
+    *   **Then...** Use **The Repair Protocol** to apologize effectively. (Ch 17)
+*   **When you need to say "no" to a request...**
+    *   **Then...** Use **The Boundary Protocol** to protect your time gracefully. (Ch 16)
+*   **When a conversation is getting heated and unproductive...**
+    *   **Then...** Use the **Hijack Emergency Protocol** (Validate emotion, offer autonomy). (Ch 12)
+*   **When you are trying to persuade a skeptical audience...**
+    *   **Then...** Use the **Tension & Resolution Arc** to frame your data as a story. (Ch 11)
       
