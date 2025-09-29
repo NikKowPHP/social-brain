@@ -11,7 +11,7 @@ The key to saying "no" effectively is to find a way to honor your own **Autonomy
 
 As the Phoenix Project gained momentum, its success attracted attention. A senior leader from another department, impressed with the team's work, approached Maria with a "small request." He wanted her team to build a custom dashboard for his division, using the new Phoenix data platform. It was a good idea, but it was also a significant, unplanned project that would derail the core timeline.
 
-The old Maria, eager to please and avoid conflict, would have said "yes" immediately, creating massive stress for her team. The new Maria knew she had to protect her orchestra. She used the Boundary Protocol.
+The old Maria, operating purely from her **Architect** brain, would have struggled to navigate this, either agreeing to avoid conflict or delivering a blunt "no" that damaged the relationship. The new Maria knew she had to protect her orchestra. She used the Boundary Protocol.
 
 "Thank you so much for seeing the potential here," she started (Validate). "That dashboard sounds like a fantastic tool, and it's exactly the kind of value we hoped Phoenix would unlock."
 
@@ -68,3 +68,4 @@ Your mission is to find one, low-stakes opportunity this week to say "no" using 
 1.  **The Request:** What were you asked to do?
 2.  **Your Script:** Write down the exact "Validate, State, Offer" sentence you used.
 3.  **The Outcome:** How did the other person react? How did it feel for you, compared to how you normally feel when declining something?
+      

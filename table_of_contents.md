@@ -36,7 +36,9 @@
 **Chapter 8:** The Chemistry of Trust
 *Oxytocin and Rapport*
 
-**Chapter 9:** Breaking the Silence
+**Chapter 8.5:** First Chair - A Conductor's Check-in
+
+**Chapter 9:** Interlude - Breaking the Silence
 *The Neuroscience of the First Move*
 
 **Chapter 10:** The Respectful Brain
@@ -65,20 +67,22 @@
 
 **Toolkit Summary & Cheat Sheet**
 
+**Chapter 17.5:** You Have Your Baton
+
 ---
 
 ### **Part III: Integration and Lasting Change**
 
 **Chapter 18:** Conducting the Meeting
-*The Conductor's Stage*
+*A Deep Dive Case Study*
 
 **Chapter 19:** Conducting the Asynchronous Orchestra
 *Building Connection Across Time and Space*
 
-**Chapter 20:** The Compound Interest of Connection
+**Chapter 20:** Interlude - The Compound Interest of Connection
 *Mastering the Micro-Moments*
 
-**Chapter 21:** When Your Family Rejects the 'New You'
+**Chapter 21:** A Q&A With the Conductor
 *Navigating Relationship Homeostasis*
 
 **Chapter 22:** The Integrated Conductor

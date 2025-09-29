@@ -24,12 +24,18 @@ This is the toolkit you've built.
 *   **Fairness:** Equity, just exchanges, transparency.
 
 **Core Protocols & Tools**
+
+#### **First Chair (The Core Engine)**
+*Mastering these three protocols is enough to change 80% of your interactions.*
 *   **[ICON: Lungs] The Conductor's Breath (Chapter 6):** Double inhale through the nose, long exhale through the mouth. (Manual override for an amygdala hijack).
 *   **[ICON: Reflecting Arrows] The Empathy Loop (Chapter 7):**
     1.  **The Switch:** Ask an open "What" or "How" question (e.g., "What's the hardest part of this for you?").
     2.  **The Playback:** Summarize the underlying emotion you heard (e.g., "So it sounds like you felt invisible.").
 *   **[ICON: Handshake] The Trust Protocol (Chapter 8):**
     *   Execute **Calibrated Vulnerability**: Share a small, professional vulnerability and observe the response.
+
+#### **The Ensemble (Situational Tools)**
+*Use these protocols for specific challenges and contexts.*
 *   **[ICON: Radio Signal] The Safety Signal Protocol (Chapter 9):**
     1. Regulate First (Breathe). 2. Find Shared Context. 3. Offer Low-Stakes Observation.
 *   **[ICON: Bullet Points] The Clarity Protocol (Chapter 10):**
@@ -51,3 +57,4 @@ This is the toolkit you've built.
 1.  **Regulate Yourself First** (The Conductor's Breath).
 2.  **Validate the Feeling, Not the Content** (Use The Playback).
 3.  **Restore Autonomy** (Give them a choice, e.g., "Should we pause for five minutes?").
+      

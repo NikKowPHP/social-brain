@@ -1,7 +1,6 @@
-### **Chapter 9: Breaking the Silence**
-#### **The Neuroscience of the First Move**
+### **Chapter 9: Interlude - Breaking the Silence**
 
-***Investigator's Note:*** *This chapter is a practical interlude. Think of it as a short, punchy command-line utility. The previous chapters have given you the foundational code for self-regulation and connection. This chapter gives you a simple script to execute when you need to run that code in a new environment—from a networking event to a family gathering.*
+*(Author's Note: The last three chapters gave you the core engine of your toolkit: Breath, Empathy, and Trust. Before we build on that foundation, let's take a brief interlude. This chapter is a practical field guide for a single, common challenge: starting a conversation with someone new. Think of it as a simple script you can run using the tools you already have.)*
 
 #### **Case Study: The Connector's Courage**
 
@@ -92,3 +91,4 @@ This week, your mission is to break the silence once using the "Safety Signal" P
 1.  **The Situation:** Where were you and who did you approach?
 2.  **The Protocol:** Write down the exact "Shared Context" and "Low-Stakes Observation" you used.
 3.  **The Result:** What was the outcome? The goal isn't a long conversation, just a brief, safe connection.
+      

@@ -20,13 +20,13 @@ The brain's need to navigate these differences is deeply rooted in the neuroscie
 
 #### **Case Study: The Vendor's Software**
 
-Maria's team hit this wall head-on. They had to collaborate with an external vendor for the Phoenix Project whose team culture was brutally aggressive. In meetings, the vendor's engineers would interrupt constantly and publicly criticize ideas. This was a massive Status threat that caused Maria's team, especially Leo, to shut down completely.
+Maria's team hit this wall head-on. They had to collaborate with an external vendor for the Phoenix Project whose team culture was brutally aggressive. In meetings, the vendor's engineers would interrupt constantly and publicly criticize ideas. This was a massive Status threat that caused Maria's team, especially Leo with his conflict-averse **Connector** profile, to shut down completely.
 
 After one particularly rough meeting, Maria regrouped with her team. The old Maria would have been just as frustrated as them. The conductor saw a systems problem. "We can't change their software," she explained, "but we can learn to interface with it." She coached them through the Adaptation Protocol in real-time.
 
 1.  **Observe:** "What did we notice? They interrupt, yes, but what else? They seem to value speed and directness above all else. It's not personal; it's how they show engagement."
 2.  **Calibrate:** "Our hypothesis is that to earn their respect, we need to match their directness. If we wait politely for our turn, they will see it as weakness."
-3.  **Test:** "Mark," she said, turning to her lead Architect, "you're best at this. Next time they interrupt, I want you to interrupt them right back with a sharp, data-backed point. Let's run it as an experiment and see what happens."
+3.  **Test:** "Mark," she said, turning to her lead **Architect**, "you're best at this. Next time they interrupt, I want you to interrupt them right back with a sharp, data-backed point. Let's run it as an experiment and see what happens."
 
 It was a small experiment in a high-stakes environment. In the next meeting, Mark did exactly that. The vendor's lead engineer paused, then laughed. "Okay, point taken," he said. The dynamic of the room shifted. Maria's team was learning to adapt, not by changing who they were, but by learning the local language.
 
@@ -78,3 +78,4 @@ This week, in one meeting with a group you don't know perfectly (a different tea
 1.  **The Group:** Which group did you observe?
 2.  **Observations (Data Collection):** What patterns did you notice? Who spoke the most? How were disagreements handled? How was humor used?
 3.  **Your Hypothesis:** Based on your observations, what is your initial hypothesis about this group's "local software"? (e.g., "Hypothesis: In this group, status is demonstrated by using complex vocabulary.")
+      

@@ -24,7 +24,7 @@ Later, determined to fix her mistake, she tried to use a script she'd learned fo
 **Leo:** "The hardest part was that I felt completely invisible."
 **Maria:** "So, what I'm hearing is that you felt invisible. Is that an accurate summary?"
 
-The effect was even worse. Leo looked disconnected. "Are you reading from a management book, Maria?" Her protocol felt robotic because it was just a script. She was repeating his *lyrics*—his words—but she had missed the *music*—the underlying feeling.
+The effect was even worse. Leo looked disconnected. "Are you reading from a management book, Maria?" Her protocol felt robotic because it was just a script delivered by her **Architect** brain. She was repeating his *lyrics*—his words—but she had missed the *music*—the underlying feeling that his **Connector** brain needed to feel.
 
 Her breakthrough came when she combined the tools. She approached him again, but this time she started by regulating herself and broadcasting presence. She put her phone down, turned her chair to face him fully, and took a breath. Only then did she try to connect verbally, not with a script, but with a genuine attempt to reflect the music.
 
@@ -83,3 +83,4 @@ This week, your challenge is to practice the full Connection Protocol in one con
 1.  **The Situation:** Who did you practice with, and what was the topic?
 2.  **The Non-Verbal:** Which "Signal of Presence" technique did you consciously use (e.g., pointing the tripod, intelligent pause)?
 3.  **The Verbal:** Write down the exact "Playback" sentence you used to reflect the "music." How did they respond?
+      

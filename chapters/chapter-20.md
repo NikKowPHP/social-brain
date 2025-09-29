@@ -1,11 +1,8 @@
-### **Chapter 20: The Compound Interest of Connection**
-#### Mastering the Micro-Moments
+### **Chapter 20: Interlude - The Compound Interest of Connection**
 
-So far, this book has focused on the big moments—the high-stakes meeting, the difficult conversation, the major conflict. This framing can make the toolkit feel like a set of emergency-use-only tools, like a fire extinguisher behind glass.
+*(Author's Note: So far, this book has focused on the big moments—the high-stakes meeting, the difficult conversation, the major conflict. This framing can make the toolkit feel like a set of emergency-use-only tools, like a fire extinguisher behind glass. This chapter is a change of pace. We will zoom in from the dramatic, high-stakes moments to the thousand tiny, seemingly insignificant "micro-moments" of daily life. The fire extinguisher is useless if the house's foundation has already crumbled from neglect.)*
 
-But relationships, whether at work or at home, are not built in these dramatic, high-stakes moments. They are forged in the thousand tiny, seemingly insignificant "micro-moments" of daily life. The fire extinguisher is useless if the house's foundation has already crumbled from neglect.
-
-This chapter is about taking the powerful protocols we've learned and "micro-dosing" them. It's about learning to use 5-second versions of these tools to make the small, consistent deposits that build a deep reservoir of trust and connection over time.
+Relationships, whether at work or at home, are not built in dramatic, high-stakes encounters. They are forged in the thousand tiny "micro-moments" of daily life. This chapter is about taking the powerful protocols we've learned and "micro-dosing" them. It's about learning to use 5-second versions of these tools to make the small, consistent deposits that build a deep reservoir of trust and connection over time.
 
 #### **The Core Metaphor: The Relational Bank Account**
 Think of every relationship as having a bank account.

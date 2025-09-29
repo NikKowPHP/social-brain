@@ -10,7 +10,7 @@ He spent the next two hours in a state of low-grade anxiety, checking his inbox 
 
 *"This needs a lot of work."*
 
-Mark's neck prickled with heat as his stomach knotted. For a moment, his screen seemed to blur. He wasn’t thinking about the project's data anymore. He was thinking, *"She thinks I'm incompetent. I failed."* The detailed feedback he needed was absent; the feeling of rejection was overwhelming. Maria, buried under her own deadlines, thought she was being efficient. She had no idea she had just delivered a neurological blow to her top engineer, creating a rift that would take months to repair and forcing her to confront the painful reality that her management style was broken.
+Mark's neck prickled with heat as his stomach knotted. For a moment, his screen seemed to blur. He wasn’t thinking about the project's data anymore. He was thinking, *"She thinks I'm incompetent. I failed."* The detailed feedback he needed was absent; the feeling of rejection was overwhelming. Maria, buried under her own deadlines and operating from her default **Architect** brain, thought she was being efficient. She had no idea she had just delivered a neurological blow to her top engineer, creating a rift that would take months to repair and forcing her to confront the painful reality that her management style was broken.
 
 This bug doesn't just corrupt our professional code. Consider the text message from a partner or a close friend. You send a thoughtful, multi-line message, and the reply you get back is simply: **'k.'** The physical sensation—that knot in your stomach, that wave of cold dread—is identical to the one Mark felt. Your brain's social pain alarm doesn't distinguish between your boss and your partner; it simply registers a social threat.
 
@@ -83,3 +83,4 @@ Time to practice being a Social Pain Detective. Over the next few days, your mis
 
 1.  **The Event:** Briefly describe a moment when you saw someone (or yourself) have a defensive or emotional reaction. (e.g., "My partner got angry when I reminded them to take out the trash.")
 2.  **The Detective Work:** What social threat might they have been perceiving? (e.g., "It wasn't about the trash. It was a threat to their sense of control—they felt I was telling them what to do.")
+      

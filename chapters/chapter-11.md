@@ -7,7 +7,7 @@ A conductor doesn't just present a logical argument for why a piece should be pl
 
 #### **Case Study: The Story That Saved the Project**
 
-Maria's team was now communicating with clarity, but the Phoenix Project was stalled. It was awaiting a critical funding decision from senior leadership, and the mood was pessimistic. The board had all the data from Mark, all the user-impact studies from Leo, and all the risk-mitigation plans from Jane. But they weren't convinced. They were suffering from data overload and decision fatigue.
+Maria's team was now communicating with clarity, but the Phoenix Project was stalled. It was awaiting a critical funding decision from senior leadership, and the mood was pessimistic. The board had all the data from Mark (her **Architect**), all the user-impact studies from Leo (her **Connector**), and all the risk-mitigation plans from Jane (her **Sentinel**). But they weren't convinced. They were suffering from data overload and decision fatigue.
 
 Maria realized she didn't need another spreadsheet; she needed a story. In her previous life as a programmer, she would have simply added more data. The conductor knew she had to frame her final presentation using a narrative structure that would make the data emotionally resonant. She decided to build her entire presentation around the Tension & Resolution Arc.
 
@@ -54,3 +54,4 @@ This week, your mission is to re-frame one of your key messages (an email, a pre
 1.  **The Original Message:** How would you have normally phrased it?
 2.  **The Story Arc:** Rewrite the message using the "And, But, Therefore" structure.
 3.  **The Reflection:** How does the new version feel? Does it create a clearer sense of purpose or urgency?
+      
