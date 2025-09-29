@@ -1,6 +1,12 @@
 ### **Chapter 16: The Boundary Protocol**
 #### The Neuroscience of Saying "No"
 
+> ### **Dashboard Integration**
+>
+> *   **Tool:** The Boundary Protocol (Chapter 16)
+> *   **Primary Brain Profile:** Connector (Core Skill Development)
+> *   **Purpose:** To say "no" gracefully while preserving the relationship.
+
 For many of us, especially those with a strong Connector profile, the word "no" can feel like a conversational hand grenade. We avoid it at all costs, terrified of the relational shrapnel. We say "yes" to projects we don't have time for, to social events we don't want to attend, and to requests that drain our energy. The result is burnout, resentment, and the quiet erosion of our own priorities.
 
 Why is saying "no" so hard? The answer lies in our neuroscience. A "no" feels like a direct, intentional threat to **Relatedness**. You are, in that moment, choosing your own needs over the needs of the tribe. Your ancient brain wiring screams that this is a dangerous move that could lead to social exclusion.
@@ -67,4 +73,3 @@ This week's entry for your dashboard is a reflection on a boundary you find diff
 1.  **The Boundary:** Think of a recurring situation where you struggle to say "no" (e.g., a colleague asking for last-minute help, a family member's request that drains you). Describe it.
 2.  **The Story You Tell Yourself:** What is the specific, catastrophic story you tell yourself about what will happen if you say 'no' in that situation? (e.g., "If I say no to this project, my boss will think I'm not a team player and I'll be overlooked for promotion.")
 3.  **A SCARF Analysis:** Using the SCARF model, what is the specific social threat you are afraid of triggering (in them, or in yourself)? This reframes the problem from a personal failing to a predictable system. (e.g., "I am afraid of creating a **Relatedness** threat and making them dislike me," or "I am afraid of triggering a **Status** threat in my boss by questioning their request.")
-      

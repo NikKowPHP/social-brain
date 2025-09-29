@@ -1,6 +1,12 @@
 ### **Chapter 17: The Repair Protocol**
 #### The Neuroscience of a Real Apology
 
+> ### **Dashboard Integration**
+>
+> *   **Tool:** The Repair Protocol (Chapter 17)
+> *   **Primary Brain Profile:** Architect (Core Skill Development)
+> *   **Purpose:** To deliver a real apology that rebuilds trust after a mistake.
+
 Every conductor, no matter how skilled, will eventually hit a wrong note. You will lose your temper, send a thoughtless email, or drop the ball on a commitment. You will cause a social pain event. In these moments, your ability to repair the damage is more important than your ability to have prevented it in the first place.
 
 Most apologies fail. Why? Because they are designed to soothe the ego of the person apologizing, not to heal the wound of the person who was hurt. A bad apology—"I'm sorry if you felt hurt," or "I'm sorry, but you were being difficult"—is a defensive maneuver. It avoids responsibility and often makes the situation worse by subtly blaming the victim, creating a fresh threat to their **Status** and **Fairness**.
@@ -69,4 +75,3 @@ Think of a small, recent interaction where you made a mistake and could have apo
 1.  **The Situation:** What was the mistake you made?
 2.  **The Script:** Write out the full, four-step apology you could have used.
 3.  **The Reflection:** How does this scripted apology feel compared to what you actually said (or didn't say) in the moment?
-      

@@ -1,6 +1,12 @@
 ### **Chapter 11: Making It Stick**
 #### The Neuroscience of Storytelling
 
+> ### **Dashboard Integration**
+>
+> *   **Tool:** The Tension & Resolution Arc (Chapter 11)
+> *   **Primary Brain Profile:** Architect (Core Skill Development)
+> *   **Purpose:** To make data and logic persuasive by framing them within a memorable narrative structure.
+
 My public humiliation in the boardroom taught me a lesson I never forgot: a good story will always beat good data. This is not a flaw in human reasoning; it's a feature of our neural hardware. Data speaks to the logical Architect brain, but a story speaks to the entire orchestra at once. It connects with our emotional Connector brain and calms our risk-averse Sentinel brain by providing a clear path forward.
 
 A conductor doesn't just present a logical argument for why a piece should be played a certain way; they tell a story with their hands and their energy, making the orchestra *feel* the music. To make your ideas stick, you must learn to do the same.
@@ -15,7 +21,7 @@ Maria realized she didn't need another spreadsheet; she needed a story. In her p
 
 Why is a story so much more powerful than a list of facts? Neuroscientist Uri Hasson at Princeton discovered the answer. Using fMRI scanners, he found that when one person tells a compelling story, the listener's brain activity begins to synchronize with the storyteller's. The same regions light up at the same time. This phenomenon, called **neural coupling**, is like a brain-to-brain data transfer.
 
-The storyteller isn't just transmitting information; they are recreating the *experience* of that information inside the listener's head. Furthermore, when the tension in a story is resolved, the listener's brain gets a small hit of dopamine, the "reward" chemical. This dopamine hit acts like a "save" button in the brain, making the message far more memorable and persuasive than a simple recitation of facts.
+The storyteller isn't just transmitting information; they are recreating the *experience* of that information inside the listener's head. Furthermore, when the tension in a story is a resolved, the listener's brain gets a small hit of dopamine, the "reward" chemical. This dopamine hit acts like a "save" button in the brain, making the message far more memorable and persuasive than a simple recitation of facts.
 
 #### **The Practice: The Tension & Resolution Arc**
 
@@ -54,4 +60,3 @@ This week, your mission is to re-frame one of your key messages (an email, a pre
 1.  **The Original Message:** How would you have normally phrased it?
 2.  **The Story Arc:** Rewrite the message using the "And, But, Therefore" structure.
 3.  **The Reflection:** How does the new version feel? Does it create a clearer sense of purpose or urgency?
-      

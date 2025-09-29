@@ -1,6 +1,12 @@
 ### **Chapter 13: Conducting a Hostile Orchestra (Hard Mode)**
 #### **Navigating Manipulation and Bad-Faith Arguments**
 
+> ### **Dashboard Integration**
+>
+> *   **Tool:** The Conductor's Shield Protocol (Chapter 13)
+> *   **Primary Brain Profile:** Connector (Power-Up)
+> *   **Purpose:** To defend yourself and your team from bad-faith actors by shifting the goal from connection to containment.
+
 The tools we have developed so far operate on a fundamental assumption: that both parties are engaging in good faith. We assume that even in a difficult conversation, the shared goal is to find a productive outcome.
 
 But what happens when that assumption is false? What do you do when the other person isn't just having a threat response, but is intentionally *trying* to trigger one in you?
@@ -97,4 +103,3 @@ In these situations, your goal shifts from containment to disengagement. This ca
 *   **Setting Firm Project Boundaries:** Clearly and unemotionally state what your team will and will not do. Document these boundaries in writing. *"To be clear, my team's scope is limited to X. Any requests for Y will need to go through the formal Z process."*
 *   **Escalating to a Higher Authority:** If possible, present your documented audit trail (from Step 5 of the Shield Protocol) to a manager or HR. Frame it not as a personal complaint, but as a risk to the project or business. *"I am bringing this to you because the communication patterns on this project are creating significant delays and risks, as documented here."*
 *   **Planning an Exit:** In the most extreme cases, the only winning move is not to play. This may mean finding a way to be transferred off the project or, if the issue is systemic to the organization, starting to look for a new role. A conductor's first loyalty is to the health of their musicians, and sometimes that means finding them a new concert hall.
-      

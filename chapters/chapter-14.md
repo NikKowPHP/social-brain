@@ -1,6 +1,12 @@
 ### **Chapter 14: The Adaptive Brain**
 #### Navigating Group and Cultural Dynamics
 
+> ### **Dashboard Integration**
+>
+> *   **Tool:** The Adaptation Protocol (Chapter 14)
+> *   **Primary Brain Profile:** All (Situational Fluency)
+> *   **Purpose:** To learn to read and adapt to the "local software" of any new group or culture.
+
 The human brain's social operating system has universal hardware. Everyone has an amygdala. Everyone's brain tracks the five SCARF domains. But culture—whether in a country or a company—is the software running on top. And trying to run your software on their hardware without a compatibility check is a recipe for a system crash. My first project with our team in Tokyo was that crash.
 
 In a planning meeting, I gave some direct, blunt feedback on a design mock-up. It was the kind of feedback my Architect brain sees as efficient and helpful. To my colleagues in California, it was normal. To the design team in Tokyo, it was a disaster. The lead designer went quiet for the rest of the meeting. Later, I learned from the project manager that my public critique had been perceived as a deeply disrespectful attack on the team's status, causing a significant loss of face.
@@ -78,4 +84,3 @@ This week, in one meeting with a group you don't know perfectly (a different tea
 1.  **The Group:** Which group did you observe?
 2.  **Observations (Data Collection):** What patterns did you notice? Who spoke the most? How were disagreements handled? How was humor used?
 3.  **Your Hypothesis:** Based on your observations, what is your initial hypothesis about this group's "local software"? (e.g., "Hypothesis: In this group, status is demonstrated by using complex vocabulary.")
-      

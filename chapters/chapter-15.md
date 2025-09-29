@@ -1,6 +1,12 @@
 ### **Chapter 15: The Learning Brain**
 #### The Neuroscience of Feedback and Lasting Change
 
+> ### **Dashboard Integration**
+>
+> *   **Tool:** The Feedback Protocols (Chapter 15)
+> *   **Primary Brain Profile:** Connector & Architect (Core Skill Development)
+> *   **Purpose:** To give and receive "bug reports" in a way that promotes learning, not a threat response.
+
 Let me tell you about how I used to give feedback. As a programmer, a bug report is a gift. It is a neutral, data-rich pointer to a flaw in the system, and it is received with gratitude. Early in my career, I assumed this was a universal principle. I assumed feedback worked the same way with people. It does not.
 
 This fundamental error forced me to ask a new question in my investigation: **Why does the human brain's firewall reject most feedback, and is there a protocol that can deliver—and receive—a "bug report" without triggering a threat response?**
@@ -134,4 +140,3 @@ This week, your mission is to practice the **"Intake" Protocol**. The next time 
 1.  **The Feedback:** What was the feedback, criticism, or comment you received?
 2.  **The Feeling:** What was the immediate physical or emotional sensation you felt? (e.g., heat in the face, knot in the stomach).
 3.  **The Response:** Did you manage to use the clarifying question ("Can you give me a specific example?")? What was the result? If you didn't, what got in the way?
-      

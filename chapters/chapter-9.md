@@ -1,5 +1,11 @@
 ### **Chapter 9: Interlude - Breaking the Silence**
 
+> ### **Dashboard Integration**
+>
+> *   **Tool:** The Safety Signal Protocol (Chapter 9)
+> *   **Primary Brain Profile:** Sentinel & Introverts (Power-Up)
+> *   **Purpose:** To systematically de-risk the act of starting a conversation with someone new.
+
 *(Author's Note: The last three chapters gave you the core engine of your toolkit: Breath, Empathy, and Trust. Before we build on that foundation, let's take a brief interlude. This chapter is a practical field guide for a single, common challenge: starting a conversation with someone new. Think of it as a simple script you can run using the tools you already have.)*
 
 #### **Case Study: The Connector's Courage**
@@ -91,4 +97,3 @@ This week, your mission is to break the silence once using the "Safety Signal" P
 1.  **The Situation:** Where were you and who did you approach?
 2.  **The Protocol:** Write down the exact "Shared Context" and "Low-Stakes Observation" you used.
 3.  **The Result:** What was the outcome? The goal isn't a long conversation, just a brief, safe connection.
-      

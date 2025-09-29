@@ -1,6 +1,12 @@
 ### **Chapter 10: The Respectful Brain**
 #### Defeating Cognitive Load
 
+> ### **Dashboard Integration**
+>
+> *   **Tool:** The Clarity Protocol (Chapter 10)
+> *   **Primary Brain Profile:** Architect (Core Skill Development)
+> *   **Purpose:** To respect the receiver's cognitive load and ensure your message is received and understood.
+
 We have now assembled the **Core Trio** of our toolkit: Regulation, Connection, and Trust. Now we add the fourth foundational tool, a protocol that makes every single interaction more effective and respectful.
 
 Why do your brilliant, thorough emails sometimes get completely ignored? It's one of the most common and frustrating bugs in professional communication. For years, I thought the problem was a lack of attention from the receiver. I was wrong. The problem was a lack of respect from me, the sender. I was launching denial-of-service attacks on my colleagues' brains, a critical bug that starts with a misunderstanding of the brain's most brutal hardware limitation.
@@ -107,4 +113,3 @@ This week, find one email you are about to send that is more than three paragrap
 1.  **The "Before":** Paste or describe the original, unstructured message.
 2.  **The "After":** Rewrite the message using the Clarity Protocol (One Goal, Headline First, Chunked Details).
 3.  **The Reflection:** What did you notice during the editing process? Did you get a faster or clearer response than you normally would?
-      

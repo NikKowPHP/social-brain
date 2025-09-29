@@ -17,7 +17,7 @@ SCARF is an acronym for the five key domains of social experience that the brain
 
 For the rest of this book, we will think of these five domains as a real-time dashboard in your mind's eye. In any conversation, you can learn to see the needles on these five gauges twitching for both yourself and the other person, moving toward the green (reward) or into the red (threat). A conductor's first job is to keep these needles in the green.
 
-[AUTHOR'S NOTE: This is the place for the "Social Brain Dashboard" visual with five gauges for S, C, A, R, and F. This visual should be repeated in a smaller form throughout the book.]
+[AUTHOR'S NOTE: This is the place for the "Conductor's Dashboard" visual. Imagine a clean, modern dashboard. On the left are the five SCARF gauges (Status, Certainty, Autonomy, Relatedness, Fairness). On the right, there are designated "slots" for the tools the reader will collect. There's a prominent section for the "Core Trio" (with icons for Breath, Empathy, and Trust) and a larger area for the "Ensemble" tools. At the start, these slots are empty silhouettes. This visual should be repeated and updated throughout the book, showing the dashboard filling up as the reader progresses, creating a powerful sense of accomplishment.]
 
 > ### **Investigator's Note: A Map, Not the Territory**
 >
@@ -58,8 +58,8 @@ To see the dashboard in action, let's look at the anatomy of a single, disastrou
 *   **Case Study in Catastrophe:** The interview concludes. As Alex is leaving, they overhear the interviewer talking to a colleague in the hallway. "My next one is a referral from the CEO. I'll probably just hire them and cancel the rest." The Fairness gauge explodes. The entire process has been a sham. Alex's brain feels the sting of a deeply unfair exchange, lighting up the same regions associated with disgust. Alex leaves not just wanting to decline any potential offer, but feeling actively hostile toward the company.
 
 ---
-#### **The Practice: Your Personal Conductor's Dashboard**
-This book is an investigation we are conducting together. The Logbook Entries at the end of each chapter are not homework; they are your field notes. From this point forward, they will help you build your own **Personal Conductor's Dashboard**—a user's manual for your own social brain. By the end of our journey, you won't just have a collection of notes; you will have a personalized diagnostic tool. Let's build the first component.
+#### **The Practice: Setting Up Your Conductor's Dashboard**
+This book is an investigation we are conducting together. The Logbook Entries at the end of each chapter are not homework; they are your field notes. From this point forward, they will help you build your own **Personal Conductor's Dashboard**—a user's manual for your own social brain. By the end of our journey, you won't just have a collection of notes; you will have a personalized diagnostic tool that shows your triggers and your most powerful tools. Let's build the first component.
 ---
 > ### **The 1% Upgrade**
 >
@@ -70,7 +70,6 @@ This book is an investigation we are conducting together. The Logbook Entries at
 
 Let's create the first entry for your Personal Conductor's Dashboard. This is the main alert light for your entire system.
 
-1.  **Your Primary Trigger:** Which of the five SCARF domains (Status, Certainty, Autonomy, Relatedness, or Fairness) most often triggers a threat response in you?
+1.  **Your Primary SCARF Trigger:** Which of the five SCARF domains (Status, Certainty, Autonomy, Relatedness, or Fairness) most often triggers a threat response in you? This is your primary sensitivity.
 2.  **Describe a Recent Event:** Briefly describe a time in the last month when you felt that trigger. What happened?
-3.  **The Physical Sensation:** What was the physical feeling associated with that threat? (e.g., "When my boss rewrote my slide without telling me (Autonomy threat), I felt a hot flush in my face.") This sensation is a key piece of data we will use in the next chapter.
-      
+3.  **The Physical Sensation:** What was the physical feeling associated with that threat? (e.g., "When my boss rewrote my slide without telling me (Autonomy threat), I felt a hot flush in my face.") This sensation is a key piece of data—your personal system alert—that we will use in the next chapter.

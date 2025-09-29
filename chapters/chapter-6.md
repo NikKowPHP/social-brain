@@ -1,6 +1,12 @@
 ### **Chapter 6: The Regulated Brain**
 #### The Neuroscience of Emotional Self-Regulation
 
+> ### **Dashboard Integration**
+>
+> *   **Tool:** The Conductor's Breath (Chapter 6)
+> *   **Primary Brain Profile:** Sentinel (Power-Up), but essential for all.
+> *   **Purpose:** To manually override an amygdala hijack and keep your rational brain online under pressure.
+
 The "social pain" bug that Maria triggered in Mark is one of the most critical in the human operating system. For Maria, the fallout from that email was a wake-up call. Mark was sullen and withdrawn for a week, and the tension on her team was palpable. She felt a familiar wave of anxiety and frustration at her own inability to lead.
 
 In a tense follow-up meeting, trying to get the project back on track, Maria felt herself getting flustered. As Mark stonewalled her, she could feel her own face getting hot, her heart hammering in her chest. Her mind was racing with defensive thoughts: *"Why is he being so difficult? I'm the manager, he should listen to me!"* She was having her own amygdala hijack. It was in that moment of near-panic that she realized she couldn't fix the team's dynamic until she could fix her own. This was the moment Maria realized that to save the Phoenix Project, she first had to conduct her own internal orchestra. Her first practice with The Conductor's Breath wasn't for a big presentation, but just to survive the next status meeting with Mark.
@@ -80,4 +86,3 @@ Let's add a critical component to your Conductor's Dashboard: your early-warning
 1.  **Your Hijack 'Tell':** What is the primary physical sensation that lets you know your Sentinel brain is activating? (e.g., heat in the face, tightness in the chest, clenching jaw, knot in the stomach). This is your personal system alert. Write it down on your dashboard.
 2.  **Log an Event:** Over the next week, your mission is to notice this "tell" in real time. Briefly describe one event that triggered it.
 3.  **The Intervention:** Did you remember to use The Conductor's Breath? What was the immediate effect on the physical sensation?
-      

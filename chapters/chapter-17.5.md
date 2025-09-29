@@ -18,6 +18,17 @@ This gives you permission to feel a sense of completion. For the rest of this bo
 You are ready. You have your baton. Now it's time to step onto the stage.
 
 ---
+### **Integrated Drill: The Graceful Correction**
+
+Let's combine two "Ensemble" tools into a common, high-stakes scenario. This builds mastery and confidence in combining tools, which is how they'll be used in the real world.
+
+**The Scenario:** You realize you gave your team member, Leo, unclear instructions, which led to him building the wrong feature. You need to both apologize for your mistake and give him feedback to ask him for clarification next time.
+
+**The Drill:**
+1.  **Script the Opener (The Repair Protocol, Ch 17):** Write out the "Four R's" apology you would use to take responsibility for the unclear instructions.
+2.  **Script the Pivot (The Debug Method, Ch 15):** After apologizing, how would you transition to a collaborative feedback session? Script how you would "Get Permission" and then "Co-Create the Upgrade" to establish a new protocol for clarifying instructions in the future.
+
+---
 ### **Logbook Entry**
 
 Before moving on to Part III, take a final moment to reflect on the full toolkit you have assembled.
@@ -25,4 +36,3 @@ Before moving on to Part III, take a final moment to reflect on the full toolkit
 1.  **The Full Toolkit:** Look back at the "Toolkit Summary & Cheat Sheet." Which protocol, beyond the "First Chair," are you most excited or intrigued to practice?
 2.  **A Recent "Bug":** Think of a recent communication breakdown or difficult conversation you experienced. Looking at the full list of protocols, which "Ensemble" tool might have been most helpful in that situation?
 3.  **Your Intention for Part III:** As you prepare to move from learning to application, what is your single biggest goal? (e.g., "My goal is to run one meeting using the blueprint," or "My goal is to practice the Boundary Protocol with a family member.")
-      
