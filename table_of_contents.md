@@ -69,6 +69,9 @@
 
 **Chapter 17.5:** You Have Your Baton
 
+**Chapter 17.6:** A Q&A With the Conductor
+*Navigating the Backlash When You Change*
+
 ---
 
 ### **Part III: Integration and Lasting Change**
@@ -81,9 +84,6 @@
 
 **Chapter 20:** Interlude - The Compound Interest of Connection
 *Mastering the Micro-Moments*
-
-**Chapter 21:** A Q&A With the Conductor
-*Navigating Relationship Homeostasis*
 
 **Chapter 22:** The Integrated Conductor
 *Knowing When to Put the Baton Down*

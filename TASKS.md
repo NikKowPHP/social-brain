@@ -12,4 +12,6 @@
 - [x] Vary the predictable chapter structure by reordering elements and changing chapter openings.
 - [x] Add nuance to the scientific explanations to increase credibility and preempt criticism from informed readers.
 - [x] Reduce cognitive overwhelm by introducing the "Core Trio" early, reinforcing toolkit tiers within chapters, and showing how protocols "stack."
+- [x] Move the troubleshooting "Q&A" chapter earlier to the end of Part II to build reader resilience.
+- [x] Reframe the protagonist's primary goal in the introduction to make the final "culture win" a more satisfying and complete victory.
       

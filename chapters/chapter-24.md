@@ -14,7 +14,7 @@ The team was crushed. In the debrief meeting, the mood was funereal. Mark, the A
 
 She let them vent. She used the **Empathy Loop** to validate their frustration: "It sounds like you feel that even when we do everything right, the politics still win. It feels deeply unfair." She gave them space to feel the loss. Then, after the emotion had crested, she gently shifted the frame. "You're right," she said. "We didn't win the budget battle. But I want you to look around. A month ago, a conflict like this would have torn us apart. Instead, we came together, we executed a professional strategy under pressure, and we supported each other. We didn't win the outcome, but we perfected the process. We built a team that can withstand a hit like this. The budget is temporary. What we've built is permanent."
 
-Her boss commented weeks later, "The most impressive thing about the Phoenix Project wasn't the launch. It was how your team handled that budget cut. They came back more focused than ever. You've built something rare here." Maria's legacy was not a political victory, but a resilient, self-tuning culture that could navigate failure and disappointment on its own.
+Her boss commented weeks later, "The most impressive thing about the Phoenix Project wasn't the launch. It was how your team handled that budget cut. They came back more focused than ever. You've built something rare here." In that moment, Maria realized she had achieved the deeper goal she had set for herself from the start. Her legacy was not a political victory, but a resilient, self-tuning culture that could navigate failure and disappointment on its own.
 
 #### **The Science: Psychological Safety**
 
