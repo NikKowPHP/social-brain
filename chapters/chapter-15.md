@@ -28,28 +28,28 @@ Treat feedback like fire: it can provide warmth (growth) or burn down a structur
 *   **Never give it by surprise.** (Massive Certainty threat).
 ---
 
+#### **Case Study: The Architect's Upgrade**
+
+The change in Mark wasn't instantaneous. His **Architect** brain still saw the world in terms of flaws and optimizations. But he had been observing Maria's new approach and had seen the positive impact on the team. He began to see effective communication as a system worth learning, not just a "soft skill." His breakthrough moment came a week later, without any direct coaching from Maria.
+
+He saw a flaw in a code branch Leo had submitted. His old instinct was to write a blunt, multi-point critique directly in the code review tool. Instead, he paused. He decided to try a different approach.
+
+He messaged Leo directly. "Hey, got a minute to talk about the authentication branch?" (A clumsy but effective way to Get Permission). When they hopped on a call, Mark was still awkward. "Your approach here is inefficient," he started, then caught himself. "What I mean is, I saw you used three API calls. My data suggests we can do it in one. What was your thinking on that?" (Share Data, Not Drama).
+
+Leo, expecting a lecture, was surprised by the question. He explained his reasoning, which was based on a legacy constraint Mark had forgotten about. Together, they found a third way that was both efficient and safe. Mark had not just found a bug in the code; he had found one in his own communication style and had successfully run his first "patch." He was learning to debug relationships, not just repositories.
+
+When Maria heard about the interaction from Leo later that day, she felt a profound sense of success. The culture was beginning to tune itself. Her legacy wouldn't come from being the perfect conductor, but from building an orchestra that could start to play the music on its own.
+
+---
 #### **Case Study: The Conductor as Coach**
 
-A month after Maria's pivotal conversation with Mark, the team dynamic had improved dramatically. But Maria noticed a new, subtle problem. Leo, the junior **Connector**, was so afraid of the blunt critiques from Mark, a classic **Architect**, that he had stopped offering creative ideas in meetings.
+Seeing Mark's independent progress, Maria realized her role was shifting from director to coach. She still needed to help Leo, the junior **Connector**, who was so afraid of creating conflict that he often withheld his creative but less data-driven ideas.
 
-The old Maria would have spoken to Mark again. The conductor saw a different opportunity: to move from directing the orchestra to developing the musicians. *Leo's Connector brain is afraid of creating disharmony,* she thought. *I need to give him a protocol that feels structured and safe for him, one that allows him to challenge Mark's ideas without triggering a conflict.* She needed to teach Leo how to give feedback, not just receive it.
-
-She called Leo into her office. "I've noticed you have great ideas but you're holding back in meetings," she began. "Let's talk about how to get your voice heard." She didn't give him advice; she coached him on the "Debug" protocol.
+She called Leo into her office. "I've noticed you have great ideas but you're holding back in meetings," she began. "Let's talk about how to get your voice heard." She coached him on the "Debug" protocol, giving him a safe, structured way to challenge an idea without it feeling like a personal confrontation.
 
 "Next time you disagree with Mark," she said, "I don't want you to argue. I want you to run a collaborative debugging session. Get permission: 'Mark, can I offer a different perspective?' Then share data, not drama: 'My data shows that this other approach might be 15% faster.' Finally, co-create: 'How might we combine the safety of your approach with the speed of this one?'"
 
-Leo was terrified, but he agreed to try. In the next meeting, he found his moment. His voice shook slightly, but he executed the protocol. Mark paused, surprised. He looked at Leo's data. "Huh," he said. "That's... interesting. Let's look at that." It wasn't a standing ovation, but it was a breakthrough. Maria hadn't just solved a problem; she had upgraded her team's entire operating system.
-
----
-#### **Case Study: The Architect's Upgrade**
-
-The change in Mark wasn't instantaneous. His Architect brain still saw the world in terms of flaws and optimizations. But seeing Maria's success, he began to see effective communication as a system worth learning. His own practice moment came a week later.
-
-He saw a flaw in a code branch Leo had submitted. His old instinct was to write a blunt, multi-point critique directly in the code review tool. Instead, he paused. He decided to try the protocol he had seen Maria coach Leo on.
-
-He messaged Leo directly. "Hey, got a minute to talk about the authentication branch?" (Get Permission). When they hopped on a call, Mark was clumsy. "Your approach here is inefficient," he started, then caught himself. "What I mean is, I saw you used three API calls. My data suggests we can do it in one. What was your thinking on that?" (Share Data, Not Drama).
-
-Leo, expecting a lecture, was surprised by the question. He explained his reasoning, which was based on a legacy constraint Mark had forgotten about. Together, they found a third way that was both efficient and safe. Mark had not just found a bug in the code; he had found one in his own communication style and had successfully run his first "patch." He was learning to debug relationships, not just repositories.
+Leo was terrified, but he agreed to try. In the next meeting, he found his moment. His voice shook slightly, but he executed the protocol. It wasn't a standing ovation, but it was a breakthrough. Maria hadn't just solved a problem; she had upgraded her team's entire operating system.
 
 ---
 

@@ -13,9 +13,9 @@ The key to saying "no" effectively is to find a way to honor your own **Autonomy
 
 #### **Case Study: Protecting the Project**
 
-As the Phoenix Project gained momentum, its success attracted attention. A senior leader from another department, impressed with the team's work, approached Maria with a "small request." He wanted her team to build a custom dashboard for his division, using the new Phoenix data platform. It was a good idea, but it was also a significant, unplanned project that would derail the core timeline.
+As the Phoenix Project gained momentum, its success attracted attention. A senior leader from another department approached Maria with a "small request." He wanted her team to build a custom dashboard for his division. It was a good idea, but it was also a significant, unplanned project that would derail the core timeline.
 
-The old Maria, operating purely from her **Architect** brain, would have struggled to navigate this, either agreeing to avoid conflict or delivering a blunt "no" that damaged the relationship. The new Maria knew she had to protect her orchestra. She used the Boundary Protocol.
+Maria felt the internal conflict immediately. Her old **Architect** brain wanted to state the logical fact: "No, we don't have time." But she could feel her developing **Connector** awareness screaming that a blunt 'no' to a senior leader would be a political disaster. She knew she couldn't revert to her old habits. She took a silent **Conductor's Breath**, anchored herself, and chose the protocol.
 
 "Thank you so much for seeing the potential here," she started (Validate). "That dashboard sounds like a fantastic tool, and it's exactly the kind of value we hoped Phoenix would unlock."
 

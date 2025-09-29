@@ -19,18 +19,18 @@ When you give someone your focused, non-judgmental attention, you are sending a 
 
 Maria learned this the hard way. During a one-on-one with Leo, he was explaining a complex issue. As he spoke, Maria was half-listening, but also glancing at Slack notifications. She noticed Leo's energy fade. He trailed off and said, "…anyway, it's probably not a big deal." The connection was broken. She had failed to broadcast the signal, "You matter."
 
-Later, determined to fix her mistake, she tried to use a script she'd learned for showing empathy.
+Later, determined to fix her mistake, Maria tried to use the Empathy Loop protocol she had just learned. But she did it mechanically, as an **Architect** following a script.
 **Maria:** "Hey. I was thinking about earlier. What was the hardest part about that for you?"
 **Leo:** "The hardest part was that I felt completely invisible."
 **Maria:** "So, what I'm hearing is that you felt invisible. Is that an accurate summary?"
 
-The effect was even worse. Leo looked disconnected. "Are you reading from a management book, Maria?" Her protocol felt robotic because it was just a script delivered by her **Architect** brain. She was repeating his *lyrics*—his words—but she had missed the *music*—the underlying feeling that his **Connector** brain needed to feel.
+The effect was a disaster. Leo looked at her with a mix of frustration and disappointment. "Are you reading from a management book, Maria? Stop using that therapy voice on me." The words stung. Maria felt a hot flush of shame—a full-blown amygdala hijack. Her attempt to connect had created an even bigger rift. The protocol, when performed without genuine presence, had backfired completely, and she had to use the **Repair Protocol (Chapter 17)** just to get back to neutral.
 
-Her breakthrough came when she combined the tools. She approached him again, but this time she started by regulating herself and broadcasting presence. She put her phone down, turned her chair to face him fully, and took a breath. Only then did she try to connect verbally, not with a script, but with a genuine attempt to reflect the music.
+Her breakthrough came a week later when she tried again, but this time she started by regulating herself and broadcasting genuine presence. She put her phone down, turned her chair to face him fully, and took a breath. Only then did she try to connect verbally, not with a script, but with a real attempt to reflect the music.
 
-**Maria:** "Leo, I really messed up yesterday. Can I try again? When you said you felt invisible... that really stuck with me. It sounds like the most frustrating part wasn't just that the idea was rejected, but that it felt like a dismissal of you and all the passion you poured into it. Is that closer to the mark?"
+**Maria:** "Leo, I really messed up last week, and I'm sorry. Can I try again? When you said you felt invisible... that really stuck with me. It sounds like the most frustrating part wasn't just that an idea was dismissed, but that it felt like a dismissal of you and all the passion you pour into it. Is that closer to the mark?"
 
-This time, it worked. By first creating a safe container with her non-verbal presence, her verbal attempt to connect landed not as a protocol, but as a genuine act of understanding.
+This time, it worked. By owning her clumsy failure and demonstrating a real effort to understand, the connection landed not as a protocol, but as a genuine act of repair and understanding.
 
 ---
 ### **System Alert: The Threat of Unsolicited Advice**
