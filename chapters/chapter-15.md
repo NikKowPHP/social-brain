@@ -102,6 +102,14 @@ This protocol is for after you've received useful feedback. It uses the science 
 3.  **Self-Acknowledge for Dopamine:** The moment you successfully execute the new behavior, you must create a small, internal reward. A simple mental acknowledgement like, *"Yes. I did it."* is enough. This tiny celebration releases a small amount of dopamine, which is the brain's signal for "That worked! Do that again." This is the chemical that tells your brain to myelinate the new neural pathway, turning a conscious effort into an unconscious habit.
 
 ---
+> ### **The Conductor's Podium: Architecting a Feedback Culture**
+>
+> Your role as a leader is not just to get good at giving feedback; it's to design a system where safe, productive feedback is the norm. The goal is to make peer-to-peer feedback so common that it stops feeling like a high-stakes event.
+>
+> *   **Teach the Tools:** Explicitly teach your team the "Debug" and "Intake" protocols. Give them a shared language for a difficult process.
+> *   **Model Receiving:** The most powerful thing you can do is model the "Intake" protocol when *you* receive feedback. When a team member gives you a critique, take a breath, thank them, and ask for a specific example. This demonstrates that feedback is safe, even when it's directed at the leader.
+> *   **Systematize It:** Create a low-stakes, structured time for feedback. In your team's weekly retro, have a section for "Deltas," but frame it with the co-creation question: "What's one thing we could upgrade in our process next week?"
+---
 > ### **Neuro-Toolkit: The Only Sentence You Need When Receiving Feedback**
 >
 > When you feel the defensive heat of criticism, your brain will flood with a dozen explanations. Ignore them all. There is only one sentence you need.

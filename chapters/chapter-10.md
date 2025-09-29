@@ -82,6 +82,13 @@ Once the main point is clear, you can provide context. But you must format it fo
 *   Use **bolding** to draw the eye to the most critical information.
 
 ---
+> ### **The Conductor's Podium: Scaling Clarity**
+>
+> As a leader, your job isn't just to be clear; it's to build a culture of clarity. The cognitive load you reduce for your team is energy they can reinvest in their work.
+>
+> *   **Establish Team Norms:** Explicitly create a "Clarity Protocol" for your team's communications. For example: "All project update emails must have a clear headline in the first sentence" or "All Slack requests must state the desired action and deadline."
+> *   **Model the Behavior:** When you receive a long, unstructured email from a team member, don't just reply. Gently coach them: "This is great info. Next time, could you start with a one-sentence summary at the top? It would help me process this faster." You are teaching them how to manage your workbench, which is a gift to both of you.
+---
 
 Maria's team was now communicating with clarity. But the Phoenix Project was stalled, awaiting a critical funding decision from senior leadership. Maria realized that clarity wasn't enough to get the final approval. The board didn't need more information; they needed to believe. It was time for a story.
 

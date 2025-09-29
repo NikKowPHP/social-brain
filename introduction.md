@@ -47,6 +47,8 @@ This book is the baton.
 
 Let's be clear about our central metaphor. The old model of a conductor is an authoritarian maestro, demanding perfection. That is not our goal. A modern conductor, a Conductor of connection, does not primarily direct; they listen. Their first job is to create an environment of such profound safety and trust that the orchestra's best music can emerge on its own. They lead not from the podium, but from the center of the music. This book will teach you how to conduct from any chair in the orchestra—whether you are the CEO or the intern.
 
+While these tools will improve every conversation in your life, make no mistake: this is a book about leadership. It is a manual for anyone—manager, parent, or team lead—who wants to create the conditions for others to do their best work. The modern workplace is no longer a factory floor; it is a complex, interconnected orchestra. And it requires a new kind of conductor.
+
 Together, we will learn to lead each section of your brain's orchestra. You will learn to calm the jumpy percussion of your threat response, tune the elegant strings of your empathy, and bring all the instruments together to create the beautiful music of genuine human connection.
 
 Our journey is organized into three parts, mapping to your own transformation:

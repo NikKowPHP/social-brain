@@ -50,6 +50,13 @@ An effective apology is a protocol with four distinct steps. Missing any one of 
 This isn't just an apology. It's a demonstration of integrity and a powerful act of connection.
 
 ---
+> ### **The Conductor's Podium: The Public Repair**
+>
+> A leader's apology is a powerful tool for building psychological safety at scale. How you handle a team-level failure sets the tone for the entire culture.
+>
+> *   **Apologizing to Your Team:** If you make a strategic error that impacts the team (e.g., setting an unrealistic deadline), your public apology is a powerful act of leadership. Use the Four R's in a team meeting. Taking public **Responsibility** shows that mistakes are survivable, and your **Resolve** to change the process rebuilds trust in your leadership.
+> *   **Apologizing for Your Team:** When your team makes a mistake that affects a stakeholder or client, a leader's job is to absorb the initial blow. Apologize on behalf of the team, but do so without throwing anyone under the bus. "I take full **Responsibility** for the error in the report. My team and I are already implementing a new review process to **Resolve** this for the future." You protect your team from the external threat, and then you handle the internal feedback privately.
+---
 > ### **The 1% Upgrade**
 >
 > Listen for a "non-apology" in the wild this week (on TV, from a politician, in a meeting). Diagnose it using the Four R's. Which of the four steps did they miss? This will train you to spot the difference between a real repair and a defensive maneuver.

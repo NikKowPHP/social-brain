@@ -5,4 +5,6 @@
 - [x] Vary the pacing and structure by reframing chapters as "Interludes," rewriting one as a deep-dive case study, and another as an FAQ.
 - [x] Center the reader's journey by reframing Logbook Entries and introducing a "Personal Conductor's Dashboard" concept.
 - [x] Weave the author's personal journey and struggles into the book using "Investigator's Log" entries to make the persona more relatable.
+- [x] Refine the book's market positioning to explicitly target leaders by updating the subtitle, introduction, and adding leader-specific "Conductor's Podium" sections.
+- [x] Add a "Threat vs. Malice" diagnostic tool and frame the "Shield Protocol" as a last resort in Chapter 13 to provide ethical and practical safeguards.
       
