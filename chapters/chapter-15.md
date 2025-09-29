@@ -1,9 +1,13 @@
 ### **Chapter 15: The Learning Brain**
 #### The Neuroscience of Feedback and Lasting Change
 
-For a programmer, a bug report is a gift. Early in my career, I assumed feedback worked the same way with people. I would deliver a logical, data-rich "bug report" on someone's performance, expecting them to be grateful. I was consistently shocked when their system crashed.
+For a programmer, a bug report is a gift. It is a neutral, data-rich pointer to a flaw in the system, and it is received with gratitude. Early in my career, I assumed this was a universal principle. I assumed feedback worked the same way with people. It does not.
 
 This common failure forced me to ask: **Why does the human brain's firewall reject most feedback, and is there a protocol that can deliver—and receive—a "bug report" without triggering a threat response?**
+
+> ### **Investigator's Log: The System Crash**
+>
+> My first performance review as a team lead was a disaster. I had meticulously documented what I saw as "bugs" in my team's performance, complete with data and logical arguments. I delivered these "bug reports" with what I thought was helpful clarity. I was consistently shocked when, instead of gratitude, I was met with defensive anger, tears, or a complete shutdown. Their systems crashed. It was a brutal lesson: when you are giving feedback to a person, you are not debugging a machine. You are interfacing with a complex, threat-sensitive biological organism. This realization was the start of my investigation into a new kind of debugging.
 
 My investigation revealed it's not one problem, but two distinct neurological challenges: the threat of the feedback itself, and the physical difficulty of building new habits.
 
