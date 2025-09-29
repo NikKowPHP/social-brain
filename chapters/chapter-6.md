@@ -21,6 +21,10 @@ Crucially, this neurochemical flood severely impairs the function of your prefro
 
 [AUTHOR'S NOTE: Insert professional diagram illustrating the Amygdala Hijack, showing the PFC being taken offline by the amygdala's threat response.]
 
+> ### **It's Complicated: The Hijack as a Model**
+>
+> The "amygdala hijack" is a powerful and useful model for understanding emotional reactivity. It's important to know it's also a simplification. Modern neuroscience shows that emotional responses are the result of a complex interplay between many brain regions, including the insula and the hippocampus, not just the amygdala firing in isolation. However, as a mental model for what it *feels* like when our rational brain is overwhelmed by a threat response, the "hijack" is an invaluable concept for a conductor. It gives us a simple name for a complex feeling, which is the first step to managing it.
+
 > *You cannot think your way out of an amygdala hijack; you must regulate your way out of it.*
 
 The key to debugging this is not to rewrite the code—we can't—but to learn how to call a specific function that manually overrides it.

@@ -13,7 +13,7 @@ When you give someone your focused, non-judgmental attention, you are sending a 
 
 1.  **It Tamps Down Cortisol:** The presence of a calm, attentive ally soothes the other person's amygdala (the "security guard"). This is a process called **co-regulation**, where your regulated nervous system acts as a tuning fork for theirs.
 2.  **It Releases Oxytocin:** The "bonding hormone" fosters feelings of trust and connection, actively quieting the brain's threat response.
-3.  **It Activates the Brain's Empathy Circuits:** "Empathy" isn't a single function. It's two distinct subroutines. **Mirror neurons** are the root of our ability to feel *with* someone, simulating their emotional state. The **mentalizing network** is our cognitive ability to understand *why* they feel that way. True connection requires both, and it starts with paying enough attention for these systems to come online.
+3.  **It Activates the Brain's Empathy Circuits:** "Empathy" isn't a single function. It's two distinct subroutines. **Mirror neurons** are the root of our ability to feel *with* someone, simulating their emotional state. While the precise role and function of mirror neurons are still a topic of rich scientific debate, the core principle that our brains simulate the experiences of others is a cornerstone of social neuroscience. The **mentalizing network** is our cognitive ability to understand *why* they feel that way. True connection requires both, and it starts with paying enough attention for these systems to come online.
 
 #### **Case Study: The Disconnected Conductor**
 

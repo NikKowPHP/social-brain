@@ -19,6 +19,10 @@ For the rest of this book, we will think of these five domains as a real-time da
 
 [AUTHOR'S NOTE: This is the place for the "Social Brain Dashboard" visual with five gauges for S, C, A, R, and F. This visual should be repeated in a smaller form throughout the book.]
 
+> ### **Investigator's Note: A Map, Not the Territory**
+>
+> It's critical to remember the note from the preface: this is a map, not the territory. The brain doesn't have five literal SCARF gauges hardwired into it. Rather, the SCARF model is a brilliant and practical framework for making sense of the complex, overlapping patterns of social threat and reward our brains are constantly processing. Think of it as an elegant piece of software for your diagnostic toolkit, not a perfect blueprint of the hardware.
+
 To see the dashboard in action, let's look at the anatomy of a single, disastrous conversation: a failed job interview. We'll follow a candidate named Alex as they meet an interviewer who, despite being well-intentioned, systematically triggers every threat alarm in Alex's brain.
 
 ---

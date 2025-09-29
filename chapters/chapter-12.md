@@ -30,7 +30,7 @@ The protocol is designed to break this spiral before it starts, by intentionally
 
 #### **The Practice: The Difficult Conversation Protocol**
 
-This is not a script, but a sequence of operations designed to keep both brains online.
+This protocol is our first example of "stacking" our tools. It is not a new set of skills, but a masterful combination of the **Conductor's Breath (Chapter 6)** and the **Empathy Loop (Chapter 7)**, applied to a high-stakes situation. Think of it as a sequence of operations designed to keep both brains online.
 
 1.  **Regulate Yourself First (Chapter 6):** This is non-negotiable. Use **The Conductor's Breath** before and during the conversation. If you feel the heat rising, take a silent breath. Your calm is the most powerful de-escalation tool you have.
 2.  **State Your Benign Intent (Chapter 2):** The first words out of your mouth must signal safety. Frame the conversation around a shared goal and a positive intent.

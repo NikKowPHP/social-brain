@@ -10,4 +10,6 @@
 - [x] Address "Protocol Overload" by explicitly tiering the toolkit, enhancing check-in chapters, and adding a diagnostic flowchart.
 - [x] Make the protagonist's journey more realistic by showcasing messier failures, deeper internal struggle, and allowing other characters to succeed first.
 - [x] Vary the predictable chapter structure by reordering elements and changing chapter openings.
+- [x] Add nuance to the scientific explanations to increase credibility and preempt criticism from informed readers.
+- [x] Reduce cognitive overwhelm by introducing the "Core Trio" early, reinforcing toolkit tiers within chapters, and showing how protocols "stack."
       
