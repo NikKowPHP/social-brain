@@ -54,17 +54,19 @@ To see the dashboard in action, let's look at the anatomy of a single, disastrou
 *   **Case Study in Catastrophe:** The interview concludes. As Alex is leaving, they overhear the interviewer talking to a colleague in the hallway. "My next one is a referral from the CEO. I'll probably just hire them and cancel the rest." The Fairness gauge explodes. The entire process has been a sham. Alex's brain feels the sting of a deeply unfair exchange, lighting up the same regions associated with disgust. Alex leaves not just wanting to decline any potential offer, but feeling actively hostile toward the company.
 
 ---
+#### **The Practice: Your Personal Conductor's Dashboard**
+This book is an investigation we are conducting together. The Logbook Entries at the end of each chapter are not homework; they are your field notes. From this point forward, they will help you build your own **Personal Conductor's Dashboard**—a user's manual for your own social brain. By the end of our journey, you won't just have a collection of notes; you will have a personalized diagnostic tool. Let's build the first component.
+---
 > ### **The 1% Upgrade**
 >
 > For the next 24 hours, your only mission is to listen for SCARF triggers in the world around you. In a team meeting, on a TV show, in a conversation with your partner. When you see a small flare-up of tension, ask yourself: *Which of the five gauges just went into the red?* Don't do anything about it. Just practice seeing the code.
 
 ---
-### **Logbook Entry**
+### **Logbook Entry: Your Dashboard's Main Alert**
 
-Pick one of the five SCARF domains that you think is your most sensitive personal trigger.
-1.  **Your Primary Trigger:** Which domain (Status, Certainty, Autonomy, Relatedness, or Fairness) most often triggers a threat response in you?
+Let's create the first entry for your Personal Conductor's Dashboard. This is the main alert light for your entire system.
+
+1.  **Your Primary Trigger:** Which of the five SCARF domains (Status, Certainty, Autonomy, Relatedness, or Fairness) most often triggers a threat response in you?
 2.  **Describe a Recent Event:** Briefly describe a time in the last month when you felt that trigger. What happened?
-3.  **The Physical Sensation:** What was the physical feeling associated with that threat? (e.g., "When my boss rewrote my slide without telling me (Autonomy threat), I felt a hot flush in my face.")
-
----
-You now have the dashboard. You can see the SCARF needles twitching in every conversation, and you understand the primal "why" behind the social pain of miscommunication. But seeing the code is not the same as being able to change it. Part I was about awareness. Part II is about action. It is time to pick up the baton and learn the protocols that will allow you to conduct the music.
+3.  **The Physical Sensation:** What was the physical feeling associated with that threat? (e.g., "When my boss rewrote my slide without telling me (Autonomy threat), I felt a hot flush in my face.") This sensation is a key piece of data we will use in the next chapter.
+      

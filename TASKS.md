@@ -3,4 +3,5 @@
 - [x] Combat protocol fatigue by grouping protocols into tiers ("First Chair," "Ensemble") and adding a concluding check-in chapter to Part II.
 - [x] Introduce more authentic struggle into the narrative by making Maria's successes harder-won and showing her internal monologue.
 - [x] Vary the pacing and structure by reframing chapters as "Interludes," rewriting one as a deep-dive case study, and another as an FAQ.
+- [x] Center the reader's journey by reframing Logbook Entries and introducing a "Personal Conductor's Dashboard" concept.
       

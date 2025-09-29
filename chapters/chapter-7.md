@@ -76,11 +76,11 @@ These protocols don't just solve problems. They build the foundation of trust an
 > In your next conversation where someone shares a frustration, your only goal is to ask one question: **"What's the hardest part about that for you?"** Then, put your phone face down, and just listen. Don't solve. Don't judge. Just listen.
 
 ---
-### **Logbook Entry**
+### **Logbook Entry: Dashboard Update**
 
-This week, your challenge is to practice the full Connection Protocol in one conversation.
+Let's investigate the state of your own orchestra's connection.
 
-1.  **The Situation:** Who did you practice with, and what was the topic?
-2.  **The Non-Verbal:** Which "Signal of Presence" technique did you consciously use (e.g., pointing the tripod, intelligent pause)?
-3.  **The Verbal:** Write down the exact "Playback" sentence you used to reflect the "music." How did they respond?
+1.  **Identify a "Quiet" Musician:** Think of one important relationship in your life (at work or at home) where you feel a sense of disconnection.
+2.  **Diagnose the Barrier:** What gets in the way of connection in that relationship? Is it a lack of time? A pattern of jumping to solutions (Architect)? A fear of conflict (Connector)? An assumption of threat (Sentinel)?
+3.  **Add a Goal to Your Dashboard:** On your Personal Conductor's Dashboard, write a single, simple goal for that relationship. It could be "Practice broadcasting presence with [Person's Name]" or "Use The Playback once this week with my partner."
       

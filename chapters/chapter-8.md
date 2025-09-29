@@ -107,11 +107,11 @@ Maria was slowly building trust inside her team. But the Phoenix Project require
 > In one meeting or email this week, find an opportunity to replace a "you" or "I" statement with a "we" statement. For example, instead of "I need your feedback," try "How can we get this to a good place?" Notice the subtle shift in tone from a demand to a collaboration.
 
 ---
-### **Logbook Entry**
+### **Logbook Entry: Vulnerability & Your Orchestra**
 
-This week, your mission is to run one small trust protocol with someone you'd like to build a stronger connection with.
+Let's update your dashboard with an insight about your internal orchestra and its relationship with trust.
 
-1.  **The Person & Goal:** Who did you choose, and what was your goal for the interaction?
-2.  **The Protocol:** Which trust protocol did you run? (Calibrated Vulnerability, Uncommon Commonality, or "We" Language). Describe exactly what you said or did.
-3.  **The Result:** How did they respond? Did you get an "echo" back? How did the feeling of the interaction change?
+1.  **The Fear of Vulnerability:** Which of your three musicians (Architect, Connector, or Sentinel, from Chapter 1) is most afraid of using Calibrated Vulnerability?
+2.  **The Story:** What is the specific fear or story that musician tells you? (e.g., *'The Architect says: It's inefficient and illogical to show weakness.'* or *'The Sentinel says: If I show weakness, I will be attacked.'* or *'The Connector says: If I share a problem, I will become a burden to others.'*)
+3.  **A Low-Stakes Rehearsal:** Identify one person in your life with whom it feels relatively safe to practice a micro-vulnerability. What is a small, relatable struggle you could share to open a door to connection?
       

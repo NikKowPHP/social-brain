@@ -69,10 +69,11 @@ Maria was now regulated. But regulation wasn't a solution; it was just the platf
 > [QR CODE: Watch a 60-second video walkthrough of the Conductor's Breath.]
 
 ---
-### **Logbook Entry**
+### **Logbook Entry: Your Personal System Alert**
 
-This week, your only job is to turn on your system monitor. Your mission is to catch the *physical feeling* of frustration, anxiety, or defensiveness as it arises. Don't judge it. Just notice it.
+Let's add a critical component to your Conductor's Dashboard: your early-warning system for an amygdala hijack.
 
-1.  **The Trigger:** What event or comment triggered the feeling?
-2.  **The Physical Alert:** Where did you feel it in your body? (e.g., tight chest, clenched jaw, hot face).
+1.  **Your Hijack 'Tell':** What is the primary physical sensation that lets you know your Sentinel brain is activating? (e.g., heat in the face, tightness in the chest, clenching jaw, knot in the stomach). This is your personal system alert. Write it down on your dashboard.
+2.  **Log an Event:** Over the next week, your mission is to notice this "tell" in real time. Briefly describe one event that triggered it.
 3.  **The Intervention:** Did you remember to use The Conductor's Breath? What was the immediate effect on the physical sensation?
+      

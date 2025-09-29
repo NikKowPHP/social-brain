@@ -61,11 +61,11 @@ This protocol transforms a moment of potential conflict into a moment of respect
 > The next time you are about to say "yes" to a small request that you'd rather decline, pause. Practice the protocol in your head. You don't even have to say it out loud. Just the act of scripting a respectful "no" begins to build the neural pathway.
 
 ---
-### **Logbook Entry**
+### **Logbook Entry: Deconstructing "No"**
 
-Your mission is to find one, low-stakes opportunity this week to say "no" using the "Validate, State, Offer" protocol.
+This week's entry for your dashboard is a reflection on a boundary you find difficult to hold. This moves beyond practice and into diagnosis.
 
-1.  **The Request:** What were you asked to do?
-2.  **Your Script:** Write down the exact "Validate, State, Offer" sentence you used.
-3.  **The Outcome:** How did the other person react? How did it feel for you, compared to how you normally feel when declining something?
+1.  **The Boundary:** Think of a recurring situation where you struggle to say "no" (e.g., a colleague asking for last-minute help, a family member's request that drains you). Describe it.
+2.  **The Story You Tell Yourself:** What is the specific, catastrophic story you tell yourself about what will happen if you say 'no' in that situation? (e.g., "If I say no to this project, my boss will think I'm not a team player and I'll be overlooked for promotion.")
+3.  **A SCARF Analysis:** Using the SCARF model, what is the specific social threat you are afraid of triggering (in them, or in yourself)? This reframes the problem from a personal failing to a predictable system. (e.g., "I am afraid of creating a **Relatedness** threat and making them dislike me," or "I am afraid of triggering a **Status** threat in my boss by questioning their request.")
       
