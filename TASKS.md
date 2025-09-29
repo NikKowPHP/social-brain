@@ -15,4 +15,5 @@
 - [x] Move the troubleshooting "Q&A" chapter earlier to the end of Part II to build reader resilience.
 - [x] Reframe the protagonist's primary goal in the introduction to make the final "culture win" a more satisfying and complete victory.
 - [x] Provide an immediate "quick start" tool (the Conductor's Breath) in the introduction to give readers instant value.
+- [x] Prepare the manuscript for final visual design by adding an explicit author's note on the visual philosophy.
       
