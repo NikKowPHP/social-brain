@@ -36,10 +36,13 @@ The effect was a disaster. Leo looked at her with a mix of frustration and disap
 
 > ### **The Conductor's Debrief: Debugging a Failed Connection**
 >
-> That evening, Maria ran a personal debrief on the failed interaction. This is a critical practice for any conductor. It is the primary tool for making these protocols feel authentic over time: the goal is not perfect performance, but honest self-review.
+> That evening, Maria felt a hot flush of shame, a full-blown amygdala hijack. Her first instinct wasn't to debrief, but to defend. *"This is ridiculous,"* a voice in her head screamed. *"I'm trying so hard, and he's being overly sensitive!"* She spent an hour stewing in this frustration, blaming Leo, blaming the book, blaming the entire idea of "soft skills." She was too hijacked to learn.
 >
-> 1.  **The Bug:** The protocol failed. Leo felt manipulated, not heard.
-> 2.  **The Analysis:** "Why did it fail?" she asked herself. Her [ICON: Blueprint] Architect brain had treated the Empathy Loop like a piece of code: *If I provide input X (the script), I will get output Y (connection).* She realized her error. The protocol isn't a script; it's a tool for focusing genuine presence. She had executed the *words* but had failed to provide the *music*—the underlying foundation of safety and attention. The "therapy voice" was the sound of her conscious, clumsy PFC trying to run a script instead of her integrated brain trying to connect.
+> This is the messy reality of the work: **a successful debrief is impossible when your own system is in a threat state.** It was only later, after the cortisol had subsided, that a quieter, more honest question could emerge: "What if his reaction wasn't the problem, but a data point?"
+>
+> This tiny shift was the key. It allowed her to move from blame to curiosity and finally run the real debrief:
+> 1.  **The Bug:** The protocol, delivered without genuine presence, felt manipulative and made things worse.
+> 2.  **The Analysis:** Her [ICON: Blueprint] Architect brain had treated the Empathy Loop like a piece of code: *If I provide input X (the script), I will get output Y (connection).* She realized her error. The protocol isn't a script; it's a tool for focusing genuine presence. She had executed the *words* but had failed to provide the *music*—the underlying foundation of safety and attention. The "therapy voice" was the sound of her conscious, clumsy PFC trying to run a script instead of her integrated brain trying to connect.
 > 3.  **The Patch:** "Next time," she decided, "the protocol comes last. Presence comes first." She would start not with the words, but with the non-verbal signals of safety: putting her phone away, turning her body toward him, and regulating her own system *before* she even opened her mouth.
 
 Her breakthrough came a week later when she tried again, this time implementing her "patch." She started by regulating herself and broadcasting genuine presence. She put her phone down, turned her chair to face him fully, and took a breath. Only then did she try to connect verbally, not with a script, but with a real attempt to reflect the music.

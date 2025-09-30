@@ -1,1 +1,1 @@
-- [x] Address protocol overload by reinforcing the Core Trio/Ensemble hierarchy, consolidating the Hijack Emergency Protocol, and introducing the concept of Protocol Stacks for complexity management.
+- [x] Make Maria's journey more realistic by showing failed debriefs and emphasizing the emotional "hangover" of using the conductor's toolkit.
