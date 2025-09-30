@@ -44,3 +44,10 @@ The most critical elements are:
 *   **High-Quality Infographics:** Key summary sections, especially the "Toolkit Summary & Cheat Sheet," are designed to be visually engaging, full-page infographics. The goal is to create a reference you will want to keep on your desk, not just a wall of text.
 
 This visual layer is not decorative; it is an integral part of the learning system, designed to help you internalize these tools more rapidly and effectively.
+
+---
+
+#### **A Note on Our Investigation**
+
+Finally, please treat this book not as a monologue, but as the beginning of a dialogue. The tools and ideas here are not static; they are part of a living, ongoing investigation into the source code of human connection. Throughout these pages, you will be invited to join that investigation, both through your own practice and by connecting with a community of fellow conductors. This is not a book you read, but a practice you join.
+      
