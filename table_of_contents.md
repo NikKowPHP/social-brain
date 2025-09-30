@@ -50,6 +50,8 @@
 **Chapter 12:** Taming the Threat
 *Navigating Difficult Conversations*
 
+**Chapter 12.5:** Interlude - The Power of the Unspoken
+
 **Chapter 13:** Conducting a Hostile Orchestra (Hard Mode)
 *Navigating Manipulation and Bad-Faith Arguments*
 
@@ -115,4 +117,3 @@
 **Acknowledgments**
 
 **About the Author**
-      

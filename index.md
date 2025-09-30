@@ -67,6 +67,7 @@
 **H**
 *   Habit Formation (Chapter 15)
 *   Hasson, Uri (Chapter 11, Appendix A)
+*   Hijack De-Escalation (Chapter 12)
 *   Homeostasis, Relationship (Chapter 17.6)
 
 **I**
@@ -90,6 +91,7 @@
 *   Neural Coupling (Chapter 11)
 *   Neuromythology (Preface)
 *   Neuroplasticity (Chapter 15)
+*   Non-verbal communication (Chapter 7, 12.5)
 
 **O**
 *   Obsolescence (Conclusion)
@@ -97,6 +99,7 @@
 
 **P**
 *   Pain, Social vs. Physical (Chapter 3)
+*   Pause, Intelligent (Chapter 7, 12.5)
 *   Personal Development Map (Chapter 22)
 *   Playback, The (Chapter 7, 12, 22)
 *   Power Dynamics (Chapter 4)
@@ -125,6 +128,7 @@
 *   Self-Compassion (Chapter 23)
 *   Sentinel Brain Profile (Chapters 1, 6, 7, 8, 9, 10, 12, 13, 22, 24)
 *   Shadow Conductor (Chapter 2)
+*   Silence (Chapter 7, 12.5)
 *   Social Gravity (Chapter 4)
 *   Social Pain (Chapter 3)
 *   Status (SCARF) (Chapters 5, 7, 11, 12, 13, 14, 15, 24)
@@ -139,4 +143,3 @@
 **V**
 *   Vagus Nerve (Chapter 6)
 *   Vulnerability, Calibrated (Chapter 8, 24)
-      

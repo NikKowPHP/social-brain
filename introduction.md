@@ -75,7 +75,7 @@ At the foundation are just three skills, which we will call the **Core Trio**. T
 *   **[ICON: Reflecting Arrows] The Empathy Loop** (Chapter 7) to connect with others.
 *   **[ICON: Handshake] The Trust Protocol** (Chapter 8) to build trust.
 
-If you master only these three, you will have enough to fundamentally change over 80% of your interactions. All other tools in this book are part of the **Ensemble Toolkit**—powerful, specialized instruments for specific situations. Please do not try to learn them all at once. The Core Trio is your daily practice; the Ensemble is your reference library.
+If you master only these three, you will have enough to fundamentally change over 80% of your interactions. All other tools in this book are part of the **Ensemble Toolkit**—powerful, specialized instruments for specific situations. Please do not try to learn them all at once. The Core Trio is your daily practice; the Ensemble is your reference library. Mastery is not about knowing a dozen individual tools, but about knowing how to combine them into **"Protocol Stacks"** for complex situations, a skill we will develop in Part III.
 
 But this journey requires a counter-intuitive shift in your thinking. At its heart, this book is built on a single, powerful paradox: **to gain real control in any human interaction, you must first give it up.** You will learn that the Architect's need to be right, the Connector's need to please, and the Sentinel's need to preempt every threat are precisely what undermine their influence. By giving up that rigid control, you will earn a more profound and sustainable way to conduct the orchestra. This is **The Conductor's Paradox**, and we will return to it again and again.
 
@@ -92,3 +92,4 @@ This is a journey of practice, not a quest for perfection. You will not become a
 To make this journey practical, this book is designed around an official training program. **The 30-Day Conductor's Challenge in Appendix C** is not an afterthought; it is your guided path to internalizing these skills. It will help you focus on one core skill per week, turning theory into practice and combating the feeling of being overwhelmed. I urge you to use it as your roadmap as you progress through the book.
 
 The journey to becoming the conductor starts now. Turn the page, and let's diagnose your orchestra.
+      

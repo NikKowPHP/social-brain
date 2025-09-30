@@ -33,7 +33,7 @@ The tension spiked. Maria felt her own **[ICON: Shield] Sentinel** brain flare u
 
 *   She turned to Jane, making it clear she was a valuable part of the discussion, not a roadblock. She deployed the **[ICON: Reflecting Arrows] Empathy Loop (Chapter 7)** for the whole group to see. "That's a critical point, Jane. It sounds like you're concerned we're not taking the database-failure risk seriously enough. Is that right?"
 *   Jane, who was used to having to fight to be heard, was momentarily disarmed. "Yes, exactly," she said. The tension in her shoulders dropped a notch.
-*   *A note for the conductor: This is a masterful performance of the Core Trio under pressure. Maria uses The Breath to stay regulated in the face of conflict, then deploys The Empathy Loop to co-regulate the most stressed person in the room, unlocking a solution.*
+*   *A note for the conductor: This is a masterful performance of the Core Trio under pressure. Maria uses The Breath to stay regulated in the face of conflict, then deploys The Empathy Loop to co-regulate the most stressed person in the room, unlocking a solution. **(Protocol Stack: Conductor's Breath + Empathy Loop)**.*
 *   Maria held that space. "Tell me more about the specific failure mode that worries you most."
 
 As Jane explained, Maria noticed a change. By feeling heard and validated, Jane's brain began to shift out of its pure [ICON: Shield] Sentinel threat-detection mode. She finished her point, then added something new. "...but, because I don't feel like I have to fight to be heard on that, I can also see a creative way we might be able to use a caching layer to mitigate it. It's a bit of a risk, but it might just work."
@@ -53,7 +53,7 @@ The follow-up cemented the progress they had made, transforming a potentially ch
 What we just witnessed was a leader moving from being a participant in a meeting to being the designer of a system for productive conversation. Maria used a layered set of protocols to create an environment of high psychological safety, even in a high-stakes disagreement.
 
 *   **The Science:** The core challenge was **Neural Contagion**. Mark's and Jane's initial anxiety was threatening to hijack the entire group. Maria's calm, regulated presence, combined with her use of the Empathy Loop, acted as a more powerful broadcast signal, co-regulating the room and creating the conditions for the team's collective PFC to come back online.
-*   **The Blueprint:** Maria's process—designing the meeting **Before**, **During**, and **After**—is the fundamental blueprint for any high-stakes group conversation, from the boardroom to the living room.
+*   **The Blueprint:** Maria's process—designing the meeting **Before**, **During**, and **After**—is the fundamental blueprint for any high-stakes group conversation, from the boardroom to the living room. **This entire sequence is an example of the "Meeting Alignment Protocol Stack."**
 
 ---
 ### **Logbook Entry**
@@ -64,3 +64,4 @@ This week, you will conduct one meeting, even if you are not the official leader
 2.  **The Intervention:** Which single practice did you implement? (e.g., sending a SCARF-aware agenda, opening by stating roles, using the Empathy Loop on a dissenter, sending a clear follow-up).
 3.  **The Result:** What was the observable impact on the meeting's tone or outcome?
 4.  **Path to Adaptive:** How did your chosen intervention help you practice a non-dominant brain profile? (e.g., 'As an [ICON: Blueprint] Architect, using the Empathy Loop helped me practice my [ICON: Bridge] Connector brain.')
+      

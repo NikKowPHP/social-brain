@@ -7,7 +7,7 @@ The following cheat sheet is your consolidated reference for the core protocols 
 This is the toolkit you've built.
 
 ---
-[AUTHOR'S NOTE: This cheat sheet should be designed as a full-page, visually engaging infographic for easy reference.]
+[AUTHOR'S NOTE: This cheat sheet should be designed as a full-page, visually engaging infographic for easy reference. **CRITICAL: Include a visual representation of the CORE TRIO and ENSEMBLE HIERARCHY.**]
 
 ### **The Conductor Method Cheat Sheet**
 
@@ -63,6 +63,11 @@ This is the toolkit you've built.
 *   **When you need to say "no" to a request...**
     *   **Then...** Use **The Boundary Protocol** to protect your time gracefully. (Ch 16)
 *   **When a conversation is getting heated and unproductive...**
-    *   **Then...** Use the **Hijack Emergency Protocol** (Validate emotion, offer autonomy). (Ch 12)
+    *   **Then...** Use the **Hijack De-Escalation** (Validate emotion, offer autonomy). (Ch 12)
 *   **When you are trying to persuade a skeptical audience...**
     *   **Then...** Use the **Tension & Resolution Arc** to frame your data as a story. (Ch 11)
+
+---
+### **The Next Level: Protocol Stacks**
+*(Author's Note: Part III will focus on combining these tools into dynamic "Protocol Stacks" for complex scenarios like meetings and conflict resolution. Mastery is not about knowing 10 tools, but knowing how to layer the Core Trio with the Ensemble Toolkit to create powerful, integrated performances.)*
+      

@@ -32,6 +32,8 @@ She found Mark and asked if he had a moment.
     "Yes," he said, his voice quiet. The anger was gone, but the trust wasn't fully back.
 4.  **Co-create the Solution:** Only after the connection was repaired did she move to the original problem. "That was my failure as a leader. I let my stress get the better of me. In the future, I will not give that kind of feedback in a public setting. And I'd still like to find a way for us to talk about the proposal. How can we make sure that feedback is delivered in a way that works for both of us?"
 
+*A note for the conductor: Maria's repair is a classic Protocol Stack in action. She uses **The Conductor's Breath** to regulate, then layers the principles of the **Repair Protocol** to open, and finally uses the **Empathy Loop** to connect. This is how the tools combine under pressure.*
+
 They agreed on a new protocol: no feedback on major work via email, only in a quick 5-minute sync. The conversation was a success, but it wasn't a victory. That evening, Maria went home feeling not triumphant, but drained. The emotional labor of regulating herself, taking full responsibility, and carefully navigating Mark's defensiveness had left her with a profound "vulnerability hangover." She felt the pull of her old [ICON: Blueprint] Architect ways—a longing for the simple, clean world of data and logic where messy feelings didn't exist. This internal conflict was a crucial part of her journey. She was learning that conducting was not about feeling good; it was about doing the necessary work, even when it was exhausting.
 
 #### **The Science: The Hijack Spiral**
@@ -72,9 +74,10 @@ This protocol transforms a dreaded confrontation into a structured, safe, and pr
 Maria had repaired the conflict with Mark, but a new, more dangerous threat was emerging. A key stakeholder from another department, David, seemed intent on sabotaging the Phoenix Project for his own political gain. Maria was about to learn that not all difficult conversations are in good faith. Some are battles that require a different set of tools.
 
 ---
-> ### **Emergency Protocol: The Hijack**
+> ### **Emergency Application: The Hijack De-Escalation**
 >
-> What if the conversation catches fire despite your best efforts?
+> What if the conversation catches fire despite your best efforts? This is the rapid, defensive application of the Difficult Conversation Protocol when both parties are hijacked.
 > 1.  **Regulate Yourself First** (The Conductor's Breath).
-> 2.  **Validate the Feeling, Not the Content** (Use The Playback on their emotion: *"It sounds like you're incredibly frustrated right now."*).
-> 3.  **Restore Autonomy** (Give them a choice, e.g., *"This is an important conversation, and it's getting heated. Should we pause for five minutes and come back to this?"*).
+> 2.  **Validate the Feeling, Not the Content** (Use The Playback on their emotion: *"It sounds like you're incredibly frustrated right now."*). This is the key de-escalation step.
+> 3.  **Restore Autonomy** (Give them a choice, e.g., *"This is an important conversation, and it's getting heated. Should we pause for five minutes and come back to this?"*). This gives both of your brains a chance to come back online.
+      
