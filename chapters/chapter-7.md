@@ -32,17 +32,15 @@ Later, determined to fix her mistake, Maria tried to use the Empathy Loop protoc
 **Leo:** "The hardest part was that I felt completely invisible."
 **Maria:** "So, what I'm hearing is that you felt invisible. Is that an accurate summary?"
 
-The effect was a disaster. Leo looked at her with a mix of frustration and disappointment. "Are you reading from a management book, Maria? Stop using that therapy voice on me." The words stung. Maria felt a hot flush of shame—a full-blown amygdala hijack. Her attempt to connect had created an even bigger rift. The protocol, when performed without genuine presence, had backfired completely, and she had to use the **[ICON: Stitches] Repair Protocol (Chapter 17)** just to get back to neutral.
+The effect was a disaster. Leo looked at her with a mix of frustration and disappointment. "Are you reading from a management book, Maria? Stop using that therapy voice on me." The words stung. Maria felt a hot flush of shame—a full-blown amygdala hijack. Her attempt to connect had created an even bigger rift.
 
 > ### **The Conductor's Debrief: Debugging a Failed Connection**
 >
-> That evening, Maria ran a personal debrief on the failed interaction. This is a critical practice for any conductor: treating a mistake not as a personal failure, but as a data point.
+> That evening, Maria ran a personal debrief on the failed interaction. This is a critical practice for any conductor. It is the primary tool for making these protocols feel authentic over time: the goal is not perfect performance, but honest self-review.
 >
 > 1.  **The Bug:** The protocol failed. Leo felt manipulated, not heard.
 > 2.  **The Analysis:** "Why did it fail?" she asked herself. Her [ICON: Blueprint] Architect brain had treated the Empathy Loop like a piece of code: *If I provide input X (the script), I will get output Y (connection).* She realized her error. The protocol isn't a script; it's a tool for focusing genuine presence. She had executed the *words* but had failed to provide the *music*—the underlying foundation of safety and attention. The "therapy voice" was the sound of her conscious, clumsy PFC trying to run a script instead of her integrated brain trying to connect.
 > 3.  **The Patch:** "Next time," she decided, "the protocol comes last. Presence comes first." She would start not with the words, but with the non-verbal signals of safety: putting her phone away, turning her body toward him, and regulating her own system *before* she even opened her mouth.
->
-> This debugging process is what separates a novice from a master. A novice blames the tool or the other person. A master debugs their own application of the tool.
 
 Her breakthrough came a week later when she tried again, this time implementing her "patch." She started by regulating herself and broadcasting genuine presence. She put her phone down, turned her chair to face him fully, and took a breath. Only then did she try to connect verbally, not with a script, but with a real attempt to reflect the music.
 
@@ -57,7 +55,7 @@ When you offer a solution before establishing an emotional connection, the other
 ---
 > ### **Shadow Alert: The Empathy Trap**
 >
-> The Empathy Loop is a tool for understanding, not for steering. A Shadow Conductor uses "empathy" as a tool for manipulation. They listen intently to discover a person's core needs and fears, not to connect with them, but to find the perfect lever to move them in a desired direction.
+> The Empathy Loop is a tool for understanding, not for steering. The **Shadow Conductor**—the manipulative version of ourselves we must always guard against—uses "empathy" as a tool for control. They listen intently to discover a person's core needs and fears, not to connect with them, but to find the perfect lever to move them in a desired direction.
 >
 > **Check your intent.** Are you using the Playback to make the other person feel safe enough to explore their own thoughts, or are you using it to make them feel understood so they will lower their guard and agree with you? The first is conducting; the second is a subtle form of control.
 ---
@@ -65,6 +63,12 @@ When you offer a solution before establishing an emotional connection, the other
 >
 > This is where my own "native programming" fought me the hardest. As an [ICON: Blueprint] Architect, my brain is a solution-generating machine. When someone describes a problem, my first instinct is to structure it, find the bug, and propose a fix. Learning to suppress that instinct—to physically bite my tongue to keep from interrupting with a solution and to just *listen*—was one of the most difficult and valuable skills I ever practiced. The Empathy Loop is not just a tool for connecting with others; it is a training regimen for quieting your own inner [ICON: Blueprint] Architect so you can hear the music of the person in front of you.
 ---
+#### **When It Feels Awkward: Navigating the "Therapy Voice"**
+Maria's "therapy voice" experience is incredibly common. When you first practice these tools, you are running a new piece of software on your brain's hardware. It will feel clumsy. People who know you well may notice the change and call it out. This is a critical moment. Do not panic. The key is to name the awkwardness and enroll them in the process.
+
+**The Script:** *"You're right, that did sound a bit like a script. I've been trying to get better at really listening instead of just jumping in to solve things, and it still feels a bit clumsy. I'd actually love your feedback as I practice."*
+
+This response uses Calibrated Vulnerability (Chapter 8) to disarm the situation. It transforms their accusation into an invitation for collaboration, turning them from a critic into a coach. For a more detailed guide on handling this and other common "immune responses" from your social system, see the Q&A in Chapter 17.6.
 
 #### **The Practice: A Three-Part Protocol for Presence**
 

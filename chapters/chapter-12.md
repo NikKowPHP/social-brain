@@ -8,7 +8,7 @@
 > *   **Primary Brain Profile:** Connector (Core Skill Development)
 > *   **Purpose:** To navigate high-stakes conversations safely and productively, making conflict a source of progress, not pain.
 
-Every conductor dreads the moment a key instrument goes wildly out of tune, creating a dissonance that threatens the entire performance. This chapter's **Ensemble** tool is for conducting through that dissonance. A difficult conversation is an interaction where the SCARF threats are high for everyone involved, and the risk of a collective amygdala hijack is almost 100%.
+Every conductor dreads the moment a key instrument goes wildly out of tune, creating a dissonance that threatens the entire performance. This chapter's **Ensemble** tool is for conducting through that dissonance. A difficult conversation is an interaction where the SCARF threats are high for everyone involved, and the risk of a a collective amygdala hijack is almost 100%.
 
 These are the conversations we avoid: addressing underperformance, resolving a conflict between teammates, or admitting a major mistake. We avoid them because we instinctively know that they are minefields of social pain. But a conductor cannot avoid dissonance; they must learn to conduct through it. This chapter provides the protocol for navigating these conversations, not to avoid conflict, but to make it productive.
 
@@ -32,7 +32,7 @@ She found Mark and asked if he had a moment.
     "Yes," he said, his voice quiet. The anger was gone, but the trust wasn't fully back.
 4.  **Co-create the Solution:** Only after the connection was repaired did she move to the original problem. "That was my failure as a leader. I let my stress get the better of me. In the future, I will not give that kind of feedback in a public setting. And I'd still like to find a way for us to talk about the proposal. How can we make sure that feedback is delivered in a way that works for both of us?"
 
-They agreed on a new protocol: no feedback on major work via email, only in a quick 5-minute sync. The conversation didn't end with a handshake and a smile. It was a messy, partial repair. But as Maria walked away, she ran her debrief. The true victory wasn't a perfect reconciliation. It was that she had stayed regulated enough to try, to take responsibility, and to open the door for trust to be rebuilt over time. The skill wasn't in the perfect performance, but in the courageous, non-judgmental debrief of her own messy one.
+They agreed on a new protocol: no feedback on major work via email, only in a quick 5-minute sync. The conversation was a success, but it wasn't a victory. That evening, Maria went home feeling not triumphant, but drained. The emotional labor of regulating herself, taking full responsibility, and carefully navigating Mark's defensiveness had left her with a profound "vulnerability hangover." She felt the pull of her old [ICON: Blueprint] Architect ways—a longing for the simple, clean world of data and logic where messy feelings didn't exist. This internal conflict was a crucial part of her journey. She was learning that conducting was not about feeling good; it was about doing the necessary work, even when it was exhausting.
 
 #### **The Science: The Hijack Spiral**
 

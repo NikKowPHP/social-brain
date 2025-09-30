@@ -1,1 +1,3 @@
 - [x] Address feedback on "protocol overload" by restructuring the book's learning hierarchy.
+- [x] Make the "Maria" case study less of a "perfect trajectory" by introducing a catastrophic failure, more internal conflict, and varied case studies.
+- [x] Address the "authenticity vs. manipulation" tightrope by making the "Shadow Conductor" a recurring character, emphasizing the debrief as a path to authenticity, and acknowledging the awkwardness of learning.

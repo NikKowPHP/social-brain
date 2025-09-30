@@ -70,9 +70,15 @@ To solve both problems, we need a protocol for giving feedback safely, a protoco
 >
 > Giving feedback "down" (to a direct report) carries inherent Status and Certainty threats. Your primary job is to create safety using the "Get Permission" step. Giving feedback "up" (to a boss) is risky. Your primary job is to frame it in a way that serves their goals and respects their Status, such as asking for their advice on the data you're presenting.
 
-> ### **From the Boardroom to the Living Room: The "Car Keys" Debug**
+> ### **Standalone Case Study: The "Car Keys" Debug**
 >
-> Maria's newfound confidence with the Debug protocol at work led her to try it at home, with mixed results. Her attempt to 'Share Data, Not Drama' with her partner about a recurring household chore came across as clinical and cold, triggering a 'don't use your manager voice on me' response. It was a humbling reminder that context is everything, and that the protocols are a starting point for connection, not a replacement for it. The real work was learning to adapt the *principles* (safety, data, collaboration) to the unique 'software' of her home life.
+> Maria's newfound confidence with the Debug protocol at work led her to try it at home, with disastrous results at first. Her partner had a habit of leaving their keys in the front door overnight. Maria, seeing this as a "bug," decided to run the protocol.
+>
+> "Honey," she said one evening, "I have some observations about our entryway security I'd like to discuss. Are you open to it?" (Get Permission). Her partner agreed, looking confused.
+>
+> "The data I have," she continued, "is that for the third time this month, the keys were left in the door." (Share Data, Not Drama). "How can we co-create an upgrade to our process to ensure we're both safe?"
+>
+> The response was a stony silence, followed by, "Stop using your manager voice on me. I'm not one of your employees." The protocol, delivered with a clinical, corporate tone, had crashed. It was a humbling reminder that context is everything. The *principles* of the protocol (safety, data, collaboration) are universal, but the *language* must be adapted to the specific "software" of the relationship. A week later, she tried again, this time with a different script but the same principles: "Hey, I get worried when the keys are in the door. I know you're not doing it on purpose. Can we brainstorm a way to help us both remember?" That conversation, grounded in "I" statements and shared feeling, worked.
 
 > ### **Profile Alert: Feedback**
 >

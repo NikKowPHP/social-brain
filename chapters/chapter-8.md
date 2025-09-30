@@ -27,7 +27,7 @@ What came back was not an echo, but a wall. Jane's eyes narrowed. "What do you w
 
 > ### **The Conductor's Debrief: A Partial Success**
 >
-> That night, Maria couldn't stop replaying the interaction. The protocol had failed, but her debrief was a success. She resisted the urge to blame Jane (the musician) or the protocol (the instrument). Instead, she analyzed her own performance as the conductor.
+> That night, Maria couldn't stop replaying the interaction. The protocol had failed, but her debrief was a success. She resisted the urge to blame Jane (the musician) or the protocol (the instrument). Instead, she analyzed her own performance as the conductor. This honest self-review is the engine of authenticity.
 > *   **The Bug:** "My attempt at Calibrated Vulnerability backfired, making Jane more defensive."
 > *   **The Analysis:** "I used the right protocol for the wrong audience. Jane's [ICON: Shield] Sentinel brain doesn't see vulnerability as an invitation; it sees it as an anomaly, a potential trap. It was a [ICON: Map] Certainty threat. I failed to account for her specific 'local software'."
 > *   **The Patch:** "To connect with a [ICON: Shield] Sentinel, I shouldn't offer my weakness. I need to honor her strength. Next time, I will ask for her expert risk-assessment, rewarding her [ICON: Crown] Status instead of threatening her [ICON: Map] Certainty."
