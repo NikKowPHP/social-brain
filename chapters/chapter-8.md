@@ -120,3 +120,4 @@ Let's update your dashboard with an insight about your internal orchestra and it
 1.  **The Fear of Vulnerability:** Which of your three musicians (Architect, Connector, or Sentinel, from Chapter 1) is most afraid of using Calibrated Vulnerability?
 2.  **The Story:** What is the specific fear or story that musician tells you? (e.g., *'The Architect says: It's inefficient and illogical to show weakness.'* or *'The Sentinel says: If I show weakness, I will be attacked.'* or *'The Connector says: If I share a problem, I will become a burden to others.'*)
 3.  **A Low-Stakes Rehearsal:** Identify one person in your life with whom it feels relatively safe to practice a micro-vulnerability. What is a small, relatable struggle you could share to open a door to connection?
+4.  **Path to Adaptive:** How could using the Trust Protocol help you strengthen your least-dominant brain profile?

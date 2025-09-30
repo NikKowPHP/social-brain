@@ -86,3 +86,4 @@ Let's add a critical component to your Conductor's Dashboard: your early-warning
 1.  **Your Hijack 'Tell':** What is the primary physical sensation that lets you know your Sentinel brain is activating? (e.g., heat in the face, tightness in the chest, clenching jaw, knot in the stomach). This is your personal system alert. Write it down on your dashboard.
 2.  **Log an Event:** Over the next week, your mission is to notice this "tell" in real time. Briefly describe one event that triggered it.
 3.  **The Intervention:** Did you remember to use The Conductor's Breath? What was the immediate effect on the physical sensation?
+4.  **Path to Adaptive:** How could mastering The Conductor's Breath help you strengthen your least-dominant brain profile?

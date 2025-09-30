@@ -97,3 +97,4 @@ This week, your mission is to break the silence once using the "Safety Signal" P
 1.  **The Situation:** Where were you and who did you approach?
 2.  **The Protocol:** Write down the exact "Shared Context" and "Low-Stakes Observation" you used.
 3.  **The Result:** What was the outcome? The goal isn't a long conversation, just a brief, safe connection.
+4.  **Path to Adaptive:** How could using the Safety Signal Protocol help you strengthen your least-dominant brain profile?

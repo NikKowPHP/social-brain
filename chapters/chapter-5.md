@@ -73,3 +73,4 @@ Let's create the first entry for your Personal Conductor's Dashboard. This is th
 1.  **Your Primary SCARF Trigger:** Which of the five SCARF domains (Status, Certainty, Autonomy, Relatedness, or Fairness) most often triggers a threat response in you? This is your primary sensitivity.
 2.  **Describe a Recent Event:** Briefly describe a time in the last month when you felt that trigger. What happened?
 3.  **The Physical Sensation:** What was the physical feeling associated with that threat? (e.g., "When my boss rewrote my slide without telling me (Autonomy threat), I felt a hot flush in my face.") This sensation is a key piece of data—your personal system alert—that we will use in the next chapter.
+4.  **Path to Adaptive:** How could using the SCARF dashboard help you strengthen your least-dominant brain profile?

@@ -29,15 +29,15 @@
 *   Cognitive Load (Chapters 10, 14)
 *   Cognitive Style (Chapter 1, 9, 18)
 *   Conductor's Oath (Chapter 2)
-*   Conductor's Paradox (Chapter 22, Conclusion)
+*   Conductor's Paradox (Introduction, Chapter 22)
 *   Connector Brain Profile (Chapters 1, 6, 7, 8, 10, 12, 13, 22, 24)
 *   Cortisol (Chapter 6, 9, 12)
 *   Cross-Cultural Communication (Chapter 14)
-*   Crucible Concept (Conclusion)
+*   Crucible Concept (Chapter 25)
 
 **D**
 *   Data vs. Drama (Chapter 15)
-*   Dissonance, Productive (Conclusion)
+*   Dissonance, Productive (Chapter 25)
 *   Dopamine (Chapter 11, 15)
 
 **E**
@@ -52,7 +52,7 @@
 *   Extraversion/Introversion (Chapter 1)
 
 **F**
-*   Family Systems Theory (Chapter 21)
+*   Family Systems Theory (Chapter 17.6)
 *   Fairness (SCARF) (Chapters 5, 12, 13, 24)
 *   Feedback (Chapter 15)
     *   Giving (Debug Protocol)
@@ -67,7 +67,7 @@
 **H**
 *   Habit Formation (Chapter 15)
 *   Hasson, Uri (Chapter 11, Appendix A)
-*   Homeostasis, Relationship (Chapter 21)
+*   Homeostasis, Relationship (Chapter 17.6)
 
 **I**
 *   Intuition (Chapter 22, Conclusion)

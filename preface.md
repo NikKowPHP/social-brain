@@ -26,6 +26,8 @@ The field of neuroscience is in constant, rapid flux. Many of the concepts that 
 
 Therefore, you should treat the scientific models in this book as subway maps, not as perfect, to-scale representations of the city. They are simplified, practical tools designed for navigation. They are incredibly useful for making sense of your experience and for building better habits, but they are not the territory itself.
 
+Just as these scientific models are maps, not the territory, the protocols themselves are tools, not replacements for intuition and wisdom. The goal of this book is to practice the scales so you can eventually forget them and simply play the music.
+
 I have framed these protocols as "scientifically-informed" and "practically effective," not as "scientifically proven to be true." Their ultimate test is not whether the model is a perfect depiction of brain function, but whether the tool works in your life. This approach shifts our foundation from a brittle certainty in today's science to a resilient pragmatism that can adapt to the discoveries of tomorrow.
 
 ---
@@ -40,4 +42,3 @@ The most critical elements, which I have flagged for our design team, are:
 *   **High-Quality Infographics:** Key summary sections, especially the "Toolkit Summary & Cheat Sheet," are designed to be visually engaging, full-page infographics. The goal is to create a reference you will want to keep on your desk, not just a wall of text.
 
 This visual layer is designed to be an integral part of the learning system, helping you to internalize these tools more rapidly and effectively.
-      

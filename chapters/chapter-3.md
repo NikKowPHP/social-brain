@@ -71,4 +71,4 @@ Time to practice being a Social Pain Detective. Over the next few days, your mis
 
 1.  **The Event:** Briefly describe a moment when you saw someone (or yourself) have a defensive or emotional reaction. (e.g., "My partner got angry when I reminded them to take out the trash.")
 2.  **The Detective Work:** What social threat might they have been perceiving? (e.g., "It wasn't about the trash. It was a threat to their sense of control—they felt I was telling them what to do.")
-      
+3.  **Path to Adaptive:** How could becoming a 'Social Pain Detective' help you strengthen your least-dominant brain profile?

@@ -36,3 +36,4 @@ Before moving on to Part III, take a final moment to reflect on the full toolkit
 1.  **The Full Toolkit:** Look back at the "Toolkit Summary & Cheat Sheet." Which protocol, beyond the "First Chair," are you most excited or intrigued to practice?
 2.  **A Recent "Bug":** Think of a recent communication breakdown or difficult conversation you experienced. Looking at the full list of protocols, which "Ensemble" tool might have been most helpful in that situation?
 3.  **Your Intention for Part III:** As you prepare to move from learning to application, what is your single biggest goal? (e.g., "My goal is to run one meeting using the blueprint," or "My goal is to practice the Boundary Protocol with a family member.")
+4.  **Path to Adaptive:** As you look at the full toolkit, which 'Ensemble' tool would most help you develop your least-dominant brain profile?

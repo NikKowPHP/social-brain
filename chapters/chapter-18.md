@@ -62,4 +62,4 @@ This week, you will conduct one meeting, even if you are not the official leader
 1.  **The Meeting:** Which meeting did you choose to focus on?
 2.  **The Intervention:** Which single practice did you implement? (e.g., sending a SCARF-aware agenda, opening by stating roles, using the Empathy Loop on a dissenter, sending a clear follow-up).
 3.  **The Result:** What was the observable impact on the meeting's tone or outcome?
-      
+4.  **Path to Adaptive:** How did your chosen intervention help you practice a non-dominant brain profile? (e.g., 'As an Architect, using the Empathy Loop helped me practice my Connector brain.')

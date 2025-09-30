@@ -69,8 +69,7 @@
 
 **Chapter 17.5:** You Have Your Baton
 
-**Chapter 17.6:** A Q&A With the Conductor
-*Navigating the Backlash When You Change*
+**Chapter 17.6:** Troubleshooting the Toolkit (A Conductor's Q&A)
 
 ---
 
@@ -94,6 +93,8 @@
 **Chapter 24:** The Conductor's Legacy
 *Building a Self-Tuning, Psychologically Safe Orchestra*
 
+**Chapter 25:** Conducting the Dissonance
+
 **Conclusion:** The Conductor's Final Paradox
 
 **Join the Orchestra**
@@ -112,4 +113,3 @@
 **Acknowledgments**
 
 **About the Author**
-      

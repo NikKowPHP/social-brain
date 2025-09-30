@@ -113,3 +113,4 @@ This week, find one email you are about to send that is more than three paragrap
 1.  **The "Before":** Paste or describe the original, unstructured message.
 2.  **The "After":** Rewrite the message using the Clarity Protocol (One Goal, Headline First, Chunked Details).
 3.  **The Reflection:** What did you notice during the editing process? Did you get a faster or clearer response than you normally would?
+4.  **Path to Adaptive:** How could practicing the Clarity Protocol help you strengthen your least-dominant brain profile?

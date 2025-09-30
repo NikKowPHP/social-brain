@@ -21,7 +21,7 @@ Maria realized she didn't need another spreadsheet; she needed a story. In her p
 
 Why is a story so much more powerful than a list of facts? Neuroscientist Uri Hasson at Princeton discovered the answer. Using fMRI scanners, he found that when one person tells a compelling story, the listener's brain activity begins to synchronize with the storyteller's. The same regions light up at the same time. This phenomenon, called **neural coupling**, is like a brain-to-brain data transfer.
 
-The storyteller isn't just transmitting information; they are recreating the *experience* of that information inside the listener's head. Furthermore, when the tension in a story is a resolved, the listener's brain gets a small hit of dopamine, the "reward" chemical. This dopamine hit acts like a "save" button in the brain, making the message far more memorable and persuasive than a simple recitation of facts.
+The storyteller isn't just transmitting information; they are recreating the *experience* of that information inside the listener's head. Furthermore, when the tension in a story is resolved, the listener's brain gets a small hit of dopamine, the "reward" chemical. This dopamine hit acts like a "save" button in the brain, making the message far more memorable and persuasive than a simple recitation of facts.
 
 #### **The Practice: The Tension & Resolution Arc**
 
@@ -60,3 +60,4 @@ This week, your mission is to re-frame one of your key messages (an email, a pre
 1.  **The Original Message:** How would you have normally phrased it?
 2.  **The Story Arc:** Rewrite the message using the "And, But, Therefore" structure.
 3.  **The Reflection:** How does the new version feel? Does it create a clearer sense of purpose or urgency?
+4.  **Path to Adaptive:** How could practicing the Tension & Resolution Arc help you strengthen your least-dominant brain profile?

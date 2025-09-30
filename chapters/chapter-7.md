@@ -109,3 +109,4 @@ This week, your challenge is to practice the full Connection Protocol in one con
 1.  **The Situation:** Who did you practice with, and what was the topic?
 2.  **The Non-Verbal:** Which "Signal of Presence" technique did you consciously use (e.g., pointing the tripod, intelligent pause)?
 3.  **The Verbal:** Write down the exact "Playback" sentence you used to reflect the "music." How did they respond?
+4.  **Path to Adaptive:** How could practicing the Connection Protocol help you strengthen your least-dominant brain profile?

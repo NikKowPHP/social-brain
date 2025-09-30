@@ -140,3 +140,4 @@ This week, your mission is to practice the **"Intake" Protocol**. The next time 
 1.  **The Feedback:** What was the feedback, criticism, or comment you received?
 2.  **The Feeling:** What was the immediate physical or emotional sensation you felt? (e.g., heat in the face, knot in the stomach).
 3.  **The Response:** Did you manage to use the clarifying question ("Can you give me a specific example?")? What was the result? If you didn't, what got in the way?
+4.  **Path to Adaptive:** How could mastering the 'Intake' Protocol help you strengthen your least-dominant brain profile?
