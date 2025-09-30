@@ -29,7 +29,7 @@ The conversation began, and just as she predicted, the conflict ignited. Mark pr
 
 Mark retorted, "Your models are too conservative. We'll never ship if we listen to every what-if."
 
-The tension spiked. Maria felt her own **[ICON: Shield] Sentinel** brain flare up. She took a silent **[ICON: Lungs] Conductor's Breath (Chapter 6)** to keep her own PFC online. This was the moment. An unskilled manager would take a side. A conductor tunes the instruments.
+The tension spiked. Maria felt her own **[ICON: Shield] Sentinel** brain flare up. For a brief moment, she felt a flash of pure frustration—an urge to tell them both to stop arguing and just find a compromise. This was the hijack warning. She took a silent **[ICON: Lungs] Conductor's Breath (Chapter 6)** to keep her own PFC online. This was the moment. An unskilled manager would take a side. A conductor tunes the instruments.
 
 *   She turned to Jane, making it clear she was a valuable part of the discussion, not a roadblock. She deployed the **[ICON: Reflecting Arrows] Empathy Loop (Chapter 7)** for the whole group to see. "That's a critical point, Jane. It sounds like you're concerned we're not taking the database-failure risk seriously enough. Is that right?"
 *   Jane, who was used to having to fight to be heard, was momentarily disarmed. "Yes, exactly," she said. The tension in her shoulders dropped a notch.
