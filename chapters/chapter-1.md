@@ -92,10 +92,11 @@ Remember, your dominant style is your "peacetime" preference. Under stress, your
 
 #### **Your Personalized Roadmap**
 
-This diagnostic has given you your map. As you continue your journey, use it to pay special attention to the chapters that will help you grow the most.
+This diagnostic has given you your map. As you continue your journey through the foundational concepts in Part I, use this as a "look ahead" to the chapters in Part II that will help you grow the most.
 
 *   **For the [ICON: Blueprint] Architects (Mostly A's):** Your core work is in Chapters **7 (The Connection Protocol)** and **11 (Storytelling)**. These will help you connect your powerful logic to the emotional core of your listeners.
 *   **For the [ICON: Bridge] Connectors (Mostly B's):** Your path to mastery lies in Chapters **6 (Self-Regulation)**, **12 (Difficult Conversations)**, and **15 (Feedback)**. These will give you the tools to remain empathetic while holding your ground and speaking with clarity and strength.
 *   **For the [ICON: Shield] Sentinels (Mostly C's):** Your foundational toolkit is in Chapters **6 (Self-Regulation)**, **8 (Building Trust)**, and **12 (Difficult Conversations)**. These chapters are designed to help you calm your inner alarm system so you can lead with confidence, not fear.
 
 You now have your starting point. You know your orchestra. Our next step is to explore the purpose of this work—to look beyond just "fixing" communication and understand the deeper human need for the music of connection.
+      

@@ -34,7 +34,16 @@ She found Mark and asked if he had a moment.
 
 *A note for the conductor: Maria's repair is a classic Protocol Stack in action. She uses **The Conductor's Breath** to regulate, then layers the principles of the **Repair Protocol** to open, and finally uses the **Empathy Loop** to connect. This is how the tools combine under pressure.*
 
-They agreed on a new protocol: no feedback on major work via email, only in a quick 5-minute sync. The conversation was a success, but it wasn't a victory. That evening, Maria went home feeling not triumphant, but drained. The emotional labor of regulating herself, taking full responsibility, and carefully navigating Mark's defensiveness had left her with a profound "vulnerability hangover." She felt the pull of her old [ICON: Blueprint] Architect ways—a longing for the simple, clean world of data and logic where messy feelings didn't exist. This internal conflict was a crucial part of her journey. She was learning that conducting was not about feeling good; it was about doing the necessary work, even when it was exhausting.
+They agreed on a new protocol: no feedback on major work via email, only in a quick 5-minute sync. The conversation was a success, but it wasn't a victory. That evening, Maria went home feeling not triumphant, but drained. The emotional labor of regulating herself, taking full responsibility, and carefully navigating Mark's defensiveness had left her with a profound exhaustion. This feeling, she was learning, was a predictable part of the work.
+
+> ### **Neuro-Toolkit: The Conductor's Fatigue (The Hangover)**
+>
+> The profound exhaustion Maria felt is a real, predictable phenomenon. Let's give it a name: **Conductor's Fatigue.** It is the emotional and cognitive cost of high-stakes performance, and it comes in two primary forms.
+>
+> *   **The Vulnerability Hangover:** This is the feeling of anxiety, regret, or second-guessing that often follows an act of vulnerability, like setting a boundary (Chapter 16) or having a difficult conversation (Chapter 12). Even when you do it perfectly, your brain's ancient wiring may still scream, *"Did I just risk my place in the tribe?"* This is the price of courage.
+> *   **The Success Hangover:** This is the surprising emptiness or exhaustion that can follow a major victory, like Maria's successful presentation to the board (Chapter 11). You've been running on adrenaline for so long that when the performance ends, the system crashes.
+>
+> **This is not a bug; it is a feature.** This fatigue is a sign that you are doing real, meaningful, and emotionally demanding work. The goal is not to eliminate it, but to anticipate it, normalize it, and build recovery protocols to manage it. To deny the hangover is to set yourself up for burnout.
 
 #### **The Science: The Hijack Spiral**
 

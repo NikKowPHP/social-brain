@@ -58,12 +58,12 @@ To see the dashboard in action, let's look at the anatomy of a single, disastrou
 *   **Case Study in Catastrophe:** The interview concludes. As Alex is leaving, they overhear the interviewer talking to a colleague in the hallway. "My next one is a referral from the CEO. I'll probably just hire them and cancel the rest." The **[ICON: Scales] Fairness** gauge explodes. The entire process has been a sham. Alex's brain feels the sting of a deeply unfair exchange, lighting up the same regions associated with disgust. Alex leaves not just wanting to decline any potential offer, but feeling actively hostile toward the company.
 
 ---
-#### **The Practice: Setting Up Your Conductor's Dashboard**
-This book is an investigation we are conducting together. The Logbook Entries at the end of each chapter are not homework; they are your field notes. From this point forward, they will help you build your own **Personal Conductor's Dashboard**—a user's manual for your own social brain. By the end of our journey, you won't just have a collection of notes; you will have a personalized diagnostic tool that shows your triggers and your most powerful tools. Let's build the first component.
+#### **The Practice: Your First Tool is a New Way of Seeing**
+This book is an investigation we are conducting together. Your first tool is not an action, but a new way of seeing. The act of observing the SCARF dashboard in real-time is a skill in itself. Before you can change the music, you must learn to hear it. The Logbook Entries at the end of each chapter are your field notes for this practice. From this point forward, they will help you build your own **Personal Conductor's Dashboard**—a user's manual for your own social brain. By the end of our journey, you won't just have a collection of notes; you will have a personalized diagnostic tool that shows your triggers and your most powerful tools. Let's build the first component.
 ---
-> ### **The 1% Upgrade**
+> ### **The 1% Upgrade: Putting on the Conductor's Goggles**
 >
-> For the next 24 hours, your only mission is to listen for SCARF triggers in the world around you. In a team meeting, on a TV show, in a conversation with your partner. When you see a small flare-up of tension, ask yourself: *Which of the five gauges just went into the red?* Don't do anything about it. Just practice seeing the code.
+> For the next 24 hours, your only mission is to start using this new diagnostic tool. Listen for SCARF triggers in the world around you. In a team meeting, on a TV show, in a conversation with your partner. When you see a small flare-up of tension, ask yourself: *Which of the five gauges just went into the red?* Don't do anything about it. Don't try to fix it. Just practice seeing the code. This is the foundational skill of a conductor.
 
 ---
 ### **Logbook Entry: Your Dashboard's Main Alert**

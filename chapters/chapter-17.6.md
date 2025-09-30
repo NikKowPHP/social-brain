@@ -4,20 +4,6 @@
 
 ---
 
-**Question: "I tried using The Empathy Loop on my partner, and they said, 'Stop using that therapy voice on me.' It felt awful. What am I doing wrong?"**
-
-This is the most common piece of feedback I get, and it's a sign that you're on the right track, even though it feels terrible. This "immune response" happens for two reasons.
-
-First, your new approach is a change to the established system. Relationship systems, especially families, are built on a stable (even if dysfunctional) equilibrium called **homeostasis**. For years, you've both played by a set of unspoken rules. When you unilaterally change those rules by refusing to get defensive or by calmly asking, "What's the hardest part about this for you?", you are disrupting the system. The other person's jab is an attempt to pull you back to the old, familiar, and predictable way of fighting.
-
-Second, the "therapy voice" comment usually means you are still in the "conscious competence" phase. You are thinking about the protocol, which can make it feel clumsy or inauthentic. The key is to not get discouraged.
-
-**The Practice:**
-1.  **Don't Announce, Demonstrate.** Resist the urge to say "I've read a book and am now using protocols on you." This is a massive Status and Autonomy threat. Let them experience your new calm and listening skills over time.
-2.  **Enroll, Don't Impose.** If they comment on the change, use it as an opening. Try this script: *"You're right, I have been trying to get better at how we talk. I've realized I interrupt too much, and I want to get better at really listening. It might feel a bit clumsy at first, and I'd actually love your feedback as I practice."* This uses Calibrated Vulnerability and enrolls them as a partner, not a subject.
-
----
-
 **Question: "I'm a natural Connector, and I've always been the family peacekeeper. Now that I'm setting boundaries using the protocol from Chapter 16, my parents are furious. Is it worth it?"**
 
 This is the central challenge for every Conductor with a strong Connector profile. For you, the system's homeostasis was built around your willingness to absorb everyone else's emotional state and sacrifice your own needs for the sake of group harmony.

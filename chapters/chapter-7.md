@@ -36,9 +36,11 @@ The effect was a disaster. Leo looked at her with a mix of frustration and disap
 
 > ### **The Conductor's Debrief: Debugging a Failed Connection**
 >
-> That evening, Maria felt a hot flush of shame, a full-blown amygdala hijack. Her first instinct wasn't to debrief, but to defend. *"This is ridiculous,"* a voice in her head screamed. *"I'm trying so hard, and he's being overly sensitive!"* She spent an hour stewing in this frustration, blaming Leo, blaming the book, blaming the entire idea of "soft skills." She was too hijacked to learn.
+> That evening, Maria felt a hot flush of shame, a full-blown amygdala hijack. Her first attempt at a debrief was a complete failure. Her mind was a loop of defensive anger: *"This is ridiculous,"* it screamed. *"I'm trying so hard, and he's being overly sensitive! I did the protocol, it's his fault it didn't work."* She spent an hour stewing in this frustration, blaming Leo, blaming the book, blaming the entire idea of "soft skills." She was too hijacked to learn; she could only defend her ego.
 >
-> This is the messy reality of the work: **a successful debrief is impossible when your own system is in a threat state.** It was only later, after the cortisol had subsided, that a quieter, more honest question could emerge: "What if his reaction wasn't the problem, but a data point?"
+> This is the messy reality of the work. **A successful debrief is impossible when your own system is in a threat state.** The goal is not to have a perfect, regulated response to failure, but to have the discipline to *return* to the failure after the emotional storm has passed.
+>
+> It was only the next morning, after a night of restless sleep, that the cortisol had subsided enough for a quieter, more honest question to emerge: "What if his reaction wasn't the problem, but a data point?"
 >
 > This tiny shift was the key. It allowed her to move from blame to curiosity and finally run the real debrief:
 > 1.  **The Bug:** The protocol, delivered without genuine presence, felt manipulative and made things worse.
@@ -66,12 +68,23 @@ When you offer a solution before establishing an emotional connection, the other
 >
 > This is where my own "native programming" fought me the hardest. As an [ICON: Blueprint] Architect, my brain is a solution-generating machine. When someone describes a problem, my first instinct is to structure it, find the bug, and propose a fix. Learning to suppress that instinct—to physically bite my tongue to keep from interrupting with a solution and to just *listen*—was one of the most difficult and valuable skills I ever practiced. The Empathy Loop is not just a tool for connecting with others; it is a training regimen for quieting your own inner [ICON: Blueprint] Architect so you can hear the music of the person in front of you.
 ---
-#### **When It Feels Awkward: Navigating the "Therapy Voice"**
-Maria's "therapy voice" experience is incredibly common. When you first practice these tools, you are running a new piece of software on your brain's hardware. It will feel clumsy. People who know you well may notice the change and call it out. This is a critical moment. Do not panic. The key is to name the awkwardness and enroll them in the process.
+#### **Navigating the Social Immune Response: The "Therapy Voice" Backlash**
+Maria's "therapy voice" experience is not just common; it is a predictable and even necessary stage of this work. When you begin to change your communication style, you are changing the rules of a system. The people in that system will often react with suspicion or even hostility. This is not a sign that you are failing; it's a sign that the system has noticed your change. Think of it as a **social immune response.**
 
-**The Script:** *"You're right, that did sound a bit like a script. I've been trying to get better at really listening instead of just jumping in to solve things, and it still feels a bit clumsy. I'd actually love your feedback as I practice."*
+This backlash happens for two reasons:
 
-This response uses Calibrated Vulnerability (Chapter 8) to disarm the situation. It transforms their accusation into an invitation for collaboration, turning them from a critic into a coach. For a more detailed guide on handling this and other common "immune responses" from your social system, see the Q&A in Chapter 17.6.
+1.  **System Homeostasis:** Relationship systems, from teams to families, are built on a stable (even if dysfunctional) equilibrium called **homeostasis**. For years, you've played by a set of unspoken rules. When you unilaterally change those rules by refusing to get defensive, or by calmly asking, "What's the hardest part about this for you?", you are disrupting the system. The other person's jab ("Stop using that therapy voice") is an attempt to pull you back to the old, familiar, and predictable way of interacting.
+
+2.  **The Clumsiness of Conscious Competence:** The "therapy voice" comment also means you are still in the "conscious competence" phase of learning. You are actively thinking about the protocol, which can make it feel clumsy or inauthentic to others. This is unavoidable. The key is to not get discouraged.
+
+When this happens, do not panic. The key is to name the awkwardness and enroll them in the process.
+
+**The Practice: Handling the Backlash**
+1.  **Don't Announce, Demonstrate.** Resist the urge to say "I've read a book and am now using protocols on you." This is a massive Status and Autonomy threat. Let them experience your new calm and listening skills over time.
+2.  **Enroll, Don't Impose.** If they comment on the change, use it as an opening. This is a critical moment. Instead of getting defensive, use Calibrated Vulnerability to enroll them as a partner, not a subject.
+    *   **The Script:** *"You're right, that did sound a bit like a script. I've been trying to get better at really listening instead of just jumping in to solve things, and it still feels a bit clumsy. I'd actually love your feedback as I practice."*
+
+This response transforms their accusation into an invitation for collaboration, turning them from a critic into a coach. It acknowledges their reality, validates their perception, and makes them a part of your process of improvement.
 
 #### **The Practice: A Three-Part Protocol for Presence**
 
