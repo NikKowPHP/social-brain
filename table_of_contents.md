@@ -36,8 +36,6 @@
 **Chapter 8:** The Chemistry of Trust
 *Oxytocin and Rapport*
 
-**Chapter 8.5:** First Chair - A Conductor's Check-in
-
 **Chapter 9:** Interlude - Breaking the Silence
 *The Neuroscience of the First Move*
 
@@ -49,8 +47,6 @@
 
 **Chapter 12:** Taming the Threat
 *Navigating Difficult Conversations*
-
-**Chapter 12.5:** Interlude - The Power of the Unspoken
 
 **Chapter 13:** Conducting a Hostile Orchestra (Hard Mode)
 *Navigating Manipulation and Bad-Faith Arguments*
@@ -69,8 +65,6 @@
 
 **Toolkit Summary & Cheat Sheet**
 
-**Chapter 17.5:** You Have Your Baton
-
 **Chapter 17.6:** Troubleshooting the Toolkit (A Conductor's Q&A)
 
 ---
@@ -82,9 +76,6 @@
 
 **Chapter 19:** Conducting the Asynchronous Orchestra
 *Building Connection Across Time and Space*
-
-**Chapter 20:** Interlude - The Compound Interest of Connection
-*Mastering the Micro-Moments*
 
 **Chapter 22:** The Integrated Conductor
 *Knowing When to Put the Baton Down*
@@ -117,3 +108,4 @@
 **Acknowledgments**
 
 **About the Author**
+      

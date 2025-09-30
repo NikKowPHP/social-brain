@@ -110,3 +110,4 @@ In these situations, your goal shifts from containment to disengagement. This ca
 ---
 
 She had contained the threat from David, but the experience had taught her a valuable lesson. The team's 'software' was becoming cohesive, but they had to interface with other teams and vendors who ran on completely different operating systems. To survive, they had to become adaptive.
+      

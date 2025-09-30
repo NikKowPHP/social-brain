@@ -79,5 +79,6 @@ Maria had repaired the conflict with Mark, but a new, more dangerous threat was 
 > What if the conversation catches fire despite your best efforts? This is the rapid, defensive application of the Difficult Conversation Protocol when both parties are hijacked.
 > 1.  **Regulate Yourself First** (The Conductor's Breath).
 > 2.  **Validate the Feeling, Not the Content** (Use The Playback on their emotion: *"It sounds like you're incredibly frustrated right now."*). This is the key de-escalation step.
-> 3.  **Restore Autonomy** (Give them a choice, e.g., *"This is an important conversation, and it's getting heated. Should we pause for five minutes and come back to this?"*). This gives both of your brains a chance to come back online.
+> 3.  **Deploy Strategic Silence.** After you validate their feeling, fall silent. Your calm, non-anxious presence is a powerful co-regulation tool. Your silence absorbs energy from the room, creating a space for their rational brain to reboot. It is an act of profound respect for their cognitive process.
+> 4.  **Restore Autonomy** (Give them a choice, e.g., *"This is an important conversation, and it's getting heated. Should we pause for five minutes and come back to this?"*). This gives both of your brains a chance to come back online.
       

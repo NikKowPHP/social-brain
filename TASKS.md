@@ -1,4 +1,6 @@
-- [x] Make Maria's journey more realistic by showing failed debriefs and emphasizing the emotional "hangover" of using the conductor's toolkit.
-- [x] Grant more agency to supporting characters (Mark, Jane, Leo) by showing them actively using the conductor's tools themselves.
-- [x] Streamline the introduction to reduce cognitive load by relocating structural "how-to" information to the preface.
-- [x] Make the "Shadow Conductor" a more active internal antagonist by weaving it into Maria's internal monologue and linking it to the brain profiles.
+# Project Tasks
+
+- [x] Address the flaw that the protagonist's learning curve is too perfect by introducing more of "The Messy Middle" into her journey.
+- [x] Weave the "Shadow Conductor" and "Vulnerability/Success Hangover" concepts into the core narrative to better utilize them.
+- [x] Improve pacing by integrating "Interlude" and check-in chapters (8.5, 12.5, 17.5, 20) into the main narrative.
+      

@@ -47,7 +47,7 @@
 *   Emotional Self-Regulation (Chapter 6)
 *   Empathy (Chapter 7)
     *   Affective vs. Cognitive (Chapter 7)
-*   Empathy Loop (Chapter 7, 18, 20)
+*   Empathy Loop (Chapter 7, 18, 19)
 *   Eudaimonic Well-being (Chapter 2)
 *   Extraversion/Introversion (Chapter 1)
 
@@ -82,8 +82,8 @@
 **M**
 *   Meetings (Chapter 18)
 *   Mentalizing (Chapter 7)
-*   Micro-Behaviors (Chapter 15, 20)
-*   Micro-Moments (Chapter 20)
+*   Micro-Behaviors (Chapter 15, 19)
+*   Micro-Moments (Chapter 19)
 *   Miller, George A. (Chapter 10, Appendix A)
 *   Mirror Neurons (Chapter 7)
 
@@ -91,7 +91,7 @@
 *   Neural Coupling (Chapter 11)
 *   Neuromythology (Preface)
 *   Neuroplasticity (Chapter 15)
-*   Non-verbal communication (Chapter 7, 12.5)
+*   Non-verbal communication (Chapter 7, 18)
 
 **O**
 *   Obsolescence (Conclusion)
@@ -99,7 +99,7 @@
 
 **P**
 *   Pain, Social vs. Physical (Chapter 3)
-*   Pause, Intelligent (Chapter 7, 12.5)
+*   Pause, Intelligent (Chapter 7)
 *   Personal Development Map (Chapter 22)
 *   Playback, The (Chapter 7, 12, 22)
 *   Power Dynamics (Chapter 4)
@@ -128,7 +128,7 @@
 *   Self-Compassion (Chapter 23)
 *   Sentinel Brain Profile (Chapters 1, 6, 7, 8, 9, 10, 12, 13, 22, 24)
 *   Shadow Conductor (Chapter 2)
-*   Silence (Chapter 7, 12.5)
+*   Silence (Chapter 7, 12, 18)
 *   Social Gravity (Chapter 4)
 *   Social Pain (Chapter 3)
 *   Status (SCARF) (Chapters 5, 7, 11, 12, 13, 14, 15, 24)
@@ -143,3 +143,4 @@
 **V**
 *   Vagus Nerve (Chapter 6)
 *   Vulnerability, Calibrated (Chapter 8, 24)
+      

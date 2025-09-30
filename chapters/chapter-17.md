@@ -90,3 +90,4 @@ Think of a small, recent interaction where you made a mistake and could have apo
 2.  **The Script:** Write out the full, four-step apology you could have used.
 3.  **The Reflection:** How does this scripted apology feel compared to what you actually said (or didn't say) in the moment?
 4.  **Path to Adaptive:** How could scripting a 'Four R's' apology help you strengthen your least-dominant brain profile?
+      
