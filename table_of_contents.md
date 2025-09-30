@@ -27,6 +27,8 @@
 
 ### **Part II: The Toolkit - Neuroscience-Backed Best Practices**
 
+**The Core Trio: Your Foundational Practice**
+
 **Chapter 6:** The Regulated Brain
 *The Neuroscience of Emotional Self-Regulation*
 
@@ -36,14 +38,23 @@
 **Chapter 8:** The Chemistry of Trust
 *Oxytocin and Rapport*
 
+**Chapter 8.5:** The Core Trio in Concert
+*Proving the Power of Your Foundational Toolkit*
+
 **Chapter 9:** Interlude - Breaking the Silence
 *The Neuroscience of the First Move*
+
+**The Ensemble Toolkit: Specialized Instruments**
+
+*Protocols for Clarity and Influence*
 
 **Chapter 10:** The Respectful Brain
 *Defeating Cognitive Load*
 
 **Chapter 11:** Making It Stick
 *The Neuroscience of Storytelling*
+
+*Protocols for Navigating Conflict and Complexity*
 
 **Chapter 12:** Taming the Threat
 *Navigating Difficult Conversations*

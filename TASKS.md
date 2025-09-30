@@ -1,4 +1,4 @@
-- [x] Address the 'Perfect Conductor' Syndrome & The Messiness of Failure
-- [x] Elevate and reframe the 'Social Immune System' response
-- [x] Address potential for momentum loss in Part I by adding a 'Quick Start' and framing observation as a tool
+- [x] Address risk of "Protocol Overload" by reinforcing the Core Trio and thematically grouping Ensemble tools.
+- [x] Address the "Authenticity Concern" earlier in the book by moving the discussion to the preface.
+- [x] Improve narrative momentum by restructuring chapters to be "problem-first" and dynamically weaving in the case study narrative.
       
