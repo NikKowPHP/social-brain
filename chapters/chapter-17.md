@@ -22,7 +22,11 @@ The old Maria might have ignored it or offered a quick, "Sorry if I was a bit st
 
 "I want to apologize for cutting you off when you were raising a concern about the plan today (Recognize). It was dismissive, and I can see that it made you feel like your voice wasn't valued. I am truly sorry for that (Regret). There's no excuse; I was stressed and I handled it badly. That was my mistake, and I take full responsibility (Responsibility). In the future, I am going to make a commitment to pause and listen to all concerns, even when we are under pressure. Your voice is critical to this project's success (Resolve)."
 
-Leo, who had been expecting a lecture, didn't visibly relax. He looked at her, his expression still guarded. "Okay," he said quietly. "Thanks for saying that." Maria felt a pang of disappointment. The protocol hadn't resulted in an instant, warm reconciliation. She realized in that moment that a perfect apology doesn't magically erase the damage. It only opens the door to the real work: earning back trust through consistent, demonstrated change over time. The repair was not a single event, but the beginning of a process. More importantly, the rest of the team, who had witnessed the initial mistake, also witnessed the apology. Maria's willingness to model a real repair, even when it wasn't perfectly received, did more to build psychological safety than a hundred speeches about its importance.
+Leo, who had been expecting a lecture, didn't visibly relax. He looked at her, his expression still guarded. "Okay," he said quietly. "Thanks."
+
+Maria felt a pang of disappointment. The protocol hadn't resulted in an instant, warm reconciliation. Her Architect brain registered this as a failure, but her growing Conductor's intuition told her something different. A perfect apology doesn't magically erase the damage. It only opens the door to the real work: earning back trust through consistent, demonstrated change over time. The repair was not a single event, but the beginning of a long process.
+
+Over the next few weeks, she made a point of asking for his input first in meetings and protecting his airtime. Slowly, she saw him start to engage again. Her apology wasn't the repair itself; it was merely the promise of a repair. The real work was in her consistent actions that followed. More importantly, the rest of the team, who had witnessed the initial mistake, also witnessed her sustained effort to fix it. Maria's willingness to model a real, ongoing repair, even when it wasn't perfectly or immediately received, did more to build psychological safety than a hundred speeches about its importance.
 
 **The Practice: The "Four R's" of Repair**
 
@@ -76,3 +80,4 @@ Think of a small, recent interaction where you made a mistake and could have apo
 2.  **The Script:** Write out the full, four-step apology you could have used.
 3.  **The Reflection:** How does this scripted apology feel compared to what you actually said (or didn't say) in the moment?
 4.  **Path to Adaptive:** How could scripting a 'Four R's' apology help you strengthen your least-dominant brain profile?
+      
