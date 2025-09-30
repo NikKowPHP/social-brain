@@ -15,7 +15,7 @@ As part of her new approach to management, Maria has encouraged her team to enga
 
 He sees her talking in a small group. His Sentinel brain floods with the familiar alerts: *"Don't interrupt! You'll say something stupid!"* He feels the freeze response kicking in.
 
-But Leo has been learning from Maria. He's been practicing. He takes a **Conductor's Breath** (Regulate). He waits for a natural pause in the conversation. He finds a **Shared Context**: they are all near a widely mocked, futuristic-looking coffee machine. He approaches the edge of the group and offers a **Low-Stakes Observation**.
+But Leo has been learning from Maria. He's been practicing. He takes a **Conductor's Breath** (Regulate) to quiet the alarm bells. He waits for a natural pause in the conversation. He finds a **Shared Context**: they are all near a widely mocked, futuristic-looking coffee machine. He approaches the edge of the group and offers a **Low-Stakes Observation**.
 
 "I'm still trying to figure out if this is a coffee machine or a time machine," he says with a small smile to the group. "Have any of you been brave enough to try it?"
 

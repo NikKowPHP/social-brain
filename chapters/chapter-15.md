@@ -37,7 +37,7 @@ Treat feedback like fire: it can provide warmth (growth) or burn down a structur
 
 The change in Mark wasn't instantaneous. His **Architect** brain still saw the world in terms of flaws and optimizations. But he had been observing Maria's new approach and had seen the positive impact on the team. He began to see effective communication as a system worth learning, not just a "soft skill." His breakthrough moment came a week later, without any direct coaching from Maria.
 
-He saw a flaw in a code branch Leo had submitted. His old instinct was to write a blunt, multi-point critique directly in the code review tool. Instead, he paused. He decided to try a different approach.
+He saw a flaw in a code branch Leo had submitted. His old instinct took over, and he immediately started writing a blunt, multi-point critique directly in the code review tool. He typed out three bullet points, his fingers moving fast with the familiar certainty of being right. But then he paused. He looked at the wall of text and remembered the glazed-over look he often got from Leo. He thought of Maria's coaching. With a sigh of frustration at this new, inefficient process, he deleted the entire comment. He decided to try a different approach.
 
 He messaged Leo directly. "Hey, got a minute to talk about the authentication branch?" (A clumsy but effective way to Get Permission). When they hopped on a call, Mark was still awkward. "Your approach here is inefficient," he started, then caught himself. "What I mean is, I saw you used three API calls. My data suggests we can do it in one. What was your thinking on that?" (Share Data, Not Drama).
 
