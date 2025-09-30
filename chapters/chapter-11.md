@@ -4,6 +4,7 @@
 > ### **Dashboard Integration**
 >
 > *   **Tool:** The Tension & Resolution Arc (Chapter 11)
+> *   **Toolkit Tier:** Ensemble
 > *   **Primary Brain Profile:** Architect (Core Skill Development)
 > *   **Purpose:** To make data and logic persuasive by framing them within a memorable narrative structure.
 

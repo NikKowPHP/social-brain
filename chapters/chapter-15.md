@@ -4,6 +4,7 @@
 > ### **Dashboard Integration**
 >
 > *   **Tool:** The Feedback Protocols (Chapter 15)
+> *   **Toolkit Tier:** Ensemble
 > *   **Primary Brain Profile:** Connector & Architect (Core Skill Development)
 > *   **Purpose:** To give and receive "bug reports" in a way that promotes learning, not a threat response.
 

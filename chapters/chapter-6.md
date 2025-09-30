@@ -4,6 +4,7 @@
 > ### **Dashboard Integration**
 >
 > *   **Tool:** The Conductor's Breath (Chapter 6)
+> *   **Toolkit Tier:** Core Trio
 > *   **Primary Brain Profile:** Sentinel (Power-Up), but essential for all.
 > *   **Purpose:** To manually override an amygdala hijack and keep your rational brain online under pressure.
 

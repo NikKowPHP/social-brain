@@ -4,6 +4,7 @@
 > ### **Dashboard Integration**
 >
 > *   **Tool:** The Connection Protocol (Chapter 7)
+> *   **Toolkit Tier:** Core Trio
 > *   **Primary Brain Profile:** Architect (Core Skill Development)
 > *   **Purpose:** To move beyond logic and connect with the emotional "music" of a conversation.
 
@@ -116,4 +117,3 @@ This week, your challenge is to practice the full Connection Protocol in one con
 2.  **The Non-Verbal:** Which "Signal of Presence" technique did you consciously use (e.g., pointing the tripod, intelligent pause)?
 3.  **The Verbal:** Write down the exact "Playback" sentence you used to reflect the "music." How did they respond?
 4.  **Path to Adaptive:** How could practicing the Connection Protocol help you strengthen your least-dominant brain profile?
-      

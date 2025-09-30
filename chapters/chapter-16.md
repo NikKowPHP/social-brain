@@ -4,6 +4,7 @@
 > ### **Dashboard Integration**
 >
 > *   **Tool:** The Boundary Protocol (Chapter 16)
+> *   **Toolkit Tier:** Ensemble
 > *   **Primary Brain Profile:** Connector (Core Skill Development)
 > *   **Purpose:** To say "no" gracefully while preserving the relationship.
 
@@ -76,4 +77,3 @@ This week's entry for your dashboard is a reflection on a boundary you find diff
 2.  **The Story You Tell Yourself:** What is the specific, catastrophic story you tell yourself about what will happen if you say 'no' in that situation? (e.g., "If I say no to this project, my boss will think I'm not a team player and I'll be overlooked for promotion.")
 3.  **A SCARF Analysis:** Using the SCARF model, what is the specific social threat you are afraid of triggering (in them, or in yourself)? This reframes the problem from a personal failing to a predictable system. (e.g., "I am afraid of creating a **Relatedness** threat and making them dislike me," or "I am afraid of triggering a **Status** threat in my boss by questioning their request.")
 4.  **Path to Adaptive:** How could scripting a 'no' using the Boundary Protocol help you strengthen your least-dominant brain profile?
-      

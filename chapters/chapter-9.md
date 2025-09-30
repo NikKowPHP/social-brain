@@ -3,6 +3,7 @@
 > ### **Dashboard Integration**
 >
 > *   **Tool:** The Safety Signal Protocol (Chapter 9)
+> *   **Toolkit Tier:** Ensemble
 > *   **Primary Brain Profile:** Sentinel & Introverts (Power-Up)
 > *   **Purpose:** To systematically de-risk the act of starting a conversation with someone new.
 

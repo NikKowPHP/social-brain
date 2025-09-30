@@ -4,6 +4,7 @@
 > ### **Dashboard Integration**
 >
 > *   **Tool:** The Difficult Conversation Protocol (Chapter 12)
+> *   **Toolkit Tier:** Ensemble
 > *   **Primary Brain Profile:** Connector (Core Skill Development)
 > *   **Purpose:** To navigate high-stakes conversations safely and productively, making conflict a source of progress, not pain.
 
@@ -73,4 +74,3 @@ This protocol transforms a dreaded confrontation into a structured, safe, and pr
 > 1.  **Regulate Yourself First** (The Conductor's Breath).
 > 2.  **Validate the Feeling, Not the Content** (Use The Playback on their emotion: *"It sounds like you're incredibly frustrated right now."*).
 > 3.  **Restore Autonomy** (Give them a choice, e.g., *"This is an important conversation, and it's getting heated. Should we pause for five minutes and come back to this?"*).
-      

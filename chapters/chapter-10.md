@@ -4,6 +4,7 @@
 > ### **Dashboard Integration**
 >
 > *   **Tool:** The Clarity Protocol (Chapter 10)
+> *   **Toolkit Tier:** Ensemble
 > *   **Primary Brain Profile:** Architect (Core Skill Development)
 > *   **Purpose:** To respect the receiver's cognitive load and ensure your message is received and understood.
 

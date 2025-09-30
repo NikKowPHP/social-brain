@@ -4,6 +4,7 @@
 > ### **Dashboard Integration**
 >
 > *   **Tool:** The Adaptation Protocol (Chapter 14)
+> *   **Toolkit Tier:** Ensemble
 > *   **Primary Brain Profile:** All (Situational Fluency)
 > *   **Purpose:** To learn to read and adapt to the "local software" of any new group or culture.
 
