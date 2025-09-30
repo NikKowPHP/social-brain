@@ -22,7 +22,7 @@ Everything else you will encounter in these pages is part of the **Ensemble Tool
 **Your Official Training Program**
 This book is a manual for a practice, and it has an official training program.
 *   **The 30-Day Conductor's Challenge in Appendix C** is not an afterthought; it is your guided path to internalizing these skills. It will help you focus on one core skill per week.
-*   The **Logbook Entries** at the end of key chapters are your field notes. They are designed to help you build a personalized user's manual for your own social brain.
+*   **The Logbook Entries** at the end of key chapters are your field notes. They are designed to help you build a personalized user's manual for your own social brain.
 
 ---
 
@@ -44,7 +44,7 @@ This book is not about turning your family into a computer; it's about discoveri
 
 #### **A Note on Authenticity**
 
-A fair warning: as you begin, these tools might feel clumsy. You may worry you're 'performing' connection instead of feeling it. This is a normal and necessary stage of learning. Think of it like practicing musical scales; the goal is to internalize the patterns so you can forget them and simply play the music. This book is your guide from conscious practice to unconscious, authentic intuition.
+A fair warning: as you begin, these tools might feel clumsy. You may worry you're 'performing' connection instead of feeling it. This is a normal and necessary stage of learning. Think of it like practicing musical scales; the goal is to internalize the patterns so you can forget them and simply play the music. Be prepared for others to notice this clumsiness, too. When you change the unspoken rules of a relationship, the system often pushes back. We will show you how to navigate this predictable "social immune response." This book is your guide from conscious practice to unconscious, authentic intuition.
 
 ---
 
@@ -81,5 +81,5 @@ This visual layer is not decorative; it is an integral part of the learning syst
 
 #### **A Note on Our Investigation**
 
-Finally, please treat this book not as a monologue, but as the beginning of a dialogue. The tools and ideas here are not static; they are part of a living, ongoing investigation into the source code of human connection. Throughout these pages, you will be invited to join that investigation, both through your own practice and by connecting with a community of fellow conductors. This is not a book you read, but a practice you join.
+Finally, please treat this book not as a monologue, but as the beginning of a dialogue. The tools and ideas here are not static; they are part of a living, ongoing investigation into the source code of human connection. Throughout these pages, you will be invited to join that investigation, both through your own practice and by connecting with a community of fellow conductors. Many of the examples and questions you'll find here are adapted from the real-world challenges shared by this very community. This is not a book you read, but a practice you join.
       

@@ -1,12 +1,7 @@
 ### **Chapter 16: The Boundary Protocol**
 #### The Neuroscience of Saying "No"
 
-> ### **Dashboard Integration**
->
-> *   **Tool:** The Boundary Protocol (Chapter 16)
-> *   **Toolkit Tier:** Ensemble
-> *   **Primary Brain Profile:** Connector (Core Skill Development)
-> *   **Purpose:** To say "no" gracefully while preserving the relationship.
+In the Conductor's Guild, our private community of practice, no topic generates more heat than this one. The question comes in a hundred different forms, but it always boils down to this: "How do I say 'no' to a request without damaging a relationship I care about?"
 
 This chapter adds a vital **Ensemble** tool to your kit, one that protects your most valuable resources: your time and energy.
 
@@ -15,6 +10,13 @@ For many of us, especially those with a strong [ICON: Bridge] Connector profile,
 Why is saying "no" so hard? The answer lies in our neuroscience. A "no" feels like a direct, intentional threat to **[ICON: Group] Relatedness**. You are, in that moment, choosing your own needs over the needs of the tribe. Your ancient brain wiring screams that this is a dangerous move that could lead to social exclusion.
 
 The key to saying "no" effectively is to find a way to honor your own **[ICON: Steering Wheel] Autonomy** without catastrophically threatening the other person's **[ICON: Group] Relatedness** and **[ICON: Crown] Status**. You cannot eliminate the sting, but you can turn a potential explosion into a manageable emotional event.
+
+> ### **Dashboard Integration**
+>
+> *   **Tool:** The Boundary Protocol (Chapter 16)
+> *   **Toolkit Tier:** Ensemble
+> *   **Primary Brain Profile:** Connector (Core Skill Development)
+> *   **Purpose:** To say "no" gracefully while preserving the relationship.
 
 #### **The Practice: The "Validate, State, Offer" Protocol**
 

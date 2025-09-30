@@ -63,7 +63,7 @@ Once both parties feel heard and regulated, you can pivot to problem-solving. Us
 #### **The Conductor's Debrief**
 Maria's repair is a classic **Protocol Stack** in action. She used **The Conductor's Breath** to regulate, the principles of the **Repair Protocol** (Chapter 17) to open, and the **Empathy Loop** to connect.
 
-They agreed on a new protocol: no feedback on major work via email, only in a quick 5-minute sync. The conversation was a success, but it wasn't a victory. That evening, Maria went home feeling not triumphant, but drained. The emotional labor of regulating herself, taking full responsibility, and carefully navigating Mark's defensiveness had left her with a profound exhaustion. This feeling, she was learning, was a predictable part of the work.
+They agreed on a new protocol: no feedback on major work via email, only in a quick 5-minute sync. The conversation was a success, but it wasn't a victory. That evening, Maria went home feeling not triumphant, but drained. The emotional labor of regulating herself, taking full responsibility, and carefully navigating Mark's defensiveness had left her with a profound exhaustion—her first real taste of the "vulnerability hangover." This feeling, she was learning, was a predictable and recurring cost of the work.
 
 > ### **Neuro-Toolkit: The Conductor's Fatigue (The Hangover)**
 >

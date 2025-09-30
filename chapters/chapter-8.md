@@ -36,16 +36,16 @@ What came back was not an echo, but a wall. Jane's eyes narrowed. "What do you w
 >
 > This is a critical lesson: a successful debrief often comes *after* an initial period of frustration and blame. The conductor's skill is not in having a perfect initial reaction, but in having a process for returning to curiosity after the hijack has passed.
 
-**Attempt 2: The Correct Tool.**
-Armed with this new insight, Maria realized she had used the wrong tool for the job. To connect with a [ICON: Shield] Sentinel, you don't offer vulnerability; you demonstrate respect for their greatest strength: threat-detection.
+**Attempt 2: The Inelegant Attempt.**
+Armed with this new insight, Maria decided to try again. A week later, she came to Jane with a specific architectural diagram. "Jane," she said, "I've been looking at this data flow, and my gut says there's a security risk here I'm not seeing. You're the best person in the company at spotting this stuff. Would you mind showing me what I'm missing?"
 
-A week later, she tried a different approach. She came to Jane with a specific architectural diagram. "Jane," she said, "I've been looking at this data flow, and my gut says there's a security risk here I'm not seeing. You're the best person in the company at spotting this stuff. Would you mind showing me what I'm missing?"
+This was a masterful use of a Status reward. But it wasn't a magic wand. Jane was still skeptical. She looked from Maria to the diagram, her expression guarded. "Why are you asking me this now?" she asked, her voice tinged with suspicion.
 
-This was a masterpiece of protocol integration. It wasn't vulnerability; it was a massive **[ICON: Crown] Status reward**. It explicitly valued Jane's unique skill. It also created **[ICON: Map] Certainty** (a clear, defined problem) and gave Jane **[ICON: Steering Wheel] Autonomy** to control the analysis.
+Maria felt a flicker of her old defensiveness, but she held her ground, using a silent **Conductor's Breath**. "Honestly? Because my last attempt to connect with you was a total disaster," she said, deploying a second, more direct form of vulnerability. "I'm trying to learn how to lead this team better, and it's clear I can't do that without your trust. And I know I haven't earned it yet. Starting with this diagram seems like a more useful way to do that."
 
-The shift was immediate. Jane leaned forward, took the printout, and for the first time, a flicker of genuine engagement appeared in her eyes. "You're right to be worried," she said, grabbing a red pen. "The risk isn't here. It's here."
+The raw honesty of the answer seemed to surprise Jane more than the initial request. The tension in her shoulders lessened, but only slightly. She picked up a red pen. "Fine," she said, without looking up. "Give me a day. I'll let you know what you've missed."
 
-The trust loop had begun, not through a shared weakness, but through a shared respect for strength. Maria learned a crucial lesson: a conductor must know not only how to use their instruments, but which one to choose for the specific musician they're trying to connect with.
+It wasn't a warm connection. It wasn't a breakthrough. It was a tiny crack in the wall. For Maria, it felt like a monumental victory. She had learned a crucial lesson: building trust with a Sentinel isn't a single event; it's a slow, painstaking process of demonstrating competence and respect over time. The goal wasn't a standing ovation; it was just to get Jane to stay in the orchestra and play the next note.
 
 #### **The Science: The Trust Molecule**
 
