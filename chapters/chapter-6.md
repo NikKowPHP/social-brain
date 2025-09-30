@@ -18,9 +18,9 @@ What's happening in Maria's brain in that high-stress moment? To answer that, we
 
 #### **The Science: The Amygdala Hijack**
 
-Deep in the oldest part of your brain, you have two tiny, almond-shaped clusters of neurons called the **amygdala**. This is the headquarters of your Sentinel Brain. Think of it as the brain's hypersensitive, low-level security guard, constantly scanning for threats.
+Deep in the oldest part of your brain, you have two tiny, almond-shaped clusters of neurons called the **amygdala**. This is the headquarters of your [ICON: Shield] Sentinel Brain. Think of it as the brain's hypersensitive, low-level security guard, constantly scanning for threats.
 
-At the front of your brain, just behind your forehead, is the **prefrontal cortex (PFC)**. This is the most modern, evolved part of your brain—the home of your Architect and Connector. This is the wise CEO. It's responsible for rational thought, impulse control, and understanding other people's perspectives.
+At the front of your brain, just behind your forehead, is the **prefrontal cortex (PFC)**. This is the most modern, evolved part of your brain—the home of your [ICON: Blueprint] Architect and [ICON: Bridge] Connector. This is the wise CEO. It's responsible for rational thought, impulse control, and understanding other people's perspectives.
 
 In a normal state, the CEO is in charge. But when the amygdala detects a social threat, it pulls the fire alarm. This is called an **amygdala hijack**. It triggers a flood of cortisol and adrenaline, a process designed to prepare you to fight, flee, or freeze.
 
@@ -32,7 +32,7 @@ Crucially, this neurochemical flood severely impairs the function of your prefro
 >
 > The "amygdala hijack" is a powerful and useful model for understanding emotional reactivity. It's important to know it's also a simplification. Modern neuroscience shows that emotional responses are the result of a complex interplay between many brain regions, including the insula and the hippocampus, not just the amygdala firing in isolation. However, as a mental model for what it *feels* like when our rational brain is overwhelmed by a threat response, the "hijack" is an invaluable concept for a conductor. It gives us a simple name for a complex feeling, which is the first step to managing it.
 
-> *You cannot think your way out of an amygdala hijack; you must regulate your way out of it.*
+> *You cannot think your way out of an amyggdala hijack; you must regulate your way out of it.*
 
 The key to debugging this is not to rewrite the code—we can't—but to learn how to call a specific function that manually overrides it.
 
@@ -44,7 +44,7 @@ Your first tool as a conductor is learning how to skillfully apply this biologic
 
 > ### **From the Boardroom to the Living Room: The Universal Reset Button**
 >
-> This manual override isn't just for performance reviews. It's for the flash of anger you feel when another driver cuts you off in traffic. It's for the wave of frustration that hits when you're trying to assemble furniture and the instructions make no sense. It's for the moment of panic you feel at a tense holiday dinner when a controversial topic comes up. In these moments, your logical PFC is also being taken offline by the panicked security guard. The physical location is different, but the neural circuit is identical. The Conductor's Breath is the universal reset button, whether you're facing a hostile board member or a misbehaving dishwasher.
+> This manual override isn't just for performance reviews. It's for the flash of anger you feel when another driver cuts you off in traffic. It's for the wave of frustration that hits when you're trying to assemble furniture and the instructions make no sense. For Maria, the first successful use of the Conductor's Breath wasn't in a meeting, but at home, when a tense conversation with her partner about finances started to escalate. The breath didn't solve the budget issue, but it stopped a fight, giving her the first real taste of its power. In these moments, your logical PFC is also being taken offline by the panicked security guard. The physical location is different, but the neural circuit is identical. The Conductor's Breath is the universal reset button, whether you're facing a hostile board member or a misbehaving dishwasher.
 
 > ### **Profile Alert: The Hijack**
 >
@@ -84,7 +84,7 @@ Maria was now regulated. But regulation wasn't a solution; it was just the platf
 
 Let's add a critical component to your Conductor's Dashboard: your early-warning system for an amygdala hijack.
 
-1.  **Your Hijack 'Tell':** What is the primary physical sensation that lets you know your Sentinel brain is activating? (e.g., heat in the face, tightness in the chest, clenching jaw, knot in the stomach). This is your personal system alert. Write it down on your dashboard.
+1.  **Your Hijack 'Tell':** What is the primary physical sensation that lets you know your [ICON: Shield] Sentinel brain is activating? (e.g., heat in the face, tightness in the chest, clenching jaw, knot in the stomach). This is your personal system alert. Write it down on your dashboard.
 2.  **Log an Event:** Over the next week, your mission is to notice this "tell" in real time. Briefly describe one event that triggered it.
 3.  **The Intervention:** Did you remember to use The Conductor's Breath? What was the immediate effect on the physical sensation?
 4.  **Path to Adaptive:** How could mastering The Conductor's Breath help you strengthen your least-dominant brain profile?

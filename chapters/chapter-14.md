@@ -10,7 +10,7 @@
 
 The human brain's social operating system has universal hardware. Everyone has an amygdala. Everyone's brain tracks the five SCARF domains. But culture—whether in a country or a company—is the software running on top. And trying to run your software on their hardware without a compatibility check is a recipe for a system crash. My first project with our team in Tokyo was that crash.
 
-In a planning meeting, I gave some direct, blunt feedback on a design mock-up. It was the kind of feedback my Architect brain sees as efficient and helpful. To my colleagues in California, it was normal. To the design team in Tokyo, it was a disaster. The lead designer went quiet for the rest of the meeting. Later, I learned from the project manager that my public critique had been perceived as a deeply disrespectful attack on the team's status, causing a significant loss of face.
+In a planning meeting, I gave some direct, blunt feedback on a design mock-up. It was the kind of feedback my [ICON: Blueprint] Architect brain sees as efficient and helpful. To my colleagues in California, it was normal. To the design team in Tokyo, it was a disaster. The lead designer went quiet for the rest of the meeting. Later, I learned from the project manager that my public critique had been perceived as a deeply disrespectful attack on the team's status, causing a significant loss of face.
 
 My code, which worked perfectly in one environment, crashed the entire system in another. This forced a new line of investigation: **How can our tools be universal if human behavior is so variable?**
 
@@ -18,8 +18,8 @@ The answer lies in one of the most important distinctions I ever learned: the di
 
 **Culture and group norms are the software** running on top of that hardware. This software defines *what* specifically triggers a threat or reward signal in each of the SCARF domains.
 
-*   In some cultures, making direct eye contact is a signal of respect (a **Relatedness** reward). In others, it's a sign of aggression (a **Relatedness** threat).
-*   In some teams, interrupting with a better idea is a sign of engagement (a **Status** reward). In others, it's a grave insult (a **Status** threat).
+*   In some cultures, making direct eye contact is a signal of respect (a **[ICON: Group] Relatedness** reward). In others, it's a sign of aggression (a **[ICON: Group] Relatedness** threat).
+*   In some teams, interrupting with a better idea is a sign of engagement (a **[ICON: Crown] Status** reward). In others, it's a grave insult (a **[ICON: Crown] Status** threat).
 
 The brain's need to navigate these differences is deeply rooted in the neuroscience of in-groups and out-groups. Your brain's primary survival function is to quickly determine who is "us" and who is "them." When you enter a new group, your brain is on high alert, scanning for the local rules to figure out how to become part of the "in-group" and avoid the social pain of being in the "out-group." Oxytocin, the trust molecule we met in Chapter 8, plays a key role here, increasing trust for "us" but defensiveness towards "them."
 
@@ -27,13 +27,13 @@ The brain's need to navigate these differences is deeply rooted in the neuroscie
 
 #### **Case Study: The Vendor's Software**
 
-Maria's team hit this wall head-on. They had to collaborate with an external vendor for the Phoenix Project whose team culture was brutally aggressive. In meetings, the vendor's engineers would interrupt constantly and publicly criticize ideas. This was a massive Status threat that caused Maria's team, especially Leo with his conflict-averse **Connector** profile, to shut down completely.
+Maria's team hit this wall head-on. They had to collaborate with an external vendor for the Phoenix Project whose team culture was brutally aggressive. In meetings, the vendor's engineers would interrupt constantly and publicly criticize ideas. This was a massive [ICON: Crown] Status threat that caused Maria's team, especially Leo with his conflict-averse **[ICON: Bridge] Connector** profile, to shut down completely.
 
 After one particularly rough meeting, Maria regrouped with her team. The old Maria would have been just as frustrated as them. The conductor saw a systems problem. "We can't change their software," she explained, "but we can learn to interface with it." She coached them through the Adaptation Protocol in real-time.
 
 1.  **Observe:** "What did we notice? They interrupt, yes, but what else? They seem to value speed and directness above all else. It's not personal; it's how they show engagement."
 2.  **Calibrate:** "Our hypothesis is that to earn their respect, we need to match their directness. If we wait politely for our turn, they will see it as weakness."
-3.  **Test:** "Mark," she said, turning to her lead **Architect**, "you're best at this. Next time they interrupt, I want you to interrupt them right back with a sharp, data-backed point. Let's run it as an experiment and see what happens."
+3.  **Test:** "Mark," she said, turning to her lead **[ICON: Blueprint] Architect**, "you're best at this. Next time they interrupt, I want you to interrupt them right back with a sharp, data-backed point. Let's run it as an experiment and see what happens."
 
 It was a small experiment in a high-stakes environment. In the next meeting, Mark did exactly that. The vendor's lead engineer paused, then laughed. "Okay, point taken," he said. The dynamic of the room shifted. Maria's team was learning to adapt, not by changing who they were, but by learning the local language.
 
@@ -52,7 +52,7 @@ When you first enter a new group, your primary job is to listen and collect data
 
 **2. Calibrate (Form a Hypothesis).**
 Based on your observations, form a simple hypothesis about the local "software."
-*   *"Hypothesis: In this group, public disagreement seems to be a major Status threat. Important feedback is likely handled offline."*
+*   *"Hypothesis: In this group, public disagreement seems to be a major [ICON: Crown] Status threat. Important feedback is likely handled offline."*
 
 **3. Test (Run a Small Experiment).**
 Do not try to change your entire personality. Run a small, low-risk experiment to test your hypothesis.

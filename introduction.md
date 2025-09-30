@@ -69,9 +69,9 @@ Our journey is organized into three parts, mapping to your own transformation:
 *   **Part III: Achieving Mastery & Legacy.** We will bring it all together, moving from practicing scales to conducting a symphony, creating a lasting impact on your teams, families, and communities.
 
 To prevent you from feeling overwhelmed by the number of protocols in this book, let me give you the master key from the start. The entire system is built on a foundation of just three skills, which we will call the **Core Trio**. This is your emergency toolkit, the engine of this entire method:
-*   **The Conductor's Breath** (Chapter 6) to regulate yourself.
-*   **The Empathy Loop** (Chapter 7) to connect with others.
-*   **The Trust Protocol** (Chapter 8) to build trust.
+*   **[ICON: Lungs] The Conductor's Breath** (Chapter 6) to regulate yourself.
+*   **[ICON: Reflecting Arrows] The Empathy Loop** (Chapter 7) to connect with others.
+*   **[ICON: Handshake] The Trust Protocol** (Chapter 8) to build trust.
 
 If you master only these three, you will have enough to fundamentally change over 80% of your interactions. Everything else is an advanced application of this core. We will refer to these as "Ensemble" tools—powerful, but specialized. This distinction is your primary defense against protocol overload.
 
@@ -80,10 +80,10 @@ But this journey requires a counter-intuitive shift in your thinking. At its hea
 To make this journey tangible, we will follow the transformations of a few key individuals—a small orchestra of characters you will come to know well. We will follow Maria, a well-intentioned manager whose mission is twofold: she must save the **"Phoenix Project,"** a make-or-break initiative, but more importantly, she must transform her fractured group of individuals into a resilient, self-tuning team capable of navigating the project's immense pressures. Her journey is not just about shipping a product, but building an orchestra. The project is plagued by the very communication bugs we're about to decode. We will meet her team: Mark, a brilliant but abrasive engineer; Leo, a junior developer with great ideas but little confidence; and Jane, a senior architect whose fear of risk stifles innovation. Their struggles are our struggles. Their breakthroughs, woven through every chapter, will be our guide.
 
 To help you see the book's core concepts in action, here are the profiles of our main characters:
-*   **Maria:** Maria begins our story leading with her **Architect** brain, believing good data should be enough. Her journey is about developing her Connector and Sentinel sections to become a truly Adaptive Conductor.
-*   **Mark:** Mark is a classic **Architect**, whose brilliance is matched only by his bluntness.
-*   **Jane:** Jane, the senior architect, is a powerful **Sentinel**, whose past experiences have made her hyper-attuned to risk and deeply skeptical.
-*   **Leo:** Leo is a junior engineer with a strong **Connector** profile, full of empathetic ideas but often too intimidated to voice them.
+*   **Maria:** Maria begins our story leading with her **[ICON: Blueprint] Architect** brain, believing good data should be enough. Her journey is about developing her Connector and Sentinel sections to become a truly Adaptive Conductor.
+*   **Mark:** Mark is a classic **[ICON: Blueprint] Architect**, whose brilliance is matched only by his bluntness.
+*   **Jane:** Jane, the senior architect, is a powerful **[ICON: Shield] Sentinel**, whose past experiences have made her hyper-attuned to risk and deeply skeptical.
+*   **Leo:** Leo is a junior engineer with a strong **[ICON: Bridge] Connector** profile, full of empathetic ideas but often too intimidated to voice them.
 
 This is a journey of practice, not a quest for perfection. You will not become a flawless conductor overnight. The goal is to get 1% better with every interaction, to learn from your mistakes, and to gradually re-wire your responses. This book is not a rulebook; it is a rehearsal space.
 

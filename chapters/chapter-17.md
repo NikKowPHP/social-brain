@@ -10,14 +10,14 @@
 
 Every conductor, no matter how skilled, will eventually hit a wrong note. You will lose your temper, send a thoughtless email, or drop the ball on a commitment. You will cause a social pain event. In these moments, your ability to repair the damage is more important than your ability to have prevented it in the first place.
 
-Most apologies fail. Why? Because they are designed to soothe the ego of the person apologizing, not to heal the wound of the person who was hurt. A bad apology—"I'm sorry if you felt hurt," or "I'm sorry, but you were being difficult"—is a defensive maneuver. It avoids responsibility and often makes the situation worse by subtly blaming the victim, creating a fresh threat to their **Status** and **Fairness**.
+Most apologies fail. Why? Because they are designed to soothe the ego of the person apologizing, not to heal the wound of the person who was hurt. A bad apology—"I'm sorry if you felt hurt," or "I'm sorry, but you were being difficult"—is a defensive maneuver. It avoids responsibility and often makes the situation worse by subtly blaming the victim, creating a fresh threat to their **[ICON: Crown] Status** and **[ICON: Scales] Fairness**.
 
 A real apology is not about you. It is a focused, intentional act designed to restore the other person's sense of safety and social standing. It is a powerful tool for rebuilding trust and repairing a fractured connection.
 
 #### **Case Study: The Conductor's Mistake**
-The Phoenix Project was in a high-stress phase, and Maria was feeling the pressure. In a team meeting, Leo, her junior **Connector**, nervously pointed out a potential flaw in a plan Maria had just proposed. Feeling defensive and short on time, Maria shut him down curtly. "We don't have time to re-litigate this, Leo. Let's move on."
+The Phoenix Project was in a high-stress phase, and Maria was feeling the pressure. In a team meeting, Leo, her junior **[ICON: Bridge] Connector**, nervously pointed out a potential flaw in a plan Maria had just proposed. Feeling defensive and short on time, Maria shut him down curtly. "We don't have time to re-litigate this, Leo. Let's move on."
 
-She immediately saw the impact. Leo physically recoiled and went silent for the rest of the meeting. For his Connector profile, this public dismissal was not just a rejection of his idea, but a painful break in the team's harmony and a direct hit to his sense of psychological safety. The psychological safety she had worked so hard to build was visibly damaged. Her sharp response was a clear Status threat to Leo, and a Fairness threat to the team's stated value of "all ideas are welcome."
+She immediately saw the impact. Leo physically recoiled and went silent for the rest of the meeting. For his [ICON: Bridge] Connector profile, this public dismissal was not just a rejection of his idea, but a painful break in the team's harmony and a direct hit to his sense of psychological safety. The psychological safety she had worked so hard to build was visibly damaged. Her sharp response was a clear [ICON: Crown] Status threat to Leo, and a [ICON: Scales] Fairness threat to the team's stated value of "all ideas are welcome."
 
 The old Maria might have ignored it or offered a quick, "Sorry if I was a bit stressed earlier." The conductor knew she needed to execute a full repair. After the meeting, she asked Leo to stay for a moment and deployed the Four R's.
 
@@ -25,7 +25,7 @@ The old Maria might have ignored it or offered a quick, "Sorry if I was a bit st
 
 Leo, who had been expecting a lecture, didn't visibly relax. He looked at her, his expression still guarded. "Okay," he said quietly. "Thanks."
 
-Maria felt a pang of disappointment. The protocol hadn't resulted in an instant, warm reconciliation. Her Architect brain registered this as a failure, but her growing Conductor's intuition told her something different. A perfect apology doesn't magically erase the damage. It only opens the door to the real work: earning back trust through consistent, demonstrated change over time. The repair was not a single event, but the beginning of a long process.
+Maria felt a pang of disappointment. The protocol hadn't resulted in an instant, warm reconciliation. Her [ICON: Blueprint] Architect brain registered this as a failure, but her growing Conductor's intuition told her something different. A perfect apology doesn't magically erase the damage. It only opens the door to the real work: earning back trust through consistent, demonstrated change over time. The repair was not a single event, but the beginning of a long process.
 
 Over the next few weeks, she made a point of asking for his input first in meetings and protecting his airtime. Slowly, she saw him start to engage again. Her apology wasn't the repair itself; it was merely the promise of a repair. The real work was in her consistent actions that followed. More importantly, the rest of the team, who had witnessed the initial mistake, also witnessed her sustained effort to fix it. Maria's willingness to model a real, ongoing repair, even when it wasn't perfectly or immediately received, did more to build psychological safety than a hundred speeches about its importance.
 
@@ -47,11 +47,11 @@ An effective apology is a protocol with four distinct steps. Missing any one of 
     *   *Bad:* "I didn't mean to make you feel bad." (Focuses on your intent).
     *   *Good:* "I can see that my interruption was dismissive and made you feel like your work wasn't valued. I am truly sorry for that." (Focuses on their experience).
 
-3.  **Responsibility:** Take full, unambiguous ownership for your part in the situation. Do not add a "but." Do not share the blame. This is the step that restores their sense of **Fairness**.
+3.  **Responsibility:** Take full, unambiguous ownership for your part in the situation. Do not add a "but." Do not share the blame. This is the step that restores their sense of **[ICON: Scales] Fairness**.
     *   *Bad:* "I was having a stressful day..."
     *   *Good:* "There's no excuse for my behavior. That was my mistake, and I take full responsibility."
 
-4.  **Resolve:** State clearly what you will do differently in the future. This is what rebuilds trust and provides **Certainty**. A commitment to change shows you have learned from the mistake.
+4.  **Resolve:** State clearly what you will do differently in the future. This is what rebuilds trust and provides **[ICON: Map] Certainty**. A commitment to change shows you have learned from the mistake.
     *   *Bad:* "I'll try to be better."
     *   *Good:* "In the future, I am going to make a conscious effort to let you finish your points before I jump in. I am committed to giving you the respect you deserve."
 

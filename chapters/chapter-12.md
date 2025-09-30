@@ -27,12 +27,12 @@ She found Mark and asked if he had a moment.
 1.  **State Benign Intent:** She started with a full apology, using the Repair Protocol from Chapter 17. "Mark, I am truly sorry for how I spoke to you in the meeting today. It was out of line, and my intent now is to take responsibility and fix the damage I caused." This immediately lowered the **Certainty** and **Relatedness** threat for Mark.
 2.  **Share Observation (Data, Not Drama):** "When I said 'be a team player,' I saw you shut down. That was my mistake, not yours."
 3.  **Use the Empathy Loop:** "I can only imagine how that must have landed. Can you tell me what was happening for you in that moment?"
-    Mark, expecting a lecture, was disarmed. "It felt like you were calling me out in front of everyone. Like all the work I'd done on the proposal meant nothing."
+    Mark, expecting a lecture, was disarmed but still guarded. "It felt like you were calling me out in front of everyone. Like all the work I'd done on the proposal meant nothing."
     Maria used **The Playback**: "So my frustration came across as a public attack on your competence and your effort. Is that right?"
-    "Yes," he said, the tension leaving his voice.
+    "Yes," he said, his voice quiet. The anger was gone, but the trust wasn't fully back.
 4.  **Co-create the Solution:** Only after the connection was repaired did she move to the original problem. "That was my failure as a leader. I let my stress get the better of me. In the future, I will not give that kind of feedback in a public setting. And I'd still like to find a way for us to talk about the proposal. How can we make sure that feedback is delivered in a way that works for both of us?"
 
-They agreed on a new protocol: no feedback on major work via email, only in a quick 5-minute sync. She hadn't just fixed a problem; she had used her own public failure to upgrade their shared system and, paradoxically, build a deeper level of trust.
+They agreed on a new protocol: no feedback on major work via email, only in a quick 5-minute sync. The conversation didn't end with a handshake and a smile. It was a messy, partial repair. But as Maria walked away, she ran her debrief. The true victory wasn't a perfect reconciliation. It was that she had stayed regulated enough to try, to take responsibility, and to open the door for trust to be rebuilt over time. The skill wasn't in the perfect performance, but in the courageous, non-judgmental debrief of her own messy one.
 
 #### **The Science: The Hijack Spiral**
 
@@ -66,6 +66,10 @@ This protocol is our first example of "stacking" our tools. It is not a new set 
     *   *"Okay, given that pressure, how can we make sure everyone gets to contribute their ideas?"*
 
 This protocol transforms a dreaded confrontation into a structured, safe, and productive negotiation.
+
+---
+
+Maria had repaired the conflict with Mark, but a new, more dangerous threat was emerging. A key stakeholder from another department, David, seemed intent on sabotaging the Phoenix Project for his own political gain. Maria was about to learn that not all difficult conversations are in good faith. Some are battles that require a different set of tools.
 
 ---
 > ### **Emergency Protocol: The Hijack**

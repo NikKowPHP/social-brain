@@ -16,7 +16,7 @@ The answer, I discovered, is a definitive yes. Trust is not a mystery; it is a f
 
 #### **Case Study: Cracking the Code on Jane**
 
-Maria's biggest challenge on the Phoenix Project was Jane, a brilliant but deeply cynical senior architect with a strong Sentinel profile. Jane had seen too many initiatives fail and trusted no one. She was a constant, skeptical roadblock, and Maria knew that without Jane's trust, the project was doomed.
+Maria's biggest challenge on the Phoenix Project was Jane, a brilliant but deeply cynical senior architect with a strong [ICON: Shield] Sentinel profile. Jane had seen too many initiatives fail and trusted no one. She was a constant, skeptical roadblock, and Maria knew that without Jane's trust, the project was doomed.
 
 **Attempt 1: Vulnerability Backfires.**
 Remembering the Trust Protocol, Maria decided to run an experiment. In their next one-on-one, she tried Calibrated Vulnerability.
@@ -28,17 +28,17 @@ What came back was not an echo, but a wall. Jane's eyes narrowed. "What do you w
 >
 > That night, Maria couldn't stop replaying the interaction. The protocol had failed, but her debrief was a success. She resisted the urge to blame Jane (the musician) or the protocol (the instrument). Instead, she analyzed her own performance as the conductor.
 > *   **The Bug:** "My attempt at Calibrated Vulnerability backfired, making Jane more defensive."
-> *   **The Analysis:** "I used the right protocol for the wrong audience. Jane's Sentinel brain doesn't see vulnerability as an invitation; it sees it as an anomaly, a potential trap. It was a Certainty threat. I failed to account for her specific 'local software'."
-> *   **The Patch:** "To connect with a Sentinel, I shouldn't offer my weakness. I need to honor her strength. Next time, I will ask for her expert risk-assessment, rewarding her Status instead of threatening her Certainty."
+> *   **The Analysis:** "I used the right protocol for the wrong audience. Jane's [ICON: Shield] Sentinel brain doesn't see vulnerability as an invitation; it sees it as an anomaly, a potential trap. It was a [ICON: Map] Certainty threat. I failed to account for her specific 'local software'."
+> *   **The Patch:** "To connect with a [ICON: Shield] Sentinel, I shouldn't offer my weakness. I need to honor her strength. Next time, I will ask for her expert risk-assessment, rewarding her [ICON: Crown] Status instead of threatening her [ICON: Map] Certainty."
 >
 > This is a critical lesson: the debrief is as important as the performance. Maria didn't execute perfectly, but she learned from the failure. She managed to stay regulated enough to analyze her mistake, which was a small but crucial win. This is the incremental nature of mastery.
 
 **Attempt 2: The Correct Tool.**
-Armed with this new insight, Maria realized she had used the wrong tool for the job. To connect with a Sentinel, you don't offer vulnerability; you demonstrate respect for their greatest strength: threat-detection.
+Armed with this new insight, Maria realized she had used the wrong tool for the job. To connect with a [ICON: Shield] Sentinel, you don't offer vulnerability; you demonstrate respect for their greatest strength: threat-detection.
 
 A week later, she tried a different approach. She came to Jane with a specific architectural diagram. "Jane," she said, "I've been looking at this data flow, and my gut says there's a security risk here I'm not seeing. You're the best person in the company at spotting this stuff. Would you mind showing me what I'm missing?"
 
-This was a masterpiece of protocol integration. It wasn't vulnerability; it was a massive **Status reward**. It explicitly valued Jane's unique skill. It also created **Certainty** (a clear, defined problem) and gave Jane **Autonomy** to control the analysis.
+This was a masterpiece of protocol integration. It wasn't vulnerability; it was a massive **[ICON: Crown] Status reward**. It explicitly valued Jane's unique skill. It also created **[ICON: Map] Certainty** (a clear, defined problem) and gave Jane **[ICON: Steering Wheel] Autonomy** to control the analysis.
 
 The shift was immediate. Jane leaned forward, took the printout, and for the first time, a flicker of genuine engagement appeared in her eyes. "You're right to be worried," she said, grabbing a red pen. "The risk isn't here. It's here."
 
@@ -66,7 +66,7 @@ Here's what it does:
 >
 > **The Myth:** To build trust, you must project flawless competence at all times. Showing weakness will make people respect you less.
 >
-> **The Reality:** The brain's trust circuits aren't built on perfection; they're built on connection. Flawless competence can be intimidating (a Status threat). Strategically admitting an imperfection (Calibrated Vulnerability) is a powerful signal that you are human, safe, and trustworthy. It's a biological invitation for the other person's brain to release oxytocin.
+> **The Reality:** The brain's trust circuits aren't built on perfection; they're built on connection. Flawless competence can be intimidating (a [ICON: Crown] Status threat). Strategically admitting an imperfection (Calibrated Vulnerability) is a powerful signal that you are human, safe, and trustworthy. It's a biological invitation for the other person's brain to release oxytocin.
 ---
 > ### **Shadow Alert: Weaponized Vulnerability**
 >
@@ -126,6 +126,6 @@ Maria was slowly building trust inside her team. But the Phoenix Project require
 Let's update your dashboard with an insight about your internal orchestra and its relationship with trust.
 
 1.  **The Fear of Vulnerability:** Which of your three musicians (Architect, Connector, or Sentinel, from Chapter 1) is most afraid of using Calibrated Vulnerability?
-2.  **The Story:** What is the specific fear or story that musician tells you? (e.g., *'The Architect says: It's inefficient and illogical to show weakness.'* or *'The Sentinel says: If I show weakness, I will be attacked.'* or *'The Connector says: If I share a problem, I will become a burden to others.'*)
+2.  **The Story:** What is the specific fear or story that musician tells you? (e.g., *'The [ICON: Blueprint] Architect says: It's inefficient and illogical to show weakness.'* or *'The [ICON: Shield] Sentinel says: If I show weakness, I will be attacked.'* or *'The [ICON: Bridge] Connector says: If I share a problem, I will become a burden to others.'*)
 3.  **A Low-Stakes Rehearsal:** Identify one person in your life with whom it feels relatively safe to practice a micro-vulnerability. What is a small, relatable struggle you could share to open a door to connection?
 4.  **Path to Adaptive:** How could using the Trust Protocol help you strengthen your least-dominant brain profile?

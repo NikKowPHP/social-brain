@@ -15,7 +15,7 @@ Power changes the brain. Research shows that being in a position of high power t
 *   **Decrease Risk-Aversion:** Power increases testosterone and dopamine, making individuals more impulsive and less sensitive to social threats.
 
 Conversely, being in a low-power position tends to:
-*   **Increase Threat-Vigilance:** Your Sentinel brain is constantly on high alert, scanning for potential SCARF threats from superiors. This consumes immense cognitive resources.
+*   **Increase Threat-Vigilance:** Your [ICON: Shield] Sentinel brain is constantly on high alert, scanning for potential SCARF threats from superiors. This consumes immense cognitive resources.
 *   **Increase Empathy and Attunement:** You become exquisitely skilled at reading the moods and intentions of those in power as a survival mechanism.
 
 This means a manager and an employee in the same conversation are having two completely different neurological experiences. A "frank conversation" for a leader can be a terrifying threat event for a subordinate. A conductor must be aware of this asymmetry.
@@ -46,7 +46,7 @@ With peers, the dynamics are often about **Relatedness** and **Fairness**.
 If you are in a position with less systemic power, your primary goal is safety and building credibility.
 *   **Your superpower is observation.** Use your heightened attunement to understand the dynamics of the room before you speak.
 *   **Build alliances.** Find trusted peers or senior sponsors you can test your ideas with in private before bringing them to a public forum.
-*   **Use data as your shield.** For an Architect in a low-power position, data is your best friend. An argument backed by clear, undeniable data is harder to dismiss.
+*   **Use data as your shield.** For an [ICON: Blueprint] Architect in a low-power position, data is your best friend. An argument backed by clear, undeniable data is harder to dismiss.
 *   **Use questions as your instrument.** Instead of making a statement that can be shot down, ask a powerful, insightful question. "That's an interesting approach. How have we accounted for the risk of X?" This demonstrates your value without making you a target.
 
 By understanding the laws of social gravity, you can adapt your conducting style to any room, any hierarchy, and any situation. You move from simply applying tools to practicing the deep and subtle art of social wisdom.

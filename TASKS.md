@@ -1,1 +1,4 @@
 - [x] Address Flaw 1: The Risk of "Protocol Overload"
+- [x] Address Flaw 2: The "Perfect Conductor" Intimidation Factor
+- [x] Address Flaw 3: The Narrative of the Phoenix Project Stalls in Part II
+- [x] Address Flaw 4: The Heavy Reliance on Future Visuals

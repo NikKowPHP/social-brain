@@ -41,9 +41,9 @@ Maria's message was never delivered, not because the channel was broken, but bec
 
 > ### **From the Boardroom to the Living Room: The Chore List**
 >
-> This denial-of-service attack happens at home all the time. Think about trying to explain a series of weekend chores to a family member: "Okay, so first I need you to go to the grocery store, but make sure you get the oat milk, not the almond milk, and then on the way back, can you drop off my library books—they're in the blue bag—and after you get home, we need to clear out the garage before my parents arrive."
+> This denial-of-service attack happens at home all the time. Maria realized she was running the same attack on her partner. Her attempts to coordinate weekend plans were long, rambling monologues: "Okay, so first I need you to go to the grocery store, but make sure you get the oat milk, not the almond milk, and then on the way back, can you drop off my library books—they're in the blue bag—and after you get home, we need to clear out the garage before my parents arrive."
 >
-> The listener's brain, with its tiny four-item workbench, has already crashed. The result is the same as Mark's: the entire "data packet" is rejected, and nothing gets done. The Clarity Protocol—one goal at a time, with a clear headline—is just as critical at home. A simple text message saying "Goal for today: garage cleanup!" is far more likely to succeed.
+> The listener's brain, with its tiny four-item workbench, has already crashed. The result is the same as Mark's: the entire "data packet" is rejected. The first time Maria sent a simple text message saying "One goal for today: garage cleanup!" and it actually worked, it was a revelation. The Clarity Protocol is just as critical at home.
 
 > ### **Investigator's Log: The Bug I Kept Creating**
 >

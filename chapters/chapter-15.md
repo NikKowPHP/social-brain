@@ -70,13 +70,7 @@ To solve both problems, we need a protocol for giving feedback safely, a protoco
 
 > ### **From the Boardroom to the Living Room: The "Car Keys" Debug**
 >
-> The feedback protocols are lifesavers for sensitive conversations. Instead of a parent saying, "You're too old to be driving at night!" (a Status and Autonomy attack that guarantees a fight), the Debug protocol gives an adult child a much better script.
->
-> 1.  **Get Permission:** "Dad, is now a good time to talk about planning for the future?"
-> 2.  **Share Data, Not Drama:** "I was looking at the insurance bill and noticed a 20% increase this year. I also saw a new scratch on the passenger door." (Neutral, observable facts).
-> 3.  **Co-Create the Solution:** "I want to make sure you have all the independence you want for as long as possible. What's a plan we can create together to make sure you're safe and that we have options for getting around?"
->
-> This transforms a potential fight over autonomy into a collaborative problem-solving session about preserving it.
+> Maria's newfound confidence with the Debug protocol at work led her to try it at home, with mixed results. Her attempt to 'Share Data, Not Drama' with her partner about a recurring household chore came across as clinical and cold, triggering a 'don't use your manager voice on me' response. It was a humbling reminder that context is everything, and that the protocols are a starting point for connection, not a replacement for it. The real work was learning to adapt the *principles* (safety, data, collaboration) to the unique 'software' of her home life.
 
 > ### **Profile Alert: Feedback**
 >
@@ -126,7 +120,7 @@ This protocol is for after you've received useful feedback. It uses the science 
 > This phrase is a masterpiece of social neuroscience. "Thank you" rewards their Status. "To help me learn" frames you as a collaborator, not a defendant. "Can you give me an example?" calmly pushes past emotional drama to find the actionable data. Master this one sentence, and you will become unflappable.
 ---
 
-Leo had found his voice. The team was learning. But their weekly Phoenix Project status meeting was still a black hole of productivity, often devolving into tense, unstructured debate. It was time for Maria to conduct her biggest performance yet: the team meeting itself.
+The new feedback culture was working, but it created a new problem: a flood of requests for the team's time. Maria, a natural Connector, found herself saying 'yes' to everything, pushing her team toward burnout. She realized her next lesson wasn't about engaging, but about protecting: she had to learn how to say 'no'.
 
 ---
 > ### **The 1% Upgrade**

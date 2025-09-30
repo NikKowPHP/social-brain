@@ -27,35 +27,35 @@ To see the dashboard in action, let's look at the anatomy of a single, disastrou
 
 ---
 
-#### **STATUS: The Pecking Order**
+#### **[ICON: Crown] STATUS: The Pecking Order**
 *   **The Core Question:** "Do I feel more important or less important than the person I'm interacting with?"
 *   **Threat Triggers:** Feeling looked down on, being given unsolicited advice, being publicly corrected, having your title or experience dismissed.
 *   **Reward Triggers:** Being praised, asked for your opinion, given public credit, feeling you've "won" a point in an argument, teaching someone something new.
-*   **Case Study in Catastrophe:** The interview begins. The interviewer glances at Alex's resume and says, "Huh. I see you went to a state school. We don't get many candidates from there." In one sentence, Alex's Status gauge slams into the red. The interviewer has signaled that Alex is "less than," triggering a social pain response that makes it harder for Alex to think clearly.
+*   **Case Study in Catastrophe:** The interview begins. The interviewer glances at Alex's resume and says, "Huh. I see you went to a state school. We don't get many candidates from there." In one sentence, Alex's **[ICON: Crown] Status** gauge slams into the red. The interviewer has signaled that Alex is "less than," triggering a social pain response that makes it harder for Alex to think clearly.
 
-#### **CERTAINTY: The Crystal Ball**
+#### **[ICON: Map] CERTAINTY: The Crystal Ball**
 *   **The Core Question:** "Do I know what's going to happen next?"
 *   **Threat Triggers:** Vague instructions, an unexpected meeting invitation from your boss with no agenda, unclear expectations. The brain hates ambiguity because it can't predict, which requires burning massive amounts of energy to stay on high alert.
 *   **Reward Triggers:** A clear agenda for a meeting, a well-defined project plan, consistent rules, knowing what to expect.
-*   **Case Study in Catastrophe:** Alex, rattled, asks for more detail about the role. The interviewer waves a hand dismissively. "The job is what you make of it. We're looking for someone who can just figure things out." While meant to sound empowering, this vagueness is a massive Certainty threat. Alex's brain now has no clear picture of the future, creating anxiety and making the company seem chaotic and unpredictable.
+*   **Case Study in Catastrophe:** Alex, rattled, asks for more detail about the role. The interviewer waves a hand dismissively. "The job is what you make of it. We're looking for someone who can just figure things out." While meant to sound empowering, this vagueness is a massive **[ICON: Map] Certainty** threat. Alex's brain now has no clear picture of the future, creating anxiety and making the company seem chaotic and unpredictable.
 
-#### **AUTONOMY: The Steering Wheel**
+#### **[ICON: Steering Wheel] AUTONOMY: The Steering Wheel**
 *   **The Core Question:** "Do I have a sense of control and choice?"
 *   **Threat Triggers:** Being micromanaged, having your decisions made for you, being given no flexibility in a task.
 *   **Reward Triggers:** Being given a choice, having control over your own work, being asked "How would you like to proceed?"
-*   **Case Study in Catastrophe:** The interviewer explains the next step. "If we decide to move forward, you'll be given a 48-hour take-home assignment that will probably take you all weekend. We expect you to be available for a follow-up call first thing Monday morning to present it." Alex feels a rising sense of being trapped. There is no choice, no flexibility, no respect for their time. The Autonomy gauge crashes, and Alex starts to feel like a cog in a machine, not a potential partner.
+*   **Case Study in Catastrophe:** The interviewer explains the next step. "If we decide to move forward, you'll be given a 48-hour take-home assignment that will probably take you all weekend. We expect you to be available for a follow-up call first thing Monday morning to present it." Alex feels a rising sense of being trapped. There is no choice, no flexibility, no respect for their time. The **[ICON: Steering Wheel] Autonomy** gauge crashes, and Alex starts to feel like a cog in a machine, not a potential partner.
 
-#### **RELATEDNESS: The Tribe**
+#### **[ICON: Group] RELATEDNESS: The Tribe**
 *   **The Core Question:** "Are you a friend or a foe? Are you in my tribe or outside of it?"
 *   **Threat Triggers:** Meeting a stranger, feeling excluded, sensing you are part of an "out-group," a colleague using "us vs. them" language.
 *   **Reward Triggers:** Discovering a shared interest, feeling part of a team with a shared goal, a warm and friendly tone of voice.
-*   **Case Study in Catastrophe:** Throughout the interview, the interviewer only asks formulaic questions and types on their laptop while Alex is speaking. There is no small talk, no attempt to find a shared connection. When Alex mentions a former colleague they both know, the interviewer just says, "Oh, right," and moves on. The Relatedness needle stays deep in the red. Alex's brain has firmly categorized the interviewer—and by extension, the company—as "foe."
+*   **Case Study in Catastrophe:** Throughout the interview, the interviewer only asks formulaic questions and types on their laptop while Alex is speaking. There is no small talk, no attempt to find a shared connection. When Alex mentions a former colleague they both know, the interviewer just says, "Oh, right," and moves on. The **[ICON: Group] Relatedness** needle stays deep in the red. Alex's brain has firmly categorized the interviewer—and by extension, the company—as "foe."
 
-#### **FAIRNESS: The Scales of Justice**
+#### **[ICON: Scales] FAIRNESS: The Scales of Justice**
 *   **The Core Question:** "Is this a fair and equitable exchange?"
 *   **Threat Triggers:** Seeing someone else get credit for your work, feeling rules are not applied equally, a sense of broken promises.
 *   **Reward Triggers:** Transparency, clear rules that apply to everyone, feeling that an exchange of value has been equitable.
-*   **Case Study in Catastrophe:** The interview concludes. As Alex is leaving, they overhear the interviewer talking to a colleague in the hallway. "My next one is a referral from the CEO. I'll probably just hire them and cancel the rest." The Fairness gauge explodes. The entire process has been a sham. Alex's brain feels the sting of a deeply unfair exchange, lighting up the same regions associated with disgust. Alex leaves not just wanting to decline any potential offer, but feeling actively hostile toward the company.
+*   **Case Study in Catastrophe:** The interview concludes. As Alex is leaving, they overhear the interviewer talking to a colleague in the hallway. "My next one is a referral from the CEO. I'll probably just hire them and cancel the rest." The **[ICON: Scales] Fairness** gauge explodes. The entire process has been a sham. Alex's brain feels the sting of a deeply unfair exchange, lighting up the same regions associated with disgust. Alex leaves not just wanting to decline any potential offer, but feeling actively hostile toward the company.
 
 ---
 #### **The Practice: Setting Up Your Conductor's Dashboard**
@@ -72,5 +72,5 @@ Let's create the first entry for your Personal Conductor's Dashboard. This is th
 
 1.  **Your Primary SCARF Trigger:** Which of the five SCARF domains (Status, Certainty, Autonomy, Relatedness, or Fairness) most often triggers a threat response in you? This is your primary sensitivity.
 2.  **Describe a Recent Event:** Briefly describe a time in the last month when you felt that trigger. What happened?
-3.  **The Physical Sensation:** What was the physical feeling associated with that threat? (e.g., "When my boss rewrote my slide without telling me (Autonomy threat), I felt a hot flush in my face.") This sensation is a key piece of data—your personal system alert—that we will use in the next chapter.
+3.  **The Physical Sensation:** What was the physical feeling associated with that threat? (e.g., "When my boss rewrote my slide without telling me ([ICON: Steering Wheel] Autonomy threat), I felt a hot flush in my face.") This sensation is a key piece of data—your personal system alert—that we will use in the next chapter.
 4.  **Path to Adaptive:** How could using the SCARF dashboard help you strengthen your least-dominant brain profile?
