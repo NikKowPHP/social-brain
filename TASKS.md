@@ -1,4 +1,3 @@
-- [x] Address risk of "Protocol Overload" by reinforcing the Core Trio and thematically grouping Ensemble tools.
-- [x] Address the "Authenticity Concern" earlier in the book by moving the discussion to the preface.
-- [x] Improve narrative momentum by restructuring chapters to be "problem-first" and dynamically weaving in the case study narrative.
+- [x] Address the risk of "protocol overload" by elevating the Core Trio and providing a toolkit map.
+- [x] Make Maria's case study less linear by introducing a major, cascading failure and deepening her personal stakes.
       

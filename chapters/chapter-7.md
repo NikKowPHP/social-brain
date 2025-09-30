@@ -125,19 +125,4 @@ The purpose of this deep connection isn't always to solve a problem. Often, it's
 ---
 
 Maria had opened the door to connection with Leo, but she knew that to truly repair the damage and unlock the team's potential, she needed more than a single conversation. She needed to build a deep, resilient foundation of trust, starting with her most skeptical engineer, Jane.
-
----
-> ### **The 1% Upgrade**
->
-> In your next conversation where someone shares a frustration, your only goal is to ask one question: **"What's the hardest part about that for you?"** Then, put your phone face down, and just listen. Don't solve. Don't judge. Just listen.
-
----
-### **Logbook Entry**
-
-This week, your challenge is to practice the full Connection Protocol in one conversation.
-
-1.  **The Situation:** Who did you practice with, and what was the topic?
-2.  **The Non-Verbal:** Which "Signal of Presence" technique did you consciously use (e.g., pointing the tripod, intelligent pause)?
-3.  **The Verbal:** Write down the exact "Playback" sentence you used to reflect the "music." How did they respond?
-4.  **Path to Adaptive:** How could practicing the Connection Protocol help you strengthen your least-dominant brain profile?
       

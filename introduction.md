@@ -16,6 +16,8 @@ What if you could see those rules? What if you could debug a difficult conversat
 
 This book is the result of that investigation. It is the map I wished I'd had on my journey. I will share the source code I discovered and hand you a complete toolkit of neuroscience-backed protocols I developed—a system I call **The Conductor Method**.
 
+But this is not a method that requires you to memorize dozens of techniques. The entire system is built on a simple, powerful foundation of just **three core skills**. We will call this your **Core Trio**. Mastering these three skills is the central goal of this book. Everything else is a variation on that theme, a specialized instrument for a rare occasion. Your journey to becoming a conductor is not about learning a vast repertoire; it's about achieving a deep, intuitive mastery of three fundamental movements.
+
 ---
 > ### **CRITICAL WARNING: Where This Toolkit Ends and Professional Help Begins**
 >

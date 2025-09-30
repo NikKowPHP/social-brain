@@ -11,9 +11,13 @@ Our investigation is organized into three parts, mapping to your own transformat
 *   **Part III: Achieving Mastery & Legacy.** We will bring it all together, moving from practicing scales to conducting a symphony, creating a lasting impact on your teams, families, and communities.
 
 **Your Defense Against "Protocol Overload"**
-The entire system is built on a clear hierarchy of tools. This distinction is your primary defense against cognitive fatigue.
-*   At the foundation are just three skills, which we will call the **Core Trio**. This is your emergency toolkit, the engine of this entire method: Self-Regulation (Chapter 6), Connection (Chapter 7), and Trust (Chapter 8). If you master only these three, you will have enough to change over 80% of your interactions.
-*   All other tools in this book are part of the **Ensemble Toolkit**—powerful, specialized instruments for specific situations. Please do not try to learn them all at once. The Core Trio is your daily practice; the Ensemble is your reference library.
+Let me be very clear: this is not a book of twenty protocols to memorize. That would be a recipe for the very cognitive fatigue we're trying to defeat.
+
+**This is a book about mastering exactly three foundational skills.**
+
+That's it. These three skills form the **Core Trio**, the engine of this entire method: Self-Regulation (Chapter 6), Connection (Chapter 7), and Trust (Chapter 8). If you master only these three, you will have enough to change over 80% of your interactions for the better.
+
+Everything else you will encounter in these pages is part of the **Ensemble Toolkit**. Think of the Ensemble tools not as required reading, but as a specialized reference library or an appendix for rare situations. The Core Trio is your daily practice; the Ensemble is for troubleshooting. This distinction is your primary defense against feeling overwhelmed.
 
 **Your Official Training Program**
 This book is a manual for a practice, and it has an official training program.

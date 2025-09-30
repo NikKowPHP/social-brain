@@ -27,6 +27,8 @@
 
 ### **Part II: The Toolkit - Neuroscience-Backed Best Practices**
 
+**Chapter 5.5:** Your Toolkit Map & Cheat Sheet
+
 **The Core Trio: Your Foundational Practice**
 
 **Chapter 6:** The Regulated Brain
@@ -73,8 +75,6 @@
 
 **Chapter 17:** The Repair Protocol
 *The Neuroscience of a Real Apology*
-
-**Toolkit Summary & Cheat Sheet**
 
 **Chapter 17.6:** Troubleshooting the Toolkit (A Conductor's Q&A)
 

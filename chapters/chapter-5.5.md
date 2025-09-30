@@ -1,10 +1,10 @@
-### **Toolkit Summary & Cheat Sheet**
+### **Your Toolkit Map & Cheat Sheet**
 
-You have now collected all the core instruments for your toolkit. You've learned to regulate your own nervous system, to listen with deep empathy, to build trust, to speak with clarity, and to navigate even the most difficult conversations. This is a significant accomplishment.
+Welcome to Part II, the heart of your training. In this section, we will move from diagnosis to practice, building your toolkit one instrument at a time.
 
-The following cheat sheet is your consolidated reference for the core protocols we've covered in Part II. Use it to refresh your memory, to prepare for a challenging interaction, or to diagnose a conversation that went wrong. It turns the volume of information you've just learned from a burden into a feeling of accomplishment and readiness.
+This chapter is your map. The following cheat sheet provides a high-level overview of the core protocols you are about to learn. It is designed to prevent cognitive overload by showing you the complete system architecture up front. Refer back to this map as you progress through Part II. Use it to see how each new tool fits into the larger system.
 
-This is the toolkit you've built.
+This is the toolkit you are about to build.
 
 ---
 [AUTHOR'S NOTE: This cheat sheet should be designed as a full-page, visually engaging infographic for easy reference. **CRITICAL: Include a visual representation of the CORE TRIO and ENSEMBLE HIERARCHY.**]
