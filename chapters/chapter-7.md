@@ -7,6 +7,7 @@
 > *   **Toolkit Tier:** Core Trio
 > *   **Primary Brain Profile:** Architect (Core Skill Development)
 > *   **Purpose:** To move beyond logic and connect with the emotional "music" of a conversation.
+> *   **Note:** This is the second essential tool of your **Core Trio**.
 
 Our investigation so far has focused on high-stakes, goal-oriented communication. But a life, and a relationship, is not defined by these moments of tension. It is built in the quiet spaces in between. This chapter is about the most powerful instrument in your entire toolkit: the ability to be fully present with another human being.
 

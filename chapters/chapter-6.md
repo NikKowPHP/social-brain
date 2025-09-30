@@ -7,6 +7,7 @@
 > *   **Toolkit Tier:** Core Trio
 > *   **Primary Brain Profile:** Sentinel (Power-Up), but essential for all.
 > *   **Purpose:** To manually override an amygdala hijack and keep your rational brain online under pressure.
+> *   **Note:** This is the first and most fundamental tool of your **Core Trio**.
 
 The "social pain" bug that Maria triggered in Mark is one of the most critical in the human operating system. For Maria, the fallout from that email was a wake-up call. Mark was sullen and withdrawn for a week, and the tension on her team was palpable. She felt a familiar wave of anxiety and frustration at her own inability to lead.
 

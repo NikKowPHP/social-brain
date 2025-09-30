@@ -68,12 +68,14 @@ Our journey is organized into three parts, mapping to your own transformation:
 *   **Part II: Building the Toolkit.** Each chapter will hand you a new tool from **The Conductor Method**, forged in the fires of neuroscience. This is your core training for navigating any human interaction.
 *   **Part III: Achieving Mastery & Legacy.** We will bring it all together, moving from practicing scales to conducting a symphony, creating a lasting impact on your teams, families, and communities.
 
-To prevent you from feeling overwhelmed by the number of protocols in this book, let me give you the master key from the start. The entire system is built on a foundation of just three skills, which we will call the **Core Trio**. This is your emergency toolkit, the engine of this entire method:
+To prevent you from feeling overwhelmed by the number of protocols in this book, let me give you the master key from the start. The entire system is built on a clear hierarchy of tools. This distinction is your primary defense against **"protocol overload,"** a state of cognitive fatigue that can stop learning in its tracks.
+
+At the foundation are just three skills, which we will call the **Core Trio**. This is your emergency toolkit, the engine of this entire method:
 *   **[ICON: Lungs] The Conductor's Breath** (Chapter 6) to regulate yourself.
 *   **[ICON: Reflecting Arrows] The Empathy Loop** (Chapter 7) to connect with others.
 *   **[ICON: Handshake] The Trust Protocol** (Chapter 8) to build trust.
 
-If you master only these three, you will have enough to fundamentally change over 80% of your interactions. Everything else is an advanced application of this core. We will refer to these as "Ensemble" tools—powerful, but specialized. This distinction is your primary defense against protocol overload.
+If you master only these three, you will have enough to fundamentally change over 80% of your interactions. All other tools in this book are part of the **Ensemble Toolkit**—powerful, specialized instruments for specific situations. Please do not try to learn them all at once. The Core Trio is your daily practice; the Ensemble is your reference library.
 
 But this journey requires a counter-intuitive shift in your thinking. At its heart, this book is built on a single, powerful paradox: **to gain real control in any human interaction, you must first give it up.** You will learn that the Architect's need to be right, the Connector's need to please, and the Sentinel's need to preempt every threat are precisely what undermine their influence. By giving up that rigid control, you will earn a more profound and sustainable way to conduct the orchestra. This is **The Conductor's Paradox**, and we will return to it again and again.
 

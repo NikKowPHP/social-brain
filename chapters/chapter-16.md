@@ -8,6 +8,8 @@
 > *   **Primary Brain Profile:** Connector (Core Skill Development)
 > *   **Purpose:** To say "no" gracefully while preserving the relationship.
 
+This chapter adds a vital **Ensemble** tool to your kit, one that protects your most valuable resources: your time and energy.
+
 For many of us, especially those with a strong [ICON: Bridge] Connector profile, the word "no" can feel like a conversational hand grenade. We avoid it at all costs, terrified of the relational shrapnel. We say "yes" to projects we don't have time for, to social events we don't want to attend, and to requests that drain our energy. The result is burnout, resentment, and the quiet erosion of our own priorities.
 
 Why is saying "no" so hard? The answer lies in our neuroscience. A "no" feels like a direct, intentional threat to **[ICON: Group] Relatedness**. You are, in that moment, choosing your own needs over the needs of the tribe. Your ancient brain wiring screams that this is a dangerous move that could lead to social exclusion.

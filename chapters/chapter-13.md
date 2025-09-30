@@ -8,9 +8,9 @@
 > *   **Primary Brain Profile:** Connector (Power-Up)
 > *   **Purpose:** To defend yourself and your team from bad-faith actors by shifting the goal from connection to containment.
 
-The tools we have developed so far operate on a fundamental assumption: that both parties are engaging in good faith. We assume that even in a difficult conversation, the shared goal is to find a productive outcome.
+The tools we have developed so far operate on a fundamental assumption: that both parties are engaging in good faith. This chapter's **Ensemble** tool is for when that assumption proves false.
 
-But what happens when that assumption is false? What do you do when the other person isn't just having a threat response, but is intentionally *trying* to trigger one in you?
+What do you do when the other person isn't just having a threat response, but is intentionally *trying* to trigger one in you?
 
 This is Hard Mode. This is when you face a manipulative actor—someone whose goal is not mutual understanding, but personal victory, control, or even chaos. Their tactics are designed to hijack your amygdala, exhaust your cognitive resources, and force you into a corner. Using the Empathy Loop to connect with a bad-faith actor is like trying to harmonize with a siren. You will be pulled onto the rocks.
 

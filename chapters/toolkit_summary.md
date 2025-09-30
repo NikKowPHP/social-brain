@@ -26,7 +26,7 @@ This is the toolkit you've built.
 ---
 ### **The Tiered Toolkit**
 
-#### **Tier 1: The Core Trio (Your Daily Practice)**
+#### **The Core Trio (Your Daily Practice)**
 *Mastering these three foundational skills is enough to change 80% of your interactions. This is the engine.*
 *   **[ICON: Lungs] The Conductor's Breath (Chapter 6):** Double inhale through the nose, long exhale through the mouth. (Manual override for an amygdala hijack).
 *   **[ICON: Reflecting Arrows] The Empathy Loop (Chapter 7):**
@@ -35,16 +35,13 @@ This is the toolkit you've built.
 *   **[ICON: Handshake] The Trust Protocol (Chapter 8):**
     *   Execute **Calibrated Vulnerability**: Share a small, professional vulnerability and observe the response.
 
-#### **Tier 2: The Fourth Foundational Tool**
-*Adding this protocol makes your communication effective and respectful in every context.*
-*   **[ICON: Bullet Points] The Clarity Protocol (Chapter 10):**
+#### **The Ensemble Toolkit (For Specific Situations)**
+*Use these specialized instruments for specific, challenging situations. Refer to these chapters as needed.*
+*   **[ICON: Bullet Points] The Clarity Protocol (Chapter 10):** For making your communication effective and respectful in every context.
     1.  **One Goal Per Message.**
     2.  **Headline First** (state your request immediately).
     3.  **Chunk the Details** (use bullets, bolding, short paragraphs).
-
-#### **Tier 3: The Specialist's Kit (For High-Stakes Moments)**
-*Use these protocols for specific, challenging situations.*
-*   **[ICON: Radio Signal] The Safety Signal Protocol (Chapter 9):** For breaking the silence with new people.
+*   **[ICON: Radio Signal] The Safety Signal (Field Application) (Chapter 9):** For breaking the silence with new people.
 *   **[ICON: Tension Graph] The Tension & Resolution Arc (Chapter 11):** For making your ideas persuasive and memorable.
 *   **[ICON: Gears] The Feedback Protocols (Chapter 15):** For giving and receiving "bug reports" safely.
 *   **[ICON: Fence] The Boundary Protocol (Chapter 16):** For saying "no" gracefully while preserving the relationship.
@@ -69,4 +66,3 @@ This is the toolkit you've built.
     *   **Then...** Use the **Hijack Emergency Protocol** (Validate emotion, offer autonomy). (Ch 12)
 *   **When you are trying to persuade a skeptical audience...**
     *   **Then...** Use the **Tension & Resolution Arc** to frame your data as a story. (Ch 11)
-      

@@ -8,7 +8,7 @@
 > *   **Primary Brain Profile:** Connector (Core Skill Development)
 > *   **Purpose:** To navigate high-stakes conversations safely and productively, making conflict a source of progress, not pain.
 
-Every conductor dreads the moment a key instrument goes wildly out of tune, creating a dissonance that threatens the entire performance. A difficult conversation is the interpersonal equivalent of this moment. It is an interaction where the SCARF threats are high for everyone involved, and the risk of a collective amygdala hijack is almost 100%.
+Every conductor dreads the moment a key instrument goes wildly out of tune, creating a dissonance that threatens the entire performance. This chapter's **Ensemble** tool is for conducting through that dissonance. A difficult conversation is an interaction where the SCARF threats are high for everyone involved, and the risk of a collective amygdala hijack is almost 100%.
 
 These are the conversations we avoid: addressing underperformance, resolving a conflict between teammates, or admitting a major mistake. We avoid them because we instinctively know that they are minefields of social pain. But a conductor cannot avoid dissonance; they must learn to conduct through it. This chapter provides the protocol for navigating these conversations, not to avoid conflict, but to make it productive.
 

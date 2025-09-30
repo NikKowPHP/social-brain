@@ -18,6 +18,15 @@ This gives you permission to feel a sense of completion. For the rest of this bo
 You are ready. You have your baton. Now it's time to step onto the stage.
 
 ---
+### **Your Official Training Program: The 30-Day Challenge**
+
+You now have the full toolkit. It may feel like a lot. That feeling is normal, and it is why this book has an official training program.
+
+Before you proceed to Part III, now is the perfect time to turn to **Appendix C: The 30-Day Conductor's Challenge.**
+
+That appendix is not an afterthought; it is the practical, week-by-week guide to internalizing these skills and combating protocol overload. It will guide you through this toolkit one step at a time, focusing on one core skill per week. Use it to turn the theory from Part II into a lasting practice.
+
+---
 ### **Integrated Drill: The Graceful Correction**
 
 Let's combine two "Ensemble" tools into a common, high-stakes scenario. This builds mastery and confidence in combining tools, which is how they'll be used in the real world.

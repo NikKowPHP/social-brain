@@ -8,7 +8,7 @@
 > *   **Primary Brain Profile:** All (Situational Fluency)
 > *   **Purpose:** To learn to read and adapt to the "local software" of any new group or culture.
 
-The human brain's social operating system has universal hardware. Everyone has an amygdala. Everyone's brain tracks the five SCARF domains. But culture—whether in a country or a company—is the software running on top. And trying to run your software on their hardware without a compatibility check is a recipe for a system crash. My first project with our team in Tokyo was that crash.
+The human brain's social operating system has universal hardware, but culture is the software running on top. This chapter's **Ensemble** tool is about learning to read and adapt to that local software. Trying to run your software on their hardware without a compatibility check is a recipe for a system crash. My first project with our team in Tokyo was that crash.
 
 In a planning meeting, I gave some direct, blunt feedback on a design mock-up. It was the kind of feedback my [ICON: Blueprint] Architect brain sees as efficient and helpful. To my colleagues in California, it was normal. To the design team in Tokyo, it was a disaster. The lead designer went quiet for the rest of the meeting. Later, I learned from the project manager that my public critique had been perceived as a deeply disrespectful attack on the team's status, causing a significant loss of face.
 

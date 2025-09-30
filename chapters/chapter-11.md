@@ -8,6 +8,8 @@
 > *   **Primary Brain Profile:** Architect (Core Skill Development)
 > *   **Purpose:** To make data and logic persuasive by framing them within a memorable narrative structure.
 
+This chapter adds a powerful **Ensemble** tool to our kit, one designed to make your clear, logical ideas not just understood, but remembered and felt.
+
 My public humiliation in the boardroom taught me a lesson I never forgot: a good story will always beat good data. This is not a flaw in human reasoning; it's a feature of our neural hardware. Data speaks to the logical [ICON: Blueprint] Architect brain, but a story speaks to the entire orchestra at once. It connects with our emotional [ICON: Bridge] Connector brain and calms our risk-averse [ICON: Shield] Sentinel brain by providing a clear path forward.
 
 A conductor doesn't just present a logical argument for why a piece should be played a certain way; they tell a story with their hands and their energy, making the orchestra *feel* the music. To make your ideas stick, you must learn to do the same.

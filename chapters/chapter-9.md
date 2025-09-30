@@ -2,12 +2,12 @@
 
 > ### **Dashboard Integration**
 >
-> *   **Tool:** The Safety Signal Protocol (Chapter 9)
-> *   **Toolkit Tier:** Ensemble
+> *   **Tool:** Field Application: The Safety Signal
+> *   **Toolkit Tier:** Ensemble (Application of Core Trio)
 > *   **Primary Brain Profile:** Sentinel & Introverts (Power-Up)
-> *   **Purpose:** To systematically de-risk the act of starting a conversation with someone new.
+> *   **Purpose:** To apply the Core Trio to systematically de-risk the act of starting a conversation with someone new.
 
-*(Author's Note: The last three chapters gave you the core engine of your toolkit: Breath, Empathy, and Trust. Before we build on that foundation, let's take a brief interlude. This chapter is a practical field guide for a single, common challenge: starting a conversation with someone new. Think of it as a simple script you can run using the tools you already have.)*
+*(Author's Note: The last three chapters gave you the core engine of your toolkit: The Core Trio of Breath, Empathy, and Trust. Before we build on that foundation with more specialized instruments, let's take a brief interlude. This chapter is not a new protocol to memorize, but a practical field guide for a single, common challenge: starting a conversation with someone new. Think of it as a simple script you can run using the tools you already have.)*
 
 #### **Case Study: The Connector's Courage**
 
@@ -33,9 +33,9 @@ This isn't an actual threat; it's a **simulated threat**, but your amygdala can'
 
 Your brain processes this simulated triple-threat as a genuine danger, and its prime directive is to avoid danger. The feeling of being "frozen" is your body's flight-or-freeze response kicking in to "protect" you from the anticipated social pain, which it treats as equivalent to physical pain.
 
-#### **The Practice: The "Safety Signal" Protocol**
+#### **Field Guide: A Protocol for Breaking the Silence**
 
-You cannot defeat this fear by telling yourself to "just be confident." That's like trying to fix a software bug by yelling at the computer. An effective approach is a protocol that respects the brain's wiring—one that systematically reduces the anticipated SCARF threats for both you *and* the other person.
+You cannot defeat this fear by telling yourself to "just be confident." That's like trying to fix a software bug by yelling at the computer. An effective approach is a protocol that respects the brain's wiring—one that systematically reduces the anticipated SCARF threats for both you *and* the other person. This is not a new protocol to memorize, but an application of the skills you already have.
 
 The goal is not to be brilliant, witty, or impressive. The goal is to **send a signal of safety.**
 

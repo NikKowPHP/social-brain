@@ -7,6 +7,7 @@
 > *   **Toolkit Tier:** Core Trio
 > *   **Primary Brain Profile:** Sentinel & Architect (Core Skill Development)
 > *   **Purpose:** To create the neurochemical conditions for trust by demonstrating safe, calibrated vulnerability.
+> *   **Note:** This is the third and final tool of your **Core Trio**.
 
 As an Architect-brained professional, I used to believe trust was a simple byproduct of consistent, high-quality work. I thought if I just delivered flawless code, people would eventually trust me. I was wrong. I was delivering logic, but I wasn't creating connection. It took a failed project and some brutally honest feedback to make me realize that trust isn't earned through perfection; it's built through the counter-intuitive science of vulnerability.
 

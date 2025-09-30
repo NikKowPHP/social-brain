@@ -8,7 +8,7 @@
 > *   **Primary Brain Profile:** Architect (Core Skill Development)
 > *   **Purpose:** To respect the receiver's cognitive load and ensure your message is received and understood.
 
-We have now assembled the **Core Trio** of our toolkit: Regulation, Connection, and Trust. Now we add the fourth foundational tool, a protocol that makes every single interaction more effective and respectful.
+We have now assembled the **Core Trio** of our toolkit: Regulation, Connection, and Trust. Now we add our first **Ensemble** tool—a protocol that makes every single interaction more effective and respectful.
 
 Why do your brilliant, thorough emails sometimes get completely ignored? It's one of the most common and frustrating bugs in professional communication. For years, I thought the problem was a lack of attention from the receiver. I was wrong. The problem was a lack of respect from me, the sender. I was launching denial-of-service attacks on my colleagues' brains, a critical bug that starts with a misunderstanding of the brain's most brutal hardware limitation.
 

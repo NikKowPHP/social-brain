@@ -8,7 +8,9 @@
 > *   **Primary Brain Profile:** Connector & Architect (Core Skill Development)
 > *   **Purpose:** To give and receive "bug reports" in a way that promotes learning, not a threat response.
 
-Let me tell you about how I used to give feedback. As a programmer, a bug report is a gift. It is a neutral, data-rich pointer to a flaw in the system, and it is received with gratitude. Early in my career, I assumed this was a universal principle. I assumed feedback worked the same way with people. It does not.
+This chapter adds a critical **Ensemble** tool to your kit, one for handling one of the most difficult and necessary parts of any collaboration: feedback.
+
+As a programmer, a bug report is a gift. It is a neutral, data-rich pointer to a flaw in the system, and it is received with gratitude. Early in my career, I assumed this was a universal principle. I assumed feedback worked the same way with people. It does not.
 
 This fundamental error forced me to ask a new question in my investigation: **Why does the human brain's firewall reject most feedback, and is there a protocol that can deliver—and receive—a "bug report" without triggering a threat response?**
 
