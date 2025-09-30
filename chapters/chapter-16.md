@@ -48,6 +48,8 @@ As the Phoenix Project gained momentum, a senior leader from another department 
 
 Maria felt the internal conflict immediately. Her old **Architect** brain wanted to state the logical fact: "No, we don't have time." But she could feel her developing **Connector** awareness screaming that a blunt 'no' to a senior leader would be a political disaster. She knew she couldn't revert to her old habits. She took a silent **Conductor's Breath**, anchored herself, and chose the protocol she just learned.
 
+*A note for the conductor: Notice how Maria's ability to use a specialized protocol (Boundaries) is built on the foundation of a Core Trio skill (The Breath). Regulation enables execution.*
+
 She started with Step 1: **Validate**. "Thank you so much for seeing the potential here," she began. "That dashboard sounds like a fantastic tool, and it's exactly the kind of value we hoped Phoenix would unlock."
 
 Then, she delivered the boundary with Step 2: **State**. "Unfortunately, given our current, locked-down timeline for the main launch, the team simply doesn't have the capacity to build it to the quality it deserves right now."
@@ -74,3 +76,4 @@ This week's entry for your dashboard is a reflection on a boundary you find diff
 2.  **The Story You Tell Yourself:** What is the specific, catastrophic story you tell yourself about what will happen if you say 'no' in that situation? (e.g., "If I say no to this project, my boss will think I'm not a team player and I'll be overlooked for promotion.")
 3.  **A SCARF Analysis:** Using the SCARF model, what is the specific social threat you are afraid of triggering (in them, or in yourself)? This reframes the problem from a personal failing to a predictable system. (e.g., "I am afraid of creating a **Relatedness** threat and making them dislike me," or "I am afraid of triggering a **Status** threat in my boss by questioning their request.")
 4.  **Path to Adaptive:** How could scripting a 'no' using the Boundary Protocol help you strengthen your least-dominant brain profile?
+      

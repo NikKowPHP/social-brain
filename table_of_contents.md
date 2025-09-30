@@ -106,6 +106,8 @@
 
 **Appendix B:** Adapting the Protocols for Different Orchestras
 
+**Appendix C:** The 30-Day Conductor's Challenge
+
 **Glossary**
 
 **Index**
@@ -113,3 +115,4 @@
 **Acknowledgments**
 
 **About the Author**
+      

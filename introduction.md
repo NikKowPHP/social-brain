@@ -37,7 +37,7 @@ This book is the result of that investigation. It is the map I wished I'd had on
 > *   National Alliance on Mental Illness (NAMI): [nami.org](https://nami.org/Home)
 ---
 
-Think of it as your personal training manual, a **30-day challenge to upgrade your social operating system.** Each chapter will give you a new tool and a "Logbook Entry" to track your progress as you level up. By the end, you'll be able to conduct your own orchestra in boardrooms, at the dinner table, and everywhere in between.
+Think of it as your personal training manual. To make this journey manageable, we have included **The 30-Day Conductor's Challenge in Appendix C** to help you upgrade your social operating system one week at a time. By the end, you'll be able to conduct your own orchestra in boardrooms, at the dinner table, and everywhere in between.
 
 Your brain is a magnificent orchestra. But in high-stakes moments, it often feels like chaos. You are already the conductor of this orchestra. The problem is, no one ever handed you the baton.
 

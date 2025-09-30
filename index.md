@@ -132,10 +132,11 @@
     *   And, But, Therefore (ABT) Arc
 
 **T**
-*   30-Day Conductor's Challenge (Chapter 22)
+*   30-Day Conductor's Challenge (Appendix C)
 *   Threat Response (Chapters 3, 6, 12, 13, 15)
 *   Trust (Chapter 8)
 
 **V**
 *   Vagus Nerve (Chapter 6)
 *   Vulnerability, Calibrated (Chapter 8, 24)
+      

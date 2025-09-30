@@ -23,7 +23,11 @@ After the disastrous "This needs a lot of work" email, Maria knew she had to rep
 
 **Sentinel:** "Let it go? The tension is already killing the project! We have to do something!"
 
-This was the internal storm. The old Maria would have been swept away by one of these voices—likely defaulting to the Architect's cold logic and making things worse. The new Maria paused. She recognized the cacophony not as an overwhelming feeling, but as a debate between her musicians. She closed her eyes for a moment and took two deep **Conductor's Breaths**. The storm didn't vanish, but its roar subsided to a manageable hum. The breath was an anchor, giving her just enough space to choose her next move with intention, rather than from a place of fear or defensiveness. She was regulated enough to begin.
+This was the internal storm. The old Maria would have been swept away by one of these voices—likely defaulting to the Architect's cold logic and making things worse. The new Maria paused. She recognized the cacophony not as an overwhelming feeling, but as a debate between her musicians. She closed her eyes for a moment and took two deep **Conductor's Breaths**. The storm didn't vanish, but its roar subsided to a manageable hum. The breath was an anchor, giving her just enough space to choose her next move with intention, rather than from a place of fear or defensiveness.
+
+*A note for the conductor: This is the Core Trio in action. Regulation (The Breath) is the non-negotiable first step that makes connection (The Empathy Loop) possible.*
+
+She was regulated enough to begin.
 
 1.  **Regulate First:** She calmed her own anxiety.
 2.  **State Benign Intent:** She started the conversation with, "Mark, my goal here is to understand what happened with my email last week, and to make sure I'm giving you the support you need. My intent is to fix this." This immediately lowered the **Certainty** and **Relatedness** threat for Mark.
@@ -76,3 +80,4 @@ This protocol transforms a dreaded confrontation into a structured, safe, and pr
 > 1.  **Regulate Yourself First** (The Conductor's Breath).
 > 2.  **Validate the Feeling, Not the Content** (Use The Playback on their emotion: *"It sounds like you're incredibly frustrated right now."*).
 > 3.  **Restore Autonomy** (Give them a choice, e.g., *"This is an important conversation, and it's getting heated. Should we pause for five minutes and come back to this?"*).
+      
