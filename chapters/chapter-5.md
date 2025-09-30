@@ -17,7 +17,7 @@ SCARF is an acronym for the five key domains of social experience that the brain
 
 For the rest of this book, we will think of these five domains as a real-time dashboard in your mind's eye. In any conversation, you can learn to see the needles on these five gauges twitching for both yourself and the other person, moving toward the green (reward) or into the red (threat). A conductor's first job is to keep these needles in the green.
 
-[AUTHOR'S NOTE: This is the place for the "Conductor's Dashboard" visual. Imagine a clean, modern dashboard. On the left are the five SCARF gauges (Status, Certainty, Autonomy, Relatedness, Fairness). On the right, there are designated "slots" for the tools the reader will collect. There's a prominent section for the "Core Trio" (with icons for Breath, Empathy, and Trust) and a larger area for the "Ensemble" tools. At the start, these slots are empty silhouettes. This visual should be repeated and updated throughout the book, showing the dashboard filling up as the reader progresses, creating a powerful sense of accomplishment.]
+[AUTHOR'S NOTE: This is the place for the "Conductor's Dashboard" visual. Imagine a clean, modern dashboard. On the left are the five SCARF gauges (Status, Certainty, Autonomy, Relatedness, Fairness). On the right, there are designated "slots" for the tools the reader will collect. There's a prominent section for the "Core Trio" (with icons for Breath, Empathy, and Trust) and a larger area for the "Ensemble" tools. At the start, these slots are empty silhouettes. The first three slots for the 'Core Trio' are the most critical; filling them is your first major victory as a conductor. This visual should be repeated and updated throughout the book, showing the dashboard filling up as the reader progresses, creating a powerful sense of accomplishment.]
 
 > ### **Investigator's Note: A Map, Not the Territory**
 >
@@ -74,3 +74,4 @@ Let's create the first entry for your Personal Conductor's Dashboard. This is th
 2.  **Describe a Recent Event:** Briefly describe a time in the last month when you felt that trigger. What happened?
 3.  **The Physical Sensation:** What was the physical feeling associated with that threat? (e.g., "When my boss rewrote my slide without telling me ([ICON: Steering Wheel] Autonomy threat), I felt a hot flush in my face.") This sensation is a key piece of data—your personal system alert—that we will use in the next chapter.
 4.  **Path to Adaptive:** How could using the SCARF dashboard help you strengthen your least-dominant brain profile?
+      

@@ -37,7 +37,7 @@ This book is the result of that investigation. It is the map I wished I'd had on
 > *   National Alliance on Mental Illness (NAMI): [nami.org](https://nami.org/Home)
 ---
 
-Think of it as your personal training manual. To make this journey manageable, we have included **The 30-Day Conductor's Challenge in Appendix C** to help you upgrade your social operating system one week at a time. By the end, you'll be able to conduct your own orchestra in boardrooms, at the dinner table, and everywhere in between.
+Think of it as your personal training manual. To make this journey manageable, this book is designed around an official training program. **The 30-Day Conductor's Challenge in Appendix C** is not an afterthought; it is your guided path to internalizing these skills. It will help you focus on one core skill per week, turning theory into practice and combating the feeling of being overwhelmed. I urge you to use it as your roadmap as you progress through the book.
 
 Your brain is a magnificent orchestra. But in high-stakes moments, it often feels like chaos. You are already the conductor of this orchestra. The problem is, no one ever handed you the baton.
 
@@ -88,8 +88,6 @@ To help you see the book's core concepts in action, here are the profiles of our
 *   **Leo:** Leo is a junior engineer with a strong **[ICON: Bridge] Connector** profile, full of empathetic ideas but often too intimidated to voice them.
 
 This is a journey of practice, not a quest for perfection. You will not become a flawless conductor overnight. The goal is to get 1% better with every interaction, to learn from your mistakes, and to gradually re-wire your responses. This book is not a rulebook; it is a rehearsal space.
-
-To make this journey practical, this book is designed around an official training program. **The 30-Day Conductor's Challenge in Appendix C** is not an afterthought; it is your guided path to internalizing these skills. It will help you focus on one core skill per week, turning theory into practice and combating the feeling of being overwhelmed. I urge you to use it as your roadmap as you progress through the book.
 
 The journey to becoming the conductor starts now. Turn the page, and let's diagnose your orchestra.
       

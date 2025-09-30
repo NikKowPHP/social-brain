@@ -9,6 +9,10 @@ So far, you have acquired the three most fundamental skills of a conductor, **Th
 
 These three tools, used together, form the "first chair" of your orchestra. They are the lead violin, the principal cello, and the first flute. Mastering them is the key to everything that follows.
 
+> ### **Milestone: The Core Trio is Installed**
+>
+> Congratulations. You have now collected the three most powerful tools in the entire Conductor's Method. Think of the Conductor's Dashboard we introduced in Chapter 5. The "Core Trio" slots are now filled. Your dashboard is powered up. If you only practice these three skills, you have enough to fundamentally change over 80% of your interactions. This is a complete victory. Everything that follows is about adding specialized instruments for specific situations, but the core engine is now yours.
+
 #### **Case Study: The First Chair in Concert**
 Maria was feeling more confident, but she noticed Leo, her junior **Connector**, was still hesitant to speak up in meetings, especially when Mark or Jane were in the room. She decided to check in with him, not as a manager, but as a conductor practicing her core skills.
 
