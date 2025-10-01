@@ -63,7 +63,7 @@ The most effective stories share a fundamental three-part structure.
 3.  **"Therefore..." (The Solution/Resolution):** Present your idea as the resolution to that tension.
 
 **Case Study: The Story That Saved the Project**
-***Previously on the Phoenix Project:*** *Maria successfully solved the internal Mark vs. Jane conflict, but the project is now stalled, awaiting critical funding from a data-weary board.*
+***Previously on the Phoenix Project:*** *With the Sterling Corp. review fast approaching, Maria successfully solved the internal Mark vs. Jane conflict, but the project is now stalled, awaiting critical funding from a data-weary board.*
 
 Maria realized she needed a story, not a spreadsheet. She framed her presentation using the Tension & Resolution Arc.
 

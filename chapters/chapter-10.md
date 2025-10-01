@@ -8,7 +8,7 @@
 > *   **Primary Brain Profile:** All
 > *   **Purpose:** To demonstrate how the three core tools are sufficient to resolve complex, multi-faceted conflicts without needing specialized protocols.
 
-***Previously on the Phoenix Project:*** *Maria has secured Leo's trust and gained a small foothold with Jane. However, a major technical deadlock has emerged between Mark (Architect, favoring innovation) and Jane (Sentinel, favoring safety), halting all progress. For Jane, the memory of a past project failure that cost the company a major client was a constant, cautionary tale.*
+***Previously on the Phoenix Project:*** *With only weeks until the Sterling Corp. review, Maria has secured Leo's trust and gained a small foothold with Jane. However, a major technical deadlock has emerged between Mark (Architect, favoring innovation) and Jane (Sentinel, favoring safety), halting all progress and threatening to derail the entire timeline.*
 
 You have now installed the complete Core Trio. Before we add a single specialized instrument to your toolkit, it is essential to pause and appreciate the power of the engine you have just built. If you master only these three skills—Regulation, Connection, and Trust—you can successfully conduct your way through the vast majority of challenging human interactions.
 
@@ -22,7 +22,7 @@ The Phoenix Project hit a critical deadlock. Mark, the **[ICON: Blueprint] Archi
 
 "If we use the old stack, it won't handle the load. It will crash, we'll miss the Sterling Corp deadline, and the project is dead," Mark argued, his voice tight with an uncharacteristic edge of fear. "It's not just about being obsolete; it's about failing, publicly and completely."
 
-"Living in the past is better than crashing on launch day," Jane shot back. "What you're proposing is reckless, and I won't sign off on it."
+"Living in the past is better than crashing on launch day," Jane shot back, her voice laced with the dry, surprising wit that few ever saw. "At least the past is stable; it has the decency not to change. What you're proposing is reckless, and I won't sign off on it."
 
 It was a collective amygdala hijack. The new conductor knew her job was not to dictate a solution, but to create the conditions for one to emerge. She called a meeting with just the three of them. Her only tools were the Core Trio.
 

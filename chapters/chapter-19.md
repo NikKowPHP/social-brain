@@ -40,7 +40,7 @@ Communicate transparently when you have low capacity. This models healthy bounda
 ---
 ### **Part 2: The Conductor's Legacy (The Capstone Climax)**
 
-***The Setup: The Final Performance.*** *David’s campaign of quiet sabotage has succeeded in creating enough doubt to force a final, high-stakes leadership meeting. On the table: the budget for Phase 2 of the Phoenix Project. Maria knows David will be there to make his final play to have the project defunded and its resources re-allocated to his own initiatives. This is her final exam.*
+***The Setup: The Final Performance.*** *David’s campaign of quiet sabotage has succeeded in creating enough doubt to force a final, high-stakes leadership meeting. The agenda was simple: a go/no-go decision on Phase 2 of the Phoenix Project. Maria knew David's goal was not just to cut the budget, but to have the project killed entirely, freeing up its resources for his own initiatives. This was her final exam.*
 
 The mood in the boardroom was tense. As Maria began to speak, she could feel her heart starting to race. She paused, took a silent **[ICON: Lungs] Conductor’s Breath**, and began.
 
@@ -54,11 +54,19 @@ The CEO nodded. Maria had just shown she understood their fear. Now, she used **
 
 The outcome was not the clean win they had hoped for. David's campaign had created enough doubt. The CEO announced the budget for Phase 2 would be cut by 20% "out of an abundance of caution."
 
-The team was crushed. But as they left the room, Maria's boss pulled her aside. "The most impressive thing about the Phoenix Project wasn't your slide deck," he said. "It was how you and your team handled that ambush. You've built something rare here."
+The team was crushed. But as they left the room, Maria's boss pulled her aside. "The most impressive thing about the Phoenix Project wasn't your slide deck," he said. "It was how you and your team handled that ambush. You saved the project today. You've built something rare here."
 
 In the debrief meeting, the mood was funereal. This was Maria's true final test: conducting her team through a bitter disappointment. She let them vent, validating their frustration. "It feels deeply unfair," she said.
 
 Only after validating their reality did Maria continue with her reframe. "We didn't win the budget we wanted, but I want you to look at what just happened. A month ago, a public attack like that would have torn us apart. Instead, we came together, we executed a professional strategy under pressure, and we supported each other. The budget is temporary. We perfected the process. What we've built is permanent." Maria realized her legacy was not a political victory, but a resilient, self-tuning culture.
+
+The next morning, the reality of the 20% cut set in. The mood was still somber. "Okay," Maria said, standing at the whiteboard. "The math is simple. With this budget, we can either delay the launch by a month to finish everything as planned, or we can hit our original date but cut the 'phase 2' user-delight features we were all excited about. We can't do both."
+
+She expected a fight. Instead, something remarkable happened. Jane, the Sentinel, spoke first. "We hit the date," she said, her voice firm. "We promised Sterling Corp a stable, reliable platform on that date. The delight features are important, but our word is more important."
+
+Mark, the Architect, who had championed those features, nodded slowly. "She's right. We build the rock-solid core first. We prove them wrong with our execution, and we earn the right to build the rest later."
+
+It wasn't a victory celebration. It was a moment of quiet, professional resolve. Maria watched as her team, forged in the fires of conflict, made the hard but necessary choice together. The self-tuning orchestra was real.
 
 #### **The Science: Psychological Safety**
 

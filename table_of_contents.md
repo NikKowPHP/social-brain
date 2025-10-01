@@ -89,6 +89,8 @@
 
 **Appendix C:** The 30-Day Conductor's Challenge
 
+**Appendix D:** A Responsible Note on Scope and Professional Help
+
 **Glossary**
 
 **Index**

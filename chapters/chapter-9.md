@@ -9,7 +9,7 @@
 > *   **Purpose:** To create the neurochemical conditions for trust by demonstrating safe, calibrated vulnerability.
 > *   **Note:** This is the third and final tool of your **Core Trio**.
 
-***Previously on the Phoenix Project:*** *Maria successfully used the Empathy Loop (C8) to start repairing her relationship with Leo, but still faces deep skepticism from Jane, the Sentinel architect, whose lack of trust threatens the entire project timeline.*
+***Previously on the Phoenix Project:*** *With the Sterling Corp. review deadline looming, Maria successfully used the Empathy Loop (C8) to start repairing her relationship with Leo. But to have any chance of success, she must now win over her most skeptical engineer, Jane, whose deep-seated distrust threatens the entire project timeline.*
 
 Trust isn't earned through perfection; it's built through the counter-intuitive science of vulnerability.
 
@@ -87,3 +87,4 @@ This week, your mission is not to learn a new tool, but to combine the Core Trio
 4.  **Path to Adaptive:** How could using the Trust Protocol help you strengthen your least-dominant brain profile?
 
 **Join the Orchestra:** Calibrated Vulnerability is one of the highest-skill-cap tools in the toolkit. What was the result of your "social sonar ping"? Share your story and get feedback from other practitioners at [AuthorWebsite.com/community/chapter-9].
+      

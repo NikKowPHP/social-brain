@@ -8,7 +8,7 @@ Every conductor dreads the moment a key instrument goes wildly out of tune, crea
 
 A difficult conversation is an interaction where the SCARF threats are high for everyone involved. A conductor cannot avoid dissonance; they must learn to conduct through it.
 
-***Previously on the Phoenix Project:*** *After Maria's blunt email to Mark (C4), the tension boiled over into a disastrous public meeting where she publicly criticized him. Maria must initiate a difficult, high-stakes repair conversation to save the relationship and the project.*
+***Previously on the Phoenix Project:*** *The pressure of the upcoming Sterling Corp. review is immense. After Maria's blunt email to Mark (C4), the tension boiled over into a disastrous public meeting where she publicly criticized him. To have any hope of passing the review, Maria must initiate a difficult, high-stakes repair conversation to save the relationship and the project.*
 
 #### **The Practice: The Difficult Conversation Protocol**
 
@@ -59,7 +59,7 @@ A masterful "no" is a three-part protocol that protects the relationship while h
     *   *"...While I can't lead the project, I'm happy to spend 30 minutes brainstorming with whoever does."*
 
 **Case Study: The High-Stakes Boundary**
-***Previously on the Phoenix Project:*** *After securing funding, Maria faces a flood of requests, including a high-stakes, derailing project request from senior leader David.*
+***Previously on the Phoenix Project:*** *After securing funding, the team is sprinting toward the Sterling Corp. deadline. Maria faces a flood of requests, including a high-stakes, derailing project request from senior leader David that threatens to pull the team off track.*
 
 Maria had to use the protocol on David, a senior leader, to protect her team from burnout.
 

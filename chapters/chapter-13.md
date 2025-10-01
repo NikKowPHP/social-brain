@@ -8,7 +8,7 @@
 > *   **Primary Brain Profile:** Connector & Architect (Core Skill Development)
 > *   **Purpose:** To give and receive "bug reports" in a way that promotes learning, not a threat response.
 
-In the Conductor's Guild, no single act of communication causes more anxiety, frustration, and collateral damage than feedback. We know it is essential for growth, yet our attempts to deliver it often result in defensive anger, and our attempts to receive it often feel like a personal attack. It is the conversational equivalent of handling radioactive material.
+With the Sterling Corp. review deadline approaching, tensions are high, and the need for clear, productive feedback has never been greater. A single misunderstood 'bug report' could derail the team's fragile momentum. In the Conductor's Guild, no single act of communication causes more anxiety, frustration, and collateral damage than feedback. We know it is essential for growth, yet our attempts to deliver it often result in defensive anger, and our attempts to receive it often feel like a personal attack. It is the conversational equivalent of handling radioactive material.
 
 #### **The Science: The Brain's Two-Part Problem**
 
@@ -34,7 +34,7 @@ When someone gives *you* feedback, your job is to find the valuable data inside 
 2.  **Resist Explaining or Defending:** Your goal is to understand their perception.
 3.  **Turn Judgment into Data:** Use a clarifying question to find the specific, observable data point.
     *   **The Only Sentence You Need:** *"Thank you for telling me that. To help me learn, can you give me a specific example?"*
-    This phrase is a masterpiece of social neuroscience, pushing past drama to find actionable data.
+This phrase is a masterpiece of social neuroscience, pushing past drama to find actionable data.
 
 **Protocol 3: The "Upgrade" Method (For Making Change Stick)**
 This protocol uses the science of neuroplasticity to build a new habit.

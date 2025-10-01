@@ -11,7 +11,7 @@
 
 Our investigation so far has focused on high-stakes, goal-oriented communication. But a life, and a relationship, is not defined by these moments of tension. It is built in the quiet spaces in between. This chapter is about the most powerful instrument in your entire toolkit: the ability to be fully present with another human being.
 
-***Previously on the Phoenix Project:*** *Maria, leading with her [ICON: Blueprint] Architect brain, failed to connect with Leo, causing him to retreat. She realized her focus on logic was a weakness.*
+***Previously on the Phoenix Project:*** *With the Sterling Corp. technical review now looming just six weeks away, the pressure on the team was immense. Maria, leading with her [ICON: Blueprint] Architect brain, failed to connect with Leo, causing him to retreat at the worst possible time. She realized her focus on logic was a weakness.*
 
 Maria learned this the hard way. During a one-on-one with Leo, he was explaining a complex issue. As he spoke, Maria was half-listening, but also glancing at Slack notifications. She noticed Leo's energy fade. He trailed off and said, "…anyway, it's probably not a big deal." The connection was broken. She had failed to broadcast the signal, "You matter."
 
@@ -54,7 +54,7 @@ Maria's second attempt came a week later. This time, she focused on her "patch."
 
 Leo was quiet for a moment, not quite meeting her eyes. "Look, I get that you're trying again. I appreciate it," he said, his tone flat. "I just... I have to get back to this bug."
 
-He turned back to his screen. The dismissal was polite, but it was absolute. Maria's Architect brain screamed in frustration. *I failed. Again. This is pointless. It doesn't work.* The urge to revert to her old ways was immense—to become the purely transactional manager, to say, "Fine. Just have the bug report on my desk by five." It would be so much easier.
+He turned back to his screen, and with a single click, the complex interface of a fast-paced strategy game filled the monitor, a world where he was decisive and in command. The dismissal was polite, but it was absolute. Maria's Architect brain screamed in frustration. *I failed. Again. This is pointless. It doesn't work.* The urge to revert to her old ways was immense—to become the purely transactional manager, to say, "Fine. Just have the bug report on my desk by five." It would be so much easier.
 
 She had to take a conscious, forceful **Conductor's Breath** to keep from speaking those words aloud. She walked back to her desk, the failure stinging. This wasn't a neat, clean resolution. It was a messy, ambiguous, and deeply uncomfortable reality. She opened her logbook, not with the calm of an analyst, but with the frustration of a student. The entry was short: *Tried again. Failed again. The data shows this is harder than I thought. The only thing to do is keep showing up.* It was a commitment made through gritted teeth.
 
