@@ -1,5 +1,5 @@
 ### **Chapter 8: The Connection Protocol**
-#### The Neuroscience of Presence, Empathy, and Shared Experience
+#### The Neuroscience of Presence & Empathy
 
 > ### **Dashboard Integration**
 >

@@ -1,5 +1,5 @@
 ### **Chapter 9: The Chemistry of Trust**
-#### Oxytocin and Rapport
+#### The Neuroscience of Rapport & Vulnerability
 
 > ### **Dashboard Integration**
 >

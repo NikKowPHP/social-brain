@@ -28,67 +28,54 @@
 
 ---
 
-### **Part II: The Toolkit - Neuroscience-Backed Best Practices**
+### **Part II: The Toolkit - Mastering the Core Performances**
 
 **Chapter 7:** Your Toolkit Map & Cheat Sheet
 
 **The Core Trio: Your Foundational Practice**
 
 **Chapter 8:** The Connection Protocol
-*The Neuroscience of Presence, Empathy, and Shared Experience*
+*The Neuroscience of Presence & Empathy*
 
 **Chapter 9:** The Chemistry of Trust
-*Oxytocin and Rapport*
+*The Neuroscience of Rapport & Vulnerability*
 
 **Chapter 10:** The Core Trio in Concert
 *Proving the Power of Your Foundational Toolkit*
 
 **The Ensemble Toolkit: Specialized Instruments**
 
-*Protocols for Clarity and Influence*
+**Chapter 11:** Conducting for Clarity and Influence
+*Using Clarity and Storytelling to Make Your Message Stick*
 
-**Chapter 11:** The Respectful Brain
-*Defeating Cognitive Load*
+**Chapter 12:** Conducting Through Conflict
+*Navigating Difficult Conversations and Setting Boundaries*
 
-**Chapter 12:** Making It Stick
-*The Neuroscience of Storytelling*
+**Chapter 13:** The Art of Productive Feedback
+*The Neuroscience of Giving and Receiving "Bug Reports"*
 
-*Protocols for Navigating Conflict and Complexity*
+**Chapter 14:** Adapting to Your Environment
+*Navigating New Cultures and Hostile Orchestras*
 
-**Chapter 13:** Taming the Threat
-*Navigating Difficult Conversations*
-
-**Chapter 14:** Conducting a Hostile Orchestra (Hard Mode)
-*Navigating Manipulation and Bad-Faith Arguments*
-
-**Chapter 15:** The Adaptive Brain
-*Navigating Group and Cultural Dynamics*
-
-**Chapter 16:** The Learning Brain
-*The Neuroscience of Feedback and Lasting Change*
-
-**Chapter 17:** The Boundary Protocol
-*The Neuroscience of Saying "No"*
-
-**Chapter 18:** Troubleshooting the Toolkit (A Conductor's Q&A)
+**Chapter 15:** Troubleshooting the Toolkit (A Conductor's Q&A)
 
 ---
 
 ### **Part III: Integration and Lasting Change**
 
-**Chapter 19:** Conducting the Meeting
+**Chapter 16:** Conducting the Meeting
 *A Deep Dive Case Study*
 
-**Chapter 20:** Conducting the Asynchronous Orchestra
+**Chapter 17:** Conducting the Asynchronous Orchestra
 *Building Connection Across Time and Space*
 
-**Chapter 21:** The Integrated Conductor
+**Chapter 18:** The Integrated Conductor
 *Knowing When to Put the Baton Down*
 
-**Chapter 22:** When the Conductor is Exhausted
+**Chapter 19:** When the Conductor is Exhausted
 *The Neuroscience of Resilience and Self-Compassion*
 
-**Chapter 23:** The Conductor's Legacy
+**Chapter 20:** The Conductor's Legacy
 *Building a Self-Tuning, Psychologically Safe Orchestra*
 
 **Conclusion:** The Conductor's Final Paradox

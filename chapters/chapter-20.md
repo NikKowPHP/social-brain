@@ -1,4 +1,4 @@
-### **Chapter 23: The Conductor's Legacy**
+### **Chapter 20: The Conductor's Legacy**
 #### Building a Self-Tuning, Psychologically Safe Orchestra
 
 As you master these skills, a strange thing will happen. You will become the most competent communicator in the room. This feels like a superpower, but over time, it can become a crushing burden. You become the designated emotional regulator for your social and professional circles. This is not sustainable leadership; it is a recipe for burnout.
@@ -8,7 +8,7 @@ A true conductor doesn't just lead the orchestra; they build it. The ultimate go
 #### **Capstone Case Study: The Real Victory**
 Faced with David's political maneuvering, Maria's team prepared for the final battle. They didn't resort to gossip or counter-attacks. Instead, Maria conducted them through a final, high-stakes performance. She used the **[ICON: Shield] Conductor's Shield Protocol (Chapter 14)** to prepare them, and they presented a concise, data-driven case to leadership that calmly corrected the misleading metrics David had presented.
 
-The outcome was not the clean win they had hoped for. David's campaign of "raising concerns," amplified by the political damage Maria had inadvertently caused in Chapter 17, had been effective enough to create doubt. Leadership praised the Phoenix Project's success but announced that, "out of an abundance of caution," the budget for Phase 2 would be cut by 20% to allow for "further risk mitigation."
+The outcome was not the clean win they had hoped for. David's campaign of "raising concerns," amplified by the political damage Maria had inadvertently caused in Chapter 12, had been effective enough to create doubt. Leadership praised the Phoenix Project's success but announced that, "out of an abundance of caution," the budget for Phase 2 would be cut by 20% to allow for "further risk mitigation."
 
 The team was crushed. In the debrief meeting, the mood was funereal. Mark, the [ICON: Blueprint] Architect, was furious about the illogical decision. Leo, the [ICON: Bridge] Connector, felt a sense of profound unfairness. This was Maria's final test as a conductor, and it had nothing to do with David. It was about conducting her team through a bitter disappointment.
 
