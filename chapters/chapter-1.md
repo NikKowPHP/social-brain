@@ -5,9 +5,11 @@ The silence in the video call was so absolute, Maria could hear the frantic drum
 
 Her top engineer, Mark, stared back at her from the screen, his face a perfect, frozen mask of anger. Just moments before, she had shared her screen to review his latest work and, trying to be efficient, had said the words that detonated the meeting: *"This needs a lot of work."*
 
-She saw him flinch as if she'd slapped him. Now, he was silent, radiating a cold fury that sucked all the air out of the virtual room. Maria felt a hot flush creep up her neck. Her mind, usually a fortress of logic and plans, was a chaotic blank. She wanted to fix it, to say something to defuse the situation, but she couldn't access the words. All she could feel was the hammering in her chest and a primal, panicked urge to either lash out or flee.
+She saw him flinch as if she'd slapped him. Now, he was silent, radiating a cold fury that sucked all the air out of the virtual room. Maria felt a hot flush creep up her neck. Her mind, usually a fortress of logic and plans, was a chaotic blank. She wanted to fix it, to say something to defuse the situation, but she couldn't access the words. All she could feel was the hammering in her chest and a primal, panicked urge to either lash out ("Why are you being so sensitive?") or flee (end the call).
 
-She didn't know the name for it yet, but Maria was experiencing a full-blown **amygdala hijack**. And in that moment of near-panic, she realized a terrifying truth: she couldn't conduct her team because she couldn't even conduct herself.
+She didn't know the name for it yet, but Maria was experiencing a full-blown **amygdala hijack**. She felt trapped, her thoughts racing in a useless, panicked loop. In that moment, a fragment of an old memory surfaced—a yoga teacher once saying, "Your exhale is the brake pedal for your brain." It was a desperate, flimsy anchor, but it was all she had.
+
+She muted her microphone. Inhaled. Then, with deliberate slowness, she exhaled through her mouth, longer than she thought possible, focusing on the feeling of the air leaving her lungs. She did it again. The frantic drumming in her chest didn't stop, but it slowed, just a fraction. The heat in her neck subsided. A single, clear thought cut through the static: *Okay. This is a mess. What's the next right move?* She hadn't solved the problem with Mark, but she had regained the ability to think about it. She had found the brake pedal.
 
 This is where the real work of a conductor begins: not with leading others, but with regulating yourself. This chapter gives you your first and most fundamental tool—a physical reset switch for your brain in moments of high stress.
 
@@ -19,7 +21,7 @@ At the front of your brain is the **prefrontal cortex (PFC)**, the wise CEO resp
 
 When the amygdala detects a social threat, it pulls the fire alarm (an **amygdala hijack**), flooding your system with cortisol and adrenaline. This neurochemical flood severely impairs the function of your prefrontal cortex. The CEO is temporarily taken offline. The key is: *You cannot think your way out of an amygdala hijack; you must regulate your way out of it.*
 
-The system has a built-in, physical 'reset switch'—a superhighway of nerves called the **vagus nerve**. When you intentionally activate this nerve, you send a direct, physical signal to your brain that says, *"System secure. Stand down the alarm."*
+The system has a built-in, physical 'reset switch'—a superhighway of nerves called the **vagus nerve**. When you intentionally activate this nerve, as Maria did with her long exhale, you send a direct, physical signal to your brain that says, *"System secure. Stand down the alarm."*
 
 #### **The Practice: The Conductor's Breath**
 

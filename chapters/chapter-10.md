@@ -55,6 +55,13 @@ A complex deadlock was not resolved, but it was moved from a state of paralysis 
 
 This is the engine. You are now ready to build the Ensemble Toolkit.
 ---
+#### **Maria's Log: The Frustration of Incremental Progress**
+That night, Maria vented to her partner, Alex. "I feel like I'm failing," she said, pacing the kitchen. "I used all the tools. I did the breathing, the empathy thing, the vulnerability... and for what? They still hate each other. It's not a team, it's a temporary ceasefire. This whole 'conductor' thing feels like I'm just getting them to be professionally polite while the building burns down."
+
+Alex listened, then said, "A month ago, would they have even agreed to a ceasefire?"
+
+The question stopped her. A month ago, Jane would have shut down the conversation completely. Mark would have escalated it to Maria's boss. A tense agreement to look at a proposal was, in context, a huge leap forward. It didn't feel like a win, but it wasn't a failure either. It was just... progress. Slow, messy, incremental progress. "Okay," she sighed, the frustration giving way to a grudging acceptance. "The data shows that my expectation of a sudden breakthrough was flawed. The real win isn't harmony; it's just movement."
+---
 #### **From the Orchestra: Mark's Log**
 That meeting with Maria and Jane was... different. Usually, it's just a brick wall. This time, she actually got Jane to listen instead of just saying no. I still think this is all a bunch of soft-skill nonsense, but at least we're not dead in the water anymore. I'll believe in this 'third option' when I see the approved hardware, but for the first time in a month, it doesn't feel impossible.
 ---
