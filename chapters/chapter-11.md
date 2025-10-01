@@ -38,11 +38,11 @@ Put the main point or the single request right at the top.
 Format context for the brain. Use **short paragraphs**, **bullet points**, and **bolding**.
 
 ---
-### **Part 2: The Persuasive Brain (The Storytelling Arc)**
+### **Part 2: The Persuasive Brain (The Storytelling Technique)**
 
 > ### **Dashboard Integration**
 >
-> *   **Tool:** The Tension & Resolution Arc
+> *   **Tool:** The Storytelling Technique
 > *   **Toolkit Tier:** Ensemble
 > *   **Primary Brain Profile:** Architect (Core Skill Development)
 > *   **Purpose:** To make data and logic persuasive by framing them within a memorable narrative structure.
@@ -53,7 +53,7 @@ Clarity ensures your message is received. But to make it memorable and persuasiv
 
 When one person tells a compelling story, the listener's brain activity begins to synchronize with the storyteller's (**neural coupling**). Resolving tension in a story releases dopamine, acting like a "save" button in the brain, making the message memorable.
 
-#### **The Practice: The Tension & Resolution Arc**
+#### **The Practice: The Tension & Resolution Technique**
 
 The most effective stories share a fundamental three-part structure.
 

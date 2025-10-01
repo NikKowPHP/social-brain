@@ -3,7 +3,7 @@
 
 > ### **Dashboard Integration**
 >
-> *   **Tool:** The Feedback Protocols (Chapter 13)
+> *   **Tool:** The Productive Feedback Protocol (Chapter 13)
 > *   **Toolkit Tier:** Ensemble
 > *   **Primary Brain Profile:** Connector & Architect (Core Skill Development)
 > *   **Purpose:** To give and receive "bug reports" in a way that promotes learning, not a threat response.
@@ -18,9 +18,11 @@ Unsolicited feedback is a direct threat to **Status**, **Certainty**, and **Rela
 **Part 2: The Hardware of Habit (Neuroplasticity)**
 Lasting change only happens through **neuroplasticity**—physically re-wiring the brain through focused repetition and a dopamine reward that acts as a signal for learning.
 
-#### **The Practice: Three Protocols for Learning**
+#### **The Practice: The Productive Feedback Protocol**
 
-**Protocol 1: The "Debug" Method (For Giving Feedback)**
+This protocol consists of three techniques: one for giving feedback, one for receiving it, and one for making the change last.
+
+**Part 1: The "Debug" Technique (For Giving Feedback)**
 Instead of a "sandwich," run a collaborative debugging session.
 1.  **Get Permission & State Intent (Reward Autonomy & Certainty):** *"Leo, I have some observations that could make your proposals even more impactful. Are you open to discussing them for 10 minutes?"*
 2.  **Share Data, Not Drama (Minimize Status Threat):** Present neutral, observable data.
@@ -28,7 +30,7 @@ Instead of a "sandwich," run a collaborative debugging session.
 3.  **Co-Create the "Upgrade" (Reward Autonomy & Status):** Engage their Architect brain.
     *   *"How might we ensure everyone feels safe to brainstorm, while still leveraging your ability to spot flaws?"*
 
-**Protocol 2: The "Intake" Method (For Receiving Feedback)**
+**Part 2: The "Intake" Technique (For Receiving Feedback)**
 When someone gives *you* feedback, your job is to find the valuable data inside the clumsy delivery.
 1.  **Regulate Your System First (Chapter 1):** Take one silent **The Conductor's Breath**.
 2.  **Resist Explaining or Defending:** Your goal is to understand their perception.
@@ -36,8 +38,8 @@ When someone gives *you* feedback, your job is to find the valuable data inside 
     *   **The Only Sentence You Need:** *"Thank you for telling me that. To help me learn, can you give me a specific example?"*
 This phrase is a masterpiece of social neuroscience, pushing past drama to find actionable data.
 
-**Protocol 3: The "Upgrade" Method (For Making Change Stick)**
-This protocol uses the science of neuroplasticity to build a new habit.
+**Part 3: The "Upgrade" Technique (For Making Change Stick)**
+This technique uses the science of neuroplasticity to build a new habit.
 1.  **Define the Micro-Behavior:** Define a tiny, specific, observable action. *"When I start to feel the urge to interrupt in a meeting, I will take one silent sip of water."*
 2.  **Create a Trigger:** Link the new behavior to a clear, existing cue. *"The trigger is the physical feeling of leaning forward in my chair."*
 3.  **Self-Acknowledge for Dopamine:** The moment you succeed, create a small, internal reward. A simple mental acknowledgement like, *"Yes. I did it."* is enough to release dopamine, which tells your brain to myelinate the new neural pathway.

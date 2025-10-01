@@ -26,10 +26,10 @@ This chapter is your map. It provides a high-level overview of the complete syst
 *(These are specialized instruments for specific situations. Do not try to memorize them. Refer to these chapters as needed.)*
 
 *   **[ICON: Bullet Points] The Clarity Protocol (Ch 11):** For making your communication effective and respectful.
-*   **[ICON: Tension Graph] The Storytelling Arc (Ch 11):** For making your ideas persuasive and memorable.
-*   **[ICON: Fence] The Boundary Protocol (Ch 12):** For saying "no" gracefully while preserving the relationship.
+*   **[ICON: Tension Graph] The Storytelling Technique (Ch 11):** For making your ideas persuasive and memorable.
 *   **[ICON: Stitches] The Difficult Conversation Protocol (Ch 12):** For navigating high-stakes conversations safely.
-*   **[ICON: Gears] The Feedback Protocols (Ch 13):** For giving and receiving "bug reports" safely.
+*   **[ICON: Fence] The Boundary Technique (Ch 12):** For saying "no" gracefully while preserving the relationship.
+*   **[ICON: Gears] The Productive Feedback Protocol (Ch 13):** For giving and receiving "bug reports" safely.
 *   **[ICON: Shield] The Shield Protocol (Ch 14):** Your defensive tool for navigating bad-faith arguments.
 *   **[ICON: Compass] The Adaptation Protocol (Ch 14):** For navigating different group and cultural dynamics.
 
@@ -47,12 +47,13 @@ This chapter is your map. It provides a high-level overview of the complete syst
 *   **When you have made a mistake and hurt someone...**
     *   **Then...** Use **[ICON: Stitches] The Difficult Conversation Protocol** to repair trust. (Ch 12)
 *   **When you need to say "no" to a request...**
-    *   **Then...** Use **[ICON: Fence] The Boundary Protocol** to protect your time gracefully. (Ch 12)
+    *   **Then...** Use **[ICON: Fence] The Boundary Technique** to protect your time gracefully. (Ch 12)
 *   **When you are trying to persuade a skeptical audience...**
-    *   **Then...** Use **[ICON: Tension Graph] The Tension & Resolution Arc** to frame your data as a story. (Ch 11)
+    *   **Then...** Use **[ICON: Tension Graph] The Storytelling Technique** to frame your data as a story. (Ch 11)
 
 ---
 ### **The Foundational Concepts (Your Reference Material)**
 
 *   **The 3 Brains (Ch 2):** [ICON: Blueprint] Architect (Logic), [ICON: Bridge] Connector (Empathy), [ICON: Shield] Sentinel (Threat).
 *   **The 5 SCARF Domains (Ch 6):** Status, Certainty, Autonomy, Relatedness, Fairness.
+      

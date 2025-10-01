@@ -37,7 +37,7 @@ Only after Mark felt fully heard did Maria pivot to problem-solving. Use "we" la
 *   **Maria:** "Thank you for telling me that. You're right to feel that way. Looking ahead, how can **we** make sure that when I have feedback, it's delivered in a way that works for both of us?"
 
 ---
-### **Part 2: The Boundary Protocol**
+### **Part 2: The Boundary Technique (The Graceful "No")**
 
 > ### **From the Community: The Agony of "No"**
 >
@@ -45,9 +45,9 @@ Only after Mark felt fully heard did Maria pivot to problem-solving. Use "we" la
 
 For many of us, the word "no" feels like a social hand grenade, threatening **Relatedness**. The key is to honor your own **Autonomy** without catastrophically threatening the other person's **Relatedness** and **Status**.
 
-#### **The Practice: The "Validate, State, Offer" Protocol**
+#### **The Practice: The "Validate, State, Offer" Script**
 
-A masterful "no" is a three-part protocol that protects the relationship while holding the boundary.
+A masterful "no" is a three-part script that protects the relationship while holding the boundary.
 
 1.  **Validate the Request (Reward Status & Relatedness):** Acknowledge the value and legitimacy of their request.
     *   *"Thank you so much for thinking of me for this."*
@@ -61,7 +61,7 @@ A masterful "no" is a three-part protocol that protects the relationship while h
 **Case Study: The High-Stakes Boundary**
 ***Previously on the Phoenix Project:*** *After securing funding, the team is sprinting toward the Sterling Corp. deadline. Maria faces a flood of requests, including a high-stakes, derailing project request from senior leader David that threatens to pull the team off track.*
 
-Maria had to use the protocol on David, a senior leader, to protect her team from burnout.
+Maria had to use the script on David, a senior leader, to protect her team from burnout.
 
 *   **Validate:** "Thank you so much for seeing the potential here. That dashboard sounds like a fantastic tool."
 *   **State:** "Unfortunately, given our current, locked-down timeline, the team simply doesn't have the capacity to build it right now."
@@ -82,7 +82,7 @@ Maria felt a deep, sinking feeling. It was the **Vulnerability Hangover**—the 
 This week, your mission is to analyze one recent situation where you either set a boundary successfully, or failed to set one you wished you had. This is pure data collection.
 
 1.  **The Situation:** Briefly describe the request that required a boundary.
-2.  **The Action:** What did you do? Did you use the "Validate, State, Offer" protocol? Did you agree to something you later regretted?
+2.  **The Action:** What did you do? Did you use the "Validate, State, Offer" script? Did you agree to something you later regretted?
 3.  **The SCARF Analysis:** Analyze the outcome from a SCARF perspective. How did your action affect your own SCARF gauges? How did it affect the other person's?
 4.  **The Vulnerability Hangover:** Did you experience any second-guessing or regret after the fact? What did that feel like? The goal is to normalize this feeling as part of the process.
 5.  **Path to Adaptive:** How does practicing setting boundaries help you strengthen your least-dominant brain profile?
