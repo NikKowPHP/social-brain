@@ -29,7 +29,7 @@ Start with a neutral, observable fact, not a judgment.
 Hand the baton to them with a question that invites their perspective. Then, use The Playback to prove you've heard them.
 *   **Maria:** "I can only imagine how that must have landed. Can you tell me what was happening for you in that moment?"
 *   **Mark:** (After a long, tense silence) "It felt like you completely dismissed two weeks of my work in front of the entire team. Like you were calling me incompetent. And worse, you did it in front of Leo and the other junior devs who look up to me. How are they supposed to trust my judgment now?"
-*   **Maria:** (Resisting the urge to defend herself) "Okay. So my frustration came across as a public attack on your competence and your effort. And it undermined your role as a mentor. It sounds like it felt deeply unfair. Is that right?"
+*   **Maria:** (Resisting the urge to defend herself) "Okay. So when I said that, it wasn't just feedback. It was a public humiliation. I didn't just question your work, I undermined your authority in front of your team. It sounds like I made you feel completely disrespected. Is that right?"
 *   **Mark:** (Nods, his posture softening slightly) "Yeah. That's right."
 
 **Step 5: Co-create the Solution**
@@ -87,5 +87,5 @@ This week, your mission is to analyze one recent situation where you either set 
 4.  **The Vulnerability Hangover:** Did you experience any second-guessing or regret after the fact? What did that feel like? The goal is to normalize this feeling as part of the process.
 5.  **Path to Adaptive:** How does practicing setting boundaries help you strengthen your least-dominant brain profile?
 
-**Join the Orchestra:** Setting boundaries is notoriously difficult, especially for Connectors. Read stories from others who have navigated this challenge and share your own experience in our private forum at [AuthorWebsite.com/community/chapter-12].
+**Join the Orchestra:** Setting boundaries is notoriously difficult, especially for Connectors. In the community, this is a constant topic of conversation, with members sharing scripts, encouragement, and stories of navigating the "vulnerability hangover."
       

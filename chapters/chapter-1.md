@@ -3,7 +3,7 @@
 
 The silence in the video call was so absolute, Maria could hear the frantic drumming of her own heart.
 
-Her top engineer, Mark, stared back at her from the screen, his face a perfect, frozen mask of anger. Just moments before, she had shared her screen to review his latest work and, trying to be efficient, had said the words that detonated the meeting: *"This needs a lot of work."*
+Her top engineer, Mark, stared back at her from the screen, his face a perfect, frozen mask of anger. Just moments before, she had shared her screen to review his latest work. A frantic Slack notification from her own boss popped up on her second monitor. Distracted and pressed for time, she glanced back at his screen and, trying to be efficient, said the words that detonated the meeting: *"This needs a lot of work."*
 
 She saw him flinch as if she'd slapped him. Now, he was silent, radiating a cold fury that sucked all the air out of the virtual room. Maria felt a hot flush creep up her neck. Her mind, usually a fortress of logic and plans, was a chaotic blank. She wanted to fix it, to say something to defuse the situation, but she couldn't access the words. All she could feel was the hammering in her chest and a primal, panicked urge to either lash out ("Why are you being so sensitive?") or flee (end the call).
 
@@ -68,7 +68,7 @@ Let's create the first entry for your Conductor's Dashboard: your early-warning 
 3.  **Log the Intervention:** Did you use The Conductor's Breath? What was the immediate effect on the physical sensation? (Note: The goal is to collect data, not achieve perfect calm. Even if you still felt hijacked, what did you notice?)
 4.  **Path to Adaptive:** How could mastering The Conductor's Breath help you strengthen your least-dominant brain profile?
 
-**Join the Orchestra:** What was your hijack 'tell'? You might be surprised how many other Conductors share the same physical response. Share your experience and learn from others at [AuthorWebsite.com/community/chapter-1].
+**Join the Orchestra:** What was your hijack 'tell'? You might be surprised how many other Conductors share the same physical response. This is a common topic of discussion in the community.
 ---
 ### **Dashboard Update**
 
