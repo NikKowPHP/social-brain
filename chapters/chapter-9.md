@@ -84,7 +84,7 @@ You can't force someone to trust you, but you can run a protocol of behaviors th
 
 > ### **Positional Alert: Vulnerability & Power**
 >
-> Remember the "Social Gravity" principle from Chapter 4. The risk of Calibrated Vulnerability is inversely proportional to your systemic power. If you are in a low-power position (like an intern speaking to a CEO), sharing a vulnerability can backfire and confirm negative stereotypes. In these situations, consider using a Status-rewarding question (like Maria did with Jane) instead of a vulnerable statement.
+> Remember the "Social Gravity" principle from Chapter 5. The risk of Calibrated Vulnerability is inversely proportional to your systemic power. If you are in a low-power position (like an intern speaking to a CEO), sharing a vulnerability can backfire and confirm negative stereotypes. In these situations, consider using a Status-rewarding question (like Maria did with Jane) instead of a vulnerable statement.
 
 > ### **Profile Alert: The Trust Protocol**
 >
@@ -124,7 +124,7 @@ Congratulations. You have now collected the three most powerful tools in the ent
 
 These three tools, used together, form the "first chair" of your orchestra. They are the lead violin, the principal cello, and the first flute. Mastering them is the key to everything that follows.
 
-Think of the Conductor's Dashboard we introduced in Chapter 5. The "Core Trio" slots are now filled. Your dashboard is powered up. If you only practice these three skills, you have enough to fundamentally change over 80% of your interactions. This is a complete victory. Everything that follows is about adding specialized instruments for specific situations, but the core engine is now yours.
+Think of the Conductor's Dashboard we introduced in Chapter 6. The "Core Trio" slots are now filled. Your dashboard is powered up. If you only practice these three skills, you have enough to fundamentally change over 80% of your interactions. This is a complete victory. Everything that follows is about adding specialized instruments for specific situations, but the core engine is now yours.
 
 #### **Case Study: The Core Trio in Concert**
 Maria was feeling more confident, but she noticed Leo, her junior **Connector**, was still hesitant to speak up in meetings, especially when Mark or Jane were in the room. She decided to check in with him, not as a manager, but as a conductor practicing her core skills.

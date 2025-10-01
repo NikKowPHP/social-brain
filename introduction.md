@@ -47,8 +47,8 @@ As you progress, you will build out your own "Conductor's Dashboard," a mental t
 **The Conductor's Dashboard (Preview)**
 *   **CORE TRIO (Your Engine)**
     *   [ICON: Lungs] Slot 1: Unlocked in Chapter 1
-    *   [ICON: Reflecting Arrows] Slot 2: Unlocked in Chapter 9
-    *   [ICON: Handshake] Slot 3: Unlocked in Chapter 10
+    *   [ICON: Reflecting Arrows] Slot 2: Unlocked in Chapter 8
+    *   [ICON: Handshake] Slot 3: Unlocked in Chapter 9
 *   **ENSEMBLE TOOLKIT (Your Reference Library)**
     *   [ICON: Bullet Points] The Clarity Protocol
     *   [ICON: Tension Graph] The Storytelling Arc

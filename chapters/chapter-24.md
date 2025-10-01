@@ -1,4 +1,4 @@
-### **Chapter 24: The Conductor's Legacy**
+### **Chapter 23: The Conductor's Legacy**
 #### Building a Self-Tuning, Psychologically Safe Orchestra
 
 As you master these skills, a strange thing will happen. You will become the most competent communicator in the room. This feels like a superpower, but over time, it can become a crushing burden. You become the designated emotional regulator for your social and professional circles. This is not sustainable leadership; it is a recipe for burnout.
@@ -6,9 +6,9 @@ As you master these skills, a strange thing will happen. You will become the mos
 A true conductor doesn't just lead the orchestra; they build it. The ultimate goal is not to be indispensable, but to make yourself obsolete. This requires a shift in your role from conductor to composer—one who designs the team's entire social operating system. Your legacy is an orchestra that can conduct itself.
 
 #### **Capstone Case Study: The Real Victory**
-Faced with David's political maneuvering, Maria's team prepared for the final battle. They didn't resort to gossip or counter-attacks. Instead, Maria conducted them through a final, high-stakes performance. She used the **[ICON: Shield] Conductor's Shield Protocol (Chapter 13)** to prepare them, and they presented a concise, data-driven case to leadership that calmly corrected the misleading metrics David had presented.
+Faced with David's political maneuvering, Maria's team prepared for the final battle. They didn't resort to gossip or counter-attacks. Instead, Maria conducted them through a final, high-stakes performance. She used the **[ICON: Shield] Conductor's Shield Protocol (Chapter 14)** to prepare them, and they presented a concise, data-driven case to leadership that calmly corrected the misleading metrics David had presented.
 
-The outcome was not the clean win they had hoped for. David's campaign of "raising concerns," amplified by the political damage Maria had inadvertently caused in Chapter 16, had been effective enough to create doubt. Leadership praised the Phoenix Project's success but announced that, "out of an abundance of caution," the budget for Phase 2 would be cut by 20% to allow for "further risk mitigation."
+The outcome was not the clean win they had hoped for. David's campaign of "raising concerns," amplified by the political damage Maria had inadvertently caused in Chapter 17, had been effective enough to create doubt. Leadership praised the Phoenix Project's success but announced that, "out of an abundance of caution," the budget for Phase 2 would be cut by 20% to allow for "further risk mitigation."
 
 The team was crushed. In the debrief meeting, the mood was funereal. Mark, the [ICON: Blueprint] Architect, was furious about the illogical decision. Leo, the [ICON: Bridge] Connector, felt a sense of profound unfairness. This was Maria's final test as a conductor, and it had nothing to do with David. It was about conducting her team through a bitter disappointment.
 
@@ -42,7 +42,7 @@ As a leader, your job is to be the chief architect of this environment.
 
 A conductor cannot command a team to feel safe. They must design a system where safety is the natural output. This means moving from personal protocols to systemic routines that create a self-tuning orchestra.
 
-**1. Model Calibrated Vulnerability (Chapter 8):** Safety starts at the top. The fastest way to create it is for the leader to demonstrate it. Start a meeting by sharing a small, professional vulnerability: *"I was wrong about my initial timeline estimate on the Phoenix project. That's on me."* This is a powerful broadcast signal that it's safe for others to be human.
+**1. Model Calibrated Vulnerability (Chapter 9):** Safety starts at the top. The fastest way to create it is for the leader to demonstrate it. Start a meeting by sharing a small, professional vulnerability: *"I was wrong about my initial timeline estimate on the Phoenix project. That's on me."* This is a powerful broadcast signal that it's safe for others to be human.
 
 **2. Systematize SCARF Rewards:** Intentionally design your team's routines to reward the social brain.
     *   **To reward [ICON: Crown] Status:** Begin every project debrief by having each person share one thing they are proud of *before* discussing what went wrong.

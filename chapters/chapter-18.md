@@ -1,4 +1,4 @@
-### **Chapter 18: Conducting the Meeting**
+### **Chapter 19: Conducting the Meeting**
 #### A Deep Dive Case Study
 
 You have arrived at the end of Part II. Pause here. This is a moment of profound accomplishment. You have completed the most intensive part of our investigation and assembled a full toolkit of powerful, science-backed protocols. You now hold the conductor's baton.
@@ -24,7 +24,7 @@ Maria used to dread her team's weekly Phoenix Project status meeting. It was a p
 Today's goal was to finalize the launch date—a decision already fraught with tension. Maria knew that if she just walked in and asked for a date, the meeting would explode. She had to conduct it from start to finish.
 
 **Step 1: The Conductor Prepares (Before the Meeting)**
-Maria's work began 24 hours earlier. She decided to use the **[ICON: Bullet Points] Clarity Protocol (Chapter 10)** and the principles of **SCARF (Chapter 5)** to design the agenda itself as a tool for creating safety.
+Maria's work began 24 hours earlier. She decided to use the **[ICON: Bullet Points] Clarity Protocol (Chapter 11)** and the principles of **SCARF (Chapter 6)** to design the agenda itself as a tool for creating safety.
 *   She set the title to the meeting's single goal: "Decision: Finalize Q3 Launch Date for Phoenix Project." This provided a massive **[ICON: Map] Certainty** reward.
 *   She framed the agenda items not as topics, but as questions that invited collaboration. Instead of "Review Risks," she wrote, "How can we best mitigate the server-load risk Jane identified?" This rewarded **[ICON: Crown] Status** and **[ICON: Steering Wheel] Autonomy**, signaling that the team's input was required.
 *   She sent it out a full day in advance.
@@ -37,9 +37,9 @@ Maria opened the call. She could already feel the tension. She saw Mark looking 
 **Step 3: Navigating the Dissonance (The Middle of the Meeting)**
 The conversation began, and just as she predicted, the conflict ignited. Mark presented a date based on his aggressive timeline. Jane immediately countered, "That's reckless."
 
-The tension spiked. Maria felt her own system start to hijack. Her first thought was a classic [ICON: Blueprint] Architect move: a logical but emotionally deaf compromise. *'Fine,'* she thought, almost saying it out loud, *'Mark, you get the earlier date, but Jane, we'll add two days for regression testing.'* It was efficient. It "solved" the problem. And she knew in an instant it would make both of them feel unheard and resentful. This was her old programming, her recurring flaw, trying to treat an emotional problem like a math equation. She caught herself. This was the moment. She took a silent **[ICON: Lungs] Conductor's Breath (Chapter 6)** to quiet her inner Architect and keep her PFC online. An unskilled manager would solve the problem. A conductor tunes the instruments.
+The tension spiked. Maria felt her own system start to hijack. Her first thought was a classic [ICON: Blueprint] Architect move: a logical but emotionally deaf compromise. *'Fine,'* she thought, almost saying it out loud, *'Mark, you get the earlier date, but Jane, we'll add two days for regression testing.'* It was efficient. It "solved" the problem. And she knew in an instant it would make both of them feel unheard and resentful. This was her old programming, her recurring flaw, trying to treat an emotional problem like a math equation. She caught herself. This was the moment. She took a silent **[ICON: Lungs] Conductor's Breath (Chapter 1)** to quiet her inner Architect and keep her PFC online. An unskilled manager would solve the problem. A conductor tunes the instruments.
 
-*   She turned to Jane, making it clear she was a valuable part of the discussion, not a roadblock. She deployed the **[ICON: Reflecting Arrows] Empathy Loop (Chapter 7)**. "That's a critical point, Jane. It sounds like your core concern isn't just about the date, but about protecting our long-term credibility with users. Is that right?"
+*   She turned to Jane, making it clear she was a valuable part of the discussion, not a roadblock. She deployed the **[ICON: Reflecting Arrows] Empathy Loop (Chapter 8)**. "That's a critical point, Jane. It sounds like your core concern isn't just about the date, but about protecting our long-term credibility with users. Is that right?"
 *   Jane, who was used to having to fight to be heard, was momentarily disarmed. "Yes, exactly," she said. The tension in her shoulders dropped a notch.
 *   *A note for the conductor: This is a masterful performance of the Core Trio under pressure. Maria uses The Breath to stay regulated in the face of conflict, then deploys The Empathy Loop to co-regulate the most stressed person in the room, unlocking a solution. **(Protocol Stack: Conductor's Breath + Empathy Loop)**.*
 

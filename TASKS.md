@@ -1,14 +1,2 @@
-- [x] Address the risk of "protocol overload" by elevating the Core Trio and providing a toolkit map.
-- [x] Make Maria's case study less linear by introducing a major, cascading failure and deepening her personal stakes.
-- [x] Weave the "Shadow Conductor" and "Conductor's Fatigue" concepts throughout the narrative for deeper psychological realism.
-- [x] Integrate the community aspect throughout the book to foster a sense of shared journey.
-- [x] Address the "Perfect Conductor" problem by showing more of Maria's messy, inelegant, and partially successful attempts at using the protocols.
-- [x] Address reader fears of inauthenticity by adding "Making It Your Own" sections and "Translation" steps in logbooks.
-- [x] Make Maria's journey more realistic by showing her struggling with a recurring flaw (her Architect "solve mode").
-- [x] Develop the supporting cast by showing them using the Conductor's Method tools and shared language independently.
-- [x] Deepen interactivity by weaving "Pause and Reflect" moments into the narrative.
-- [x] Fix "Front-loaded Theory" pacing by moving the "Conductor's Breath" to a new Chapter 1 and previewing the toolkit in the Introduction.
-- [x] Enhance the realism of the "Perfect Protagonist" problem by showing the "vulnerability hangover" have tangible, negative consequences on subsequent interactions.
-- [x] More deeply integrate the "Shadow Conductor" concept by adding "Shadow Alert" boxes to key protocol chapters.
-- [x] Fix confusing chapter numbering by re-numbering all chapters sequentially and updating all cross-references.
+- [x] Fix the "First Win" structural flaw by reordering the initial chapters and aligning all cross-references.
       

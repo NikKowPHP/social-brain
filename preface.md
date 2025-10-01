@@ -15,7 +15,7 @@ Let me be very clear: this is not a book of twenty protocols to memorize. That w
 
 **This is a book about mastering exactly three foundational skills.**
 
-That's it. These three skills form the **Core Trio**, the engine of this entire method: Self-Regulation (Chapter 1), Connection (Chapter 9), and Trust (Chapter 10). If you master only these three, you will have enough to change over 80% of your interactions for the better.
+That's it. These three skills form the **Core Trio**, the engine of this entire method: Self-Regulation (Chapter 1), Connection (Chapter 8), and Trust (Chapter 9). If you master only these three, you will have enough to change over 80% of your interactions for the better.
 
 Everything else you will encounter in these pages is part of the **Ensemble Toolkit**. Think of the Ensemble tools not as required reading, but as a specialized reference library or an appendix for rare situations. The Core Trio is your daily practice; the Ensemble is for troubleshooting. This distinction is your primary defense against feeling overwhelmed.
 
@@ -72,7 +72,7 @@ The effectiveness of the learning system presented here depends on a top-tier in
 
 The most critical elements are:
 *   **A Consistent Icon System:** Simple, memorable icons for the three Brain Profiles ([ICON: Blueprint] Architect, [ICON: Bridge] Connector, [ICON: Shield] Sentinel), the five SCARF domains, and key protocols are essential. These placeholders have been used with absolute consistency in this text to create a visual shorthand that must be brought to life.
-*   **The Conductor's Dashboard:** The five-gauge SCARF dashboard mentioned in Chapter 5 should be a recurring graphic, visually diagnosing the social threats and rewards in our case studies.
+*   **The Conductor's Dashboard:** The five-gauge SCARF dashboard mentioned in Chapter 6 should be a recurring graphic, visually diagnosing the social threats and rewards in our case studies.
 *   **High-Quality Infographics:** Key summary sections, especially the "Toolkit Summary & Cheat Sheet," are designed to be visually engaging, full-page infographics. The goal is to create a reference you will want to keep on your desk, not just a wall of text.
 
 This visual layer is not decorative; it is an integral part of the learning system, designed to help you internalize these tools more rapidly and effectively.

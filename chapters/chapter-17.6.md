@@ -1,10 +1,10 @@
-### **Chapter 17.6: Troubleshooting the Toolkit (A Conductor's Q&A)**
+### **Chapter 18: Troubleshooting the Toolkit (A Conductor's Q&A)**
 
 *(Author's Note: The questions in this chapter are adapted from the most common and painful challenges shared by members of the Conductor's Guild online community and our live Q&A sessions. They represent the real-world friction that occurs when you start to change the music in a system that's used to the old song. You are not alone in this struggle.)*
 
 ---
 
-**Question: "I'm a natural Connector, and I've always been the family peacekeeper. Now that I'm setting boundaries using the protocol from Chapter 16, my parents are furious. Is it worth it?"**
+**Question: "I'm a natural Connector, and I've always been the family peacekeeper. Now that I'm setting boundaries using the protocol from Chapter 17, my parents are furious. Is it worth it?"**
 
 This is the central challenge for every Conductor with a strong Connector profile. For you, the system's homeostasis was built around your willingness to absorb everyone else's emotional state and sacrifice your own needs for the sake of group harmony.
 

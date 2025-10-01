@@ -1,4 +1,4 @@
-### **Chapter 19: Conducting the Asynchronous Orchestra**
+### **Chapter 20: Conducting the Asynchronous Orchestra**
 #### Building Connection Across Time and Space
 
 The principles of The Conductor Method are universal because the hardware of the human brain is universal. However, the environment in which we conduct is changing. For a growing number of us, the "performance space" is not a conference room, but a collection of text documents, chat channels, and email threads.
@@ -35,7 +35,7 @@ How do you build trust when you can't share a cup of coffee? You use text-based 
 *   **Model Professional Vulnerability in Work Channels:** Share small, professional learning moments. For example: "Quick PSA: I just pushed a small bug to production. I've already rolled it back. The lesson here is X. Sorry for any disruption!" This normalizes mistakes and builds a culture of psychological safety.
 
 **2. The Micro-Dose of Clarity (The Art of the Self-Contained Message)**
-In an async environment, your goal should be to write every message and document as if the recipient will only read it once, at 2 AM, with no opportunity to ask for clarification. This is a micro-dose of the Clarity Protocol (Chapter 10).
+In an async environment, your goal should be to write every message and document as if the recipient will only read it once, at 2 AM, with no opportunity to ask for clarification. This is a micro-dose of the Clarity Protocol (Chapter 11).
 *   **Use Structuring Elements:** Leverage **bolding**, bullet points, numbered lists, and even emojis to guide the reader's eye and make your key points scannable.
 *   **"Headline, Context, Call to Action":** Structure every significant post this way.
     *   **Headline:** A clear, bolded first sentence stating the core point. (e.g., **Proposal: We should move our team syncs to Tuesdays.**)

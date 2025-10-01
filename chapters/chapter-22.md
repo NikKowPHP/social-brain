@@ -1,4 +1,4 @@
-### **Chapter 22: The Integrated Conductor**
+### **Chapter 21: The Integrated Conductor**
 #### Knowing When to Put the Baton Down
 
 Throughout our investigation, we have assembled a powerful toolkit for consciously and intentionally navigating human interaction. We have practiced the scales, learned the theory, and rehearsed the movements. The final stage of our journey is to forget them all.
@@ -6,7 +6,7 @@ Throughout our investigation, we have assembled a powerful toolkit for conscious
 This is the ultimate paradox of mastery: the goal of all this structured practice is to get to a place where you no longer need it. It is the difference between a student pilot running through a checklist and a veteran pilot who simply *flies the plane*. This chapter is about moving from conscious competence to unconscious intuition. It is about learning when to conduct, and when to simply be.
 
 #### **Case Study: The Conductor's Final Test**
-The Phoenix Project was a success, launching on time and to great acclaim. But Maria's final test as a conductor came a week later. David, the senior leader she had antagonized in Chapter 16, began a campaign to claim his team deserved the majority of the credit and the corresponding budget increase for the next phase. He ambushed Maria's boss with a polished presentation full of misleading metrics, creating a serious political threat to her team's future. The old Maria would have panicked or marshaled a furious, data-heavy counter-attack. The new, integrated Maria saw it as a final performance. This single, culminating event would test every tool she had developed, from self-regulation to building a self-tuning orchestra. We will follow this final test through the next chapters as a capstone case study for Part III.
+The Phoenix Project was a success, launching on time and to great acclaim. But Maria's final test as a conductor came a week later. David, the senior leader she had antagonized in Chapter 17, began a campaign to claim his team deserved the majority of the credit and the corresponding budget increase for the next phase. He ambushed Maria's boss with a polished presentation full of misleading metrics, creating a serious political threat to her team's future. The old Maria would have panicked or marshaled a furious, data-heavy counter-attack. The new, integrated Maria saw it as a final performance. This single, culminating event would test every tool she had developed, from self-regulation to building a self-tuning orchestra. We will follow this final test through the next chapters as a capstone case study for Part III.
 
 #### **From Conscious Protocol to Conductor's Intuition**
 
