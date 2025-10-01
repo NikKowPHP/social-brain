@@ -10,14 +10,11 @@ Our investigation is organized into three parts, mapping to your own transformat
 *   **Part II: Building the Toolkit.** Each chapter will hand you a new tool from **The Conductor Method**, forged in the fires of neuroscience. This is your core training for navigating any human interaction.
 *   **Part III: Achieving Mastery & Legacy.** We will bring it all together, moving from practicing scales to conducting a symphony, creating a lasting impact on your teams, families, and communities.
 
-**Your Defense Against "Protocol Overload"**
-Let me be very clear: this is not a book of twenty protocols to memorize. That would be a recipe for the very cognitive fatigue we're trying to defeat.
-
-**This is a book about mastering exactly three foundational skills.**
-
-That's it. These three skills form the **Core Trio**, the engine of this entire method: Self-Regulation (Chapter 1), Connection (Chapter 8), and Trust (Chapter 9). If you master only these three, you will have enough to change over 80% of your interactions for the better.
-
-Everything else you will encounter in these pages is part of the **Ensemble Toolkit**. Think of the Ensemble tools not as required reading, but as a specialized reference library or an appendix for rare situations. The Core Trio is your daily practice; the Ensemble is for troubleshooting. This distinction is your primary defense against feeling overwhelmed.
+> ### **Your Defense Against "Protocol Overload"**
+>
+> Let us be very clear: this is not a book of twenty protocols to memorize. This is a book about mastering exactly three foundational skills.
+>
+> These three skills form the **Core Trio**, the engine of this entire method. If you master only these, you will have enough to change over 80% of your interactions for the better. Everything else is part of the **Ensemble Toolkit**. Think of the Ensemble tools not as required reading, but as a specialized reference library you can consult when needed. This distinction is your primary defense against feeling overwhelmed.
 
 **Your Official Training Program**
 This book is a manual for a practice, and it has an official training program.

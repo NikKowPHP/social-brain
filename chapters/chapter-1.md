@@ -65,3 +65,9 @@ Let's create the first entry for your Conductor's Dashboard: your early-warning 
 4.  **Path to Adaptive:** How could mastering The Conductor's Breath help you strengthen your least-dominant brain profile?
 
 **Join the Orchestra:** What was your hijack 'tell'? You might be surprised how many other Conductors share the same physical response. Share your experience and learn from others at [AuthorWebsite.com/community/chapter-1].
+---
+### **Dashboard Update**
+
+[AUTHOR'S NOTE: Insert a thumbnail of the Conductor's Dashboard here. The first slot of the CORE TRIO, "[ICON: Lungs] The Conductor's Breath," should be filled in or highlighted, showing progress. The other two Core Trio slots and all Ensemble slots remain empty.]
+
+**Congratulations.** You have acquired your first and most fundamental instrument. Your dashboard is online.

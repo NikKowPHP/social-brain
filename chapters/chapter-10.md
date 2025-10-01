@@ -44,14 +44,22 @@ She paused, then delivered the crucial line.
 
 *   **Maria:** "But I do trust the two of you, completely. I trust that between Jane's world-class ability to mitigate risk and Mark's brilliant architectural vision, there is a third option we haven't found yet. So I'm going to get out of the way. My only question is this: How can **we** design an experiment that would give you the data you need, Mark, while satisfying your standards for safety, Jane?"
 
-The energy shifted from a battle to a puzzle. Mark and Jane started talking to each other, not just to Maria. Within ten minutes, they designed a small, time-boxed pilot project—a true synthesis that satisfied both innovation and safety.
+The energy shifted from a battle, but it wasn't yet a collaboration. It was a tense truce. Jane looked at Mark. "I'm not signing off on your plan," she said, her voice firm. "But I am willing to look at a formal proposal for a limited, time-boxed experiment. The burden of proof is on you to show it won't compromise our stability." Mark bristled at the tone, but nodded. "Fine. You'll have it by tomorrow."
 
 #### **The Conductor's Debrief**
 
-A complex deadlock was completely resolved without using a single specialized tool. Maria needed three things:
+A complex deadlock was not resolved, but it was moved from a state of paralysis to forward motion. Maria used three things:
 1.  The ability to keep her own brain online (**The Breath**).
 2.  The ability to make others feel profoundly understood (**The Empathy Loop**).
 3.  The ability to create a bridge of psychological safety (**The Trust Protocol**).
 
 This is the engine. You are now ready to build the Ensemble Toolkit.
-      
+---
+#### **From the Orchestra: Mark's Log**
+That meeting with Maria and Jane was... different. Usually, it's just a brick wall. This time, she actually got Jane to listen instead of just saying no. I still think this is all a bunch of soft-skill nonsense, but at least we're not dead in the water anymore. I'll believe in this 'third option' when I see the approved hardware, but for the first time in a month, it doesn't feel impossible.
+---
+### **You Have Completed the Engine**
+
+With the Core Trio installed, you now possess the complete foundational toolkit of a Conductor. Everything that follows in Part II is a specialized instrument for a specific situation.
+
+Treat the upcoming chapters as a reference library, not a required reading list. Feel free to skip directly to the chapter that addresses your most immediate challenge, or read them in any order you wish. You already have what you need. Now, we are simply adding to your collection.

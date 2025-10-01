@@ -1,2 +1,6 @@
 - [x] Address flaw: Weave Phoenix Project narrative more tightly into early chapters (3-6) and add a "quick win" to Chapter 4 to combat protocol overload.
 - [x] Address flaw: Make Logbook Entries more dynamic by integrating community links and mentioning a downloadable template.
+- [x] Address flaw: Add a "Failed Protocol" scenario and earlier "Troubleshooting" sections to make Maria's narrative more realistic and relatable.
+- [x] Address flaw: Reinforce visual hierarchy by introducing the "Conductor's Dashboard" as a progressive, central visual element in the introduction, core chapters, and cheat sheet.
+- [x] Address flaw: Use linguistic framing and structural signposting in the preface, table of contents, and Chapter 10 to reinforce the Core Trio's primacy.
+- [x] Address flaw: Make Maria's journey more realistic by deepening failures and adding emotional cost to her "wins" in Chapters 8, 10, and 14.

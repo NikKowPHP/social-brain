@@ -48,6 +48,14 @@ You can't force someone to trust you, but you can run a protocol of behaviors th
 **1. Execute "Calibrated Vulnerability."**
 This is a **social sonar ping.** Share a small, safe signal (a minor mistake, a knowledge gap, a relatable human state) and **Pause and observe** the response.
 
+> ### **From the Community: Troubleshooting**
+>
+> **Q: "I tried sending a 'social sonar ping' of vulnerability, and just got silence back. It was so awkward. What went wrong?"**
+>
+> **A:** Nothing went wrong. You just collected some very important data. Silence is a response, and it tells you about the current level of safety in the relationship. The other person's brain may have interpreted your ping as strange (a Certainty threat) or even unsafe.
+>
+> **The Practice:** Do not double down. Let the silence be. Your job now is to lower the perceived risk by consistently demonstrating your trustworthiness over time. The goal of the ping isn't always to get an immediate response; it's to gather data on where the relationship is *today* so you know how to proceed.
+
 **2. Find Uncommon Commonalities.**
 Listen for a shared interest, value, or experience that creates a sense of a unique "in-group."
 
@@ -55,14 +63,13 @@ Listen for a shared interest, value, or experience that creates a sense of a uni
 Replace "you" and "I" with "we." This signals to the brain that "we are in the same tribe, working on the same problem."
 
 ---
-### **Milestone: The Core Trio is Installed**
+### **Milestone: The Core Trio is Complete**
 
-You have now collected the three most powerful tools:
-1.  **The Conductor's Breath (Chapter 1):** Regulation.
-2.  **The Empathy Loop (Chapter 8):** Connection.
-3.  **The Trust Protocol (Chapter 9):** Trust.
+[AUTHOR'S NOTE: Insert a final, celebratory thumbnail of the Conductor's Dashboard. All three slots of the CORE TRIO section—"[ICON: Lungs]," "[ICON: Reflecting Arrows]," and "[ICON: Handshake]"—are now filled in and glowing. The Ensemble Toolkit section remains empty.]
 
-These three tools, used together, form the "first chair" of your orchestra. Mastering them is the key to everything that follows.
+**This is the most important moment in your journey.** You have now installed the complete Core Trio: Regulation, Connection, and Trust. This is the engine. These three tools, used together, are enough to successfully navigate the vast majority of human interactions.
+
+Everything that follows in the Ensemble Toolkit is a specialized instrument. But your core training is complete. Pause and appreciate the power of the foundation you have just built.
 
 ---
 > ### **The 1% Upgrade**

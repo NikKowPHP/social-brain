@@ -49,7 +49,9 @@ Maria's breakthrough came a week later when she tried again, this time implement
 
 **Maria:** "Leo, I really messed up last week, and I'm sorry. Can I try again? When you said you felt invisible... that really stuck with me. It sounds like the most frustrating part wasn't just that an idea was dismissed, but that it felt like a dismissal of you and all the passion you pour into it. Is that closer to the mark?"
 
-This time, it didn't backfire, but it wasn't a warm reconciliation either. Leo's shoulders relaxed a fraction. "Yeah," he said quietly. "That's closer." It was a messy, ambiguous truce, not a clean win. Maria accepted it. She realized that rebuilding trust wasn't a single, perfect conversation. It was a series of small, imperfect attempts. The goal wasn't a standing ovation; it was just to stay in the same orchestra and keep playing.
+Leo was quiet for a moment, not quite meeting her eyes. "Look, I get that you're trying again. I appreciate it," he said, his tone flat. "I just... I have to get back to this bug."
+
+Maria's Architect brain screamed that she had failed again. She wanted a clean resolution, a clear signal that the connection was repaired. Instead, she got ambiguity. She had to take a conscious Conductor's Breath to quiet the urge to press him for more reassurance. She made a note in her logbook: *Repair isn't a single transaction. He didn't reject the attempt, but he didn't accept it either. The data shows I have to demonstrate trustworthiness over time, not just in one conversation.*
 
 ---
 ### **System Alert: The Threat of Unsolicited Advice**
@@ -73,6 +75,14 @@ When this happens, do not panic. The key is to name the awkwardness and enroll t
 1.  **Don't Announce, Demonstrate.** Resist the urge to say "I've read a book and am now using protocols on you."
 2.  **Enroll, Don't Impose.** If they comment on the change, use Calibrated Vulnerability to enroll them as a partner, not a subject.
     *   **The Script:** *"You're right, that did sound a bit like a script. I've been trying to get better at really listening instead of just jumping in to solve things, and it still feels a bit clumsy. I'd actually love your feedback as I practice."*
+
+> ### **From the Community: Troubleshooting**
+>
+> **Q: "I tried the Empathy Loop, but they just shut down and said, 'I'm fine.' What do I do when someone won't open up?"**
+>
+> **A:** This is critical data, not a failure. A shutdown is a signal that the person does not feel safe enough to be vulnerable. Forcing the issue will only increase the threat. Your only move is to respect the boundary and change your goal from "getting them to open up" to "making it safer for them to open up in the future."
+>
+> **The Practice:** Back off gracefully. Say something like, "No problem. I'm here if you ever do want to talk about it." Then, shift your focus to consistently demonstrating trustworthiness over time (Chapter 9). Their silence is data about the current state of the relationship; your job is to respond to that data with respect.
 
 #### **The Practice: A Three-Part Protocol for Presence**
 
@@ -109,4 +119,9 @@ This week, your challenge is to collect data from one conversation using the Con
 3.  **The Verbal Data:** Write down the exact "Playback" sentence you used. How did they respond, both verbally and non-verbally?
 4.  **The Analysis:** What did you learn from this interaction? Did the protocol "work"? Did it backfire? What does this data tell you about your current skill level and the dynamics of that relationship?
 5.  **Path to Adaptive:** How could practicing the Connection Protocol help you strengthen your least-dominant brain profile?
-      
+---
+### **Dashboard Update**
+
+[AUTHOR'S NOTE: Insert a thumbnail of the Conductor's Dashboard here. The first two slots of the CORE TRIO, "[ICON: Lungs] The Conductor's Breath" and "[ICON: Reflecting Arrows] The Connection Protocol," should be filled in. The final Core Trio slot and all Ensemble slots remain empty.]
+
+**Excellent progress.** The engine of your toolkit is nearly complete. You've added the instrument of Connection to your foundation of Regulation.

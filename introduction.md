@@ -42,7 +42,10 @@ To prove it, your journey will begin in Chapter 1 with your first, most essentia
 
 As you progress, you will build out your own "Conductor's Dashboard," a mental toolkit for navigating any human interaction. To make this practice tangible, you can download the official **Conductor's Logbook** from [AuthorWebsite.com/logbook] to accompany your journey. It will look something like this:
 
-[AUTHOR'S NOTE: Insert a simplified version of the "Conductor's Dashboard" graphic here. It should show the three empty slots for the "Core Trio" (Regulation, Connection, Trust) and several empty slots for the "Ensemble Toolkit," creating a sense of a "skill tree" the reader is about to unlock.]
+[AUTHOR'S NOTE: Insert the "Conductor's Dashboard" graphic here. It is CRITICAL that this graphic establishes a clear visual hierarchy.
+The top half of the graphic is dominated by the **CORE TRIO**. The three slots for these skills should be large, prominent, and centrally located, under a clear, bold heading: "**CORE TRIO: Your Engine for 80% of Interactions**."
+The bottom half of the graphic is the **ENSEMBLE TOOLKIT**. The slots for these skills are smaller, arranged below the Core Trio, and visually less important, under the heading: "**ENSEMBLE TOOLKIT: Your Specialized Reference Library**."
+All slots are currently empty silhouettes, creating a "skill tree" the reader is about to unlock.]
 
 **The Conductor's Dashboard (Preview)**
 *   **CORE TRIO (Your Engine)**
