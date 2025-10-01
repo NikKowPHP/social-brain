@@ -70,11 +70,11 @@
 **Chapter 18:** The Integrated Conductor
 *Knowing When to Put the Baton Down*
 
-**Chapter 19:** When the Conductor is Exhausted
-*The Neuroscience of Resilience and Self-Compassion*
+**Chapter 19:** The Conductor's Legacy
+*Navigating Disappointment and Building a Self-Tuning Orchestra*
 
-**Chapter 20:** The Conductor's Legacy
-*Building a Self-Tuning, Psychologically Safe Orchestra*
+**Chapter 20:** Conducting the Dissonance
+*A Final Reflection on Imperfect Connection*
 
 **Conclusion:** The Conductor's Final Paradox
 
