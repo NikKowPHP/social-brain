@@ -16,9 +16,7 @@ This chapter is different. Instead of learning a protocol and then seeing a smal
 ***
 
 #### **The Setup: A Meeting on the Brink of Chaos**
-***Previously on the Phoenix Project:*** *Maria used the Core Trio to solve the Mark/Jane technical deadlock (C10), but the project is now running a tight, high-pressure timeline.*
-
-Maria used to dread her team's weekly Phoenix Project status meeting. It was a perfect storm of competing brain profiles: Mark's **[ICON: Blueprint] Architect** brain, Jane's **[ICON: Shield] Sentinel** brain, and Leo's **[ICON: Bridge] Connector** brain.
+Maria had successfully used the Core Trio to navigate the technical deadlock between Mark and Jane, but the project was now running on a brutally tight, high-pressure timeline. Because of this, she used to dread her team's weekly Phoenix Project status meeting. It was a perfect storm of competing brain profiles: Mark's **[ICON: Blueprint] Architect** brain, Jane's **[ICON: Shield] Sentinel** brain, and Leo's **[ICON: Bridge] Connector** brain.
 
 Today's goal was to finalize the launch date—a decision already fraught with tension. Maria knew she had to conduct it from start to finish.
 

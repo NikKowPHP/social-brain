@@ -11,9 +11,9 @@
 
 Our investigation so far has focused on high-stakes, goal-oriented communication. But a life, and a relationship, is not defined by these moments of tension. It is built in the quiet spaces in between. This chapter is about the most powerful instrument in your entire toolkit: the ability to be fully present with another human being.
 
-***Previously on the Phoenix Project:*** *With the Sterling Corp. technical review now looming just six weeks away, the pressure on the team was immense. Maria, leading with her [ICON: Blueprint] Architect brain, failed to connect with Leo, causing him to retreat at the worst possible time. She realized her focus on logic was a weakness.*
+With the Sterling Corp. technical review now looming just six weeks away, the pressure on the team was immense, and Maria was learning this the hard way. Leading with her [ICON: Blueprint] Architect brain, she had recently failed to connect with Leo, her most promising junior engineer, causing him to retreat at the worst possible time.
 
-Maria learned this the hard way. During a one-on-one with Leo, he was explaining a complex issue. As he spoke, Maria was half-listening, but also glancing at Slack notifications. She noticed Leo's energy fade. He trailed off and said, "…anyway, it's probably not a big deal." The connection was broken. She had failed to broadcast the signal, "You matter."
+During a one-on-one, he was explaining a complex issue. As he spoke, Maria was half-listening, but also glancing at Slack notifications. She noticed Leo's energy fade. He trailed off and said, "…anyway, it's probably not a big deal." The connection was broken. She had failed to broadcast the signal, "You matter."
 
 Later, determined to fix her mistake, Maria tried to use the Empathy Loop protocol she had just learned. But she did it mechanically, as an **[ICON: Blueprint] Architect** following a script.
 **Maria:** "Hey. I was thinking about earlier. What was the hardest part about that for you?"

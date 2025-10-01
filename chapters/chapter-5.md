@@ -1,9 +1,7 @@
 ### **Chapter 5: The Laws of Social Gravity**
 #### Conducting From Your Position
 
-***Previously on the Phoenix Project:*** *Maria's attempts to repair her relationship with Mark have begun, but she is about to learn that a tool that works with a direct report can backfire spectacularly with a superior.*
-
-Flushed with a small victory after using a moment of vulnerability to connect with Leo, her junior engineer, Maria decided to try the same approach with her boss, a senior VP. In their next one-on-one, she admitted, "I'll be honest, I'm feeling a bit overwhelmed by the political pressure from David's team."
+Having taken the first tentative steps to repair her relationship with Mark, Maria was feeling a fragile new confidence. Flushed with a small victory after using a moment of vulnerability to connect with Leo, her junior engineer, she decided to try the same approach with her boss, a senior VP. In their next one-on-one, she admitted, "I'll be honest, I'm feeling a bit overwhelmed by the political pressure from David's team."
 
 She expected the admission to build trust. Instead, the VP's expression hardened slightly. He looked past her, toward the sales numbers on his monitor. "Is the Sterling Corp. timeline still on track?" he asked, his voice flat. The message was clear: feelings were irrelevant; only the deadline mattered. The conversation was over. The connection wasn't just broken; it felt like it had reversed.
 

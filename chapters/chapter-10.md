@@ -8,8 +8,6 @@
 > *   **Primary Brain Profile:** All
 > *   **Purpose:** To demonstrate how the three core tools are sufficient to resolve complex, multi-faceted conflicts without needing specialized protocols.
 
-***Previously on the Phoenix Project:*** *With only weeks until the Sterling Corp. review, Maria has secured Leo's trust and gained a small foothold with Jane. However, a major technical deadlock has emerged between Mark (Architect, favoring innovation) and Jane (Sentinel, favoring safety), halting all progress and threatening to derail the entire timeline.*
-
 You have now installed the complete Core Trio. Before we add a single specialized instrument to your toolkit, it is essential to pause and appreciate the power of the engine you have just built. If you master only these three skills—Regulation, Connection, and Trust—you can successfully conduct your way through the vast majority of challenging human interactions.
 
 This chapter presents a single, complex case study to prove the sufficiency of the Core Trio.
@@ -18,7 +16,7 @@ This chapter presents a single, complex case study to prove the sufficiency of t
 
 #### **Case Study: The Architect vs. The Sentinel**
 
-The Phoenix Project hit a critical deadlock. Mark, the **[ICON: Blueprint] Architect**, wanted to build a core feature using a new, cutting-edge database technology (Innovation). Jane, the **[ICON: Shield] Sentinel**, was adamantly opposed, seeing it as a catastrophic risk (Safety). The tension had ground all progress to a halt. In a tense meeting, the conflict boiled over.
+With only weeks until the Sterling Corp. review, Maria's small wins in securing Leo's trust and gaining a foothold with Jane were overshadowed by a new crisis. A major technical deadlock had emerged between Mark, the **[ICON: Blueprint] Architect**, who wanted to build a core feature using a new, cutting-edge database technology (Innovation), and Jane, the **[ICON: Shield] Sentinel**, who was adamantly opposed, seeing it as a catastrophic risk (Safety). The tension had ground all progress to a halt. In a tense meeting, the conflict boiled over.
 
 "If we use the old stack, it won't handle the load. It will crash, we'll miss the Sterling Corp deadline, and the project is dead," Mark argued, his voice tight with an uncharacteristic edge of fear. "It's not just about being obsolete; it's about failing, publicly and completely."
 

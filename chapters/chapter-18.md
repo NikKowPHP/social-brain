@@ -6,9 +6,7 @@ Throughout our investigation, we have assembled a powerful toolkit for conscious
 This is the ultimate paradox of mastery: the goal of all this structured practice is to get to a place where you no longer need it. This chapter is about moving from conscious competence to unconscious intuition. It is about learning when to conduct, and when to simply be.
 
 #### **Case Study: The Conductor's Final Test Setup**
-***Previously on the Phoenix Project:*** *Maria successfully contained the threat from David (C14) and conducted a difficult launch meeting (C16). The project launched successfully, but the political fallout remains, leading to Maria's final test.*
-
-The Phoenix Project was a success. But Maria's final test as a conductor came a week later. David, the senior leader she had antagonized, began a campaign to claim credit and increase his budget, ambushing Maria's boss with misleading metrics. The old Maria would have panicked. The new, integrated Maria saw it as a final performance.
+The Phoenix Project was a success. Maria had contained the political threat from David, conducted a difficult but successful launch meeting, and delivered the project on time. But her final test as a conductor came a week later, in the midst of the political fallout. David, the senior leader she had antagonized, began a campaign to claim credit and increase his budget, ambushing Maria's boss with misleading metrics. The old Maria would have panicked. The new, integrated Maria saw it as a final performance.
 
 #### **From Conscious Protocol to Conductor's Intuition**
 

@@ -9,9 +9,7 @@
 > *   **Purpose:** To create the neurochemical conditions for trust by demonstrating safe, calibrated vulnerability.
 > *   **Note:** This is the third and final tool of your **Core Trio**.
 
-***Previously on the Phoenix Project:*** *With the Sterling Corp. review deadline looming, Maria successfully used the Empathy Loop (C8) to start repairing her relationship with Leo. But to have any chance of success, she must now win over her most skeptical engineer, Jane, whose deep-seated distrust threatens the entire project timeline.*
-
-Trust isn't earned through perfection; it's built through the counter-intuitive science of vulnerability.
+The Sterling Corp. review deadline was looming. While Maria had used the Empathy Loop to begin repairing her relationship with Leo, she knew that to have any chance of success, she must win over her most skeptical engineer, Jane, whose deep-seated distrust threatened the entire project timeline. This was a problem of trust, and Maria was learning that trust isn't earned through perfection; it's built through the counter-intuitive science of vulnerability.
 
 #### **The Science: The Trust Molecule**
 

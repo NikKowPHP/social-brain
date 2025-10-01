@@ -8,9 +8,7 @@
 ---
 ### **Part 1: The Cost of the Performance (The Resilience Protocol)**
 
-***Previously on the Phoenix Project:*** *Maria successfully used the Conductor's Shield (C14) to force David's attacks into the open. Now, she and her team must prepare a unified defense to protect their project resources.*
-
-The week Maria and her team spent preparing their political response to David was one of the most intense of her career. They successfully navigated the politics, presenting a clear, data-backed case to leadership that respectfully corrected David's narrative. It was a huge win, but it came at a cost.
+After successfully using the Conductor's Shield to force David's political attacks into the open, Maria and her team faced a new challenge: preparing a unified defense to protect their project's resources. The week they spent preparing that response was one of the most intense of her career. They successfully navigated the politics, presenting a clear, data-backed case to leadership that respectfully corrected David's narrative. It was a huge win, but it came at a cost.
 
 That Friday evening, Maria felt nothing but a deep, hollow exhaustion. She snapped at her partner over a minor question and felt a wave of guilt. She had conducted the orchestra perfectly at work, but she had come home with no music left in her. This is **Conductor's Fatigue**, the emotional and cognitive cost of high-stakes performance that we first identified in Chapter 12.
 
@@ -66,7 +64,7 @@ She expected a fight. Instead, something remarkable happened. Jane, the Sentinel
 
 Mark, the Architect, who had championed those features, nodded slowly. "She's right. We build the rock-solid core first. We prove them wrong with our execution, and we earn the right to build the rest later."
 
-It wasn't a victory celebration. It was a moment of quiet, professional resolve. Maria watched as her team, forged in the fires of conflict, made the hard but necessary choice together. The self-tuning orchestra was real.
+It wasn't a victory celebration. It was a moment of quiet, professional resolve. Maria watched as her team, forged in the fires of conflict, made the hard but necessary choice together. The self-tuning orchestra was real. She watched them, a self-tuning orchestra born from conflict. The victory wasn't in the budget; it was in the music they were now making themselves. But that night, the dissonance of her own journey—the compromises and the costs—kept her awake.
 
 #### **The Science: Psychological Safety**
 

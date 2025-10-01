@@ -25,9 +25,9 @@ Run a small, low-risk experiment to test your hypothesis.
 ---
 ### **Part 2: The Conductor's Shield (Navigating Hostile Orchestras)**
 
-What do you do when your best tools fail? What happens when you offer empathy, and it's used as a weapon against you? This is Hard Mode. This is when you realize you are not dealing with a misaligned partner, but a manipulative actor whose goal is not mutual understanding, but victory.
+What do you do when your best tools fail? What happens when you offer empathy, and it's used as a weapon against you? This is Hard Mode. This is when you realize you are not dealing with a misaligned partner, but a manipulative actor whose goal is not mutual understanding, but victory. Maria learned this in the most painful way possible. As her team scrambled to prepare for the Sterling Corp. review, she faced political sabotage from a senior leader, David. Her first instinct was to use the Empathy Loop, a good-faith tool, to try and bridge the gap.
 
-***Previously on the Phoenix Project:*** *As the team scrambles to prepare for the Sterling Corp. review, Maria faces political sabotage from senior leader David. She decides to use the Empathy Loop, a good-faith tool, to try and bridge the gap. She approached him, saying "David, I get the sense you have some serious concerns about the Phoenix Project's risk profile. Can you tell me what the hardest part of this is from your perspective?"*
+She approached him, saying "David, I get the sense you have some serious concerns about the Phoenix Project's risk profile. Can you tell me what the hardest part of this is from your perspective?"
 
 *To her surprise, David's posture softened slightly. "Maria," he said, his voice losing its usual political edge, "Five years ago, I led a project just like this. Ambitious, new tech, fast timeline. It crashed on launch, and we lost the Acme account. I watched good people lose their jobs. My concern isn't about you; it's that I'm seeing the exact same pattern, and no one else seems to have the institutional memory to see the cliff we're running toward."*
 

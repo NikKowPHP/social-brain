@@ -6,9 +6,7 @@ Every conductor dreads the moment a key instrument goes wildly out of tune, crea
 ---
 ### **Part 1: The Difficult Conversation Protocol**
 
-A difficult conversation is an interaction where the SCARF threats are high for everyone involved. A conductor cannot avoid dissonance; they must learn to conduct through it.
-
-***Previously on the Phoenix Project:*** *The pressure of the upcoming Sterling Corp. review is immense. After Maria's blunt email to Mark (C4), the tension boiled over into a disastrous public meeting where she publicly criticized him. To have any hope of passing the review, Maria must initiate a difficult, high-stakes repair conversation to save the relationship and the project.*
+The immense pressure of the upcoming Sterling Corp. review was taking its toll on the Phoenix Project. The tension that had been simmering since Maria's blunt email to Mark finally boiled over in a disastrous public meeting where she publicly criticized him. To have any hope of passing the review, Maria knew she must initiate a difficult, high-stakes repair conversation to save both the relationship and the project. A difficult conversation is an interaction where the SCARF threats are high for everyone involved. A conductor cannot avoid dissonance; they must learn to conduct through it.
 
 #### **The Practice: The Difficult Conversation Protocol**
 
@@ -59,9 +57,9 @@ A masterful "no" is a three-part script that protects the relationship while hol
     *   *"...While I can't lead the project, I'm happy to spend 30 minutes brainstorming with whoever does."*
 
 **Case Study: The High-Stakes Boundary**
-***Previously on the Phoenix Project:*** *After securing funding, the team is sprinting toward the Sterling Corp. deadline. Maria faces a flood of requests, including a high-stakes, derailing project request from senior leader David that threatens to pull the team off track.*
+With funding secured and the team sprinting toward the Sterling Corp. deadline, Maria faced a flood of new requests. The most dangerous was a high-stakes, derailing project from senior leader David that threatened to pull the team off track.
 
-Maria had to use the script on David, a senior leader, to protect her team from burnout.
+Maria had to use the script on David to protect her team from burnout.
 
 *   **Validate:** "Thank you so much for seeing the potential here. That dashboard sounds like a fantastic tool."
 *   **State:** "Unfortunately, given our current, locked-down timeline, the team simply doesn't have the capacity to build it right now."
