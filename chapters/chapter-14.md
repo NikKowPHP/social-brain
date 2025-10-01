@@ -33,6 +33,16 @@ What do you do when your best tools fail? What happens when you offer empathy, a
 
 *This was a brutal lesson: **good-faith tools are not designed for bad-faith actors.** In this environment, your goal must shift from connection to containment.*
 
+> ### **A Conductor's Self-Check: Am I Facing a Bad-Faith Actor?**
+>
+> The tool you are about to learn is a defensive instrument of last resort. It is designed for containment, not connection, and using it will have a significant cost to the relationship. Before you proceed, you must honestly assess the situation. Ask yourself these three questions:
+>
+> 1.  **Have I Consistently Used the Core Trio First?** Have I made multiple, good-faith attempts to use the Empathy Loop (Chapter 8) and Calibrated Vulnerability (Chapter 9) that have been repeatedly ignored or used against me?
+> 2.  **Is There a Pattern of Manipulation?** Is this a single frustrating interaction, or is there a consistent, observable pattern of this person twisting facts, shifting goalposts, and telling different stories to different people?
+> 3.  **Could I Be Misinterpreting a Different Style?** Is it possible I am perceiving a blunt Architect's focus on data as a personal attack, or a stressed Sentinel's focus on risk as an attempt to sabotage?
+>
+> If you cannot confidently answer "yes" to the first two questions, the Shield Protocol is the wrong tool. The problem may still be a communication breakdown that can be solved with the Core Trio. Proceed only if you are certain you are dealing with a pattern of bad-faith engagement.
+
 #### **The Science: Weaponized SCARF Threats**
 A manipulative actor uses SCARF domains as weapons to trigger your amygdala hijack. Your primary strategy in Hard Mode is **threat neutralization.**
 
