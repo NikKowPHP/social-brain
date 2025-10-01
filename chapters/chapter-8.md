@@ -102,11 +102,11 @@ Maria had opened the door to connection with Leo, but she knew that to truly rep
 ---
 ### **Logbook Entry**
 
-This week, your challenge is to practice the full Connection Protocol in one conversation.
+This week, your challenge is to collect data from one conversation using the Connection Protocol.
 
-1.  **The Situation:** Who did you practice with, and what was the topic?
-2.  **The Non-Verbal:** Which "Signal of Presence" technique did you consciously use (e.g., pointing the tripod, intelligent pause)?
-3.  **The "By the Book" Playback:** Write down the exact "Playback" sentence you used to reflect the "music." How did they respond?
-4.  **The Translation:** Now, rewrite your "Playback" sentence in words you would actually use. How can you make it sound more like you while keeping the core principle?
+1.  **The Experiment:** Who did you practice with, and what was the topic?
+2.  **The Non-Verbal Data:** Which "Signal of Presence" technique did you consciously use (e.g., pointing the tripod, intelligent pause)? What was their observable response?
+3.  **The Verbal Data:** Write down the exact "Playback" sentence you used. How did they respond, both verbally and non-verbally?
+4.  **The Analysis:** What did you learn from this interaction? Did the protocol "work"? Did it backfire? What does this data tell you about your current skill level and the dynamics of that relationship?
 5.  **Path to Adaptive:** How could practicing the Connection Protocol help you strengthen your least-dominant brain profile?
       

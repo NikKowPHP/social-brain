@@ -76,6 +76,6 @@ This week, your mission is not to learn a new tool, but to combine the Core Trio
 
 1.  **Identify the Opportunity:** Who is one person in your life with whom you'd like to have a slightly deeper connection?
 2.  **Plan the Performance:** How could you integrate the three tools?
-3.  **The Debrief:** After the conversation, reflect on the experience. What felt most difficult? What, if anything, felt different?
+3.  **The Debrief (Data Analysis):** After the conversation, analyze the data from your "social sonar ping." What was the response? Did they reciprocate, ignore, or shut down? What does this data tell you about the current level of trust in that relationship? What felt most difficult?
 4.  **Path to Adaptive:** How could using the Trust Protocol help you strengthen your least-dominant brain profile?
       

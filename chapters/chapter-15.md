@@ -17,12 +17,19 @@ Stay consistent. Every time you hold a respectful boundary, you are sending a cl
 
 **Question: "I keep trying, but in the heat of the moment, I get hijacked and revert to my old, bad habits. I feel like a failure. How do you make this change stick?"**
 
-You are not a failure; you are a human retraining your brain's ancient hardware. This is not a software update; it's a physical rewiring process (neuroplasticity), and it is slow.
+This is not a side effect of the work; this is the work itself. You are not a failure; you are a human retraining your brain's ancient hardware. This is not a software update; it's a physical rewiring process (neuroplasticity), and it is slow.
 
-The system's backlash isn't just external; it's internal. Your own brain has a homeostatic comfort zone. The old, familiar argument—while painful—is a well-worn neural pathway. It's the path of least resistance. When you fail and get pulled back into an old fight, do not see it as a failure. **See it as a data point.**
+The system's backlash isn't just external; it's internal. Your own brain has a homeostatic comfort zone. The old, familiar argument—while painful—is a well-worn neural pathway. It's the path of least resistance.
 
-**The Practice:**
-After you've cooled down, run a personal "debrief." Ask yourself: "At what point did I lose my regulation? What was the specific trigger?" By analyzing the "bug," you make the old pattern conscious, which is the first step to changing it. Your goal is not immediate perfection, but a **consistent, safe, and regulated presence over time.**
+To succeed, you must adopt the single most important mindset of this entire book: **Treat every interaction as data collection, not a performance to be graded.**
 
-In any system, you can only truly change one person: yourself. But when one part of a system fundamentally changes its behavior, the rest of the system *must* eventually adapt around it to find a new homeostasis. Be patient. Your consistency is the most powerful force for change.
+When you get hijacked and revert, you have not failed. You have just collected a critical piece of data.
+
+**The Practice: The "Data, Not Failure" Debrief**
+After you've cooled down, run a personal "debrief." Ask yourself:
+1.  **What was the specific trigger?** (e.g., "The data shows I get hijacked when my competence is questioned.")
+2.  **What was my physical 'tell'?** (e.g., "The data shows my first sign is heat in my neck.")
+3.  **Where was the point of no return?** (e.g., "The data shows I lost regulation after they said 'you always do this'.")
+
+By analyzing the "bug" this way, you make the old pattern conscious, which is the only way to change it. Your goal is not immediate perfection, but **consistent, compassionate data collection.** This mindset shifts the goal from "winning the conversation" to "learning from the conversation," which is a game you can never lose.
       
