@@ -3,4 +3,8 @@
 - [x] Weave the "Shadow Conductor" and "Conductor's Fatigue" concepts throughout the narrative for deeper psychological realism.
 - [x] Integrate the community aspect throughout the book to foster a sense of shared journey.
 - [x] Address the "Perfect Conductor" problem by showing more of Maria's messy, inelegant, and partially successful attempts at using the protocols.
+- [x] Address reader fears of inauthenticity by adding "Making It Your Own" sections and "Translation" steps in logbooks.
+- [x] Make Maria's journey more realistic by showing her struggling with a recurring flaw (her Architect "solve mode").
+- [x] Develop the supporting cast by showing them using the Conductor's Method tools and shared language independently.
+- [x] Deepen interactivity by weaving "Pause and Reflect" moments into the narrative.
       

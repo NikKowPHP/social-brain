@@ -26,6 +26,14 @@ What Maria experienced was a neurological perfect storm. A difficult conversatio
 
 To fix the damage with Mark, Maria would need a protocol designed to break this spiral, creating a neurochemical environment of safety so that both brains could come back online.
 
+> ### **Pause & Reflect: What's Your First Move?**
+>
+> Maria has to repair the damage with Mark. She knows she needs to create safety, but the stakes are high.
+>
+> Based on the Core Trio you've learned so far (Regulation, Connection, Trust), what would be your opening move? How would you start the conversation to have the best chance of success?
+>
+> Take a moment to formulate your own plan before reading on to see how Maria handled it.
+
 #### **The Practice: The Difficult Conversation Protocol**
 
 This protocol is our first example of "stacking" our tools. It is not a new set of skills, but a masterful combination of the **Conductor's Breath (Chapter 6)** and the **Empathy Loop (Chapter 7)**, applied to a high-stakes situation.

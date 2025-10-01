@@ -73,7 +73,13 @@ If you found yourself with a near-even split, you don't have one dominant styleâ
 **Ultimately, the Adaptive Profile is the goal for everyone on this journey.** It represents the integrated brain of a true Conductor. Maria begins her story leading with her [ICON: Blueprint] Architect brain, but her transformation throughout this book is a journey *toward* becoming Adaptiveâ€”a leader who can call upon the [ICON: Blueprint] Architect's logic, the [ICON: Bridge] Connector's empathy, and the [ICON: Shield] Sentinel's insight with skill and intention. This book is your roadmap to developing your own Adaptive, Conductor profile.
 
 ---
-> *"Pause for a moment and consider your result. Does it resonate? Think of a recent difficult conversation. Did your dominant profile show up? The first step to conducting the orchestra is simply to hear the music it's already playing."*
+> ### **Pause & Reflect: Hear Your Orchestra**
+>
+> Pause for a moment and consider your result. Does it resonate?
+>
+> Think of the last difficult conversation you had. Which of your brain profiles was in the conductor's seat? Was it the [ICON: Blueprint] Architect, trying to win with logic? The [ICON: Bridge] Connector, trying to smooth things over? Or the [ICON: Shield] Sentinel, feeling under attack?
+>
+> There is no right answer. The only goal is awareness. The first step to conducting the orchestra is simply to hear the music it's already playing.
 ---
 
 #### **The Tempo of Your Orchestra: Introversion and Extraversion**

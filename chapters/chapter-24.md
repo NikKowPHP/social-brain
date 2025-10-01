@@ -52,9 +52,9 @@ A conductor cannot command a team to feel safe. They must design a system where 
     *   **Don't ask:** *"Who is responsible for this?"* (Triggers threat).
     *   **Do ask:** *"What did we learn from this, and how can we use that learning to make our next experiment better?"* (Frames work as discovery).
 
-**4. Distribute Competence with a Shared Language:** Give your team a shared, non-judgmental language ("SCARF," "amygdala hijack"). This creates a powerful shortcut to empathy. Then, model inquiry to teach the tools without being preachy:
-    *   *"What's a SCARF-aware way we could frame this email?"*
-    *   *"That's a strong reaction. Is that your [ICON: Shield] Sentinel brain picking up on a risk we're missing?"*
+**4. Distribute Competence with a Shared Language:** Give your team a shared, non-judgmental language ("SCARF," "amygdala hijack"). This creates a powerful shortcut to empathy. Then, model inquiry to teach the tools without being preachy. Over time, the team will begin to use it themselves, a key sign of a self-tuning orchestra.
+    *   You might model it: *"What's a SCARF-aware way we could frame this email?"*
+    *   Then, one day, you might hear one of your team members say it to another: *"I think my proposal is triggering your [ICON: Shield] Sentinel brain's threat detector. Let's talk about the specific risks you see."* This is the moment you know the culture is truly changing.
 
 By implementing these routines, you are doing more than managing people; you are nurturing their brains. You create a culture where everyone feels responsible for the music. This is the conductor's true legacy.
 

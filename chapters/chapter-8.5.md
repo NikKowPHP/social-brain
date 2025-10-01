@@ -40,18 +40,20 @@ Next, Maria turned to Mark.
 
 Mark, who had been ready for a fight, was momentarily disarmed. "Exactly," he said. "It's about doing it right."
 
-**3. The Shift to Harmony (The Trust Protocol).**
+**3. The Shift to Harmony (The Trust Protocol & Handing Off the Baton).**
 Now that both parties felt understood, not just heard, the neurochemical weather in the room had changed. The cortisol was lower; the PFCs were coming back online. Maria then deployed the final tool of the trio: Calibrated Vulnerability.
 
 *   **Maria:** "Okay," she said, leaning forward. "I'll be honest. I don't see an easy answer here. You've both made incredibly valid points that are in tension with each other. Jane is right that we cannot risk this launch. Mark is right that we need to build for the future. I don't have the technical depth to make this call on my own."
 
 She paused, then delivered the crucial line that shifted the entire dynamic.
 
-*   **Maria:** "But I do trust the two of you, completely. I trust that between Jane's world-class ability to mitigate risk and Mark's brilliant architectural vision, there is a third option we haven't found yet. So I'm going to get out of the way. How can **we** design an experiment that would give you the data you need, Mark, while satisfying your standards for safety, Jane?"
+*   **Maria:** "But I do trust the two of you, completely. I trust that between Jane's world-class ability to mitigate risk and Mark's brilliant architectural vision, there is a third option we haven't found yet. So I'm going to get out of the way. My only question is this: How can **we** design an experiment that would give you the data you need, Mark, while satisfying your standards for safety, Jane?"
 
-This was the turning point. The Calibrated Vulnerability ("I don't have the answer") lowered her status, making it safe for them to brainstorm. The statement of trust was a massive **Status** and **Relatedness** reward for both of them. And the question framed them as a single, collaborative unit ("we") against the problem.
+This was the turning point. By framing them as a single, collaborative unit ("we") against the problem, she had handed the baton to them. Mark and Jane started talking to each other, not just to Maria. The energy had shifted from a battle to a puzzle. At first, it was clumsy. Mark started to interrupt, then caught himself. Jane, seeing his restraint, softened her tone.
 
-Mark and Jane started talking to each other, not to Maria. The energy had shifted from a battle to a puzzle. Within ten minutes, they had designed a small, time-boxed pilot project: they would build one non-critical service with the new database. This would give Mark the data he needed on performance, and it would give Jane the data she needed on stability, without risking the core project. It wasn't a compromise; it was a true synthesis.
+"Okay," Mark began, speaking to Jane directly. "Help me understand the specific failure mode you're most worried about. Is it data corruption? Latency under load?"
+
+Jane, responding to the genuine question, began to outline the specific risks. It wasn't a perfect, seamless dialogue, but it was a world away from the hijacked argument of the day before. They had moved from attacking each other to attacking the problem. Within ten minutes, they had designed a small, time-boxed pilot project: they would build one non-critical service with the new database. This would give Mark the data he needed on performance, and it would give Jane the data she needed on stability, without risking the core project. It wasn't a compromise; it was a true synthesis.
 
 #### **The Conductor's Debrief**
 
