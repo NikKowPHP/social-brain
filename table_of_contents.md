@@ -1,7 +1,5 @@
 ### **Table of Contents**
 
-**Preface**
-
 **Introduction:** Your Brain's Operator's Manual
 
 ---
@@ -98,3 +96,4 @@
 **Acknowledgments**
 
 **About the Author**
+      

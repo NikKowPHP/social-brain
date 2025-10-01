@@ -40,21 +40,25 @@ Communicate transparently when you have low capacity. This models healthy bounda
 ---
 ### **Part 2: The Conductor's Legacy (The Capstone Climax)**
 
-***Previously on the Phoenix Project:*** *Maria and her team presented a flawless case against David's political attacks, using the Shield Protocol (C14) and Clarity Protocol (C11).*
+***The Setup: The Final Performance.*** *David’s campaign of quiet sabotage has succeeded in creating enough doubt to force a final, high-stakes leadership meeting. On the table: the budget for Phase 2 of the Phoenix Project. Maria knows David will be there to make his final play to have the project defunded and its resources re-allocated to his own initiatives. This is her final exam.*
 
-The outcome was not the clean win they had hoped for. David's campaign created enough doubt that leadership announced the budget for Phase 2 would be cut by 20% "out of an abundance of caution."
+The mood in the boardroom was tense. As Maria began to speak, she could feel her heart starting to race. She paused, took a silent **[ICON: Lungs] Conductor’s Breath**, and began.
 
-The team was crushed. In the debrief meeting, the mood was funereal. This was Maria's final test: conducting her team through a bitter disappointment.
+David let her get halfway through her presentation before he struck. "Maria, this is all very compelling," he said, his voice smooth and concerned. "But I'm looking at the initial server costs, and frankly, they seem reckless. We can't be burning money like this in the current climate."
 
-She let them vent, using the **[ICON: Reflecting Arrows] Empathy Loop (C8)** to validate their frustration: "It sounds like you feel that even when we do everything right, the politics still win. It feels deeply unfair."
+The old Maria would have defended her data. The new Maria used the **[ICON: Shield] Shield Protocol (C14)**. Her goal was not to win, but to contain. "That's an important flag, David. To make sure I understand, what is the specific data point that makes you feel it's reckless?" she asked calmly, forcing him to move from vague assertion to specific data.
 
-Mark, the Architect, interrupted: "We lost. The data didn't matter. And frankly, we wouldn't be in this position if David hadn't had a vendetta against us."
+As David fumbled, Maria turned her attention to the executives. She used the **[ICON: Reflecting Arrows] Empathy Loop (C8)**, not on her attacker, but on the real audience. "It sounds like the core concern here, given what David's raised, is that we're moving too fast and exposing the company to a major stability risk. Is that a fair summary of what you're worried about?"
 
-Maria did not become defensive. She used the Empathy Loop again, taking personal responsibility: "You're right, Mark. It feels like a total rejection of the logical work you did. And you're right that my handling of David earlier in the project made us a target. It feels like we're being punished, and part of that is on me. Is that it?"
+The CEO nodded. Maria had just shown she understood their fear. Now, she used **[ICON: Handshake] Calibrated Vulnerability (C9)**. "That's a valid concern. The timeline is ambitious, and there are risks," she admitted. "We'd be lying if we said this was easy. But our team has built a system to mitigate those risks, and Jane can speak to that." She handed the baton to her once-skeptical Sentinel, who calmly and confidently laid out their contingency plans.
 
-Only after validating his reality and taking responsibility did Maria continue with her reframe. "We didn't win the budget, but I want you to look around. A month ago, a conflict like this would have torn us apart. Instead, we came together, we executed a professional strategy under pressure, and we supported each other. The budget is temporary. We perfected the process. What we've built is permanent."
+The outcome was not the clean win they had hoped for. David's campaign had created enough doubt. The CEO announced the budget for Phase 2 would be cut by 20% "out of an abundance of caution."
 
-Her boss commented weeks later: "The most impressive thing about the Phoenix Project wasn't the launch. It was how your team handled that budget cut. You've built something rare here." Maria realized her legacy was not a political victory, but a resilient, self-tuning culture.
+The team was crushed. But as they left the room, Maria's boss pulled her aside. "The most impressive thing about the Phoenix Project wasn't your slide deck," he said. "It was how you and your team handled that ambush. You've built something rare here."
+
+In the debrief meeting, the mood was funereal. This was Maria's true final test: conducting her team through a bitter disappointment. She let them vent, validating their frustration. "It feels deeply unfair," she said.
+
+Only after validating their reality did Maria continue with her reframe. "We didn't win the budget we wanted, but I want you to look at what just happened. A month ago, a public attack like that would have torn us apart. Instead, we came together, we executed a professional strategy under pressure, and we supported each other. The budget is temporary. We perfected the process. What we've built is permanent." Maria realized her legacy was not a political victory, but a resilient, self-tuning culture.
 
 #### **The Science: Psychological Safety**
 

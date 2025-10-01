@@ -8,7 +8,7 @@
 > *   **Primary Brain Profile:** All
 > *   **Purpose:** To demonstrate how the three core tools are sufficient to resolve complex, multi-faceted conflicts without needing specialized protocols.
 
-***Previously on the Phoenix Project:*** *Maria has secured Leo's trust and gained a small foothold with Jane. However, a major technical deadlock has emerged between Mark (Architect, favoring innovation) and Jane (Sentinel, favoring safety), halting all progress.*
+***Previously on the Phoenix Project:*** *Maria has secured Leo's trust and gained a small foothold with Jane. However, a major technical deadlock has emerged between Mark (Architect, favoring innovation) and Jane (Sentinel, favoring safety), halting all progress. For Jane, the memory of a past project failure that cost the company a major client was a constant, cautionary tale.*
 
 You have now installed the complete Core Trio. Before we add a single specialized instrument to your toolkit, it is essential to pause and appreciate the power of the engine you have just built. If you master only these three skills—Regulation, Connection, and Trust—you can successfully conduct your way through the vast majority of challenging human interactions.
 
@@ -20,7 +20,7 @@ This chapter presents a single, complex case study to prove the sufficiency of t
 
 The Phoenix Project hit a critical deadlock. Mark, the **[ICON: Blueprint] Architect**, wanted to build a core feature using a new, cutting-edge database technology (Innovation). Jane, the **[ICON: Shield] Sentinel**, was adamantly opposed, seeing it as a catastrophic risk (Safety). The tension had ground all progress to a halt. In a tense meeting, the conflict boiled over.
 
-"If we use the old stack, we'll be obsolete in six months," Mark argued, his voice tight. "It's living in the past."
+"If we use the old stack, it won't handle the load. It will crash, we'll miss the Sterling Corp deadline, and the project is dead," Mark argued, his voice tight with an uncharacteristic edge of fear. "It's not just about being obsolete; it's about failing, publicly and completely."
 
 "Living in the past is better than crashing on launch day," Jane shot back. "What you're proposing is reckless, and I won't sign off on it."
 
@@ -58,8 +58,9 @@ This is the engine. You are now ready to build the Ensemble Toolkit.
 #### **From the Orchestra: Mark's Log**
 That meeting with Maria and Jane was... different. Usually, it's just a brick wall. This time, she actually got Jane to listen instead of just saying no. I still think this is all a bunch of soft-skill nonsense, but at least we're not dead in the water anymore. I'll believe in this 'third option' when I see the approved hardware, but for the first time in a month, it doesn't feel impossible.
 ---
-### **You Have Completed the Engine**
+### **You have Completed the Engine**
 
 With the Core Trio installed, you now possess the complete foundational toolkit of a Conductor. Everything that follows in Part II is a specialized instrument for a specific situation.
 
 Treat the upcoming chapters as a reference library, not a required reading list. Feel free to skip directly to the chapter that addresses your most immediate challenge, or read them in any order you wish. You already have what you need. Now, we are simply adding to your collection.
+      

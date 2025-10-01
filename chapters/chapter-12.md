@@ -28,8 +28,8 @@ Start with a neutral, observable fact, not a judgment.
 **Step 4: Use the Empathy Loop to Inquire (Chapter 8)**
 Hand the baton to them with a question that invites their perspective. Then, use The Playback to prove you've heard them.
 *   **Maria:** "I can only imagine how that must have landed. Can you tell me what was happening for you in that moment?"
-*   **Mark:** (After a long, tense silence) "It felt like you completely dismissed two weeks of my work in front of the entire team. Like you were calling me incompetent."
-*   **Maria:** (Resisting the urge to defend herself) "Okay. So my frustration came across as a public attack on your competence and your effort. It sounds like it felt deeply unfair. Is that right?"
+*   **Mark:** (After a long, tense silence) "It felt like you completely dismissed two weeks of my work in front of the entire team. Like you were calling me incompetent. And worse, you did it in front of Leo and the other junior devs who look up to me. How are they supposed to trust my judgment now?"
+*   **Maria:** (Resisting the urge to defend herself) "Okay. So my frustration came across as a public attack on your competence and your effort. And it undermined your role as a mentor. It sounds like it felt deeply unfair. Is that right?"
 *   **Mark:** (Nods, his posture softening slightly) "Yeah. That's right."
 
 **Step 5: Co-create the Solution**
@@ -88,3 +88,4 @@ This week, your mission is to analyze one recent situation where you either set 
 5.  **Path to Adaptive:** How does practicing setting boundaries help you strengthen your least-dominant brain profile?
 
 **Join the Orchestra:** Setting boundaries is notoriously difficult, especially for Connectors. Read stories from others who have navigated this challenge and share your own experience in our private forum at [AuthorWebsite.com/community/chapter-12].
+      
