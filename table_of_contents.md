@@ -8,96 +8,98 @@
 
 ### **Part I: Your Operating System - Understanding Your Social Brain**
 
-**Chapter 1:** The Social Brain Diagnostic
+**Chapter 1:** Your First Instrument: The Emergency Reset
+
+**Chapter 2:** The Social Brain Diagnostic
 *Understanding Your Orchestra*
 
-**Chapter 2:** The Purpose of the Music
+**Chapter 3:** The Purpose of the Music
 *Beyond Effective Communication*
 
-**Chapter 3:** The Pain of Miscommunication
+**Chapter 4:** The Pain of Miscommunication
 *Why a Harsh Word Feels Like a Physical Wound*
 
-**Chapter 4:** The Laws of Social Gravity
+**Chapter 5:** The Laws of Social Gravity
 *Conducting From Your Position*
 
-**Chapter 5:** The Social Brain's Dashboard
+**Chapter 6:** The Social Brain's Dashboard
 *A Deep Dive into the SCARF Model*
 
 ---
 
 ### **Part II: The Toolkit - Neuroscience-Backed Best Practices**
 
-**Chapter 5.5:** Your Toolkit Map & Cheat Sheet
+**Chapter 7:** Your Toolkit Map & Cheat Sheet
 
 **The Core Trio: Your Foundational Practice**
 
-**Chapter 6:** The Regulated Brain
-*The Neuroscience of Emotional Self-Regulation*
+**Chapter 8:** The Science of Self-Regulation
+*Understanding the Amygdala Hijack*
 
-**Chapter 7:** The Connection Protocol
+**Chapter 9:** The Connection Protocol
 *The Neuroscience of Presence, Empathy, and Shared Experience*
 
-**Chapter 8:** The Chemistry of Trust
+**Chapter 10:** The Chemistry of Trust
 *Oxytocin and Rapport*
 
-**Chapter 8.5:** The Core Trio in Concert
+**Chapter 11:** The Core Trio in Concert
 *Proving the Power of Your Foundational Toolkit*
-
-**Chapter 9:** Interlude - Breaking the Silence
-*The Neuroscience of the First Move*
 
 **The Ensemble Toolkit: Specialized Instruments**
 
+**Chapter 12:** Interlude - Breaking the Silence
+*The Neuroscience of the First Move*
+
 *Protocols for Clarity and Influence*
 
-**Chapter 10:** The Respectful Brain
+**Chapter 13:** The Respectful Brain
 *Defeating Cognitive Load*
 
-**Chapter 11:** Making It Stick
+**Chapter 14:** Making It Stick
 *The Neuroscience of Storytelling*
 
 *Protocols for Navigating Conflict and Complexity*
 
-**Chapter 12:** Taming the Threat
+**Chapter 15:** Taming the Threat
 *Navigating Difficult Conversations*
 
-**Chapter 13:** Conducting a Hostile Orchestra (Hard Mode)
+**Chapter 16:** Conducting a Hostile Orchestra (Hard Mode)
 *Navigating Manipulation and Bad-Faith Arguments*
 
-**Chapter 14:** The Adaptive Brain
+**Chapter 17:** The Adaptive Brain
 *Navigating Group and Cultural Dynamics*
 
-**Chapter 15:** The Learning Brain
+**Chapter 18:** The Learning Brain
 *The Neuroscience of Feedback and Lasting Change*
 
-**Chapter 16:** The Boundary Protocol
+**Chapter 19:** The Boundary Protocol
 *The Neuroscience of Saying "No"*
 
-**Chapter 17:** The Repair Protocol
+**Chapter 20:** The Repair Protocol
 *The Neuroscience of a Real Apology*
 
-**Chapter 17.6:** Troubleshooting the Toolkit (A Conductor's Q&A)
+**Chapter 21:** Troubleshooting the Toolkit (A Conductor's Q&A)
 
 ---
 
 ### **Part III: Integration and Lasting Change**
 
-**Chapter 18:** Conducting the Meeting
+**Chapter 22:** Conducting the Meeting
 *A Deep Dive Case Study*
 
-**Chapter 19:** Conducting the Asynchronous Orchestra
+**Chapter 23:** Conducting the Asynchronous Orchestra
 *Building Connection Across Time and Space*
 
-**Chapter 22:** The Integrated Conductor
+**Chapter 24:** The Integrated Conductor
 *Knowing When to Put the Baton Down*
 
-**Chapter 23:** When the Conductor is Exhausted
+**Chapter 25:** When the Conductor is Exhausted
 *The Neuroscience of Resilience and Self-Compassion*
 
-**Chapter 24:** The Conductor's Legacy
+**Chapter 26:** The Conductor's Legacy
 *Building a Self-Tuning, Psychologically Safe Orchestra*
 
-**Chapter 25:** Conducting the Dissonance
+**Chapter 27:** Conducting the Dissonance
 
 **Conclusion:** The Conductor's Final Paradox
 

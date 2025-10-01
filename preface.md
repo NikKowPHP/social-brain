@@ -15,7 +15,7 @@ Let me be very clear: this is not a book of twenty protocols to memorize. That w
 
 **This is a book about mastering exactly three foundational skills.**
 
-That's it. These three skills form the **Core Trio**, the engine of this entire method: Self-Regulation (Chapter 6), Connection (Chapter 7), and Trust (Chapter 8). If you master only these three, you will have enough to change over 80% of your interactions for the better.
+That's it. These three skills form the **Core Trio**, the engine of this entire method: Self-Regulation (Chapter 1), Connection (Chapter 9), and Trust (Chapter 10). If you master only these three, you will have enough to change over 80% of your interactions for the better.
 
 Everything else you will encounter in these pages is part of the **Ensemble Toolkit**. Think of the Ensemble tools not as required reading, but as a specialized reference library or an appendix for rare situations. The Core Trio is your daily practice; the Ensemble is for troubleshooting. This distinction is your primary defense against feeling overwhelmed.
 

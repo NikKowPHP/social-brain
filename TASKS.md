@@ -7,4 +7,8 @@
 - [x] Make Maria's journey more realistic by showing her struggling with a recurring flaw (her Architect "solve mode").
 - [x] Develop the supporting cast by showing them using the Conductor's Method tools and shared language independently.
 - [x] Deepen interactivity by weaving "Pause and Reflect" moments into the narrative.
+- [x] Fix "Front-loaded Theory" pacing by moving the "Conductor's Breath" to a new Chapter 1 and previewing the toolkit in the Introduction.
+- [x] Enhance the realism of the "Perfect Protagonist" problem by showing the "vulnerability hangover" have tangible, negative consequences on subsequent interactions.
+- [x] More deeply integrate the "Shadow Conductor" concept by adding "Shadow Alert" boxes to key protocol chapters.
+- [x] Fix confusing chapter numbering by re-numbering all chapters sequentially and updating all cross-references.
       
