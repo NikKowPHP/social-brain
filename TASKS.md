@@ -1,1 +1,2 @@
 - [x] Address flaw: Weave Phoenix Project narrative more tightly into early chapters (3-6) and add a "quick win" to Chapter 4 to combat protocol overload.
+- [x] Address flaw: Make Logbook Entries more dynamic by integrating community links and mentioning a downloadable template.

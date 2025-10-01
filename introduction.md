@@ -40,7 +40,7 @@ This book is the baton.
 
 To prove it, your journey will begin in Chapter 1 with your first, most essential tool—an emergency reset switch for your nervous system. You will get an immediate, powerful win before you learn a single page of theory.
 
-As you progress, you will build out your own "Conductor's Dashboard," a mental toolkit for navigating any human interaction. It will look something like this:
+As you progress, you will build out your own "Conductor's Dashboard," a mental toolkit for navigating any human interaction. To make this practice tangible, you can download the official **Conductor's Logbook** from [AuthorWebsite.com/logbook] to accompany your journey. It will look something like this:
 
 [AUTHOR'S NOTE: Insert a simplified version of the "Conductor's Dashboard" graphic here. It should show the three empty slots for the "Core Trio" (Regulation, Connection, Trust) and several empty slots for the "Ensemble Toolkit," creating a sense of a "skill tree" the reader is about to unlock.]
 
@@ -75,4 +75,3 @@ This journey requires a counter-intuitive shift in your thinking. At its heart, 
 This is a journey of practice, not a quest for perfection. You will not become a flawless conductor overnight. The goal is to get 1% better with every interaction, to learn from your mistakes, and to gradually re-wire your responses. This book is not a rulebook; it is a rehearsal space.
 
 The journey to becoming the conductor starts now. Turn the page, and let's pick up your first instrument.
-      

@@ -78,4 +78,5 @@ This week, your mission is not to learn a new tool, but to combine the Core Trio
 2.  **Plan the Performance:** How could you integrate the three tools?
 3.  **The Debrief (Data Analysis):** After the conversation, analyze the data from your "social sonar ping." What was the response? Did they reciprocate, ignore, or shut down? What does this data tell you about the current level of trust in that relationship? What felt most difficult?
 4.  **Path to Adaptive:** How could using the Trust Protocol help you strengthen your least-dominant brain profile?
-      
+
+**Join the Orchestra:** Calibrated Vulnerability is one of the highest-skill-cap tools in the toolkit. What was the result of your "social sonar ping"? Share your story and get feedback from other practitioners at [AuthorWebsite.com/community/chapter-9].

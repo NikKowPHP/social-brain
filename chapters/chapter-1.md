@@ -63,4 +63,5 @@ Let's create the first entry for your Conductor's Dashboard: your early-warning 
 2.  **Log an Event:** Over the next week, your mission is to notice this "tell" in real time. Briefly describe one event that triggered it.
 3.  **Log the Intervention:** Did you use The Conductor's Breath? What was the immediate effect on the physical sensation? (Note: The goal is to collect data, not achieve perfect calm. Even if you still felt hijacked, what did you notice?)
 4.  **Path to Adaptive:** How could mastering The Conductor's Breath help you strengthen your least-dominant brain profile?
-      
+
+**Join the Orchestra:** What was your hijack 'tell'? You might be surprised how many other Conductors share the same physical response. Share your experience and learn from others at [AuthorWebsite.com/community/chapter-1].

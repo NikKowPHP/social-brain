@@ -60,4 +60,5 @@ This week, you will conduct one meeting, even if you are not the official leader
 2.  **The Intervention:** Which single practice did you implement? (e.g., sending a SCARF-aware agenda, opening by stating roles, using the Empathy Loop on a dissenter, sending a clear follow-up).
 3.  **Analyze the Data:** What was the observable impact of your intervention on the meeting's tone or outcome? What does this data tell you about the group's dynamics?
 4.  **Path to Adaptive:** How did your chosen intervention help you practice a non-dominant brain profile? (e.g., 'As an [ICON: Blueprint] Architect, using the Empathy Loop helped me practice my [ICON: Bridge] Connector brain.')
-      
+
+**Join the Orchestra:** What was the impact of your intervention? Share your "meeting win" (or "meeting data point") with the community and see what strategies others are using to conduct better meetings at [AuthorWebsite.com/community/chapter-16].

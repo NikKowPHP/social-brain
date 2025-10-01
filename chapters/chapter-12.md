@@ -76,4 +76,15 @@ David, thwarted in the meeting, began a campaign of quiet political sabotage. He
 The impact was immediate. Maria found herself buried in requests for status updates and risk assessments. Her boss, previously supportive, was now nervous. The team's morale began to dip under the weight of the new scrutiny.
 
 Maria felt a deep, sinking feeling. It was the **Vulnerability Hangover**—the wave of second-guessing and regret that can follow even a perfectly executed boundary. *I did everything right, and I still lost.* The thought was a venomous whisper. She had used the protocol, stayed regulated, and protected her team, only to be punished for it. This was the messy reality the books don't prepare you for: a perfect performance doesn't guarantee a happy ending. It was a brutal, essential lesson in resilience. The goal of the protocol wasn't to control the outcome; it was to act with integrity and clarity, regardless of the outcome.
-      
+---
+### **Logbook Entry: Debriefing a Boundary**
+
+This week, your mission is to analyze one recent situation where you either set a boundary successfully, or failed to set one you wished you had. This is pure data collection.
+
+1.  **The Situation:** Briefly describe the request that required a boundary.
+2.  **The Action:** What did you do? Did you use the "Validate, State, Offer" protocol? Did you agree to something you later regretted?
+3.  **The SCARF Analysis:** Analyze the outcome from a SCARF perspective. How did your action affect your own SCARF gauges? How did it affect the other person's?
+4.  **The Vulnerability Hangover:** Did you experience any second-guessing or regret after the fact? What did that feel like? The goal is to normalize this feeling as part of the process.
+5.  **Path to Adaptive:** How does practicing setting boundaries help you strengthen your least-dominant brain profile?
+
+**Join the Orchestra:** Setting boundaries is notoriously difficult, especially for Connectors. Read stories from others who have navigated this challenge and share your own experience in our private forum at [AuthorWebsite.com/community/chapter-12].

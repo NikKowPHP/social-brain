@@ -23,6 +23,7 @@ Everything else you will encounter in these pages is part of the **Ensemble Tool
 This book is a manual for a practice, and it has an official training program.
 *   **The 30-Day Conductor's Challenge in Appendix C** is not an afterthought; it is your guided path to internalizing these skills. It will help you focus on one core skill per week.
 *   **The Logbook Entries** at the end of key chapters are your field notes. They are designed to help you build a personalized user's manual for your own social brain.
+*   **The Conductor's Logbook.** To support your practice, a downloadable, beautifully designed digital logbook is available at [AuthorWebsite.com/logbook]. This template will help you structure your reflections and track your progress throughout your journey.
 
 ---
 
@@ -82,4 +83,3 @@ This visual layer is not decorative; it is an integral part of the learning syst
 #### **A Note on Our Investigation**
 
 Finally, please treat this book not as a monologue, but as the beginning of a dialogue. The tools and ideas here are not static; they are part of a living, ongoing investigation into the source code of human connection. Throughout these pages, you will be invited to join that investigation by connecting with the **Conductor's Guild**, our online community of practice. Many of the examples and questions you'll find here are adapted from the real-world challenges shared by this very community. This is not a book you read, but a practice you join.
-      

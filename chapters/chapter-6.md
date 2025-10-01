@@ -63,3 +63,5 @@ Let's create the first entry for your Personal Conductor's Dashboard. This is th
 2.  **Describe a Recent Event:** Briefly describe a time in the last month when you felt that trigger.
 3.  **The Physical Sensation:** What was the physical feeling associated with that threat? This sensation is a key piece of data—your personal system alert—that we will use as we build our toolkit.
 4.  **Path to Adaptive:** How could using the SCARF dashboard help you strengthen your least-dominant brain profile?
+
+**Join the Orchestra:** Which SCARF domain is your primary trigger? This is one of the most foundational discoveries you can make. See how your results compare with the community and discuss strategies for managing your trigger at [AuthorWebsite.com/community/chapter-6].
