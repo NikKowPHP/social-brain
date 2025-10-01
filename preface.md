@@ -81,5 +81,5 @@ This visual layer is not decorative; it is an integral part of the learning syst
 
 #### **A Note on Our Investigation**
 
-Finally, please treat this book not as a monologue, but as the beginning of a dialogue. The tools and ideas here are not static; they are part of a living, ongoing investigation into the source code of human connection. Throughout these pages, you will be invited to join that investigation, both through your own practice and by connecting with a community of fellow conductors. Many of the examples and questions you'll find here are adapted from the real-world challenges shared by this very community. This is not a book you read, but a practice you join.
+Finally, please treat this book not as a monologue, but as the beginning of a dialogue. The tools and ideas here are not static; they are part of a living, ongoing investigation into the source code of human connection. Throughout these pages, you will be invited to join that investigation by connecting with the **Conductor's Guild**, our online community of practice. Many of the examples and questions you'll find here are adapted from the real-world challenges shared by this very community. This is not a book you read, but a practice you join.
       

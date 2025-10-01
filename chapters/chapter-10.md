@@ -18,9 +18,13 @@ This chapter presents a single, complex case study to prove the sufficiency of t
 
 #### **Case Study: The Architect vs. The Sentinel**
 
-The Phoenix Project hit a critical deadlock. Mark, the **[ICON: Blueprint] Architect**, wanted to build a core feature using a new, cutting-edge database technology (Innovation). Jane, the **[ICON: Shield] Sentinel**, was adamantly opposed, seeing it as a catastrophic risk (Safety). The tension had ground all progress to a halt. In a tense meeting, Mark accused Jane of "living in the past," and Jane retorted that Mark was being "reckless." It was a collective amygdala hijack.
+The Phoenix Project hit a critical deadlock. Mark, the **[ICON: Blueprint] Architect**, wanted to build a core feature using a new, cutting-edge database technology (Innovation). Jane, the **[ICON: Shield] Sentinel**, was adamantly opposed, seeing it as a catastrophic risk (Safety). The tension had ground all progress to a halt. In a tense meeting, the conflict boiled over.
 
-The new conductor knew her job was not to dictate a solution, but to create the conditions for one to emerge. She called a meeting with just the three of them. Her only tools were the Core Trio.
+"If we use the old stack, we'll be obsolete in six months," Mark argued, his voice tight. "It's living in the past."
+
+"Living in the past is better than crashing on launch day," Jane shot back. "What you're proposing is reckless, and I won't sign off on it."
+
+It was a collective amygdala hijack. The new conductor knew her job was not to dictate a solution, but to create the conditions for one to emerge. She called a meeting with just the three of them. Her only tools were the Core Trio.
 
 **1. The Performance Begins with Regulation (The Conductor's Breath).**
 Before the meeting, Maria felt anxiety. She took three deep **Conductor's Breaths**, intentionally calming her own nervous system.

@@ -8,7 +8,7 @@
 > *   **Primary Brain Profile:** Connector & Architect (Core Skill Development)
 > *   **Purpose:** To give and receive "bug reports" in a way that promotes learning, not a threat response.
 
-In our community of practice, no single act of communication causes more damage than feedback. We know it is essential for growth, yet attempts to deliver it often result in defensive anger.
+In the Conductor's Guild, no single act of communication causes more anxiety, frustration, and collateral damage than feedback. We know it is essential for growth, yet our attempts to deliver it often result in defensive anger, and our attempts to receive it often feel like a personal attack. It is the conversational equivalent of handling radioactive material.
 
 #### **The Science: The Brain's Two-Part Problem**
 
@@ -26,7 +26,6 @@ Instead of a "sandwich," run a collaborative debugging session.
 2.  **Share Data, Not Drama (Minimize Status Threat):** Present neutral, observable data.
     *   **Do say:** *"When Jen was presenting, I observed that you interrupted with 'That'll never work' before she finished. The data point is the interruption."*
 3.  **Co-Create the "Upgrade" (Reward Autonomy & Status):** Engage their Architect brain.
-    *   *"What's your perspective on what happened?"*
     *   *"How might we ensure everyone feels safe to brainstorm, while still leveraging your ability to spot flaws?"*
 
 **Protocol 2: The "Intake" Method (For Receiving Feedback)**
