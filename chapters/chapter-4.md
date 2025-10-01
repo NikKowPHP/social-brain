@@ -24,6 +24,16 @@ Our first practice is to become a "Social Pain Detective."
 
 By reframing "difficult people" as "people perceiving a threat," you move from a place of judgment to a place of curiosity and strategic analysis.
 
+#### **A First-Aid Kit for Social Pain**
+
+Becoming a detective is the first step, but what do you *do* when you spot a social pain event? While Chapter 8 will give you a complete toolkit for connection, you can start practicing with one simple, powerful question.
+
+Think of this as the "apply pressure" of conversational first-aid. When you sense someone is in pain, resist the urge to fix it. Instead, ask:
+
+***"What's the hardest part about that for you?"***
+
+Then, just listen. This simple question flips the interaction from analysis to connection and signals to the other person's brain that you are an ally. It is a micro-dose of the Empathy Loop, and it is your second instrument.
+
 ---
 > ### **Neuro-Toolkit: Social Pain**
 >
@@ -46,4 +56,3 @@ Time to practice being a Social Pain Detective. Over the next few days, your mis
 1.  **The Event:** Briefly describe a moment when you saw someone (or yourself) have a defensive or emotional reaction.
 2.  **The Detective Work:** What social threat might they have been perceiving?
 3.  **Path to Adaptive:** How could becoming a 'Social Pain Detective' help you strengthen your least-dominant brain profile?
-      

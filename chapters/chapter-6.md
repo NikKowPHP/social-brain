@@ -1,9 +1,13 @@
 ### **Chapter 6: The Social Brain's Dashboard**
 #### A Deep Dive into the SCARF Model
 
-***Previously on the Phoenix Project:*** *Maria learned the hard way that her bluntness caused physical pain (C4) and that all communication is filtered through power dynamics (C5).*
+***Previously on the Phoenix Project:*** *Maria learned that her bluntness causes neurological pain (C4) and that power dynamics change the rules of engagement (C5). But she still feels like she's flying blind in tense meetings.*
 
-We learned the brain treats social threats with the same life-or-death urgency as physical pain. Now, we need the "what."
+Maria left the Phoenix Project weekly sync with a familiar, frustrating feeling. The meeting had gone completely off the rails. What started as a simple status update had devolved into a tense argument between Mark and Jane, with Leo shutting down completely. She had tried to mediate, but it was like every word she said made things worse. It wasn't logical.
+
+Later that day, replaying the conversation in her mind, she felt like a programmer staring at a bug she couldn't reproduce. She knew there were rules governing the system, but she couldn't see them. She was missing the user manual for her team's social brain.
+
+We've learned that the brain treats social threats with the same urgency as physical pain. Now, we need the "what." What are the specific social triggers the brain is constantly scanning for? Answering that question gives us the user manual Maria was missing.
 
 The **SCARF model** is the single most powerful diagnostic tool in this book. It is the user manual for the social brain's security system.
 
@@ -59,4 +63,3 @@ Let's create the first entry for your Personal Conductor's Dashboard. This is th
 2.  **Describe a Recent Event:** Briefly describe a time in the last month when you felt that trigger.
 3.  **The Physical Sensation:** What was the physical feeling associated with that threat? This sensation is a key piece of data—your personal system alert—that we will use as we build our toolkit.
 4.  **Path to Adaptive:** How could using the SCARF dashboard help you strengthen your least-dominant brain profile?
-      
