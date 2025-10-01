@@ -20,7 +20,7 @@ Later, determined to fix her mistake, Maria tried to use the Empathy Loop protoc
 **Leo:** "The hardest part was that I felt completely invisible."
 **Maria:** "So, what I'm hearing is that you felt invisible. Is that an accurate summary?"
 
-The effect was a disaster. Leo looked at her with a mix of frustration and disappointment. "Are you reading from a management book, Maria? Stop using that therapy voice on me." The words stung.
+The effect was a disaster. Leo didn't respond. He just gave a slight, humorless smile and turned back to his screen. The silence was worse than an argument. Maria heard her own words echo in her head, the perfectly crafted empathy question, and realized with a jolt of shame that it sounded utterly fake. She wasn't connecting; she was running a script.
 
 > ### **The Conductor's Debrief: A System Crash**
 >

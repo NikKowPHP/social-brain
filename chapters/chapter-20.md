@@ -3,7 +3,7 @@
 
 A few years ago, I had a quiet, painful argument with my brother over the holidays. It was about something small and stupid, the kind of disagreement that is never really about the thing you're arguing about. It was a clash of values, of perspectives, of deeply ingrained personal history.
 
-I tried to use the tools. I took a Conductor's Breath. I tried to deploy the Empathy Loop. I said, "It sounds like the hardest part for you is..." He cut me off. "Don't use your work voice on me," he said, his voice flat. It was the exact same feedback Maria got from Leo, and it stung just as much.
+I tried to use the tools. I took a Conductor's Breath. I tried to deploy the Empathy Loop. I said, "It sounds like the hardest part for you is..." He cut me off. "Don't use your work voice on me," he said, his voice flat. His reaction was the same as Leo's had been—a flat rejection that told me I was performing empathy, not feeling it. It stung just as much.
 
 The conversation ended there. We sat in tense silence at opposite ends of the living room. The protocols had failed. My tools were useless. My old Architect brain screamed that I had lost the interaction, that I had failed to achieve the desired outcome. The silence felt like a verdict.
 

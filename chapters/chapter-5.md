@@ -5,7 +5,7 @@
 
 Flushed with a small victory after using a moment of vulnerability to connect with Leo, her junior engineer, Maria decided to try the same approach with her boss, a senior VP. In their next one-on-one, she admitted, "I'll be honest, I'm feeling a bit overwhelmed by the political pressure from David's team."
 
-She expected the admission to build trust. Instead, the VP's expression hardened. "I didn't hire you to be overwhelmed, Maria. I hired you to handle it. Get it done." The conversation was over. The connection wasn't just broken; it felt like it had reversed.
+She expected the admission to build trust. Instead, the VP's expression hardened slightly. He looked past her, toward the sales numbers on his monitor. "Is the Sterling Corp. timeline still on track?" he asked, his voice flat. The message was clear: feelings were irrelevant; only the deadline mattered. The conversation was over. The connection wasn't just broken; it felt like it had reversed.
 
 Maria was stunned. The same tool—vulnerability—had produced two opposite results. It was her first, painful lesson in what we will call **Social Gravity**. The protocols in this book are universally true, but they are filtered through the immense gravitational pull of power, privilege, and identity. A conductor who ignores these forces is conducting in a vacuum.
 
@@ -46,3 +46,4 @@ Your primary goal is safety and building credibility.
 *   Use questions as your instrument: "That's an interesting approach. How have we accounted for the risk of X?" This demonstrates your value without making you a target.
 
 By understanding the laws of social gravity, you move from simply applying tools to practicing the deep and subtle art of social wisdom.
+      
