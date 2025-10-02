@@ -22,5 +22,5 @@ These systems often create a sense of powerlessness and inertia, making **Autono
 #### **For Non-Profit or Mission-Driven Environments**
 The culture is often highly relational, but also prone to burnout, as strong "Connector" profiles can over-extend themselves for the mission.
 *   **Primary Focus:** Protocols for sustainability and healthy boundaries.
-*   **Key Adaptation:** The **"Boundary Protocol" (Chapter 11)** and the tools in **Chapter 17 (When the Conductor is Exhausted)** are not optional; they are essential survival skills. Leaders in these organizations must model and teach these protocols to prevent compassion fatigue and create a sustainable culture of care that includes the caregivers themselves. Framing boundaries as a way to "protect the mission for the long-term" can make it feel less selfish for Connectors.
+*   **Key Adaptation:** The **"Boundary Protocol" (Chapter 11)** and the tools in **Chapter 16 (When the Conductor is Exhausted)** are not optional; they are essential survival skills. Leaders in these organizations must model and teach these protocols to prevent compassion fatigue and create a sustainable culture of care that includes the caregivers themselves. Framing boundaries as a way to "protect the mission for the long-term" can make it feel less selfish for Connectors.
       

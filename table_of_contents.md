@@ -51,25 +51,23 @@
 **Chapter 12:** Adapting to Your Environment
 *Navigating New Cultures and Hostile Orchestras*
 
-**Chapter 13:** Troubleshooting the Toolkit (A Conductor's Q&A)
-
 ---
 
 ### **Part III: Integration and Lasting Change**
 
-**Chapter 14:** Conducting the Meeting
+**Chapter 13:** Conducting the Meeting
 *A Deep Dive Case Study*
 
-**Chapter 15:** Conducting the Asynchronous Orchestra
+**Chapter 14:** Conducting the Asynchronous Orchestra
 *Building Connection Across Time and Space*
 
-**Chapter 16:** The Integrated Conductor
+**Chapter 15:** The Integrated Conductor
 *Knowing When to Put the Baton Down*
 
-**Chapter 17:** The Conductor's Legacy
+**Chapter 16:** The Conductor's Legacy
 *Navigating Disappointment and Building a Self-Tuning Orchestra*
 
-**Chapter 18:** Conducting the Dissonance
+**Chapter 17:** Conducting the Dissonance
 *A Final Reflection on Imperfect Connection*
 
 **Conclusion:** The Conductor's Final Paradox
@@ -88,6 +86,8 @@
 **Appendix D:** A Responsible Note on Scope and Professional Help
 
 **Appendix E:** The Social Brain Diagnostic
+
+**Appendix F:** A Conductor's Field Guide: Common Questions and Challenges
 
 **Glossary**
 

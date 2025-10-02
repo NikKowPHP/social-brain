@@ -18,7 +18,7 @@
 
 **Prefrontal Cortex (PFC):** The front-most part of the brain, responsible for executive functions such as rational thought, planning, impulse control, and understanding others' perspectives. The "CEO" of the brain. (See Chapter 1).
 
-**Psychological Safety:** A shared belief within a team that the environment is safe for interpersonal risk-taking, such as asking questions, admitting mistakes, or offering new ideas without fear of being shamed or punished. (See Chapter 18).
+**Psychological Safety:** A shared belief within a team that the environment is safe for interpersonal risk-taking, such as asking questions, admitting mistakes, or offering new ideas without fear of being shamed or punished. (See Chapter 17).
 
 **SCARF Model:** A framework developed by David Rock identifying the five key domains of social experience that the brain treats as life-or-death survival issues: **S**tatus, **C**ertainty, **A**utonomy, **R**elatedness, and **F**airness. (See Chapter 5).
 
