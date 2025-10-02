@@ -10,7 +10,7 @@
 
 After successfully using the Conductor's Shield to force David's political attacks into the open, Maria and her team faced a new challenge: preparing a unified defense to protect their project's resources. The week they spent preparing that response was one of the most intense of her career. They successfully navigated the politics, presenting a clear, data-backed case to leadership that respectfully corrected David's narrative. It was a huge win, but it came at a cost.
 
-That Friday evening, Maria felt nothing but a deep, hollow exhaustion. She snapped at her partner over a minor question and felt a wave of guilt. She had conducted the orchestra perfectly at work, but she had come home with no music left in her. This is **Conductor's Fatigue**, the emotional and cognitive cost of high-stakes performance that we first identified in Chapter 11.
+That Friday evening, Maria stared at the condensation on her water glass, unable to follow her partner's story. His voice was a distant hum. When he asked what she wanted for dinner, the simple question felt like a crushing weight. "I don't care," she snapped, the words sharper than she intended. The look on his face sent a hot spike of shame through her, but she was too tired to retrieve the words, too tired to fix it. This is **Conductor's Fatigue**, the emotional and cognitive cost of high-stakes performance that we first identified in Chapter 11.
 
 #### **The Science: The Threat of Self-Criticism**
 

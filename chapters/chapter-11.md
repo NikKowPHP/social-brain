@@ -7,7 +7,7 @@ The immense pressure of the upcoming Sterling Corp. review was taking its toll. 
 
 In a tense project review, her frustration boiled over. As Leo began to meander, Maria's Architect brain took over. "Leo, just get to the point," she snapped. "No one has time for the life story of the feature."
 
-The effect was devastating. Leo, publicly humiliated, fell silent for the rest of the meeting. He didn't make eye contact with anyone. Maria had intended to give corrective feedback, but instead, she had delivered a massive Status threat, triggering a hijack and severing the connection. The very problem she needed to solve—Leo's communication—was now impossible to address because the trust was gone.
+The effect was devastating. The color drained from Leo's face. He physically recoiled from the screen as if struck, his shoulders slumping. For the rest of the meeting, he was a ghost, his camera a portrait of a man staring at something far beyond his monitor. Maria had intended to give corrective feedback, but instead, she had delivered a massive Status threat, triggering a hijack and severing the connection. The very problem she needed to solve—Leo's communication—was now impossible to address because the trust was gone.
 
 Before she could even process the damage, she faced another conflict. With the project's funding secured, she faced a flood of new requests. The most dangerous was a high-stakes, derailing side-project from a senior leader, David. Maria knew she had to say "no" to protect her team from burnout.
 
