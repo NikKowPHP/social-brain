@@ -64,7 +64,7 @@ She expected a fight. Instead, something remarkable happened. Jane, the Sentinel
 
 Mark, the Architect, who had championed those features, nodded slowly. "She's right. We build the rock-solid core first. We prove them wrong with our execution, and we earn the right to build the rest later."
 
-It wasn't a victory celebration. It was a moment of quiet, professional resolve. Maria watched as her team, forged in the fires of conflict, made the hard but necessary choice together. The self-tuning orchestra was real. She watched them, a self-tuning orchestra born from conflict. The victory wasn't in the budget; it was in the music they were now making themselves. But that night, the dissonance of her own journey—the compromises and the costs—kept her awake.
+It wasn't a victory celebration. It was a moment of quiet, professional resolve. Maria watched as her team, forged in the fires of conflict, made the hard but necessary choice together. The self-tuning orchestra was real. The victory wasn't in the budget; it was in the music they were now making themselves. And for the first time in a long time, the conductor slept soundly.
 
 #### **The Science: Psychological Safety**
 

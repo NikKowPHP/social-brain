@@ -12,9 +12,6 @@
 **Chapter 2:** The Social Brain Diagnostic
 *Understanding Your Orchestra*
 
-**Chapter 3:** The Purpose of the Music
-*Beyond Effective Communication*
-
 **Chapter 4:** The Pain of Miscommunication
 *Why a Harsh Word Feels Like a Physical Wound*
 

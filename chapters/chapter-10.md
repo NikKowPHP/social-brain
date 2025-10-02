@@ -7,7 +7,7 @@ With only weeks until the Sterling Corp. review, Maria's small wins were oversha
 
 "If we use the old stack, it will crash, we'll miss the Sterling Corp deadline, and the project is dead," Mark argued, his voice tight. He was making a perfect logical case, but he could feel it wasn't landing. The frustration of not being able to make them *feel* the urgency was more maddening than the technical problem itself.
 
-"Living in the past is better than crashing on launch day," Jane shot back. "What you're proposing is reckless, and I won't sign off on it."
+"Living in the past is better than crashing on launch day," Jane shot back. Her voice was sharp, but for a split second, Maria saw a flicker of something else in her eyes—the memory of a past failure. "I was the lead on the Titan project," Jane added, her voice dropping slightly. "I know what a public failure does to a team. I won't let that happen to this one. What you're proposing is reckless, and I won't sign off on it."
 
 It was a collective amygdala hijack. The new conductor knew her job was not to dictate a solution, but to create the conditions for one to emerge. She called a meeting with just the three of them. Her only tools were the Core Trio.
 

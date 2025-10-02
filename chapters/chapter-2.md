@@ -53,16 +53,19 @@ So, what did you discover? Take a moment to look at your responses. Most of us h
 [ICON: Blueprint]
 *   **Your Superpower:** Logic, clarity, and structure. You are a master of deconstructing complex problems and presenting information in a clear, rational way. You build airtight arguments and are a rock of reason in a sea of chaos. Your orchestra's string and brass sections are world-class.
 *   **Your Growth Edge:** You can sometimes miss the emotional music of a conversation. Your focus on data and logic might lead you to accidentally trigger social threats in others, making them feel like a problem to be solved rather than a person to be understood.
+*   **The Shadow Architect:** Be warned: the Architect's shadow uses flawless logic not to clarify, but to dominate. They wield data like a weapon, making others feel stupid. Your awareness of this shadow is the first step to ensuring you use your powers to build, not to break.
 
 **If you scored mostly B's, you lead with the [ICON: Bridge] Connector Brain.**
 [ICON: Bridge]
 *   **Your Superpower:** Empathy, rapport, and social harmony. You instinctively read the emotional tone of a room and know how to make people feel seen, heard, and valued. You are the orchestra's woodwinds, creating warmth and weaving the group together.
 *   **Your Growth Edge:** Your focus on harmony can sometimes lead you to avoid necessary conflict or difficult feedback. In your effort to ensure no one feels bad, you might soften a critical message so much that it loses its clarity and impact.
+*   **The Shadow Connector:** The Connector's shadow uses empathy not to understand, but to manipulate. They are masters of discovering another's needs and insecurities, not to help, but to leverage those vulnerabilities for their own gain.
 
 **If you scored mostly C's, you lead with the [ICON: Shield] Sentinel Brain.**
 [ICON: Shield]
 *   **Your Superpower:** Threat detection, instinct, and rapid response. You are highly attuned to risk and can sense danger or instability before anyone else. You are the orchestra's powerful percussion, the primal rhythm that keeps everyone alert and safe from harm.
 *   **Your Growth Edge:** Your threat-detection system can be overactive. You may perceive threats where none exist, leading to a defensive posture that can inadvertently create a climate of fear or distrust, putting others on the defensive as well.
+*   **The Shadow Sentinel:** The Sentinel's shadow uses threat detection not to protect, but to create fear and paralysis. They manufacture crises to maintain control, use gossip to isolate perceived threats, and hoard information to make themselves indispensable.
 
 **What if your results are a balanced mix?**
 If you found yourself with a near-even split, you don't have one dominant style—you have what's known as an **Adaptive Profile**. Your superpower is situational fluency; you can access the logic of the [ICON: Blueprint] Architect, the empathy of the [ICON: Bridge] Connector, and the instincts of the [ICON: Shield] Sentinel as needed. You are the versatile conductor who is comfortable leading every section of the orchestra.

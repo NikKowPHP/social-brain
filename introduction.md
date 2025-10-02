@@ -16,6 +16,13 @@ What if you could see those rules? What if you could debug a difficult conversat
 
 This book is the result of that investigation. It is the map I wished I'd had on my journey. I will share the source code I discovered and hand you a complete toolkit of neuroscience-backed protocols I developed—a system I call **The Conductor Method**.
 
+But this investigation revealed a deeper truth. The goal isn't just to be more effective—to win the argument I had lost. That path leads to becoming a skilled manipulator who feels hollow inside. The true purpose of this work, the "why" behind the "how," is to move beyond winning transactions and build relationships of meaning and trust. This book is not just about conducting a successful performance; it's about building an orchestra that finds joy in playing together.
+
+To keep our intent clear, this entire book is built on a single, core principle, which we will frame as The Conductor's Oath:
+
+> ### The Conductor's Oath
+> *I commit to using these tools to build, not to break. My primary goal is clarity and safety, not compliance. I will use empathy to understand, not to steer. I will create space for ideas that challenge my own.*
+
 ---
 ### **How to Use This Book**
 

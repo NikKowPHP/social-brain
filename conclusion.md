@@ -24,7 +24,7 @@ Think of it as a *lingua franca* for connection—a shared second language we ca
 
 ---
 #### **The Conductor's Oath Revisited**
-You have now reached the end of this manual. You are holding a powerful set of tools. How you use them defines not only your legacy as a leader, but who you are as a person. Before you close this book, I ask you to consider one last time the oath from Chapter 3:
+You have now reached the end of this manual. You are holding a powerful set of tools. How you use them defines not only your legacy as a leader, but who you are as a person. Before you close this book, I ask you to consider one last time the oath from the introduction:
 
 *I commit to using these tools to build, not to break. My primary goal is clarity and safety, not compliance. I will use empathy to understand, not to steer. I will create space for ideas that challenge my own.*
 
