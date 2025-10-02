@@ -15,13 +15,13 @@ In that moment, a fragment of an old memory surfaced—a yoga teacher once sayin
 
 She muted her microphone. Inhaled. Then, with deliberate slowness, she exhaled through her mouth, longer than she thought possible, focusing on the feeling of the air leaving her lungs. She did it again. The frantic drumming in her chest didn't stop, but it slowed, just a fraction. The heat in her neck subsided. A single, clear thought cut through the static: *Okay. This is a mess. What's the next right move?* She hadn't solved the problem with Mark, but she had regained the ability to think about it. She had found the brake pedal.
 
-This was more than just an awkward moment. Mark was her best engineer, and with the Sterling Corp. technical review now just two months away—a single meeting that would decide the fate of the company's biggest contract—she couldn't afford to have him disengage. She hadn't justmade a communication error; she had put the entire Phoenix Project at risk.
+This was more than just an awkward moment. Mark was her best engineer, and she couldn't afford to have him disengage. She hadn't justmade a communication error; she had put her entire project at risk.
 
 This is where the real work of a conductor begins: not with leading others, but with regulating yourself. This chapter gives you your first and most fundamental tool—a physical reset switch for your brain in moments of high stress.
 
 #### **The Science: The Biological Brake Pedal**
 
-An amygdala hijack temporarily takes your rational mind—the **prefrontal cortex (PFC)**—offline. The key is: *You cannot think your way out of an amygdala hijack; you must regulate your way out of it.*
+An amygdala hijack temporarily takes your rational mind—the **prefrontal cortex (PFC)**—offline. The key is: *You cannot think your way out of an amyggdala hijack; you must regulate your way out of it.*
 
 The system has a built-in, physical 'brake pedal'—a superhighway of nerves called the **vagus nerve**. When you intentionally activate this nerve, as Maria did with her long exhale, you send a direct, physical signal to your brain that says, *"System secure. Stand down the alarm."*
 
@@ -49,15 +49,6 @@ Here is the function call:
 Do this once or twice. This is the reset command. The long exhale activates your vagus nerve and tells your brain's security guard to stand down.
 
 ---
-
-With this tool for self-regulation, Maria had survived the immediate crisis. But survival was not enough. The calm it provided only made her failure feel clearer, colder. The incident with Mark had exposed a deep flaw in her approach, a bug in her own operating system. Her expertise in logic and structure—her greatest professional strength—had become her biggest liability in human interaction. She treated people like logical systems, and it was breaking her team.
-
-*What am I missing?* she wrote in a fresh page of her notebook. *There are rules to this system, but I don't know what they are.*
-
-This was the conductor's blind spot. Before you can fix a system, you must understand its components. Her investigation had to begin with diagnostics.
-
----
-
 > ### **The 1% Upgrade**
 >
 > Do not wait for a crisis to practice this. Practice The Conductor's Breath three times today when you are perfectly calm—waiting for code to compile, sitting at a red light. By doing this, you are building a new neural pathway so that when the real alarm bell rings, your brain already knows the path to safety.

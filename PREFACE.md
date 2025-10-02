@@ -10,7 +10,7 @@ The effectiveness of the learning system presented here depends on a top-tier in
 
 The most critical elements are:
 *   **A Consistent Icon System:** Simple, memorable icons for the three Brain Profiles (**Architect**, **Connector**, **Sentinel**), the five SCARF domains, and key protocols are essential. These terms have been used with absolute consistency in this text to create a visual shorthand that must be brought to life.
-*   **The Conductor's Dashboard:** The five-gauge SCARF dashboard mentioned in Chapter 6 should be a recurring graphic, visually diagnosing the social threats and rewards in our case studies.
+*   **The Conductor's Dashboard:** The five-gauge SCARF dashboard mentioned in Chapter 5 should be a recurring graphic, visually diagnosing the social threats and rewards in our case studies.
 *   **High-Quality Infographics:** Key summary sections, especially the "Toolkit Summary & Cheat Sheet," are designed to be visually engaging, full-page infographics. The goal is to create a reference you will want to keep on your desk, not just a wall of text.
 
 This visual layer is not decorative; it is an integral part of the learning system, designed to help you internalize these tools more rapidly and effectively.
