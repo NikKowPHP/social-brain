@@ -5,7 +5,7 @@
 *   AI (Artificial Intelligence), Communicating with (Conclusion)
 *   Amygdala (Chapters 1, 4, 9, 12, 14)
 *   Amygdala Hijack (Chapter 1, 12)
-*   Architect Brain Profile (Chapters 2, 8, 9, 10, 11, 12, 13, 18, 20)
+*   Architect Brain Profile (Chapters 3, 8, 9, 10, 11, 12, 13, 18, 20)
     *   Architect's Shadow / Bias (Conclusion)
 *   Asynchronous Communication (Chapter 17)
 *   Attention (Chapter 8)
@@ -15,7 +15,7 @@
 
 **B**
 *   Boundary Protocol (Chapter 12)
-*   Brain Profiles (Chapter 2)
+*   Brain Profiles (Chapter 3)
 *   Breathing, The Conductor's Breath (Chapters 1, 9, 12, 14, 18, 20)
 *   Burden, Conductor's (Chapter 20)
 *   Burnout (Chapter 19)
@@ -27,10 +27,10 @@
 *   Clinical Warning (Introduction)
 *   Code-Switching (Chapter 14)
 *   Cognitive Load (Chapters 11, 14)
-*   Cognitive Style (Chapter 2, 14, 18)
+*   Cognitive Style (Chapter 3, 14, 18)
 *   Conductor's Oath (Introduction)
 *   Conductor's Paradox (Introduction, Chapter 18)
-*   Connector Brain Profile (Chapters 2, 8, 9, 11, 12, 13, 18, 20)
+*   Connector Brain Profile (Chapters 3, 8, 9, 11, 12, 13, 18, 20)
 *   Cortisol (Chapter 1, 12, 19)
 *   Cross-Cultural Communication (Chapter 14)
 
@@ -47,7 +47,7 @@
     *   Affective vs. Cognitive (Chapter 8)
 *   Empathy Loop (Chapter 8, 10, 12, 17)
 *   Eudaimonic Well-being (Chapter 3)
-*   Extraversion/Introversion (Chapter 2)
+*   Extraversion/Introversion (Chapter 3)
 
 **F**
 *   Fairness (SCARF) (Chapters 6, 12, 20)
@@ -68,7 +68,7 @@
 
 **I**
 *   Intuition (Chapter 18, Conclusion)
-*   Introversion (Chapter 2, 14, 18)
+*   Introversion (Chapter 3, 14, 18)
 
 **L**
 *   Leadership (Chapter 20)
@@ -122,8 +122,8 @@
     *   As a diagnostic tool (Chapter 6)
 *   Science, Limitations of (Preface)
 *   Self-Compassion (Chapter 19)
-*   Sentinel Brain Profile (Chapters 2, 8, 9, 11, 12, 13, 18, 20)
-*   Shadow Conductor (Chapter 2)
+*   Sentinel Brain Profile (Chapters 3, 8, 9, 11, 12, 13, 18, 20)
+*   Shadow Conductor (Chapter 3)
 *   Silence (Chapter 8, 12, 16)
 *   Social Gravity (Chapter 5)
 *   Social Pain (Chapter 4)

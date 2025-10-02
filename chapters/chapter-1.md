@@ -50,7 +50,7 @@ Do this once or twice. This is the reset command. The long exhale activates your
 
 ---
 
-With this tool for self-regulation, you are ready for the next step of our investigation: diagnosing the specific patterns of your own social brain. You are now equipped to stay calm as you begin to understand your internal orchestra.
+With this tool for self-regulation, Maria had survived the immediate crisis. But survival was not enough. The incident with Mark had exposed a deep flaw in her approach, a bug in her own operating system. This is where the real work of a conductor begins: not just managing crises, but understanding the system to prevent them. You are now equipped to stay calm as you join her on the next step of that investigation: understanding the internal orchestra.
 
 ---
 

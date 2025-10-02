@@ -9,7 +9,10 @@
 **Chapter 1:** Your First Instrument: The Emergency Reset
 *The Neuroscience of Emotional Self-Regulation*
 
-**Chapter 2:** The Social Brain Diagnostic
+**Chapter 2:** The Conductor's Blind Spot
+*Why Good Intentions Aren't Enough*
+
+**Chapter 3:** The Social Brain Diagnostic
 *Understanding Your Orchestra*
 
 **Chapter 4:** The Pain of Miscommunication

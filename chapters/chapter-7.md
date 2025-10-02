@@ -54,6 +54,6 @@ This chapter is your map. It provides a high-level overview of the complete syst
 ---
 ### **The Foundational Concepts (Your Reference Material)**
 
-*   **The 3 Brains (Ch 2):** [ICON: Blueprint] Architect (Logic), [ICON: Bridge] Connector (Empathy), [ICON: Shield] Sentinel (Threat).
+*   **The 3 Brains (Ch 3):** [ICON: Blueprint] Architect (Logic), [ICON: Bridge] Connector (Empathy), [ICON: Shield] Sentinel (Threat).
 *   **The 5 SCARF Domains (Ch 6):** Status, Certainty, Autonomy, Relatedness, Fairness.
       

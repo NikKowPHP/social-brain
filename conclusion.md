@@ -3,7 +3,7 @@
 We have reached the end of our investigation. We have built a powerful toolkit for understanding and navigating the complex, beautiful system of human connection. But the final lesson is a paradox: the ultimate goal of this entire system is to learn to trust what lies beyond it. The system's true purpose is to clear away the noise of misunderstanding and threat so that unpredictable, un-systemizable, and genuinely human moments can occur.
 
 #### **Becoming an Adaptive Conductor**
-In Chapter 2, we identified the "Adaptive Profile" as the ideal—a conductor who can call upon the [ICON: Blueprint] Architect's logic, the [ICON: Bridge] Connector's empathy, and the [ICON: Shield] Sentinel's insight with intention. The entire journey of this book is the roadmap to developing that profile. It is not a separate step, but the integrated result of practice.
+In Chapter 3, we identified the "Adaptive Profile" as the ideal—a conductor who can call upon the [ICON: Blueprint] Architect's logic, the [ICON: Bridge] Connector's empathy, and the [ICON: Shield] Sentinel's insight with intention. The entire journey of this book is the roadmap to developing that profile. It is not a separate step, but the integrated result of practice.
 
 Developing your adaptive ability means consciously practicing the tools that feel least natural.
 *   If you are an **[ICON: Blueprint] Architect**, your path to becoming adaptive is through the consistent practice of the **[ICON: Reflecting Arrows] Empathy Loop (Chapter 8)** and **[ICON: Handshake] Calibrated Vulnerability (Chapter 9)**.
