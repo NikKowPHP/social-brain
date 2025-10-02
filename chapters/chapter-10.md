@@ -1,7 +1,7 @@
 ### **Chapter 10: Conducting for Clarity and Influence**
 #### Using Clarity and Storytelling to Make Your Message Stick
 
-We have now assembled the **Core Trio** of our toolkit. Now we add our first **Ensemble** chapter, which combines two powerful protocols designed to make your message received and remembered.
+We have now assembled the **Core Duo** of our toolkit. Now we add our first **Ensemble** chapter, which combines two powerful protocols designed to make your message received and remembered.
 
 With the Sterling Corp. review fast approaching, Maria's team had solved the internal deadlock between Mark and Jane, but the project was now stalled, awaiting critical funding from a data-weary board. Maria knew from experience that a wall of data wouldn't work. To succeed, she had to respect the board's limited attention and then capture their imagination.
 
@@ -17,7 +17,7 @@ In the meeting, she didn't open with a spreadsheet. She opened with a simple, th
 
 The board was convinced. They funded the project that afternoon. But as Maria was packing up her laptop, David, a senior leader from another division, approached her.
 
-"Congratulations, Maria. Great story," David said, his smile not quite reaching his eyes. "In fact, leadership was so inspired they've decided to accelerate synergy... They've just made the Phoenix Project's success a dependency for my new 'Odyssey' data initiative." He leaned in slightly, his voice dropping. "I just want to make sure your project is built on a foundation that won't collapse. I've seen what happens when these things go wrong. It gets ugly." He handed her a card. "My team will send the API docs."
+"Congratulations, Maria. Great story," David said, his smile not quite reaching his eyes. "Stories are powerful. They can get big projects funded... and they can blind people to foundational risks until it's too late. I've seen it happen." He paused, letting the words hang in the air before adding, "In fact, leadership was so inspired they've decided to accelerate synergy... They've just made the Phoenix Project's success a dependency for my new 'Odyssey' data initiative." He handed her a card. "My team will send the API docs."
 
 Maria's stomach dropped. Odyssey was David's failing pet project, a notoriously unstable system. An integration would be a technical nightmare, a certain path to delays and missed deadlines. It wasn't just a trap; it was a warning. Her goal was no longer just to build a great product. It was to politically and technically navigate a forced dependency designed to make her fail. The real performance was just beginning.
 

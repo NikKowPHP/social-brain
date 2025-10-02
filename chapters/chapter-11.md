@@ -49,6 +49,8 @@ Unsolicited feedback is a direct threat to **Status**, **Certainty**, and **Rela
 #### **Part 2: The Difficult Conversation Protocol**
 This is the tool for repair. It's a performance where you layer the Core Duo in a specific sequence to systematically reward the other person's social brain and keep their prefrontal cortex online. This is the protocol Maria used to fix the damage with Leo.
 
+Think of this sequence not as a rigid script to be memorized, but as a set of musical scales. You practice them so that in the real performance, you can improvise with the underlying principles of safety and connection.
+
 *   **The Sequence:**
     1.  **Regulate Yourself First:** Use **The Conductor's Breath**.
     2.  **Lead with a Shared Intent:** Open with a goal of mutual understanding ("I want to fix the damage...").
@@ -65,3 +67,4 @@ A "no" can feel like a severe **Relatedness** and **Status** threat. This script
 
 > ### **From the Community: The Agony of "No"**
 > One member, a "recovering Connector," put it perfectly: "For me, 'no' feels like a four-letter word. Every time I say it, I feel a wave of guilt. Learning to say 'no' to the request while still saying 'yes' to the relationship was the hardest and most important work I've ever done."
+      

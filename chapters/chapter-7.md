@@ -13,13 +13,13 @@ Maria knew she had broken something with Leo. Her old way—logic—wouldn’t f
 
 "The hardest part was that I felt completely invisible," Leo said.
 
-Maria’s Architect brain latched onto the script. *Okay, now I reflect the words.* "So, what I'm hearing is that you felt invisible. Is that an accurate summary?"
+Maria’s Architect brain latched onto the script. *Okay, now I reflect the words.* "So, what I'm hearing is that you felt invisible. Is that an accurate summary?" *Her own voice sounded foreign in her ears. "This feels so fake," a part of her brain screamed. "I don't even believe myself. I'm just saying the words."*
 
 The effect was a disaster. Leo didn't respond. He just gave a slight, humorless smile and turned back to his screen. The silence was worse than an argument. Maria heard her own words echo in her head, realizing with a jolt of shame that she wasn't connecting; she was running a script. From this clumsy, desperate experiment, she discovered the first principle of what we will call the Empathy Loop.
 
 That evening, Maria vented to her partner, Alex. "I do everything by the book! I try this stupid 'empathy' experiment, and he accuses me of using a 'therapy voice'! It's impossible!" she fumed.
 
-Alex sighed, putting down his book. "Honey, you're doing your 'debug the human' thing again. Remember what happened with your brother last Christmas? You can't just run a script to fix a feeling. You were a jerk to the guy. It's probably going to take more than one conversation for him to trust you again."
+Alex sighed, putting down his book. "Honey, you're doing your 'debug the human' thing again. Remember what happened with your brother last Christmas when you tried to 'debug' his feelings about the holidays? You can't just run a script to fix a feeling. You were a jerk to the guy. It's probably going to take more than one conversation for him to trust you again."
 
 The question cut through her defensive anger. Her Architect brain had treated the experiment like a piece of code to be executed for a predictable output. She had been so focused on running the protocol correctly that she had missed the point entirely. It wasn't about the script; it was about the connection.
 
@@ -124,3 +124,4 @@ You can't force trust, but you can run a protocol of behaviors that trigger an o
 > ### **Dashboard Update**
 >
 **This is a key moment in your journey.** You have now installed the complete Core Duo: Regulation, and Connection & Trust. This engine is enough to successfully navigate the vast majority of human interactions. Everything that follows is a specialized instrument. Your core training is complete.
+      

@@ -25,9 +25,13 @@ The protocol had led to a principled, immovable wall. The room was silent. Maria
 
 Jane was silent for a long moment, staring at the table. When she finally spoke, her voice was different. "My first lead role," she said. "On a project called Apex. I saw a stability problem, just like this one. The architect was a genius, just like Mark. He convinced everyone I was being paranoid. We launched. The system crashed in the first hour, taking two other critical services with it. It took the company a year to recover its reputation. I watched my team burn out, and three of them quit tech for good. It wasn't a failure. It was an extinction event. And it was my fault for not stopping it."
 
-The silence that followed was heavy with the weight of the story. Mark, for the first time, looked at Jane not as an obstacle, but as a survivor. Maria didn't offer a platitude. She just nodded. "Thank you for telling us that," she said softly.
+The silence that followed was heavy with the weight of the story. Maria didn't offer a platitude. She just nodded. "Thank you for telling us that," she said softly.
 
-Jane took a sharp breath, the sound of it loud in the quiet room. She looked at Mark. "I will not sign off on your plan," she said, her voice firm. "But I will sign off on a 48-hour, high-risk, full-scale prototype. We build it, we try to break it with everything we have. If it holds, we go. If it fails, we never speak of it again, and we use the old stack. This is the only way we meet the deadline without me breaking my promise to that first team."
+Mark looked at Jane, his expression changed. "I understand the history, Jane. And I respect it," he said, his voice less certain. "But the data for our situation is still the data. This isn't Apex." The deadlock was back, softer but still present.
+
+Maria saw the gap. The protocol wasn't enough. "Mark, she's not arguing about the data," Maria said, her voice quiet and direct. "She's telling us the cost. We have to honor that cost. The question isn't whether your data is right. It's how we build something that doesn't force Jane to pay that price again."
+
+That was the final bridge. Mark looked at Jane, seeing not an obstacle, but a design constraint. Jane, hearing her trauma honored as a valid requirement, took a sharp breath. The sound was loud in the quiet room. "I will not sign off on your plan," she said to Mark, her voice firm. "But I will sign off on a 48-hour, high-risk, full-scale prototype. We build it, we try to break it with everything we have. If it holds, we go. If it fails, we never speak of it again, and we use the old stack. This is the only way we meet the deadline without me breaking my promise to that first team."
 
 Mark stared at her, stunned. It wasn't a compromise. It was a gamble—born not from a negotiation, but from a scar. For the first time, he saw her not as a roadblock, but as a different kind of engineer, one whose rigor was forged in fire. "Okay," he said, his voice quiet. "Okay, Jane. Let's do it."
 
@@ -60,3 +64,4 @@ A complex deadlock was moved from paralysis to forward motion. Notice the sequen
 2.  **The Connection & Trust Protocol (The Empathy Loop & Calibrated Vulnerability):** To make both parties feel profoundly understood, changing the neurochemical weather from hostility to curiosity, and to create a bridge of psychological safety that allows them to step toward a shared problem.
 
 In this case, the protocols were not enough to solve the problem directly. They hit a wall of principle and past trauma. The tools' ultimate purpose was to create enough safety for a deeper, more vulnerable, and non-scripted human conversation to take place. The toolkit doesn't solve every problem, but it earns you the right to enter the space where the real problem can be addressed.
+      
