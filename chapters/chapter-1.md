@@ -7,23 +7,23 @@ Her top engineer, Mark, stared back at her from the screen, his face a perfect, 
 
 She saw him flinch as if she'd slapped him. Now, he was silent, radiating a cold fury that sucked all the air out of the virtual room. Maria felt a hot flush creep up her neck. Her mind, usually a fortress of logic and plans, was a chaotic blank. She wanted to fix it, to say something to defuse the situation, but she couldn't access the words. All she could feel was the hammering in her chest and a primal, panicked urge to either lash out ("Why are you being so sensitive?") or flee (end the call).
 
-She didn't know the name for it yet, but Maria was experiencing a full-blown **amygdala hijack**. She felt trapped, her thoughts racing in a useless, panicked loop. In that moment, a fragment of an old memory surfaced—a yoga teacher once saying, "Your exhale is the brake pedal for your brain." It was a desperate, flimsy anchor, but it was all she had.
+She didn't know the name for it yet, but Maria was experiencing a full-blown **amygdala hijack**. Deep in the oldest part of her brain, the security guard had pulled the fire alarm, flooding her system with cortisol and taking her rational mind offline.
+
+I know this feeling intimately. The hot flush of shame, the panicked blankness—it was the same invisibility I felt years ago in that boardroom when my perfect data was swept aside by a simple story. It’s the feeling of your brain being taken offline against your will. Maria’s journey to get back in control, starting with her very next breath, is the heart of the Conductor Method. She just needed her first instrument.
+
+In that moment, a fragment of an old memory surfaced—a yoga teacher once saying, "Your exhale is the brake pedal for your brain." It was a desperate, flimsy anchor, but it was all she had.
 
 She muted her microphone. Inhaled. Then, with deliberate slowness, she exhaled through her mouth, longer than she thought possible, focusing on the feeling of the air leaving her lungs. She did it again. The frantic drumming in her chest didn't stop, but it slowed, just a fraction. The heat in her neck subsided. A single, clear thought cut through the static: *Okay. This is a mess. What's the next right move?* She hadn't solved the problem with Mark, but she had regained the ability to think about it. She had found the brake pedal.
 
-This was more than just an awkward moment. Mark was her best engineer, and with the Sterling Corp. technical review now just two months away—a single meeting that would decide the fate of the company's biggest contract—she couldn't afford to have him disengage. She hadn't just made a communication error; she had put the entire Phoenix Project at risk.
+This was more than just an awkward moment. Mark was her best engineer, and with the Sterling Corp. technical review now just two months away—a single meeting that would decide the fate of the company's biggest contract—she couldn't afford to have him disengage. She hadn't justmade a communication error; she had put the entire Phoenix Project at risk.
 
 This is where the real work of a conductor begins: not with leading others, but with regulating yourself. This chapter gives you your first and most fundamental tool—a physical reset switch for your brain in moments of high stress.
 
-#### **The Science: The Amygdala Hijack**
+#### **The Science: The Biological Brake Pedal**
 
-Deep in the oldest part of your brain, you have two tiny, almond-shaped clusters of neurons called the **amygdala**. This is the headquarters of your [ICON: Shield] Sentinel Brain, the brain's security guard.
+An amygdala hijack temporarily takes your rational mind—the **prefrontal cortex (PFC)**—offline. The key is: *You cannot think your way out of an amygdala hijack; you must regulate your way out of it.*
 
-At the front of your brain is the **prefrontal cortex (PFC)**, the wise CEO responsible for rational thought and impulse control.
-
-When the amygdala detects a social threat, it pulls the fire alarm (an **amygdala hijack**), flooding your system with cortisol and adrenaline. This neurochemical flood severely impairs the function of your prefrontal cortex. The CEO is temporarily taken offline. The key is: *You cannot think your way out of an amygdala hijack; you must regulate your way out of it.*
-
-The system has a built-in, physical 'reset switch'—a superhighway of nerves called the **vagus nerve**. When you intentionally activate this nerve, as Maria did with her long exhale, you send a direct, physical signal to your brain that says, *"System secure. Stand down the alarm."*
+The system has a built-in, physical 'brake pedal'—a superhighway of nerves called the **vagus nerve**. When you intentionally activate this nerve, as Maria did with her long exhale, you send a direct, physical signal to your brain that says, *"System secure. Stand down the alarm."*
 
 #### **The Practice: The Conductor's Breath**
 

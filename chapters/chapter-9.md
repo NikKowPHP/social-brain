@@ -22,16 +22,22 @@ Trust is a function of a specific neurochemical: **oxytocin**, the "bonding horm
 
 #### **Case Study: Cracking the Code on Jane**
 
-Maria's biggest challenge was Jane, a brilliant but cynical senior architect with a strong [ICON: Shield] Sentinel profile. Jane trusted no one.
-
-Maria realized her first attempt at Calibrated Vulnerability failed because Jane's Sentinel brain saw it as a weakness. To connect, Maria needed to honor Jane's strength.
+Maria's biggest challenge was Jane, a brilliant but cynical senior architect with a strong [ICON: Shield] Sentinel profile. Jane trusted no one. Maria's first attempt at Calibrated Vulnerability had failed because Jane's Sentinel brain saw it as a weakness. To connect, Maria knew she needed a new approach, one that started with Jane's world, not her own.
 
 **Maria's Second Attempt:**
-Maria came to Jane with a specific architectural diagram. "Jane," she said, "I've been looking at this data flow, and my gut says there's a security risk here I'm not seeing. You're the best person in the company at spotting this stuff. Would you mind showing me what I'm missing?" (A powerful **Status** reward).
+Maria found Jane after a tense meeting. Instead of addressing the conflict head-on, she tried a different door. "That was a pretty intense meeting," Maria began. "By the way, I couldn't help but notice your drawing. You're very talented."
 
-"Honestly? Because my last attempt to connect with you was a total disaster," Maria added, deploying a second, more direct form of vulnerability. "I'm trying to learn how to lead this team better, and it's clear I can't do that without your trust."
+Jane looked up, surprised and slightly guarded. "It's nothing. It helps me think."
 
-The raw honesty surprised Jane. It was a tiny crack in the wall, built on a slow process of demonstrating competence and respect over time.
+"It looked like a bridge," Maria said.
+
+Jane paused, her eyes distant for a second. "My grandfather built bridges. He used to say, 'You can't build something to last if you don't respect everything that can make it fall.' I just... I respect gravity."
+
+The briefest hint of a philosophy, a personal history. It was a tiny opening. Maria knew this was the moment to connect Jane's world to her own. "I respect gravity, too," Maria said. "Which is why I need your help. I've been looking at this data flow, and my gut says there's a security risk here I'm not seeing. You're the best person in the company at spotting this stuff. Would you mind showing me what I'm missing?"
+
+It was a powerful **Status** reward, framed not as a request for help, but as a consultation with an expert. It honored Jane's core identity. Maria then deployed a second, more direct form of vulnerability. "Honestly? I'm also asking because my attempts to connect with you have been a total disaster," she admitted. "I'm trying to learn how to lead this team better, and it's clear I can't do that without your trust."
+
+The raw honesty, combined with the respect for Jane's expertise, surprised her. It was a tiny crack in the wall, built on a slow process of demonstrating competence and respect over time.
 
 #### **The Practice: Execute a "Trust Protocol"**
 

@@ -18,7 +18,7 @@ This chapter presents a single, complex case study to prove the sufficiency of t
 
 With only weeks until the Sterling Corp. review, Maria's small wins in securing Leo's trust and gaining a foothold with Jane were overshadowed by a new crisis. A major technical deadlock had emerged between Mark, the **[ICON: Blueprint] Architect**, who wanted to build a core feature using a new, cutting-edge database technology (Innovation), and Jane, the **[ICON: Shield] Sentinel**, who was adamantly opposed, seeing it as a catastrophic risk (Safety). The tension had ground all progress to a halt. In a tense meeting, the conflict boiled over.
 
-"If we use the old stack, it won't handle the load. It will crash, we'll miss the Sterling Corp deadline, and the project is dead," Mark argued, his voice tight with an uncharacteristic edge of fear. "It's not just about being obsolete; it's about failing, publicly and completely."
+"If we use the old stack, it won't handle the load. It will crash, we'll miss the Sterling Corp deadline, and the project is dead," Mark argued, his voice tight with an uncharacteristic edge of fear. "It's not just about being obsolete; it's about failing, publicly and completely." He was making a perfect logical case, but he could feel it wasn't landing. The frustration of not being able to make them *feel* the urgency was more maddening than the technical problem itself.
 
 "Living in the past is better than crashing on launch day," Jane shot back, her voice laced with the dry, surprising wit that few ever saw. "At least the past is stable; it has the decency not to change. What you're proposing is reckless, and I won't sign off on it."
 
@@ -61,7 +61,7 @@ Alex listened, then said, "A month ago, would they have even agreed to a ceasefi
 The question stopped her. A month ago, Jane would have shut down the conversation completely. Mark would have escalated it to Maria's boss. A tense agreement to look at a proposal was, in context, a huge leap forward. It didn't feel like a win, but it wasn't a failure either. It was just... progress. Slow, messy, incremental progress. "Okay," she sighed, the frustration giving way to a grudging acceptance. "The data shows that my expectation of a sudden breakthrough was flawed. The real win isn't harmony; it's just movement."
 ---
 #### **From the Orchestra: Mark's Log**
-That meeting with Maria and Jane was... different. Usually, it's just a brick wall. This time, she actually got Jane to listen instead of just saying no. I still think this is all a bunch of soft-skill nonsense, but at least we're not dead in the water anymore. I'll believe in this 'third option' when I see the approved hardware, but for the first time in a month, it doesn't feel impossible.
+That meeting with Maria and Jane was... different. I still think this is all a bunch of soft-skill nonsense—if my logic was sound, that should have been enough. But it wasn't. And somehow, Maria's 'conducting' is working. It's illogical, and that's infuriating, but at least we're not dead in the water anymore. I'll believe in this 'third option' when I see the approved hardware, but for the first time in a month, it doesn't feel impossible.
 ---
 ### **You have Completed the Engine**
 

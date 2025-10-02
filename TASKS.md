@@ -1,3 +1,3 @@
-- [x] Apply edits from Reader Engagement Analysis to strengthen the narrative hook.
-- [x] Apply edits from Reader Engagement Analysis to deepen character development.
+- [x] Fix the disconnected opening structure of the book.
+- [x] Humanize the archetypes (Mark, Jane, Leo) with hidden contradictions.
       
