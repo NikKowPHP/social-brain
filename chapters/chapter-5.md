@@ -16,11 +16,11 @@ Power changes the brain: high-power individuals experience decreased empathy and
 This means a manager and an employee in the same conversation are having two completely different neurological experiences.
 
 #### **Case Study: Vulnerability Miscalibrated**
-The "Calibrated Vulnerability" protocol (Chapter 8) has drastically different results depending on social gravity:
-*   **The CEO:** Vulnerability signals confidence and creates psychological safety (Status reward).
-*   **The Intern:** Vulnerability can be seen as confirmation of junior status (Status threat).
+Maria had just lived this. The "Calibrated Vulnerability" protocol (which we'll explore in Chapter 8) produced opposite results depending on social gravity:
+*   **Conducting Down (with Leo):** When Maria showed vulnerability to her junior engineer, it signaled trust and safety. It was a **Relatedness** reward that helped repair their connection.
+*   **Conducting Up (with her VP):** When she showed the *exact same* vulnerability to her boss, it was interpreted as a lack of control and competence—a **Status** threat to the VP, who was worried about his own standing with senior leadership.
 
-The protocol is the same. The social gravity is different. The outcome is reversed.
+The tool was the same. The social gravity was different. The outcome was reversed.
 
 #### **The Practice: Directional Protocols**
 A masterful conductor doesn't just play the music; they read the room. Perform a "Situational SCARF Analysis" and adapt your approach.
