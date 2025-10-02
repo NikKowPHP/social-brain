@@ -29,15 +29,12 @@
 
 **Chapter 6:** Your Toolkit Map & Cheat Sheet
 
-**The Core Trio: Your Foundational Practice**
+**The Core Duo: Your Foundational Practice**
 
-**Chapter 7:** The Connection Protocol
-*The Neuroscience of Presence & Empathy*
+**Chapter 7:** The Connection & Trust Protocol
+*The Neuroscience of Presence, Empathy & Vulnerability*
 
-**Chapter 8:** The Chemistry of Trust
-*The Neuroscience of Rapport & Vulnerability*
-
-**Chapter 9:** The Core Trio in Concert
+**Chapter 9:** The Core Duo in Concert
 *Proving the Power of Your Foundational Toolkit*
 
 **The Ensemble Toolkit: Specialized Instruments**
@@ -96,4 +93,3 @@
 **Acknowledgments**
 
 **About the Author**
-      

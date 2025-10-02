@@ -47,19 +47,19 @@ Answer the following questions with your first, honest gut reaction. Don't overt
 
 So, what did you discover? Take a moment to look at your responses. Most of us have a mix, but often one pattern emerges more strongly than the others. Let's explore the music your orchestra tends to play.
 
-**If you scored mostly A's, you lead with the **Architect** Brain.**
+**If you scored mostly A's, you lead with the **Logic-Driven Brain (The Architect)**.**
 **Architect**
 *   **Your Superpower:** Logic, clarity, and structure. You are a master of deconstructing complex problems and presenting information in a clear, rational way. You build airtight arguments and are a rock of reason in a sea of chaos. Your orchestra's string and brass sections are world-class.
 *   **Your Growth Edge:** You can sometimes miss the emotional music of a conversation. Your focus on data and logic might lead you to accidentally trigger social threats in others, making them feel like a problem to be solved rather than a person to be understood.
 *   **The Shadow Architect:** Be warned: the Architect's shadow uses flawless logic not to clarify, but to dominate. They wield data like a weapon, making others feel stupid. Your awareness of this shadow is the first step to ensuring you use your powers to build, not to break.
 
-**If you scored mostly B's, you lead with the **Connector** Brain.**
+**If you scored mostly B's, you lead with the **Empathy-Driven Brain (The Connector)**.**
 **Connector**
 *   **Your Superpower:** Empathy, rapport, and social harmony. You instinctively read the emotional tone of a room and know how to make people feel seen, heard, and valued. You are the orchestra's woodwinds, creating warmth and weaving the group together.
 *   **Your Growth Edge:** Your focus on harmony can sometimes lead you to avoid necessary conflict or difficult feedback. In your effort to ensure no one feels bad, you might soften a critical message so much that it loses its clarity and impact.
 *   **The Shadow Connector:** The Connector's shadow uses empathy not to understand, but to manipulate. They are masters of discovering another's needs and insecurities, not to help, but to leverage those vulnerabilities for their own gain.
 
-**If you scored mostly C's, you lead with the **Sentinel** Brain.**
+**If you scored mostly C's, you lead with the **Threat-Detection Brain (The Sentinel)**.**
 **Sentinel**
 *   **Your Superpower:** Threat detection, instinct, and rapid response. You are highly attuned to risk and can sense danger or instability before anyone else. You are the orchestra's powerful percussion, the primal rhythm that keeps everyone alert and safe from harm.
 *   **Your Growth Edge:** Your threat-detection system can be overactive. You may perceive threats where none exist, leading to a defensive posture that can inadvertently create a climate of fear or distrust, putting others on the defensive as well.
@@ -99,9 +99,8 @@ Remember, your dominant style is your "peacetime" preference. Under stress, your
 
 This diagnostic has given you your map. As you continue your journey through the foundational concepts in Part I, use this as a "look ahead" to the chapters in Part II that will help you grow the most.
 
-*   **For the **Architects** (Mostly A's):** Your core work is in Chapters **7 (The Connection Protocol)** and **10 (Storytelling)**. These will help you connect your powerful logic to the emotional core of your listeners.
+*   **For the **Architects** (Mostly A's):** Your core work is in Chapters **7 (The Connection & Trust Protocol)** and **10 (Storytelling)**. These will help you connect your powerful logic to the emotional core of your listeners.
 *   **For the **Connectors** (Mostly B's):** Your path to mastery lies in Chapters **1 (Self-Regulation)** and **11 (Conflict and Feedback)**. These will give you the tools to remain empathetic while holding your ground and speaking with clarity and strength.
-*   **For the **Sentinels** (Mostly C's):** Your foundational toolkit is in Chapters **1 (Self-Regulation)**, **8 (Building Trust)**, and **11 (Conflict and Feedback)**. These chapters are designed to help you calm your inner alarm system so you can lead with confidence, not fear.
+*   **For the **Sentinels** (Mostly C's):** Your foundational toolkit is in Chapters **1 (Self-Regulation)**, **7 (The Connection & Trust Protocol)**, and **11 (Conflict and Feedback)**. These chapters are designed to help you calm your inner alarm system so you can lead with confidence, not fear.
 
 You now have your starting point. You know your orchestra. Our next step is to explore the purpose of this work—to look beyond just "fixing" communication and understand the deeper human need for the music of connection.
-      

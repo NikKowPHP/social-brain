@@ -1,6 +1,6 @@
 ### **Glossary**
 
-**Amygdala:** An almond-shaped set of neurons located deep in the brain's temporal lobe. It is the primary processing center for emotional reactions, especially fear, and plays a key role in the brain's threat-detection system. (See Chapters 1, 3, 8, 11, 12).
+**Amygdala:** An almond-shaped set of neurons located deep in the brain's temporal lobe. It is the primary processing center for emotional reactions, especially fear, and plays a key role in the brain's threat-detection system. (See Chapters 1, 3, 7, 11, 12).
 
 **Amygdala Hijack:** A term popularized by Daniel Goleman for an immediate, overwhelming emotional response that is out of proportion to the stimulus, triggered by the amygdala overriding the rational prefrontal cortex. (See Chapters 1, 11).
 
@@ -14,7 +14,7 @@
 
 **Neurotransmitter/Neuropeptide:** Chemicals that transmit signals between neurons. Key examples in this book include Dopamine (reward, motivation), Cortisol (stress), and Oxytocin (bonding, trust).
 
-**Oxytocin:** A neuropeptide often called the "bonding hormone" or "trust molecule." It is crucial for social bonding, reducing fear in the amygdala, and increasing feelings of trust and generosity toward members of one's "in-group." (See Chapter 8).
+**Oxytocin:** A neuropeptide often called the "bonding hormone" or "trust molecule." It is crucial for social bonding, reducing fear in the amygdala, and increasing feelings of trust and generosity toward members of one's "in-group." (See Chapter 7).
 
 **Prefrontal Cortex (PFC):** The front-most part of the brain, responsible for executive functions such as rational thought, planning, impulse control, and understanding others' perspectives. The "CEO" of the brain. (See Chapter 1).
 
@@ -23,4 +23,3 @@
 **SCARF Model:** A framework developed by David Rock identifying the five key domains of social experience that the brain treats as life-or-death survival issues: **S**tatus, **C**ertainty, **A**utonomy, **R**elatedness, and **F**airness. (See Chapter 5).
 
 **Working Memory:** The brain's temporary storage and manipulation space; a "mental workbench" with a very limited capacity (approx. 4-5 items) for holding conscious thoughts. (See Chapter 10).
-      

@@ -3,9 +3,9 @@
 **A**
 *   Adaptation Protocol (Chapter 12)
 *   AI (Artificial Intelligence), Communicating with (Conclusion)
-*   Amygdala (Chapters 1, 3, 8, 11, 12)
+*   Amygdala (Chapters 1, 3, 7, 11, 12)
 *   Amygdala Hijack (Chapter 1, 11)
-*   Architect Brain Profile (Appendix E, Chapters 7, 8, 9, 10, 11, 15, 17)
+*   Architect Brain Profile (Appendix E, Chapters 7, 9, 10, 11, 15, 17)
     *   Architect's Shadow / Bias (Conclusion)
 *   Asynchronous Communication (Chapter 14)
 *   Attention (Chapter 7)
@@ -16,7 +16,7 @@
 **B**
 *   Boundary Protocol (Chapter 11)
 *   Brain Profiles (Appendix E)
-*   Breathing, The Conductor's Breath (Chapters 1, 8, 11, 12, 15, 17)
+*   Breathing, The Conductor's Breath (Chapters 1, 7, 11, 12, 15, 17)
 *   Burden, Conductor's (Chapter 17)
 *   Burnout (Chapter 16)
 
@@ -30,7 +30,7 @@
 *   Cognitive Style (Appendix E, Chapter 12, 15)
 *   Conductor's Oath (Introduction)
 *   Conductor's Paradox (Introduction, Chapter 15)
-*   Connector Brain Profile (Appendix E, Chapters 7, 8, 10, 11, 15, 17)
+*   Connector Brain Profile (Appendix E, Chapters 7, 10, 11, 15, 17)
 *   Cortisol (Chapter 1, 11, 16)
 *   Cross-Cultural Communication (Chapter 12)
 
@@ -91,7 +91,7 @@
 
 **O**
 *   Obsolescence (Conclusion)
-*   Oxytocin (Chapters 7, 8, 12)
+*   Oxytocin (Chapters 7, 12)
 
 **P**
 *   Pain, Social vs. Physical (Chapter 3)
@@ -109,7 +109,7 @@
 *   Quiet Music (Chapter 7)
 
 **R**
-*   Rapport (Chapter 8)
+*   Rapport (Chapter 7)
 *   Relatedness (SCARF) (Chapters 5, 11, 12, 17)
 *   Repair Protocol (Chapter 11)
 *   Resilience (Chapter 16)
@@ -122,7 +122,7 @@
     *   As a diagnostic tool (Chapter 5)
 *   Science, Limitations of (Preface)
 *   Self-Compassion (Chapter 16)
-*   Sentinel Brain Profile (Appendix E, Chapters 7, 8, 10, 11, 15, 17)
+*   Sentinel Brain Profile (Appendix E, Chapters 7, 10, 11, 15, 17)
 *   Shadow Conductor (Appendix E)
 *   Silence (Chapter 7, 11, 13)
 *   Social Gravity (Chapter 4)
@@ -134,9 +134,8 @@
 **T**
 *   30-Day Conductor's Challenge (Appendix C)
 *   Threat Response (Chapters 3, 1, 11)
-*   Trust (Chapter 8)
+*   Trust (Chapter 7)
 
 **V**
 *   Vagus Nerve (Chapter 1)
-*   Vulnerability, Calibrated (Chapter 8, 17)
-      
+*   Vulnerability, Calibrated (Chapter 7, 17)

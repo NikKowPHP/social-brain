@@ -8,15 +8,13 @@ This chapter is your map. It provides a high-level overview of the complete syst
 
 ### **The Conductor's Dashboard**
 
-#### **I. CORE TRIO: Your Engine for 80% of Interactions**
-*(Your primary mission is to master these three foundational skills. They are your daily practice.)*
+#### **I. CORE DUO: Your Engine for 80% of Interactions**
+*(Your primary mission is to master these two foundational skills. They are your daily practice.)*
 
-*   **The Conductor's Breath (Chapter 1):** Your manual override for an amyggdala hijack. Use it to regulate your own nervous system before you do anything else.
+*   **The Conductor's Breath (Chapter 1):** Your manual override for an amygdala hijack. Use it to regulate your own nervous system before you do anything else.
     *   *Practice:* Double inhale through nose, long exhale through mouth.
-*   **The Empathy Loop (Chapter 7):** Your tool for making others feel seen, heard, and safe. Use it to connect before you solve.
-    *   *Practice:* Ask "What" or "How" questions, then Playback the underlying emotion.
-*   **The Trust Protocol (Chapter 8):** Your method for building psychological safety and rapport.
-    *   *Practice:* Use Calibrated Vulnerability (a "social sonar ping") to signal trustworthiness.
+*   **The Connection & Trust Protocol (Chapter 7):** Your tool for making others feel seen, heard, and safe, and for building psychological safety and rapport. Use it to connect before you solve.
+    *   *Practice:* Ask "What" or "How" questions, then Playback the underlying emotion. Use Calibrated Vulnerability (a "social sonar ping") to signal trustworthiness.
 
 ---
 
@@ -52,4 +50,3 @@ This chapter is your map. It provides a high-level overview of the complete syst
 
 *   **The 3 Brains (Appendix E):** **Architect** (Logic), **Connector** (Empathy), **Sentinel** (Threat).
 *   **The 5 SCARF Domains (Ch 5):** Status, Certainty, Autonomy, Relatedness, Fairness.
-      

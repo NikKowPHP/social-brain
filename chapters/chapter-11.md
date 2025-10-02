@@ -47,7 +47,7 @@ Unsolicited feedback is a direct threat to **Status**, **Certainty**, and **Rela
     Use neuroplasticity to build a new habit by defining a micro-behavior, linking it to a trigger, and giving yourself a dopamine reward (a mental "Yes!") when you succeed. This process of myelination is the physical basis of skill acquisition.
 
 #### **Part 2: The Difficult Conversation Protocol**
-This is the tool for repair. It's a performance where you layer the Core Trio in a specific sequence to systematically reward the other person's social brain and keep their prefrontal cortex online. This is the protocol Maria used to fix the damage with Leo.
+This is the tool for repair. It's a performance where you layer the Core Duo in a specific sequence to systematically reward the other person's social brain and keep their prefrontal cortex online. This is the protocol Maria used to fix the damage with Leo.
 
 *   **The Sequence:**
     1.  **Regulate Yourself First:** Use **The Conductor's Breath**.
@@ -65,4 +65,3 @@ A "no" can feel like a severe **Relatedness** and **Status** threat. This script
 
 > ### **From the Community: The Agony of "No"**
 > One member, a "recovering Connector," put it perfectly: "For me, 'no' feels like a four-letter word. Every time I say it, I feel a wave of guilt. Learning to say 'no' to the request while still saying 'yes' to the relationship was the hardest and most important work I've ever done."
-      

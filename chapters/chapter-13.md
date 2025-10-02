@@ -16,7 +16,7 @@ This chapter is different. Instead of learning a protocol and then seeing a smal
 ***
 
 #### **The Setup: A Meeting on the Brink of Chaos**
-Maria had successfully used the Core Trio to navigate the technical deadlock between Mark and Jane, but the project was now running on a brutally tight, high-pressure timeline. Because of this, she used to dread her team's weekly Phoenix Project status meeting. It was a perfect storm of competing brain profiles: Mark's **Architect** brain, Jane's **Sentinel** brain, and Leo's **Connector** brain.
+Maria had successfully used the Core Duo to navigate the technical deadlock between Mark and Jane, but the project was now running on a brutally tight, high-pressure timeline. Because of this, she used to dread her team's weekly Phoenix Project status meeting. It was a perfect storm of competing brain profiles: Mark's **Architect** brain, Jane's **Sentinel** brain, and Leo's **Connector** brain.
 
 Today's goal was to finalize the launch date—a decision already fraught with tension. Maria knew she had to conduct it from start to finish.
 
@@ -60,4 +60,3 @@ This week, you will conduct one meeting, even if you are not the official leader
 4.  **Path to Adaptive:** How did your chosen intervention help you practice a non-dominant brain profile? (e.g., 'As an **Architect**, using the Empathy Loop helped me practice my **Connector** brain.')
 
 **Join the Orchestra:** What was the impact of your intervention? Sharing these small "meeting wins" (or "meeting data points") is a powerful way conductors in the community learn from each other's experiments.
-      

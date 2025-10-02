@@ -26,7 +26,7 @@ Think of this as your guided ascent. Each week, you will focus on one new core s
 #### **Week 3: Building Bridges of Trust**
 
 *   **Continue Practicing:** Daily breath practice and looking for opportunities for the Empathy Loop.
-*   **New Skill:** The Trust Protocol (Calibrated Vulnerability) (Chapter 8).
+*   **New Skill:** The Trust Protocol (Calibrated Vulnerability) (Chapter 7).
 *   **The Practice:** With one person you already trust, share one small, safe, calibrated vulnerability. (e.g., "I'll admit, I'm still trying to get the hang of this new software," or "This deadline has me drinking a lot of coffee.") Observe their response. The goal is to see how it feels to send a social sonar ping.
 *   **Field Mission:** Notice how often you use "we" versus "I/you" language. Try to intentionally shift one "I" statement to a "we" statement in an email or conversation.
 
@@ -40,5 +40,4 @@ Think of this as your guided ascent. Each week, you will focus on one new core s
     1.  What is the **one goal** of this message?
     2.  Is the **headline** (or request) in the first sentence?
     3.  Have I **chunked the details** with bullets or bolding?
-*   **Field Mission:** At the end of the week, reflect for five minutes. How did the Core Trio (Breath, Empathy, Trust) support each other in your interactions? This reflection is the key to moving from conscious practice to unconscious intuition.
-      
+*   **Field Mission:** At the end of the week, reflect for five minutes. How did the core skills (Breath, Empathy, Trust) support each other in your interactions? This reflection is the key to moving from conscious practice to unconscious intuition.
