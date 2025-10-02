@@ -21,7 +21,7 @@ Maria had successfully used the Core Duo to navigate the technical deadlock betw
 Today's goal was to finalize the launch date—a decision already fraught with tension. Maria knew she had to conduct it from start to finish.
 
 **Step 1: The Conductor Prepares (Before the Meeting)**
-Maria decided to use the **Clarity Protocol (Chapter 10)** and the principles of **SCARF (Chapter 5)** to design the agenda.
+Maria decided to use the principles of clarity and respect for cognitive load (Chapter 10) and the SCARF model (Chapter 5) to design the agenda.
 *   She set the title to the meeting's single goal: "Decision: Finalize Q3 Launch Date for Phoenix Project." (Massive **Certainty** reward).
 *   She framed the agenda items as questions that invited collaboration. (Rewards **Status** and **Autonomy**).
 *   She sent it out a full day in advance.
@@ -32,33 +32,33 @@ Maria opened the call, feeling the tension. She used **Status** rewards to give 
 **Step 3: Navigating the Dissonance (The Middle of the Meeting)**
 The conflict ignited immediately. Mark presented an aggressive date; Jane countered, "That's reckless."
 
-Maria felt her own system start to hijack. She caught herself, took a silent **Conductor's Breath (Chapter 1)** to quiet her inner Architect, and deployed the **Empathy Loop (Chapter 7)**.
+Maria felt her own system start to hijack. She caught herself, took a silent **Conductor's Breath (Chapter 1)** to quiet her inner Architect, and deployed the core principle of connection: proving she was listening before trying to solve (Chapter 7).
 
 *   She turned to Jane: "That's a critical point, Jane. It sounds like your core concern isn't just about the date, but about protecting our long-term credibility with users. Is that right?" (Jane's tension dropped.)
 *   Maria then employed **Strategic Silence**. Her calm presence co-regulated the room.
 
-Jane shifted from a roadblock to a problem-solving partner, suggesting a caching layer idea. Seeing an opening, Jane briefly looked at Leo. "Leo," she said, a rare note of acknowledgement in her voice, "your user feedback on latency was the flag for this. Good catch." Maria hadn't just managed the conflict; she had conducted the dissonance into a new, more productive key.
+Jane shifted from a roadblock to a problem-solving partner, suggesting a caching layer idea. Seeing an opening, Jane briefly looked at Leo. "Leo," she said, a rare note of acknowledgement in her voice, "your user feedback on latency was the flag for this. Good catch." Maria hadn't justmanaged the conflict; she had conducted the dissonance into a new, more productive key.
 
 **Step 4: The Echo (After the Meeting)**
-She sent a follow-up email using the **Clarity Protocol**. It only had two sections:
+She sent a follow-up email that focused on clarity. It only had two sections:
 *   **Decision:** "The launch date is confirmed for September 1st." (Maximum **Certainty**).
 *   **Action Items:** Clear, concrete next steps for everyone. (Maximum **Fairness** and **Autonomy**).
 
 ***
 
 #### **The Conductor's Debrief**
-Maria used a layered set of protocols (The Breath + Empathy Loop) to co-regulate the room, preventing **Neural Contagion** and creating an environment of high psychological safety even in a high-stakes disagreement.
+Maria used a layered approach (The Breath + the principle of connection) to co-regulate the room, preventing **Neural Contagion** and creating an environment of high psychological safety even in a high-stakes disagreement.
 
 ---
-### **Field Mission Log**
+### **Conductor's Logbook: Data Collection**
 
-This week, you will conduct one meeting, even if you are not the official leader.
+This week, you will conduct one experiment in a meeting, even if you are not the official leader.
 
-**Your Mission:** Choose and implement **one** practice from Maria's deep dive for an upcoming meeting.
-1.  **The Meeting:** Which meeting will you focus on?
-2.  **The Intervention Plan:** Which single practice will you implement? (e.g., sending a SCARF-aware agenda, opening by stating roles, using the Empathy Loop on a dissenter, sending a clear follow-up).
-3.  **Analyze the Data:** What was the observable impact of your intervention on the meeting's tone or outcome? What does this data tell you about the group's dynamics?
-4.  **Path to Adaptive:** How did your chosen intervention help you practice a non-dominant brain profile? (e.g., 'As an **Architect**, using the Empathy Loop helped me practice my **Connector** brain.')
+**Your Experiment:** Choose and implement **one** practice from Maria's deep dive for an upcoming meeting.
+1.  **The Setup:** Which meeting will you focus on?
+2.  **The Intervention:** Which single practice will you implement? (e.g., sending a SCARF-aware agenda, opening by stating roles, focusing on connection with a dissenter, sending a clear follow-up).
+3.  **The Data:** What was the observable impact of your intervention on the meeting's tone or outcome? What does this data tell you about the group's dynamics?
+4.  **The Analysis:** How did your chosen intervention help you practice a non-dominant brain profile? (e.g., 'As an **Architect**, focusing on connection helped me practice my **Connector** brain.')
 
 **Join the Orchestra:** What was the impact of your intervention? Sharing these small "meeting wins" (or "meeting data points") is a powerful way conductors in the community learn from each other's experiments.
       

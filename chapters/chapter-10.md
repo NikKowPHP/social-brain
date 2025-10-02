@@ -24,7 +24,12 @@ Maria's stomach dropped. Odyssey was David's failing pet project, a notoriously 
 ---
 ### **Chapter 10 Debrief: Clarity and Storytelling**
 
-#### **Part 1: The Clarity Protocol**
+### Writing a Score Everyone Can Read
+
+A conductor is responsible for both the technical clarity of the score and the emotional power of the melody. This chapter gives you the tools for both.
+
+#### **Part 1: The Clarity Protocol (The Notation)**
+The first responsibility of a conductor is to provide a clear score. If the notation is ambiguous, the orchestra will be confused. This protocol is your system of notation.
 
 > ### **Dashboard Integration**
 > *   **Tool:** The Clarity Protocol
@@ -38,7 +43,8 @@ Maria's stomach dropped. Odyssey was David's failing pet project, a notoriously 
 2.  **Headline First:** Put the main point or request right at the top, both in the subject line and the first sentence.
 3.  **Chunk the Details:** Use short paragraphs, bullet points, and bolding to format information for the brain.
 
-#### **Part 2: The Storytelling Technique**
+#### **Part 2: The Storytelling Technique (The Melody)**
+But a clear score is not enough; it must have a memorable melody. This technique is how you turn dry data into music that sticks.
 
 > ### **Dashboard Integration**
 > *   **Tool:** The Storytelling Technique

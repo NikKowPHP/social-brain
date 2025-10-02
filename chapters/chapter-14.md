@@ -29,7 +29,7 @@ You must use text-based vulnerability with care.
 *   **Model Professional Vulnerability in Work Channels:** Share small, professional learning moments to normalize mistakes and build psychological safety. (e.g., "Quick PSA: I just pushed a small bug to production. The lesson here is X.")
 
 **2. The Micro-Dose of Clarity (The Art of the Self-Contained Message)**
-Write every message as if the recipient will only read it once. This is a micro-dose of the Clarity Protocol (Chapter 10).
+Write every message as if the recipient will only read it once. This is a micro-dose of the principles of clarity from Chapter 10.
 *   **Use Structuring Elements:** Leverage **bolding**, bullet points, and numbered lists.
 *   **"Headline, Context, Call to Action":** Structure every significant post this way.
     *   **Headline:** A clear, bolded first sentence.
@@ -40,7 +40,7 @@ Write every message as if the recipient will only read it once. This is a micro-
 Offer tiny, specific rewards.
 *   **Status Reward:** "That was a really smart way to solve that problem in the code review."
 *   **Certainty Reward:** "Just confirming I got your email. I'll have an answer for you this afternoon."
-*   **Empathy Loop:** In a direct message, a 5-second Playback can be a powerful deposit. "Tough meeting?" or "Looks like that's a frustrating bug." This sends a tiny signal that says, "I see you."
+*   **The principle of connection:** In a direct message, a 5-second Playback can be a powerful deposit. "Tough meeting?" or "Looks like that's a frustrating bug." This sends a tiny signal that says, "I see you."
 
 **4. The "Asynchronous Conflict Protocol" (The 3-Reply Rule)**
 If a topic requires more than three back-and-forth replies to resolve, it has become too complex or too emotionally charged for text. It must be moved to a higher-bandwidth medium.

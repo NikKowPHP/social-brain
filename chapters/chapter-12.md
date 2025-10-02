@@ -3,7 +3,7 @@
 
 The tools we have developed so far assume that both parties are engaging in good faith. This chapter adds advanced tools for when that assumption proves false.
 
-As her team scrambled to prepare for the Sterling Corp. review, Maria faced political sabotage from a senior leader, David. Her first instinct was to use the Empathy Loop, a good-faith tool. She approached him, saying "David, I get the sense you have some serious concerns. Can you tell me what the hardest part of this is from your perspective?"
+As her team scrambled to prepare for the Sterling Corp. review, Maria faced political sabotage from a senior leader, David. Her first instinct was to focus on the principle of *connecting before solving*. She approached him, saying "David, I get the sense you have some serious concerns. Can you tell me what the hardest part of this is from your perspective?"
 
 To her surprise, David seemed to soften, sharing a story about a past project failure that ended in disaster. "My concern isn't about you," he said. "It's that I'm seeing the exact same pattern, and no one else seems to see the cliff we're running toward." Maria listened, validating his perspective. "It sounds like that was a deeply painful experience," she reflected, "and it's left you with a responsibility to protect the company from that happening again." She left feeling she had made a breakthrough.
 
@@ -33,17 +33,19 @@ This is a defensive tool of last resort for navigating manipulative or bad-faith
 
 > ### **Self-Check: Am I Facing a Bad-Faith Actor?**
 > Before using this tool, ask:
-> 1.  **Have I Consistently Used the Core Trio First?** Have my good-faith attempts been repeatedly ignored or used against me?
+> 1.  **Have I Consistently Used the Core Duo First?** Have my good-faith attempts been repeatedly ignored or used against me?
 > 2.  **Is There a Pattern of Manipulation?** Is this a consistent pattern of twisting facts and shifting goalposts?
 > 3.  **Could I Be Misinterpreting a Different Style?** Is it possible this is just a blunt Architect, a stressed Sentinel, or a cultural difference?
 > If you cannot confidently answer "yes" to the first two questions, the Shield is the wrong tool.
 
 **The Science:** A manipulative actor uses SCARF domains as weapons to trigger your amygdala hijack. Your strategy must be **threat neutralization.**
 
+When facing a bad-faith actor, you cannot invite them into a duet. Your goal is not to make music with them, but to ensure they don't disrupt the rest of the orchestra. You must become the silent stage, refusing to play their chaotic song.
+
 **The Protocol:**
 1.  **Shift Your Goal from Connection to Containment.** Your new goals: Regulate yourself, protect your boundaries, document reality.
 2.  **Go "Gray Rock."** Become as boring and unreactive as a gray rock. Use **The Conductor's Breath** and maintain neutral non-verbals.
 3.  **Use Clarity as a Scalpel.** State facts, not interpretations. Calmly repeat your boundary or factual statement without engaging with diversions.
-4.  **Use the Empathy Loop for Reconnaissance, Not Rapport.** Use the Playback to confirm their stated position. *"So, if I'm hearing you correctly, your position is X. Is that right?"*
+4.  **Use the *principle of playback* for Reconnaissance, Not Rapport.** Use the Playback to confirm their stated position. *"So, if I'm hearing you correctly, your position is X. Is that right?"*
 5.  **Create an Audit Trail.** Move the conversation from verbal to written. **The Script:** *"That's an important point. To make sure I capture it accurately, could you please send me an email with the specifics on that?"*
       

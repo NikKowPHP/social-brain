@@ -1,7 +1,9 @@
 ### **Chapter 3: The Pain of Miscommunication**
 #### Why a Harsh Word Feels Like a Physical Wound
 
-Our investigation begins with a startling scientific discovery, one so counter-intuitive it feels like finding a hidden master key to human interaction. For decades, we've spoken about social pain—the sting of rejection, the shame of exclusion—as if it were a metaphor.
+Maria's investigation started not in a management book, but with a question that had bothered her since the call with Mark: why did her words, which were logically sound, cause such a visceral, painful reaction? Why did it *hurt* so much? The answer would be the first key she uncovered.
+
+Our investigation begins with that same startling scientific discovery, one so counter-intuitive it feels like finding a hidden master key to human interaction. For decades, we've spoken about social pain—the sting of rejection, the shame of exclusion—as if it were a metaphor.
 
 It is not.
 
@@ -49,12 +51,12 @@ Then, just listen. This simple question flips the interaction from analysis to c
 Become a "Social Pain Detective." When you see a defensive reaction (in yourself or others), ask: *What social threat might they be perceiving right now?*
 
 ---
-### **Field Mission Log**
+### **Conductor's Logbook: Data Collection**
 
 Time to practice being a Social Pain Detective.
 
-**Your Mission:** Over the next few days, your mission is to observe one "social pain" event in the wild.
-1.  **The Event:** Briefly describe a moment when you saw someone (or yourself) have a defensive or emotional reaction.
-2.  **The Detective Work:** What social threat might they have been perceiving? What was the specific data (words, tone, body language) that led to your hypothesis?
-3.  **Path to Adaptive:** How could becoming a 'Social Pain Detective' help you strengthen your least-dominant brain profile?
+**Your Experiment:** Over the next few days, your goal is to observe one "social pain" event in the wild.
+1.  **The Data Point:** Describe a moment when you saw someone (or yourself) have a defensive or emotional reaction.
+2.  **The Analysis:** What social threat might they have been perceiving? What was the specific data (words, tone, body language) that led to your hypothesis?
+3.  **Integration:** How could becoming a 'Social Pain Detective' help you strengthen your least-dominant brain profile?
       

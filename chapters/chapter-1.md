@@ -55,14 +55,14 @@ Do this once or twice. This is the reset command. The long exhale activates your
 >
 
 ---
-### **Field Mission Log**
+### **Conductor's Logbook: Data Collection**
 
-Time to build your Conductor's Dashboard's early-warning system.
+Let's begin collecting baseline data for your early-warning system.
 
 1.  **Your Hijack 'Tell':** What is the primary physical sensation that lets you know your **Sentinel** brain is activating? (e.g., heat in the face, tightness in the chest, clenching jaw, knot in the stomach). This is your personal system alert.
-2.  **Field Mission:** Over the next week, your mission is to notice this "tell" in real time. Briefly describe one event that triggered it.
-3.  **Log the Intervention:** Did you use The Conductor's Breath? What was the immediate effect on the physical sensation? (Note: The goal is to collect data, not achieve perfect calm. Even if you still felt hijacked, what did you notice?)
-4.  **Path to Adaptive:** How could mastering The Conductor's Breath help you strengthen your least-dominant brain profile?
+2.  **The Experiment:** Over the next week, your goal is to notice this "tell" in real time. Briefly describe one event that triggered it.
+3.  **Log the Data:** Did you use The Conductor's Breath? What was the immediate effect on the physical sensation? (Note: The goal is to collect data, not achieve perfect calm. Even if you still felt hijacked, what did you notice?)
+4.  **Analysis:** How could mastering The Conductor's Breath help you strengthen your least-dominant brain profile?
 
 **Join the Orchestra:** What was your hijack 'tell'? You might be surprised how many other Conductors share the same physical response. This is a common topic of discussion in the community.
 ---

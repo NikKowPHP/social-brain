@@ -8,7 +8,7 @@
 ---
 ### **Part 1: The Cost of the Performance (The Resilience Protocol)**
 
-After successfully using the Conductor's Shield to force David's political attacks into the open, Maria and her team faced a new challenge: preparing a unified defense to protect their project's resources. The week they spent preparing that response was one of the most intense of her career. They successfully navigated the politics, presenting a clear, data-backed case to leadership that respectfully corrected David's narrative. It was a huge win, but it came at a cost.
+After successfully using the principles of containment to force David's political attacks into the open, Maria and her team faced a new challenge: preparing a unified defense to protect their project's resources. The week they spent preparing that response was one of the most intense of her career. They successfully navigated the politics, presenting a clear, data-backed case to leadership that respectfully corrected David's narrative. It was a huge win, but it came at a cost.
 
 That Friday evening, Maria stared at the condensation on her water glass, unable to follow her partner's story. His voice was a distant hum. When he asked what she wanted for dinner, the simple question felt like a crushing weight. "I don't care," she snapped, the words sharper than she intended. The look on his face sent a hot spike of shame through her, but she was too tired to retrieve the words, too tired to fix it. This is **Conductor's Fatigue**, the emotional and cognitive cost of high-stakes performance that we first identified in Chapter 11.
 
@@ -44,11 +44,11 @@ The mood in the boardroom was tense. As Maria began to speak, she could feel her
 
 David let her get halfway through her presentation before he struck. "Maria, this is all very compelling," he said, his voice smooth and concerned. "But I'm looking at the initial server costs, and frankly, they seem reckless. We can't be burning money like this in the current climate."
 
-The old Maria would have defended her data. For a terrifying second, the old Maria was all she could hear—a furious voice in her head screaming *He's twisting the facts!* She felt the familiar heat rise in her neck, the tell-tale sign of a hijack. Her hands gripped the podium. *Breathe*, she commanded herself, forcing a long, slow exhale no one could see. The voice quieted. The new Maria used the **Shield Protocol (C12)**. Her goal was not to win, but to contain. "That's an important flag, David. To make sure I understand, what is the specific data point that makes you feel it's reckless?" she asked calmly, forcing him to move from vague assertion to specific data.
+The old Maria would have defended her data. For a terrifying second, the old Maria was all she could hear—a furious voice in her head screaming *He's twisting the facts!* She felt the familiar heat rise in her neck, the tell-tale sign of a hijack. Her hands gripped the podium. *Breathe*, she commanded herself, forcing a long, slow exhale no one could see. The voice quieted. The new Maria applied the principles of containment she learned for navigating bad-faith actors (Chapter 12). Her goal was not to win, but to contain. "That's an important flag, David. To make sure I understand, what is the specific data point that makes you feel it's reckless?" she asked calmly, forcing him to move from vague assertion to specific data.
 
-As David fumbled, Maria turned her attention to the executives. She used the **Empathy Loop (C7)**, not on her attacker, but on the real audience. "It sounds like the core concern here, given what David's raised, is that we're moving too fast and exposing the company to a major stability risk. Is that a fair summary of what you're worried about?"
+As David fumbled, Maria turned her attention to the executives. She applied the principle of connection (Chapter 7), not on her attacker, but on the real audience. "It sounds like the core concern here, given what David's raised, is that we're moving too fast and exposing the company to a major stability risk. Is that a fair summary of what you're worried about?"
 
-The CEO nodded. Maria had just shown she understood their fear. Now, she used **Calibrated Vulnerability (C8)**. "That's a valid concern. The timeline is ambitious, and there are risks," she admitted. "We'd be lying if we said this was easy. But our team has built a system to mitigate those risks, and Jane can speak to that." She handed the baton to her once-skeptical Sentinel, who calmly and confidently laid out their contingency plans.
+The CEO nodded. Maria had just shown she understood their fear. Now, she created a bridge of trust by admitting a shared risk. "That's a valid concern. The timeline is ambitious, and there are risks," she admitted. "We'd be lying if we said this was easy. But our team has built a system to mitigate those risks, and Jane can speak to that." She handed the baton to her once-skeptical Sentinel, who calmly and confidently laid out their contingency plans.
 
 The outcome was not the clean win they had hoped for. David's campaign had created enough doubt. The CEO announced the budget for Phase 2 would be cut by 20% "out of an abundance of caution."
 
@@ -76,7 +76,7 @@ As a leader, your job is to be the chief architect of this environment.
 
 A conductor must design a system where safety is the natural output.
 
-1.  **Model Calibrated Vulnerability (Chapter 8):** Safety starts at the top. The fastest way to create it is for the leader to admit fault.
+1.  **Model the practice of calibrated vulnerability (Chapter 7):** Safety starts at the top. The fastest way to create it is for the leader to admit fault.
 2.  **Systematize SCARF Rewards:** Design routines to reward the social brain (e.g., beginning debriefs by having each person share one thing they are proud of to reward Status).
 3.  **Frame Work as Learning, Not Performing:** When a mistake happens: *Do ask:* *"What did we learn from this, and how can we use that learning to make our next experiment better?"* (Frames work as discovery).
 4.  **Distribute Competence with a Shared Language:** Give your team a shared, non-judgmental language ("SCARF," "amygdala hijack"). This creates a powerful shortcut to empathy and leads to a self-tuning orchestra.
