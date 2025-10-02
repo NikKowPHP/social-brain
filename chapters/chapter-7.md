@@ -11,7 +11,7 @@ This chapter is your map. It provides a high-level overview of the complete syst
 #### **I. CORE TRIO: Your Engine for 80% of Interactions**
 *(Your primary mission is to master these three foundational skills. They are your daily practice.)*
 
-*   **The Conductor's Breath (Chapter 1):** Your manual override for an amygdala hijack. Use it to regulate your own nervous system before you do anything else.
+*   **The Conductor's Breath (Chapter 1):** Your manual override for an amyggdala hijack. Use it to regulate your own nervous system before you do anything else.
     *   *Practice:* Double inhale through nose, long exhale through mouth.
 *   **The Empathy Loop (Chapter 8):** Your tool for making others feel seen, heard, and safe. Use it to connect before you solve.
     *   *Practice:* Ask "What" or "How" questions, then Playback the underlying emotion.
@@ -25,9 +25,7 @@ This chapter is your map. It provides a high-level overview of the complete syst
 
 *   **The Clarity Protocol (Ch 11):** For making your communication effective and respectful.
 *   **The Storytelling Technique (Ch 11):** For making your ideas persuasive and memorable.
-*   **The Difficult Conversation Protocol (Ch 12):** For navigating high-stakes conversations safely.
-*   **The Boundary Technique (Ch 12):** For saying "no" gracefully while preserving the relationship.
-*   **The Productive Feedback Protocol (Ch 13):** For giving and receiving "bug reports" safely.
+*   **The Conflict Toolkit (Ch 12):** A suite of tools for navigating high-stakes conversations, giving feedback, and setting boundaries safely.
 *   **The Shield Protocol (Ch 14):** Your defensive tool for navigating bad-faith arguments.
 *   **The Adaptation Protocol (Ch 14):** For navigating different group and cultural dynamics.
 
@@ -43,9 +41,9 @@ This chapter is your map. It provides a high-level overview of the complete syst
 *   **When you need to send an email or make a request...**
     *   **Then...** Use **The Clarity Protocol** to respect their cognitive load. (Ch 11)
 *   **When you have made a mistake and hurt someone...**
-    *   **Then...** Use **The Difficult Conversation Protocol** to repair trust. (Ch 12)
+    *   **Then...** Use **The Conflict Toolkit** (Difficult Conversation Protocol) to repair trust. (Ch 12)
 *   **When you need to say "no" to a request...**
-    *   **Then...** Use **The Boundary Technique** to protect your time gracefully. (Ch 12)
+    *   **Then...** Use **The Conflict Toolkit** (Boundary Technique) to protect your time gracefully. (Ch 12)
 *   **When you are trying to persuade a skeptical audience...**
     *   **Then...** Use **The Storytelling Technique** to frame your data as a story. (Ch 11)
 

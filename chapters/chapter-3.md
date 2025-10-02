@@ -1,7 +1,7 @@
 ### **Chapter 3: The Social Brain Diagnostic**
 #### Understanding Your Orchestra
 
-Now that you have your first tool for self-regulation, our journey continues with an essential step: diagnostics. As a programmer, I learned a fundamental rule early on: you never start fixing code until you understand the system. You don't guess; you diagnose. The same is true for the human brain. To become the conductor of our own orchestra, we must first get to know the musicians.
+That first step—diagnostics—is where our journey continues. As a programmer, I learned a fundamental rule early on: you never start fixing code until you understand the system. You don't guess; you diagnose. The same is true for the human brain. To become the conductor of our own orchestra, we must first get to know the musicians.
 
 My goal here is simple: to provide a mirror that helps you see the underlying patterns in your own social operating system. This is not a test. There are no right or wrong answers, no good or bad scores. There is only self-awareness. This diagnostic is a snapshot of your brain's current tendencies—its incredible, innate superpowers and its hidden blind spots or "growth edges."
 
@@ -100,8 +100,8 @@ Remember, your dominant style is your "peacetime" preference. Under stress, your
 This diagnostic has given you your map. As you continue your journey through the foundational concepts in Part I, use this as a "look ahead" to the chapters in Part II that will help you grow the most.
 
 *   **For the **Architects** (Mostly A's):** Your core work is in Chapters **8 (The Connection Protocol)** and **11 (Storytelling)**. These will help you connect your powerful logic to the emotional core of your listeners.
-*   **For the **Connectors** (Mostly B's):** Your path to mastery lies in Chapters **1 (Self-Regulation)**, **12 (Difficult Conversations)**, and **13 (Feedback)**. These will give you the tools to remain empathetic while holding your ground and speaking with clarity and strength.
-*   **For the **Sentinels** (Mostly C's):** Your foundational toolkit is in Chapters **1 (Self-Regulation)**, **9 (Building Trust)**, and **12 (Difficult Conversations)**. These chapters are designed to help you calm your inner alarm system so you can lead with confidence, not fear.
+*   **For the **Connectors** (Mostly B's):** Your path to mastery lies in Chapters **1 (Self-Regulation)** and **12 (Conflict and Feedback)**. These will give you the tools to remain empathetic while holding your ground and speaking with clarity and strength.
+*   **For the **Sentinels** (Mostly C's):** Your foundational toolkit is in Chapters **1 (Self-Regulation)**, **9 (Building Trust)**, and **12 (Conflict and Feedback)**. These chapters are designed to help you calm your inner alarm system so you can lead with confidence, not fear.
 
 You now have your starting point. You know your orchestra. Our next step is to explore the purpose of this work—to look beyond just "fixing" communication and understand the deeper human need for the music of connection.
       

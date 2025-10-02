@@ -50,7 +50,11 @@ Do this once or twice. This is the reset command. The long exhale activates your
 
 ---
 
-With this tool for self-regulation, Maria had survived the immediate crisis. But survival was not enough. The incident with Mark had exposed a deep flaw in her approach, a bug in her own operating system. This is where the real work of a conductor begins: not just managing crises, but understanding the system to prevent them. You are now equipped to stay calm as you join her on the next step of that investigation: understanding the internal orchestra.
+With this tool for self-regulation, Maria had survived the immediate crisis. But survival was not enough. The calm it provided only made her failure feel clearer, colder. The incident with Mark had exposed a deep flaw in her approach, a bug in her own operating system. Her expertise in logic and structure—her greatest professional strength—had become her biggest liability in human interaction. She treated people like logical systems, and it was breaking her team.
+
+*What am I missing?* she wrote in a fresh page of her notebook. *There are rules to this system, but I don't know what they are.*
+
+This was the conductor's blind spot. Before you can fix a system, you must understand its components. Her investigation had to begin with diagnostics.
 
 ---
 

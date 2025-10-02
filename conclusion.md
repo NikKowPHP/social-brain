@@ -8,7 +8,7 @@ In Chapter 3, we identified the "Adaptive Profile" as the ideal—a conductor wh
 Developing your adaptive ability means consciously practicing the tools that feel least natural.
 *   If you are an **Architect**, your path to becoming adaptive is through the consistent practice of the **Empathy Loop (Chapter 8)** and **Calibrated Vulnerability (Chapter 9)**.
 *   If you are a **Connector**, your growth lies in mastering the **Boundary Protocol (Chapter 12)** and the **Clarity Protocol (Chapter 11)**, learning to be clear even when it creates discomfort.
-*   If you are a **Sentinel**, your work is centered on the **Conductor's Breath (Chapter 1)** and the **"Intake" Method for receiving feedback (Chapter 13)**, training your system to see data instead of just threats.
+*   If you are a **Sentinel**, your work is centered on the **Conductor's Breath (Chapter 1)** and the **"Intake" Method for receiving feedback (Chapter 12)**, training your system to see data instead of just threats.
 
 Adaptability is not about losing your native strengths; it is about expanding your range, so you can choose the right instrument for the music the moment requires.
 

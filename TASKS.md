@@ -1,5 +1,4 @@
-- [x] Smooth the narrative transition from the author's story to Maria's story in the introduction.
-- [x] Deepen character development for Maria and supporting characters.
-- [x] Improve plot structure by introducing the antagonist earlier and creating a midpoint reversal.
-- [x] Refine prose and voice by reducing cognitive load and removing meta-commentary.
+- [x] Refactor Chapter 2 to improve narrative momentum by merging it into Chapters 1 and 3.
+- [x] Deepen Maria's character arc by rewriting Chapter 10 to show a "failure beyond the protocol," making her progression less linear and more relatable.
+- [x] Restructure Part II to break the "Learn-Apply" formula by merging Chapter 13 into Chapter 12, creating a single, more complex narrative that combines multiple protocols.
       

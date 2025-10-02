@@ -5,7 +5,7 @@
 *   AI (Artificial Intelligence), Communicating with (Conclusion)
 *   Amygdala (Chapters 1, 4, 9, 12, 14)
 *   Amygdala Hijack (Chapter 1, 12)
-*   Architect Brain Profile (Chapters 3, 8, 9, 10, 11, 12, 13, 18, 20)
+*   Architect Brain Profile (Chapters 3, 8, 9, 10, 11, 12, 18, 20)
     *   Architect's Shadow / Bias (Conclusion)
 *   Asynchronous Communication (Chapter 17)
 *   Attention (Chapter 8)
@@ -30,13 +30,13 @@
 *   Cognitive Style (Chapter 3, 14, 18)
 *   Conductor's Oath (Introduction)
 *   Conductor's Paradox (Introduction, Chapter 18)
-*   Connector Brain Profile (Chapters 3, 8, 9, 11, 12, 13, 18, 20)
+*   Connector Brain Profile (Chapters 3, 8, 9, 11, 12, 18, 20)
 *   Cortisol (Chapter 1, 12, 19)
 *   Cross-Cultural Communication (Chapter 14)
 
 **D**
-*   Data vs. Drama (Chapter 13)
-*   Dopamine (Chapter 11, 13)
+*   Data vs. Drama (Chapter 12)
+*   Dopamine (Chapter 11, 12)
 
 **E**
 *   Eisenberger, Naomi (Chapter 4, Appendix A)
@@ -51,17 +51,17 @@
 
 **F**
 *   Fairness (SCARF) (Chapters 6, 12, 20)
-*   Feedback (Chapter 13)
+*   Feedback (Chapter 12)
     *   Giving (Debug Protocol)
     *   Receiving (Intake Protocol)
-*   Feedback Sandwich (Chapter 13)
+*   Feedback Sandwich (Chapter 12)
 
 **G**
 *   Goleman, Daniel (Chapter 1, Appendix A)
 *   Group Dynamics (Chapter 14)
 
 **H**
-*   Habit Formation (Chapter 13)
+*   Habit Formation (Chapter 12)
 *   Hasson, Uri (Chapter 11, Appendix A)
 *   Hijack De-Escalation (Chapter 12)
 *   Homeostasis, Relationship (Chapter 15)
@@ -78,7 +78,7 @@
 **M**
 *   Meetings (Chapter 16)
 *   Mentalizing (Chapter 8)
-*   Micro-Behaviors (Chapter 13, 17)
+*   Micro-Behaviors (Chapter 12, 17)
 *   Micro-Moments (Chapter 17)
 *   Miller, George A. (Chapter 11, Appendix A)
 *   Mirror Neurons (Chapter 8)
@@ -86,7 +86,7 @@
 **N**
 *   Neural Coupling (Chapter 11)
 *   Neuromythology (Preface)
-*   Neuroplasticity (Chapter 13)
+*   Neuroplasticity (Chapter 12)
 *   Non-verbal communication (Chapter 8, 16)
 
 **O**
@@ -110,7 +110,7 @@
 
 **R**
 *   Rapport (Chapter 9)
-*   Relatedness (SCARF) (Chapters 6, 12, 13, 14, 20)
+*   Relatedness (SCARF) (Chapters 6, 12, 14, 20)
 *   Repair Protocol (Chapter 12)
 *   Resilience (Chapter 19)
 *   Rock, David (Chapter 6, 12, Appendix A)
@@ -122,18 +122,18 @@
     *   As a diagnostic tool (Chapter 6)
 *   Science, Limitations of (Preface)
 *   Self-Compassion (Chapter 19)
-*   Sentinel Brain Profile (Chapters 3, 8, 9, 11, 12, 13, 18, 20)
+*   Sentinel Brain Profile (Chapters 3, 8, 9, 11, 12, 18, 20)
 *   Shadow Conductor (Chapter 3)
 *   Silence (Chapter 8, 12, 16)
 *   Social Gravity (Chapter 5)
 *   Social Pain (Chapter 4)
-*   Status (SCARF) (Chapters 6, 8, 11, 12, 13, 14, 20)
+*   Status (SCARF) (Chapters 6, 8, 11, 12, 14, 20)
 *   Storytelling (Chapter 11)
     *   And, But, Therefore (ABT) Arc
 
 **T**
 *   30-Day Conductor's Challenge (Appendix C)
-*   Threat Response (Chapters 4, 1, 12, 13)
+*   Threat Response (Chapters 4, 1, 12)
 *   Trust (Chapter 9)
 
 **V**

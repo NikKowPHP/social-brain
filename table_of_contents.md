@@ -11,9 +11,6 @@
 **Chapter 1:** Your First Instrument: The Emergency Reset
 *The Neuroscience of Emotional Self-Regulation*
 
-**Chapter 2:** The Conductor's Blind Spot
-*Why Good Intentions Aren't Enough*
-
 **Chapter 3:** The Social Brain Diagnostic
 *Understanding Your Orchestra*
 
@@ -49,10 +46,7 @@
 *Using Clarity and Storytelling to Make Your Message Stick*
 
 **Chapter 12:** Conducting Through Conflict
-*Navigating Difficult Conversations and Setting Boundaries*
-
-**Chapter 13:** The Art of Productive Feedback
-*The Neuroscience of Giving and Receiving "Bug Reports"*
+*Giving Feedback, Navigating Disputes, and Setting Boundaries*
 
 **Chapter 14:** Adapting to Your Environment
 *Navigating New Cultures and Hostile Orchestras*
