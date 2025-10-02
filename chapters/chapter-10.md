@@ -33,7 +33,7 @@ Maria saw the gap. The protocol wasn't enough. "Mark, she's not arguing about th
 
 That was the final bridge. Mark looked at Jane, seeing not an obstacle, but a design constraint. Jane, hearing her trauma honored as a valid requirement, took a sharp breath. The sound was loud in the quiet room. "I will not sign off on your plan," she said to Mark, her voice firm. "But I will sign off on a 48-hour, high-risk, full-scale prototype. We build it, we try to break it with everything we have. If it holds, we go. If it fails, we never speak of it again, and we use the old stack. This is the only way we meet the deadline without me breaking my promise to that first team."
 
-Mark stared at her, stunned. It wasn't a compromise. It was a gamble—born not from a negotiation, but from a scar. For the first time, he saw her not as a roadblock, but as a different kind of engineer, one whose rigor was forged in fire. "Okay," he said, his voice quiet. "Okay, Jane. Let's do it."
+Mark stared at her, stunned. It was a compromise. It was a gamble—born not from a negotiation, but from a scar. For the first time, he saw her not as a roadblock, but as a different kind of engineer, one whose rigor was forged in fire. "Okay," he said, his voice quiet. "Okay, Jane. Let's do it."
 
 The deadlock was not just resolved; it was transformed.
 
@@ -47,7 +47,8 @@ The question stopped her. It hadn't felt like a win. It felt messy, and dangerou
 
 ---
 #### **From the Orchestra: Mark's Log**
-That meeting with Maria and Jane was... different. I still think this is all a bunch of soft-skill nonsense—if my logic was sound, that should have been enough. But it wasn't. Then Jane told that story about Apex. I've worked with her for three years and had no idea. It was... illogical. And it changed everything. I don't understand what Maria is doing, but it's working. At least we're not dead in the water anymore.
+A week later...
+The "Apex" story was… something. But yesterday we got into another argument about server specs. The old dynamic is still there. It feels like we took one step forward and two steps back. I don't know if this new 'Maria' is going to stick.
 
 ---
 ### **Chapter 10 Debrief: The Core Duo in Concert**

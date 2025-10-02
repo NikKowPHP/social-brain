@@ -1,5 +1,7 @@
 ### **Chapter 7: Your Toolkit Map & Cheat Sheet**
 
+*(A note to the designer: This chapter is intended to be a single, full-page visual infographic—the master blueprint for the Conductor's toolkit. It should serve as a quick, visual reference that the reader can return to again and again.)*
+
 Welcome to Part II, the heart of your training. In this section, we will move from diagnosis to practice, building your toolkit one instrument at a time.
 
 This chapter is your map. It provides a high-level overview of the complete system architecture up front to prevent cognitive overload. Refer back to this page whenever you need to see how a specific tool fits into the larger system.

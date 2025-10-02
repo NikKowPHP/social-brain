@@ -102,9 +102,8 @@ You can't force trust, but you can run a protocol of behaviors that trigger an o
 ### **Conductor's Practice**
 
 #### **Toolkit Summary**
-*   **Tool:** The Connection & Trust Protocol (Chapter 8)
-*   **Toolkit Tier:** Core Duo
-*   **Purpose:** To move beyond logic to connect with the emotional "music" of a conversation, and to create the neurochemical conditions for trust. This is the second essential tool of your **Core Duo**.
+*   **Principle: Connect Before You Solve.** Making someone *feel* heard is a biological intervention that soothes their threat response and creates the conditions for trust.
+*   **Tool: The Connection & Trust Protocol.** This is a suite of behaviors for making others feel seen, heard, and safe. Use presence, the Empathy Loop ("What's the hardest part...?"), and Calibrated Vulnerability to create psychological safety and rapport. This is the second essential tool of your **Core Duo**.
 
 #### **Logbook Entry**
 *   **Experiment 1 (Connection):** In your next conversation where someone shares a frustration, your only goal is to ask **"What's the hardest part about that for you?"** Then, put your phone face down, and just listen. Log the data: what was their immediate reaction? What did you learn?

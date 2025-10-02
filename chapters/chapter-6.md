@@ -42,7 +42,8 @@ The **SCARF model** is the single most powerful diagnostic tool in this book. It
 ### **Conductor's Practice**
 
 #### **Toolkit Summary**
-*   **The Core Principle:** The SCARF model gives you a diagnostic dashboard for the social brain. The brain is constantly scanning for threats and rewards in five key domains: **S**tatus, **C**ertainty, **A**utonomy, **R**elatedness, and **F**airness. A perceived threat in any of these areas can trigger a defensive, "hijacked" response.
+*   **Principle: The Brain Has a Social Security System.** It is constantly scanning for threats and rewards in five key domains.
+*   **Tool: The SCARF Dashboard.** Use **S**tatus, **C**ertainty, **A**utonomy, **R**elatedness, and **F**airness as a diagnostic lens to understand the hidden drivers of a social interaction. A perceived threat in any of these areas can trigger a defensive, "hijacked" response.
 
 #### **The 1% Upgrade**
 For the next 24 hours, your only mission is to start using this new diagnostic tool. When you see a small flare-up of tension in a conversation or meeting, ask yourself: *Which of the five SCARF gauges just went into the red?* Just practice seeing the code without trying to fix it.

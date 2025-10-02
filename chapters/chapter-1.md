@@ -46,8 +46,8 @@ Do this once or twice. This is the reset command. The long exhale activates your
 ### **Conductor's Practice**
 
 #### **Toolkit Summary**
-*   **The Core Principle:** You cannot *think* your way out of an emotional hijack; you must *regulate* your way out of it.
-*   **The Tool: The Conductor's Breath.** A physiological sigh (double inhale through the nose, long slow exhale through the mouth) is the fastest way to manually activate your vagus nerve, which acts as a biological brake pedal on your brain's stress response.
+*   **Principle: Regulate Your Biology First.** You cannot *think* your way out of an emotional hijack; you must *breathe* your way out of it.
+*   **Tool: The Conductor's Breath.** A physiological sigh (double inhale through the nose, long slow exhale through the mouth) is your method for manually activating the vagus nerve, which acts as a biological brake pedal on your brain's stress response.
 
 #### **The 1% Upgrade**
 Do not wait for a crisis to practice this. Practice The Conductor's Breath three times today when you are perfectly calm—waiting for code to compile, sitting at a red light. By doing this, you are building a new neural pathway so that when the real alarm bell rings, your brain already knows the path to safety.

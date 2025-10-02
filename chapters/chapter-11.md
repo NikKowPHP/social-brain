@@ -29,12 +29,9 @@ Maria's stomach dropped. Odyssey was David's failing pet project, a notoriously 
 A conductor is responsible for both the technical clarity of the score and the emotional power of the melody. This chapter gives you the tools for both.
 
 #### **Part 1: The Clarity Protocol (The Notation)**
-The first responsibility of a conductor is to provide a clear score. If the notation is ambiguous, the orchestra will be confused. This protocol is your system of notation.
+*(Visual Cue: A simple icon of a lightbulb)*
 
-> ### **Dashboard Integration**
-> *   **Tool:** The Clarity Protocol
-> *   **Toolkit Tier:** Ensemble
-> *   **Purpose:** To respect the receiver's cognitive load and ensure your message is understood.
+The first responsibility of a conductor is to provide a clear score. If the notation is ambiguous, the orchestra will be confused. This protocol is your system of notation.
 
 **The Science:** The brain's **working memory** is a tiny "mental workbench" that can only hold about four or five chunks of information at a time. It crashes from **cognitive load** when it receives long, unstructured messages. Clarity is an act of respect for this biological limitation.
 
@@ -44,12 +41,9 @@ The first responsibility of a conductor is to provide a clear score. If the nota
 3.  **Chunk the Details:** Use short paragraphs, bullet points, and bolding to format information for the brain.
 
 #### **Part 2: The Storytelling Technique (The Melody)**
-But a clear score is not enough; it must have a memorable melody. This technique is how you turn dry data into music that sticks.
+*(Visual Cue: A simple icon of a speech bubble with an arrow inside, showing progression)*
 
-> ### **Dashboard Integration**
-> *   **Tool:** The Storytelling Technique
-> *   **Toolkit Tier:** Ensemble
-> *   **Purpose:** To make data and logic persuasive by framing them within a memorable narrative.
+But a clear score is not enough; it must have a memorable melody. This technique is how you turn dry data into music that sticks.
 
 **The Science:** A compelling story causes **neural coupling**, where the listener's brain activity to synchronizes with the storyteller's. Resolving tension in a story releases dopamine, acting like a "save" button in the brain.
 

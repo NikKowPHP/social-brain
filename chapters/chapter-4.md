@@ -40,7 +40,7 @@ Then, just listen. This simple question flips the interaction from analysis to c
 ### **Conductor's Practice**
 
 #### **Toolkit Summary**
-*   **The Core Principle:** The brain processes social threats (rejection, exclusion, loss of status) in the exact same neural circuits that process physical pain. From your brain's perspective, a harsh word can feel like a physical wound.
+*   **Principle: Social Pain is Real Pain.** The brain processes social threats like rejection or exclusion in the exact same neural circuits that process physical pain. A harsh word can feel like a physical wound.
 
 #### **The 1% Upgrade**
 The next time you feel the sting of a curt email or a dismissive comment, try this: Label the feeling as a "social pain event." Just the act of labeling the neurological event can give your rational brain a tiny bit of distance and control.
