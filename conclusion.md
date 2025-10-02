@@ -3,12 +3,12 @@
 We have reached the end of our investigation. We have built a powerful toolkit for understanding and navigating the complex, beautiful system of human connection. But the final lesson is a paradox: the ultimate goal of this entire system is to learn to trust what lies beyond it. The system's true purpose is to clear away the noise of misunderstanding and threat so that unpredictable, un-systemizable, and genuinely human moments can occur.
 
 #### **Becoming an Adaptive Conductor**
-In Appendix E, we identified the "Adaptive Profile" as the ideal—a conductor who can call upon the **Architect's** logic, the **Connector's** empathy, and the **Sentinel's** insight with intention. The entire journey of this book is the roadmap to developing that profile. It is not a separate step, but the integrated result of practice.
+In Chapter 2, we identified the "Adaptive Profile" as the ideal—a conductor who can call upon the **Architect's** logic, the **Connector's** empathy, and the **Sentinel's** insight with intention. The entire journey of this book is the roadmap to developing that profile. It is not a separate step, but the integrated result of practice.
 
 Developing your adaptive ability means consciously practicing the tools that feel least natural.
-*   If you are an **Architect**, your path to becoming adaptive is through the consistent practice of *empathetic listening* and *calibrated vulnerability* (Chapter 7).
-*   If you are a **Connector**, your growth lies in mastering the *art of setting clear boundaries* (Chapter 11) and the *principles of clarity* (Chapter 10), learning to be clear even when it creates discomfort.
-*   If you are a **Sentinel**, your work is centered on the **Conductor's Breath (Chapter 1)** and the *discipline of seeking data over drama when receiving feedback* (Chapter 11), training your system to see data instead of just threats.
+*   If you are an **Architect**, your path to becoming adaptive is through the consistent practice of *empathetic listening* and *calibrated vulnerability* (Chapter 8).
+*   If you are a **Connector**, your growth lies in mastering the *art of setting clear boundaries* (Chapter 12) and the *principles of clarity* (Chapter 11), learning to be clear even when it creates discomfort.
+*   If you are a **Sentinel**, your work is centered on the **Conductor's Breath (Chapter 1)** and the *discipline of seeking data over drama when receiving feedback* (Chapter 12), training your system to see data instead of just threats.
 
 Adaptability is not about losing your native strengths; it is about expanding your range, so you can choose the right instrument for the music the moment requires.
 

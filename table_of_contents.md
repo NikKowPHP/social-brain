@@ -11,60 +11,63 @@
 **Chapter 1:** Your First Instrument: The Emergency Reset
 *The Neuroscience of Emotional Self-Regulation*
 
-**Chapter 2:** The Conductor's Challenge
+**Chapter 2:** What Instrument Do You Play? Discovering Your Orchestra
+*The Social Brain Diagnostic*
+
+**Chapter 3:** The Conductor's Challenge
 *Setting the Stakes of the Investigation*
 
-**Chapter 3:** The Pain of Miscommunication
+**Chapter 4:** The Pain of Miscommunication
 *Why a Harsh Word Feels Like a Physical Wound*
 
-**Chapter 4:** The Laws of Social Gravity
+**Chapter 5:** The Laws of Social Gravity
 *Conducting From Your Position*
 
-**Chapter 5:** The Social Brain's Dashboard
+**Chapter 6:** The Social Brain's Dashboard
 *A Deep Dive into the SCARF Model*
 
 ---
 
 ### **Part II: The Toolkit - Mastering the Core Performances**
 
-**Chapter 6:** Your Toolkit Map & Cheat Sheet
+**Chapter 7:** Your Toolkit Map & Cheat Sheet
 
 **The Core Duo: Your Foundational Practice**
 
-**Chapter 7:** The Connection & Trust Protocol
+**Chapter 8:** The Connection & Trust Protocol
 *The Neuroscience of Presence, Empathy & Vulnerability*
 
-**Chapter 9:** The Core Duo in Concert
+**Chapter 10:** The Core Duo in Concert
 *Proving the Power of Your Foundational Toolkit*
 
 **The Ensemble Toolkit: Specialized Instruments**
 
-**Chapter 10:** Conducting for Clarity and Influence
+**Chapter 11:** Conducting for Clarity and Influence
 *Using Clarity and Storytelling to Make Your Message Stick*
 
-**Chapter 11:** Conducting Through Conflict
+**Chapter 12:** Conducting Through Conflict
 *Giving Feedback, Navigating Disputes, and Setting Boundaries*
 
-**Chapter 12:** Adapting to Your Environment
+**Chapter 13:** Adapting to Your Environment
 *Navigating New Cultures and Hostile Orchestras*
 
 ---
 
 ### **Part III: Integration and Lasting Change**
 
-**Chapter 13:** Conducting the Meeting
+**Chapter 14:** Conducting the Meeting
 *A Deep Dive Case Study*
 
-**Chapter 14:** Conducting the Asynchronous Orchestra
+**Chapter 15:** Conducting the Asynchronous Orchestra
 *Building Connection Across Time and Space*
 
-**Chapter 15:** The Integrated Conductor
+**Chapter 16:** The Integrated Conductor
 *Knowing When to Put the Baton Down*
 
-**Chapter 16:** The Conductor's Legacy
+**Chapter 17:** The Conductor's Legacy
 *Navigating Disappointment and Building a Self-Tuning Orchestra*
 
-**Chapter 17:** Conducting the Dissonance
+**Chapter 18:** Conducting the Dissonance
 *A Final Reflection on Imperfect Connection*
 
 **Conclusion:** The Conductor's Final Paradox
@@ -82,8 +85,6 @@
 
 **Appendix D:** A Responsible Note on Scope and Professional Help
 
-**Appendix E:** The Social Brain Diagnostic
-
 **Appendix F:** A Conductor's Field Guide: Common Questions and Challenges
 
 **Glossary**
@@ -93,3 +94,4 @@
 **Acknowledgments**
 
 **About the Author**
+      
