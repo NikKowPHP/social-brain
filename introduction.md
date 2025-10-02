@@ -8,7 +8,13 @@ I was about to be completely ignored.
 
 I presented the data. They nodded. Then, a senior marketing director stood up and told a simple, emotional story about a single customer. His story had a fraction of my data but a thousand times the impact. I watched in disbelief as the room turned, his narrative completely overriding my logic. My idea was dead.
 
-I didn't justfeel misunderstood; I felt invisible. It was a brutal "bug report" on my entire approach to human interaction, a failure that would haunt me for years but also spark a relentless investigation. That night, I couldn't sleep. The question burned in my mind: *Why does a good story always beat good data? Why does human connection feel like a chaotic, unpredictable system? What is the source code?*
+I didn't just feel misunderstood; I felt invisible. It was a brutal "bug report" on my entire approach to human interaction, a failure that would haunt me for years but also spark a relentless investigation.
+
+But lest you think this book is a map to becoming a perfect communicator, let me tell you what happened last Christmas. I got into a quiet, painful argument with my brother over the holidays. It was about something small and stupid, the kind of disagreement that is never really about the thing you're arguing about. I tried to use the tools. I took a Conductor's Breath. I tried to deploy the Empathy Loop. I said, "It sounds like the hardest part for you is..." He cut me off. "Don't use your work voice on me," he said, his voice flat. He was right.
+
+That's the real lesson of this book. It's not about becoming a flawless performer. It's about learning the skills to repair connection when you inevitably, messily, and humanly break it. This is not a rulebook; it is a rehearsal space for imperfect people.
+
+My investigation began with a question that burned in my mind after that boardroom failure: *Why does a good story always beat good data? Why does human connection feel like a chaotic, unpredictable system? What is the source code?*
 
 That question led me on a ten-year journey from the clean logic of a compiler to the messy, brilliant source code of the human brain. I dug through the vaults of modern neuroscience, searching for the hidden operating system that governs every human interaction. What I found was staggering. The frustrating, chaotic moments of our lives are not random. They are the predictable results of ancient wiring running in every one of us.
 

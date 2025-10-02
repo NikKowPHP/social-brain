@@ -50,15 +50,13 @@ She sent a follow-up email that focused on clarity. It only had two sections:
 Maria used a layered approach (The Breath + the principle of connection) to co-regulate the room, preventing **Neural Contagion** and creating an environment of high psychological safety even in a high-stakes disagreement.
 
 ---
-### **Conductor's Logbook: Data Collection**
+### **Conductor's Practice**
 
+#### **Logbook Entry**
 This week, you will conduct one experiment in a meeting, even if you are not the official leader.
-
-**Your Experiment:** Choose and implement **one** practice from Maria's deep dive for an upcoming meeting.
+*   **Your Experiment:** Choose and implement **one** practice from Maria's deep dive for an upcoming meeting.
 1.  **The Setup:** Which meeting will you focus on?
 2.  **The Intervention:** Which single practice will you implement? (e.g., sending a SCARF-aware agenda, opening by stating roles, focusing on connection with a dissenter, sending a clear follow-up).
 3.  **The Data:** What was the observable impact of your intervention on the meeting's tone or outcome? What does this data tell you about the group's dynamics?
 4.  **The Analysis:** How did your chosen intervention help you practice a non-dominant brain profile? (e.g., 'As an **Architect**, focusing on connection helped me practice my **Connector** brain.')
-
-**Join the Orchestra:** What was the impact of your intervention? Sharing these small "meeting wins" (or "meeting data points") is a powerful way conductors in the community learn from each other's experiments.
       

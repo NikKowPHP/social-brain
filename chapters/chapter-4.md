@@ -37,25 +37,17 @@ Think of this as the "apply pressure" of conversational first-aid. When you sens
 Then, just listen. This simple question flips the interaction from analysis to connection and signals to the other person's brain that you are an ally. It is a micro-dose of the Empathy Loop, and it is your second instrument.
 
 ---
-> ### **Neuro-Toolkit: Social Pain**
->
-> **The Core Principle:** The brain processes social threats (rejection, exclusion, loss of status) in the exact same neural circuits that process physical pain.
----
-> ### **The 1% Upgrade**
->
-> The next time you feel the sting of a curt email or a dismissive comment, try this: Label the feeling as a "social pain event." Just the act of labeling the neurological event can give your rational brain a tiny bit of distance and control.
+### **Conductor's Practice**
 
----
+#### **Toolkit Summary**
+*   **The Core Principle:** The brain processes social threats (rejection, exclusion, loss of status) in the exact same neural circuits that process physical pain. From your brain's perspective, a harsh word can feel like a physical wound.
 
-**The Immediate Practice:**
-Become a "Social Pain Detective." When you see a defensive reaction (in yourself or others), ask: *What social threat might they be perceiving right now?*
+#### **The 1% Upgrade**
+The next time you feel the sting of a curt email or a dismissive comment, try this: Label the feeling as a "social pain event." Just the act of labeling the neurological event can give your rational brain a tiny bit of distance and control.
 
----
-### **Conductor's Logbook: Data Collection**
-
+#### **Logbook Entry**
 Time to practice being a Social Pain Detective.
-
-**Your Experiment:** Over the next few days, your goal is to observe one "social pain" event in the wild.
+*   **Your Experiment:** Over the next few days, your goal is to observe one "social pain" event in the wild.
 1.  **The Data Point:** Describe a moment when you saw someone (or yourself) have a defensive or emotional reaction.
 2.  **The Analysis:** What social threat might they have been perceiving? What was the specific data (words, tone, body language) that led to your hypothesis?
 3.  **Integration:** How could becoming a 'Social Pain Detective' help you strengthen your least-dominant brain profile?

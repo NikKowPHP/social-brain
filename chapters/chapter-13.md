@@ -29,14 +29,7 @@ The brain's social hardware (SCARF) is universal, but culture is the software. T
 3.  **Test (Run an Experiment):** Run a small, low-risk experiment to test your hypothesis.
 
 #### **Part 2: The Conductor's Shield Protocol**
-This is a defensive tool of last resort for navigating manipulative or bad-faith actors. Use it only after good-faith attempts at connection have repeatedly failed.
-
-> ### **Self-Check: Am I Facing a Bad-Faith Actor?**
-> Before using this tool, ask:
-> 1.  **Have I Consistently Used the Core Duo First?** Have my good-faith attempts been repeatedly ignored or used against me?
-> 2.  **Is There a Pattern of Manipulation?** Is this a consistent pattern of twisting facts and shifting goalposts?
-> 3.  **Could I Be Misinterpreting a Different Style?** Is it possible this is just a blunt Architect, a stressed Sentinel, or a cultural difference?
-> If you cannot confidently answer "yes" to the first two questions, the Shield is the wrong tool.
+This is a defensive tool of last resort for navigating manipulative or bad-faith actors. Before using it, you must check your own reasoning. Ask yourself: Have I consistently used the Core Duo first, and have my good-faith attempts been repeatedly ignored or used against me? Is there a consistent pattern of manipulation, like twisting facts and shifting goalposts? Could I be misinterpreting a different cultural style, a blunt Architect, or a stressed Sentinel? If you cannot confidently answer "yes" to the first two questions, the Shield is the wrong tool.
 
 **The Science:** A manipulative actor uses SCARF domains as weapons to trigger your amygdala hijack. Your strategy must be **threat neutralization.**
 

@@ -39,24 +39,19 @@ The **SCARF model** is the single most powerful diagnostic tool in this book. It
 *   **The Wreckage in Maria's Meeting:** While not an explicit trigger in the argument, the background context of David's political pressure created a cloud of **Unfairness** over the entire meeting. The team felt they were doing good work under impossible constraints, only to be undermined by an outsider. This simmering sense of injustice lowered everyone's threshold for other threats.
 
 ---
-#### **The Practice: Your First Tool is a New Way of Seeing**
-The act of observing the SCARF dashboard in real-time is a skill in itself. Before you can change the music, you must learn to hear it.
+### **Conductor's Practice**
 
----
-> ### **The 1% Upgrade: Putting on the Conductor's Goggles**
->
-> For the next 24 hours, your only mission is to start using this new diagnostic tool. When you see a small flare-up of tension, ask yourself: *Which of the five gauges just went into the red?* Just practice seeing the code.
+#### **Toolkit Summary**
+*   **The Core Principle:** The SCARF model gives you a diagnostic dashboard for the social brain. The brain is constantly scanning for threats and rewards in five key domains: **S**tatus, **C**ertainty, **A**utonomy, **R**elatedness, and **F**airness. A perceived threat in any of these areas can trigger a defensive, "hijacked" response.
 
----
-### **Conductor's Logbook: Data Collection**
+#### **The 1% Upgrade**
+For the next 24 hours, your only mission is to start using this new diagnostic tool. When you see a small flare-up of tension in a conversation or meeting, ask yourself: *Which of the five SCARF gauges just went into the red?* Just practice seeing the code without trying to fix it.
 
+#### **Logbook Entry**
 Let's use the dashboard to run an experiment.
-
-**Your Experiment:** In one upcoming conversation or meeting this week, predict which SCARF domain is most likely to be threatened for a key participant. Your only goal is to observe and collect data.
+*   **Your Experiment:** In one upcoming conversation or meeting this week, predict which SCARF domain is most likely to be threatened for a key participant. Your only goal is to observe and collect data.
 1.  **The Hypothesis:** Which meeting/person? Which SCARF threat did you predict?
 2.  **The Data:** Was your hypothesis accurate? What specific data did you collect (words, body language)?
 3.  **The Analysis:** What did this experiment teach you about the social dynamics at play?
 4.  **Integration:** How could using the SCARF dashboard as a predictive tool help you strengthen your least-dominant brain profile?
-
-**Join the Orchestra:** Which SCARF domain is your primary trigger? This is one of the most foundational discoveries you can make, and a frequent starting point for discussion among other conductors.
       

@@ -27,13 +27,7 @@ The system has a built-in, physical 'brake pedal'—a superhighway of nerves cal
 
 #### **The Practice: The Conductor's Breath**
 
-Your first tool is learning how to skillfully apply this biological brake. It is the quickest way to regain command of your internal orchestra.
-
-> ### **Profile Alert: The Hijack**
->
-> *   **Sentinel Power-Up:** The alarm bell is your default state. The Conductor's Breath is your primary path to calm.
-> *   **Architect Alert:** The hijack is what knocks you off your foundation of reason. Use the breath to stay online and defend your ideas with calm clarity.
-> *   **Connector Alert:** Use the breath to regulate your own system so you can support others without drowning yourself in their stress.
+Your first tool is learning how to skillfully apply this biological brake. It is the quickest way to regain command of your internal orchestra. For a **Sentinel**, whose alarm bell is their default state, the Conductor's Breath is the primary path to calm. For an **Architect**, the hijack is what knocks you off your foundation of reason; use the breath to stay online and defend your ideas with calm clarity. And for a **Connector**, use the breath to regulate your own system so you can support others without drowning in their stress.
 
 **1. Develop Interoception (The System Monitor).**
 Notice the physical error message before it escalates: a tightening in your chest, a clenching in your jaw, heat in your face. This is your personal system alert.
@@ -49,22 +43,22 @@ Here is the function call:
 Do this once or twice. This is the reset command. The long exhale activates your vagus nerve and tells your brain's security guard to stand down.
 
 ---
-> ### **The 1% Upgrade**
->
-> Do not wait for a crisis to practice this. Practice The Conductor's Breath three times today when you are perfectly calm—waiting for code to compile, sitting at a red light. By doing this, you are building a new neural pathway so that when the real alarm bell rings, your brain already knows the path to safety.
->
+### **Conductor's Practice**
 
----
-### **Conductor's Logbook: Data Collection**
+#### **Toolkit Summary**
+*   **The Core Principle:** You cannot *think* your way out of an emotional hijack; you must *regulate* your way out of it.
+*   **The Tool: The Conductor's Breath.** A physiological sigh (double inhale through the nose, long slow exhale through the mouth) is the fastest way to manually activate your vagus nerve, which acts as a biological brake pedal on your brain's stress response.
 
+#### **The 1% Upgrade**
+Do not wait for a crisis to practice this. Practice The Conductor's Breath three times today when you are perfectly calm—waiting for code to compile, sitting at a red light. By doing this, you are building a new neural pathway so that when the real alarm bell rings, your brain already knows the path to safety.
+
+#### **Logbook Entry**
 Let's begin collecting baseline data for your early-warning system.
-
 1.  **Your Hijack 'Tell':** What is the primary physical sensation that lets you know your **Sentinel** brain is activating? (e.g., heat in the face, tightness in the chest, clenching jaw, knot in the stomach). This is your personal system alert.
 2.  **The Experiment:** Over the next week, your goal is to notice this "tell" in real time. Briefly describe one event that triggered it.
 3.  **Log the Data:** Did you use The Conductor's Breath? What was the immediate effect on the physical sensation? (Note: The goal is to collect data, not achieve perfect calm. Even if you still felt hijacked, what did you notice?)
 4.  **Analysis:** How could mastering The Conductor's Breath help you strengthen your least-dominant brain profile?
 
-**Join the Orchestra:** What was your hijack 'tell'? You might be surprised how many other Conductors share the same physical response. This is a common topic of discussion in the community.
 ---
 ### **Dashboard Update**
 
