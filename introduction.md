@@ -45,5 +45,5 @@ Let's be clear about our central metaphor. The old model of a conductor is an au
 
 While these tools will improve every conversation in your life, make no mistake: this is a book about leadership. It is a manual for anyone—manager, parent, or team lead—who wants to create the conditions for others to do their best work. The modern workplace is no longer a factory floor; it is a complex, interconnected orchestra. And it requires a new kind of conductor.
 
-Your journey to becoming the conductor starts now. To prove the power of this approach, Chapter 1 will begin with your first, most essential tool—an emergency reset switch for your nervous system. You will get an immediate, powerful win before you learn a single page of theory. Turn the page, and let's pick up your first instrument.
+To see how this works, we'll join our conductor, Maria, at the precise moment her orchestra is falling into chaos. The feeling she's about to experience—that hot flush of shame, the panicked blankness of being completely misunderstood—is the same invisibility I felt in that boardroom years ago. Her journey to get back in control, starting with her very next breath, is the heart of the Conductor Method. Her story begins, as these stories so often do, in a moment of painful, deafening silence.
       

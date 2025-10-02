@@ -1,5 +1,3 @@
-- [x] Restructure opening chapters to improve narrative flow.
-- [x] Make Maria's skill acquisition more realistic by showing more struggle in her dialogue.
-- [x] Improve narrative momentum by moving interstitial reference chapters to appendices.
-- [x] Improve prose by "showing" emotions instead of "telling" them and making dialogue more natural.
+- [x] Sharpen the hook by improving the narrative transition between the Introduction and Chapter 1.
+- [x] Rewrite Chapter 2 to be an active scene instead of a summary.
       
