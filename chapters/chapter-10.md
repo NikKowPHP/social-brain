@@ -3,11 +3,11 @@
 
 You have now installed the complete Core Trio. Before we add a single specialized instrument to your toolkit, it is essential to pause and appreciate the power of the engine you have just built. If you master only these three skills—Regulation, Connection, and Trust—you can successfully conduct your way through the vast majority of challenging human interactions. This chapter presents a single, complex case study to prove it.
 
-With only weeks until the Sterling Corp. review, Maria's small wins were overshadowed by a new crisis. A major technical deadlock had emerged between Mark, the **[ICON: Blueprint] Architect**, who wanted to use a new, cutting-edge database technology, and Jane, the **[ICON: Shield] Sentinel**, who saw it as a catastrophic risk. The tension had ground all progress to a halt. In a tense meeting, the conflict boiled over.
+With only weeks until the Sterling Corp. review, Maria's small wins were overshadowed by a new crisis. A major technical deadlock had emerged between Mark, the **Architect**, who wanted to use a new, cutting-edge database technology, and Jane, the **Sentinel**, who saw it as a catastrophic risk. The tension had ground all progress to a halt. In a tense meeting, the conflict boiled over.
 
 "If we use the old stack, it will crash, we'll miss the Sterling Corp deadline, and the project is dead," Mark argued, his voice tight. He was making a perfect logical case, but he could feel it wasn't landing. The frustration of not being able to make them *feel* the urgency was more maddening than the technical problem itself.
 
-"Living in the past is better than crashing on launch day," Jane shot back. Her voice was sharp, but for a split second, Maria saw a flicker of something else in her eyes—the memory of a past failure. "I was the lead on the Titan project," Jane added, her voice dropping slightly. "I know what a public failure does to a team. I won't let that happen to this one. What you're proposing is reckless, and I won't sign off on it."
+"Living in the past is better than crashing on launch day," Jane shot back. Her voice was sharp, but for a split second, Maria saw a flicker of something else in her eyes—the memory of a past failure. Jane's voice dropped, losing its sharp edge. "I've seen what a public failure does to a team. I've seen it up close. Never again. I won't sign off on a risk like this."
 
 It was a collective amygdala hijack. The new conductor knew her job was not to dictate a solution, but to create the conditions for one to emerge. She called a meeting with just the three of them. Her only tools were the Core Trio.
 
@@ -19,7 +19,9 @@ To Mark, she did the same: "So for you, this is about our long-term integrity as
 
 Now that the neurochemical weather had changed, Maria deployed Calibrated Vulnerability. "Okay," she said, leaning forward. "I'll be honest. I don't see an easy answer here. I don't have the technical depth to make this call on my own." She paused, then delivered the crucial line. "But I do trust the two of you, completely. I trust that between Jane's world-class ability to mitigate risk and Mark's brilliant architectural vision, there is a third option we haven't found yet. So my only question is this: How can **we** design an experiment that would give you the data you need, Mark, while satisfying your standards for safety, Jane?"
 
-The energy shifted. "I'm not signing off on your plan," Jane said to Mark, her voice firm. "But I am willing to look at a formal proposal for a limited, time-boxed experiment. The burden of proof is on you." Mark bristled, but nodded. "Fine. You'll have it by tomorrow."
+The energy shifted. "I'm not signing off on your plan," Jane said to Mark, her voice firm. She paused, looking not at him, but at the whiteboard, at the impossible deadline. "But..." she took a breath, the sound of it sharp in the tense room. "My grandfather built bridges. He used to say you respect gravity. But he also said you don't discover new materials by building the same bridge twice." She finally met Mark's eyes. "I will sign off on a 48-hour, high-risk, full-scale prototype. We build it, we try to break it, and if it holds, we go. If it fails, we never speak of it again, and we use the old stack. This is the only way we meet the deadline."
+
+Mark stared at her, stunned. It wasn't a compromise. It was a gamble—the kind of bold, intuitive leap he never expected from Jane. It was the most Sentinel-like thing she could do: embrace a huge, immediate risk to avoid the certain, larger failure of missing the deadline. For the first time, he saw her not as a roadblock, but as a different kind of engineer.
 
 The deadlock was not resolved, but it was moved from paralysis to forward motion.
 

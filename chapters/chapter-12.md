@@ -21,20 +21,19 @@ Only then did she pivot to problem-solving. "Thank you for telling me that. You'
 
 The victory was short-lived. With funding secured, Maria now faced a flood of new requests. The most dangerous was a high-stakes, derailing project from senior leader David. Maria knew she had to say "no" to protect her team from burnout. She approached the conversation with a clear, three-part script. First, validate his request: "Thank you so much for seeing the potential here. That dashboard sounds like a fantastic tool." Second, state her reality clearly: "Unfortunately, given our current, locked-down timeline, the team simply doesn't have the capacity to build it right now." Third, offer an alternative: "However, this sounds like the perfect candidate for our first 'Phase 2' project. Could we scope it out so it's ready to go the moment we have bandwidth?"
 
-The protocol worked perfectly. But a week later, David, thwarted, began a campaign of quiet political sabotage. Maria felt a deep, sinking feeling—the **Vulnerability Hangover**, the regret that can follow even a perfectly executed boundary. *I did everything right, and I still lost.* The goal of the protocol, she realized, wasn't to control the outcome; it was to act with integrity and clarity, regardless of the outcome.
+The protocol worked perfectly. But a week later, David, thwarted, began a campaign of quiet political sabotage. Maria felt a deep, sinking feeling—the **Vulnerability Hangover**, the regret that can follow even a perfectly executed boundary. *I did everything right, and I still lost.* The goal of the protocol, she realized, isn't to control the outcome; it was to act with integrity and clarity, regardless of the outcome.
 
 ---
 ### **Chapter 12 Debrief: Navigating Conflict**
 
 #### **Part 1: The Difficult Conversation Protocol**
-Maria successfully navigated a high-stakes conflict by stacking the Core Trio tools into a specific sequence.
-*   **The Science:** A difficult conversation is a minefield of SCARF threats. The goal of the protocol is to systematically reward the other person's social brain to keep their prefrontal cortex online.
-*   **The Protocol:**
-    1.  **Regulate First:** Use **The Conductor's Breath** to quiet your own threat response.
-    2.  **State Benign Intent:** Frame the conversation around a shared goal to signal safety.
-    3.  **Share Data, Not Drama:** Start with a neutral, observable fact, not a judgment.
-    4.  **Use the Empathy Loop:** Hand them the baton with an open-ended question and prove you heard them.
-    5.  **Co-create the Solution:** Use "we" language to solve the problem together.
+A difficult conversation isn't a new skill; it's a performance where you layer the Core Trio in a specific sequence to systematically reward the other person's social brain and keep their prefrontal cortex online.
+
+*   **The Science:** A difficult conversation is a minefield of SCARF threats. This sequence is designed to create safety and keep both of you out of an amygdala hijack.
+*   **The Sequence:**
+    1.  **Start with Regulation:** Use **The Conductor's Breath** to get your own brain online before you even begin the conversation. Your calm is a critical instrument.
+    2.  **Lead with Connection:** Open by using the **Empathy Loop** to state a benign, shared intent ("I want to fix the damage I caused"). Then, share a neutral observation ("I saw you flinch...") and hand them the baton ("...what was happening for you?"). This makes them feel heard, not attacked.
+    3.  **Build a Bridge of Trust:** Use **Calibrated Vulnerability** by admitting your role in the problem ("I am truly sorry... It was out of line"). This creates the psychological safety needed to solve the problem together, using "we" language to signal a shared future.
 
 #### **Part 2: The Boundary Technique (The Graceful "No")**
 *   **The Science:** A "no" can feel like a severe **Relatedness** and **Status** threat. The "Validate, State, Offer" script is designed to protect your Autonomy while minimizing the threat to theirs.

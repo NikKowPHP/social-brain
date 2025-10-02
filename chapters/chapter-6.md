@@ -19,27 +19,25 @@ SCARF is an acronym for the five key domains of social experience that the brain
 
 We will think of these five domains as a real-time dashboard. A conductor's first job is to keep these needles in the green (reward).
 
-[AUTHOR'S NOTE: This is the place for the "Conductor's Dashboard" visual. Imagine a clean, modern dashboard. On the left are the five SCARF gauges (Status, Certainty, Autonomy, Relatedness, Fairness). On the right, there are designated "slots" for the tools the reader will collect. There's a prominent section for the "Core Trio" (with icons for Breath, Empathy, and Trust) and a larger area for the "Ensemble" tools. At the start, these slots are empty silhouettes. The first three slots for the 'Core Trio' are the most critical; filling them is your first major victory as a conductor. This visual should be repeated and updated throughout the book, showing the dashboard filling up as the reader progresses, creating a powerful sense of accomplishment.]
-
 To see the dashboard in action, let's look at the anatomy of a single, disastrous conversation: a failed job interview, where every SCARF domain is systematically threatened.
 
-#### **[ICON: Crown] STATUS: The Pecking Order**
+#### **Status: The Pecking Order**
 *   **Threat Triggers:** Feeling looked down on, being publicly corrected.
 *   **Case Study in Catastrophe:** Interviewer: "I see you went to a state school. We don't get many candidates from there." (Status gauge slams into the red.)
 
-#### **[ICON: Map] CERTAINTY: The Crystal Ball**
+#### **Certainty: The Crystal Ball**
 *   **Threat Triggers:** Vague instructions, unexpected meetings, unclear expectations.
 *   **Case Study in Catastrophe:** Interviewer: "The job is what you make of it. We're looking for someone who can just figure things out." (Vagueness is a massive Certainty threat.)
 
-#### **[ICON: Steering Wheel] AUTONOMY: The Steering Wheel**
+#### **Autonomy: The Steering Wheel**
 *   **Threat Triggers:** Being micromanaged, having decisions made for you.
 *   **Case Study in Catastrophe:** Interviewer: "You'll be given a 48-hour take-home assignment that will probably take you all weekend." (No choice, Autonomy gauge crashes.)
 
-#### **[ICON: Group] RELATEDNESS: The Tribe**
+#### **Relatedness: The Tribe**
 *   **Threat Triggers:** Meeting a stranger, feeling excluded, "us vs. them" language.
 *   **Case Study in Catastrophe:** The interviewer only asks formulaic questions, making no attempt to find a shared connection. (Relatedness needle stays deep in the red.)
 
-#### **[ICON: Scales] FAIRNESS: The Scales of Justice**
+#### **Fairness: The Scales of Justice**
 *   **Threat Triggers:** Seeing someone else get credit for your work, unequal rules, broken promises.
 *   **Case Study in Catastrophe:** Candidate overhears: "My next one is a referral from the CEO. I'll probably just hire them and cancel the rest." (Fairness gauge explodes.)
 

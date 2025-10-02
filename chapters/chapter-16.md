@@ -16,23 +16,23 @@ This chapter is different. Instead of learning a protocol and then seeing a smal
 ***
 
 #### **The Setup: A Meeting on the Brink of Chaos**
-Maria had successfully used the Core Trio to navigate the technical deadlock between Mark and Jane, but the project was now running on a brutally tight, high-pressure timeline. Because of this, she used to dread her team's weekly Phoenix Project status meeting. It was a perfect storm of competing brain profiles: Mark's **[ICON: Blueprint] Architect** brain, Jane's **[ICON: Shield] Sentinel** brain, and Leo's **[ICON: Bridge] Connector** brain.
+Maria had successfully used the Core Trio to navigate the technical deadlock between Mark and Jane, but the project was now running on a brutally tight, high-pressure timeline. Because of this, she used to dread her team's weekly Phoenix Project status meeting. It was a perfect storm of competing brain profiles: Mark's **Architect** brain, Jane's **Sentinel** brain, and Leo's **Connector** brain.
 
 Today's goal was to finalize the launch date—a decision already fraught with tension. Maria knew she had to conduct it from start to finish.
 
 **Step 1: The Conductor Prepares (Before the Meeting)**
-Maria decided to use the **[ICON: Bullet Points] Clarity Protocol (Chapter 11)** and the principles of **SCARF (Chapter 6)** to design the agenda.
-*   She set the title to the meeting's single goal: "Decision: Finalize Q3 Launch Date for Phoenix Project." (Massive **[ICON: Map] Certainty** reward).
-*   She framed the agenda items as questions that invited collaboration. (Rewards **[ICON: Crown] Status** and **[ICON: Steering Wheel] Autonomy**).
+Maria decided to use the **Clarity Protocol (Chapter 11)** and the principles of **SCARF (Chapter 6)** to design the agenda.
+*   She set the title to the meeting's single goal: "Decision: Finalize Q3 Launch Date for Phoenix Project." (Massive **Certainty** reward).
+*   She framed the agenda items as questions that invited collaboration. (Rewards **Status** and **Autonomy**).
 *   She sent it out a full day in advance.
 
 **Step 2: Setting the Stage (The First Two Minutes)**
-Maria opened the call, feeling the tension. She used **[ICON: Crown] Status** rewards to give everyone a clear, valued role: "Mark, I'm counting on your logic... Jane, I need your world-class risk analysis... Leo, I need you to be the voice of our user."
+Maria opened the call, feeling the tension. She used **Status** rewards to give everyone a clear, valued role: "Mark, I'm counting on your logic... Jane, I need your world-class risk analysis... Leo, I need you to be the voice of our user."
 
 **Step 3: Navigating the Dissonance (The Middle of the Meeting)**
 The conflict ignited immediately. Mark presented an aggressive date; Jane countered, "That's reckless."
 
-Maria felt her own system start to hijack. She caught herself, took a silent **[ICON: Lungs] Conductor's Breath (Chapter 1)** to quiet her inner Architect, and deployed the **[ICON: Reflecting Arrows] Empathy Loop (Chapter 8)**.
+Maria felt her own system start to hijack. She caught herself, took a silent **Conductor's Breath (Chapter 1)** to quiet her inner Architect, and deployed the **Empathy Loop (Chapter 8)**.
 
 *   She turned to Jane: "That's a critical point, Jane. It sounds like your core concern isn't just about the date, but about protecting our long-term credibility with users. Is that right?" (Jane's tension dropped.)
 *   Maria then employed **Strategic Silence**. Her calm presence co-regulated the room.
@@ -40,9 +40,9 @@ Maria felt her own system start to hijack. She caught herself, took a silent **[
 Jane shifted from a roadblock to a problem-solving partner, suggesting a caching layer idea. Seeing an opening, Jane briefly looked at Leo. "Leo," she said, a rare note of acknowledgement in her voice, "your user feedback on latency was the flag for this. Good catch." Maria hadn't just managed the conflict; she had conducted the dissonance into a new, more productive key.
 
 **Step 4: The Echo (After the Meeting)**
-She sent a follow-up email using the **[ICON: Bullet Points] Clarity Protocol**. It only had two sections:
-*   **Decision:** "The launch date is confirmed for September 1st." (Maximum **[ICON: Map] Certainty**).
-*   **Action Items:** Clear, concrete next steps for everyone. (Maximum **[ICON: Scales] Fairness** and **[ICON: Steering Wheel] Autonomy**).
+She sent a follow-up email using the **Clarity Protocol**. It only had two sections:
+*   **Decision:** "The launch date is confirmed for September 1st." (Maximum **Certainty**).
+*   **Action Items:** Clear, concrete next steps for everyone. (Maximum **Fairness** and **Autonomy**).
 
 ***
 
@@ -57,7 +57,7 @@ This week, you will conduct one meeting, even if you are not the official leader
 1.  **The Meeting:** Which meeting did you choose to focus on?
 2.  **The Intervention:** Which single practice did you implement? (e.g., sending a SCARF-aware agenda, opening by stating roles, using the Empathy Loop on a dissenter, sending a clear follow-up).
 3.  **Analyze the Data:** What was the observable impact of your intervention on the meeting's tone or outcome? What does this data tell you about the group's dynamics?
-4.  **Path to Adaptive:** How did your chosen intervention help you practice a non-dominant brain profile? (e.g., 'As an [ICON: Blueprint] Architect, using the Empathy Loop helped me practice my [ICON: Bridge] Connector brain.')
+4.  **Path to Adaptive:** How did your chosen intervention help you practice a non-dominant brain profile? (e.g., 'As an **Architect**, using the Empathy Loop helped me practice my **Connector** brain.')
 
 **Join the Orchestra:** What was the impact of your intervention? Sharing these small "meeting wins" (or "meeting data points") is a powerful way conductors in the community learn from each other's experiments.
       

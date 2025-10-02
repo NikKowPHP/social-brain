@@ -37,7 +37,7 @@ I learned to understand the world through the logic of code. At times, I will us
 
 Your brain is a magnificent orchestra. But in high-stakes moments, it often feels like chaos. You are already the conductor of this orchestra. The problem is, no one ever handed you the baton.
 
-This book is the baton.
+To show you how to use this baton, our journey will follow the transformation of a leader I'll call Maria. Maria is a brilliant programmer, a master of logic, who is about to discover—just as I did—that her greatest strengths are the source of her biggest failures in human connection. Her story, a composite of the leaders I've coached, will be our real-world laboratory. We will watch her fail, learn the protocols, and practice them in high-stakes situations. This book is the baton, and Maria's story is the first piece of music we will learn to conduct together.
 
 **Redefining the Conductor**
 

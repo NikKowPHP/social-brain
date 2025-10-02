@@ -1,6 +1,6 @@
 ### **Chapter 15: Troubleshooting the Toolkit (A Conductor's Q&A)**
 
-*(Author's Note: The questions in this chapter are adapted from the most common and painful challenges shared by members of the Conductor's Guild online community and our live Q&A sessions. They represent the real-world friction that occurs when you start to change the music in a system that's used to the old song. You are not alone in this struggle.)*
+*(The questions in this chapter are adapted from the most common and painful challenges shared by members of the Conductor's Guild online community and our live Q&A sessions. They represent the real-world friction that occurs when you start to change the music in a system that's used to the old song. You are not alone in this struggle.)*
 
 ---
 

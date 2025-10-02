@@ -1,6 +1,5 @@
-- [x] Fix the disconnected opening structure of the book.
-- [x] Humanize the archetypes (Mark, Jane, Leo) with hidden contradictions.
-- [x] Fix the constant narrative interruption by moving instructional content to a "Debrief" section at the end of each chapter.
-- [x] Remove Chapter 3 and integrate its concepts into the introduction and Chapter 2 to improve pacing.
-- [x] Refine Maria's climax in Chapter 19 and deepen Jane's character motivation in Chapter 10.
+- [x] Smooth the narrative transition from the author's story to Maria's story in the introduction.
+- [x] Deepen character development for Maria and supporting characters.
+- [x] Improve plot structure by introducing the antagonist earlier and creating a midpoint reversal.
+- [x] Refine prose and voice by reducing cognitive load and removing meta-commentary.
       

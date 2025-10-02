@@ -3,11 +3,11 @@
 
 Our investigation so far has focused on high-stakes, goal-oriented communication. But a life, and a relationship, is not defined by these moments of tension. It is built in the quiet spaces in between. This chapter is about the most powerful instrument in your entire toolkit: the ability to be fully present with another human being.
 
-With the Sterling Corp. technical review now looming just six weeks away, the pressure on the team was immense, and Maria was learning this the hard way. Leading with her [ICON: Blueprint] Architect brain, she had recently failed to connect with Leo, her most promising junior engineer, causing him to retreat at the worst possible time.
+With the Sterling Corp. technical review now looming just six weeks away, the pressure on the team was immense, and Maria was learning this the hard way. Leading with her **Architect** brain, she had recently failed to connect with Leo, her most promising junior engineer, causing him to retreat at the worst possible time.
 
 During a one-on-one, he was explaining a complex issue. As he spoke, Maria was half-listening, but also glancing at Slack notifications. She noticed Leo's energy fade. He trailed off and said, "…anyway, it's probably not a big deal." The connection was broken. She had failed to broadcast the signal, "You matter."
 
-Later, determined to fix her mistake, Maria tried to use the Empathy Loop protocol she had just learned. But she did it mechanically, as an **[ICON: Blueprint] Architect** following a script. "Hey. I was thinking about earlier," she began. "What was the hardest part about that for you?"
+Later, determined to fix her mistake, Maria tried to use the Empathy Loop protocol she had just learned. But she did it mechanically, as an **Architect** following a script. "Hey. I was thinking about earlier," she began. "What was the hardest part about that for you?"
 
 "The hardest part was that I felt completely invisible," Leo said.
 
@@ -17,7 +17,7 @@ The effect was a disaster. Leo didn't respond. He just gave a slight, humorless 
 
 That evening, Maria vented to her partner, Alex. "I do everything by the book! I use the stupid 'empathy' script, and he accuses me of using a 'therapy voice'! It's impossible!" she fumed.
 
-Alex, who was used to Maria's logical post-mortems of work problems, just listened. "So," he said after a moment, "you followed the instructions, and the computer didn't do what you wanted." The words, meant gently, landed like a punch. "He's not a computer, Maria," Alex added softly. "You were kind of a jerk to him before, right? Did you expect one 'sorry' to fix it?"
+Alex sighed, putting down his book. "Honey, you're doing your 'debug the human' thing again. Remember what happened with your brother last Christmas? You can't just run a script to fix a feeling. You were a jerk to the guy. It's probably going to take more than one conversation for him to trust you again."
 
 The question cut through her defensive anger. Her Architect brain had treated the Empathy Loop like a piece of code to be executed for a predictable output. She had been so focused on running the protocol correctly that she had missed the point entirely. It wasn't about the script; it was about the connection.
 
@@ -77,5 +77,5 @@ When someone calls you out for being different ("Stop using that therapy voice")
 
 > ### **Dashboard Update**
 >
-> [AUTHOR'S NOTE: Insert a thumbnail of the Conductor's Dashboard here. The first two slots of the CORE TRIO, "[ICON: Lungs] The Conductor's Breath" and "[ICON: Reflecting Arrows] The Connection Protocol," should be filled in. The final Core Trio slot and all Ensemble slots remain empty.]
+**Congratulations.** You have acquired the second instrument of your Core Trio.
       

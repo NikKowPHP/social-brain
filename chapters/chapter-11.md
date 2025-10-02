@@ -15,7 +15,11 @@ In the meeting, she didn't open with a spreadsheet. She opened with a simple, th
 *   **"But..." (The Problem/Tension):** "**But** that engine is now failing. We've seen a 15% increase in data errors, and it cannot handle the load for our critical Q4 launch."
 *   **"Therefore..." (The Solution/Resolution):** "**Therefore**, the Phoenix Project isn't just an upgrade. It is the only way to protect our Q4 launch and build the platform for our next five years of growth."
 
-The board funded the project that afternoon. However, the victory created immense pressure, leading to new internal friction.
+The board was convinced. They funded the project that afternoon. But as Maria was packing up her laptop, David, a senior leader from another division, approached her with a thin smile. "Congratulations, Maria. Great story. In fact, leadership was so inspired they've decided to accelerate synergy."
+
+He continued, "They've just made the Phoenix Project's success a dependency for my new 'Odyssey' data initiative. Our systems will need to be fully integrated before your launch. I'll have my team send over the API docs."
+
+Maria's stomach dropped. Odyssey was David's failing pet project, a notoriously unstable system. An integration would be a technical nightmare, a certain path to delays and missed deadlines. The victory wasn't a victory at all. It was a trap. Her goal was no longer just to build a great product. It was to politically and technically navigate a forced dependency designed to make her fail. The real performance was just beginning.
 
 ---
 ### **Chapter 11 Debrief: Clarity and Storytelling**

@@ -47,38 +47,36 @@ Answer the following questions with your first, honest gut reaction. Don't overt
 
 So, what did you discover? Take a moment to look at your responses. Most of us have a mix, but often one pattern emerges more strongly than the others. Let's explore the music your orchestra tends to play.
 
-[AUTHOR'S NOTE: This is a key place for visual language. Each profile should have a simple, memorable icon that will be used throughout the book whenever the profile is mentioned.]
-
-**If you scored mostly A's, you lead with the [ICON: Blueprint] Architect Brain.**
-[ICON: Blueprint]
+**If you scored mostly A's, you lead with the **Architect** Brain.**
+**Architect**
 *   **Your Superpower:** Logic, clarity, and structure. You are a master of deconstructing complex problems and presenting information in a clear, rational way. You build airtight arguments and are a rock of reason in a sea of chaos. Your orchestra's string and brass sections are world-class.
 *   **Your Growth Edge:** You can sometimes miss the emotional music of a conversation. Your focus on data and logic might lead you to accidentally trigger social threats in others, making them feel like a problem to be solved rather than a person to be understood.
 *   **The Shadow Architect:** Be warned: the Architect's shadow uses flawless logic not to clarify, but to dominate. They wield data like a weapon, making others feel stupid. Your awareness of this shadow is the first step to ensuring you use your powers to build, not to break.
 
-**If you scored mostly B's, you lead with the [ICON: Bridge] Connector Brain.**
-[ICON: Bridge]
+**If you scored mostly B's, you lead with the **Connector** Brain.**
+**Connector**
 *   **Your Superpower:** Empathy, rapport, and social harmony. You instinctively read the emotional tone of a room and know how to make people feel seen, heard, and valued. You are the orchestra's woodwinds, creating warmth and weaving the group together.
 *   **Your Growth Edge:** Your focus on harmony can sometimes lead you to avoid necessary conflict or difficult feedback. In your effort to ensure no one feels bad, you might soften a critical message so much that it loses its clarity and impact.
 *   **The Shadow Connector:** The Connector's shadow uses empathy not to understand, but to manipulate. They are masters of discovering another's needs and insecurities, not to help, but to leverage those vulnerabilities for their own gain.
 
-**If you scored mostly C's, you lead with the [ICON: Shield] Sentinel Brain.**
-[ICON: Shield]
+**If you scored mostly C's, you lead with the **Sentinel** Brain.**
+**Sentinel**
 *   **Your Superpower:** Threat detection, instinct, and rapid response. You are highly attuned to risk and can sense danger or instability before anyone else. You are the orchestra's powerful percussion, the primal rhythm that keeps everyone alert and safe from harm.
 *   **Your Growth Edge:** Your threat-detection system can be overactive. You may perceive threats where none exist, leading to a defensive posture that can inadvertently create a climate of fear or distrust, putting others on the defensive as well.
 *   **The Shadow Sentinel:** The Sentinel's shadow uses threat detection not to protect, but to create fear and paralysis. They manufacture crises to maintain control, use gossip to isolate perceived threats, and hoard information to make themselves indispensable.
 
 **What if your results are a balanced mix?**
-If you found yourself with a near-even split, you don't have one dominant style—you have what's known as an **Adaptive Profile**. Your superpower is situational fluency; you can access the logic of the [ICON: Blueprint] Architect, the empathy of the [ICON: Bridge] Connector, and the instincts of the [ICON: Shield] Sentinel as needed. You are the versatile conductor who is comfortable leading every section of the orchestra.
-*   **Your Growth Edge:** Your adaptability is your greatest strength, but it hides a sophisticated challenge. Your growth edge is moving from **reactively mirroring** the dominant style in the room to **intentionally choosing** the right instrument for the situation. Your challenge is to become a master conductor, not just a perfect mirror. For instance, I once coached a brilliant consultant with an Adaptive profile. Her team was struggling with a toxic, [ICON: Shield] Sentinel-brained client. Instead of conducting the situation towards a healthier state, her adaptability caused her to *mirror* the client's anxiety, enabling his bad behavior by over-empathizing with his perceived threats. Your focus for this book will be on choosing your response with *intention* rather than by default.
+If you found yourself with a near-even split, you don't have one dominant style—you have what's known as an **Adaptive Profile**. Your superpower is situational fluency; you can access the logic of the **Architect**, the empathy of the **Connector**, and the instincts of the **Sentinel** as needed. You are the versatile conductor who is comfortable leading every section of the orchestra.
+*   **Your Growth Edge:** Your adaptability is your greatest strength, but it hides a sophisticated challenge. Your growth edge is moving from **reactively mirroring** the dominant style in the room to **intentionally choosing** the right instrument for the situation. Your challenge is to become a master conductor, not just a perfect mirror. For instance, I once coached a brilliant consultant with an Adaptive profile. Her team was struggling with a toxic, **Sentinel**-brained client. Instead of conducting the situation towards a healthier state, her adaptability caused her to *mirror* the client's anxiety, enabling his bad behavior by over-empathizing with his perceived threats. Your focus for this book will be on choosing your response with *intention* rather than by default.
 
-**Ultimately, the Adaptive Profile is the goal for everyone on this journey.** It represents the integrated brain of a true Conductor. Maria begins her story leading with her [ICON: Blueprint] Architect brain, but her transformation throughout this book is a journey *toward* becoming Adaptive—a leader who can call upon the [ICON: Blueprint] Architect's logic, the [ICON: Bridge] Connector's empathy, and the [ICON: Shield] Sentinel's insight with skill and intention. This book is your roadmap to developing your own Adaptive, Conductor profile.
+**Ultimately, the Adaptive Profile is the goal for everyone on this journey.** It represents the integrated brain of a true Conductor. Maria begins her story leading with her **Architect** brain, but her transformation throughout this book is a journey *toward* becoming Adaptive—a leader who can call upon the **Architect's** logic, the **Connector's** empathy, and the **Sentinel's** insight with skill and intention. This book is your roadmap to developing your own Adaptive, Conductor profile.
 
 ---
 > ### **Pause & Reflect: Hear Your Orchestra**
 >
 > Pause for a moment and consider your result. Does it resonate?
 >
-> Think of the last difficult conversation you had. Which of your brain profiles was in the conductor's seat? Was it the [ICON: Blueprint] Architect, trying to win with logic? The [ICON: Bridge] Connector, trying to smooth things over? Or the [ICON: Shield] Sentinel, feeling under attack?
+> Think of the last difficult conversation you had. Which of your brain profiles was in the conductor's seat? Was it the **Architect**, trying to win with logic? The **Connector**, trying to smooth things over? Or the **Sentinel**, feeling under attack?
 >
 > There is no right answer. The only goal is awareness. The first step to conducting the orchestra is simply to hear the music it's already playing.
 ---
@@ -90,20 +88,20 @@ These are not measures of skill or confidence; they are fundamental differences 
 *   **Extraverts** are energized by social interaction. They are often verbal processors who think best by talking. For them, a lively meeting can feel like a charging station.
 *   **Introverts** expend energy in social interaction and recharge in solitude. They are often internal processors who think best before they speak. For them, a lively meeting can be a significant energy drain.
 
-This book is for both. An introverted [ICON: Blueprint] Architect and an extraverted [ICON: Blueprint] Architect are both still Architects, but they will conduct with a different tempo. The goal is not to turn introverts into extraverts, but to empower each style to conduct from its strengths. Throughout this book, we will include specific "Cognitive Style Alerts" to help you adapt these universal protocols to your own natural tempo.
+This book is for both. An introverted **Architect** and an extraverted **Architect** are both still Architects, but they will conduct with a different tempo. The goal is not to turn introverts into extraverts, but to empower each style to conduct from its strengths. Throughout this book, we will include specific "Cognitive Style Alerts" to help you adapt these universal protocols to your own natural tempo.
 
 ---
 
 **A Note on Stress and Context**
-Remember, your dominant style is your "peacetime" preference. Under stress, your brain may react differently. An [ICON: Blueprint] Architect, when feeling threatened, might suddenly become a [ICON: Shield] Sentinel. A [ICON: Bridge] Connector, when their empathy is exhausted, might retreat into the cold logic of an [ICON: Blueprint] Architect. The goal isn't to eliminate any style; it's to understand your own patterns and learn to conduct the entire orchestra with intention, especially under pressure.
+Remember, your dominant style is your "peacetime" preference. Under stress, your brain may react differently. An **Architect**, when feeling threatened, might suddenly become a **Sentinel**. A **Connector**, when their empathy is exhausted, might retreat into the cold logic of an **Architect**. The goal isn't to eliminate any style; it's to understand your own patterns and learn to conduct the entire orchestra with intention, especially under pressure.
 
 #### **Your Personalized Roadmap**
 
 This diagnostic has given you your map. As you continue your journey through the foundational concepts in Part I, use this as a "look ahead" to the chapters in Part II that will help you grow the most.
 
-*   **For the [ICON: Blueprint] Architects (Mostly A's):** Your core work is in Chapters **8 (The Connection Protocol)** and **11 (Storytelling)**. These will help you connect your powerful logic to the emotional core of your listeners.
-*   **For the [ICON: Bridge] Connectors (Mostly B's):** Your path to mastery lies in Chapters **1 (Self-Regulation)**, **12 (Difficult Conversations)**, and **13 (Feedback)**. These will give you the tools to remain empathetic while holding your ground and speaking with clarity and strength.
-*   **For the [ICON: Shield] Sentinels (Mostly C's):** Your foundational toolkit is in Chapters **1 (Self-Regulation)**, **9 (Building Trust)**, and **12 (Difficult Conversations)**. These chapters are designed to help you calm your inner alarm system so you can lead with confidence, not fear.
+*   **For the **Architects** (Mostly A's):** Your core work is in Chapters **8 (The Connection Protocol)** and **11 (Storytelling)**. These will help you connect your powerful logic to the emotional core of your listeners.
+*   **For the **Connectors** (Mostly B's):** Your path to mastery lies in Chapters **1 (Self-Regulation)**, **12 (Difficult Conversations)**, and **13 (Feedback)**. These will give you the tools to remain empathetic while holding your ground and speaking with clarity and strength.
+*   **For the **Sentinels** (Mostly C's):** Your foundational toolkit is in Chapters **1 (Self-Regulation)**, **9 (Building Trust)**, and **12 (Difficult Conversations)**. These chapters are designed to help you calm your inner alarm system so you can lead with confidence, not fear.
 
 You now have your starting point. You know your orchestra. Our next step is to explore the purpose of this work—to look beyond just "fixing" communication and understand the deeper human need for the music of connection.
       

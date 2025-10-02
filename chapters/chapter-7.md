@@ -4,8 +4,6 @@ Welcome to Part II, the heart of your training. In this section, we will move fr
 
 This chapter is your map. It provides a high-level overview of the complete system architecture up front to prevent cognitive overload. Refer back to this page whenever you need to see how a specific tool fits into the larger system.
 
-[AUTHOR'S NOTE: This entire chapter should be designed as a full-page, visually engaging infographic. The central graphic is the **Conductor's Dashboard**. All other information on this page should be visually connected to it.]
-
 ---
 
 ### **The Conductor's Dashboard**
@@ -13,11 +11,11 @@ This chapter is your map. It provides a high-level overview of the complete syst
 #### **I. CORE TRIO: Your Engine for 80% of Interactions**
 *(Your primary mission is to master these three foundational skills. They are your daily practice.)*
 
-*   **[ICON: Lungs] The Conductor's Breath (Chapter 1):** Your manual override for an amygdala hijack. Use it to regulate your own nervous system before you do anything else.
+*   **The Conductor's Breath (Chapter 1):** Your manual override for an amygdala hijack. Use it to regulate your own nervous system before you do anything else.
     *   *Practice:* Double inhale through nose, long exhale through mouth.
-*   **[ICON: Reflecting Arrows] The Empathy Loop (Chapter 8):** Your tool for making others feel seen, heard, and safe. Use it to connect before you solve.
+*   **The Empathy Loop (Chapter 8):** Your tool for making others feel seen, heard, and safe. Use it to connect before you solve.
     *   *Practice:* Ask "What" or "How" questions, then Playback the underlying emotion.
-*   **[ICON: Handshake] The Trust Protocol (Chapter 9):** Your method for building psychological safety and rapport.
+*   **The Trust Protocol (Chapter 9):** Your method for building psychological safety and rapport.
     *   *Practice:* Use Calibrated Vulnerability (a "social sonar ping") to signal trustworthiness.
 
 ---
@@ -25,13 +23,13 @@ This chapter is your map. It provides a high-level overview of the complete syst
 #### **II. ENSEMBLE TOOLKIT: Your Specialized Reference Library**
 *(These are specialized instruments for specific situations. Do not try to memorize them. Refer to these chapters as needed.)*
 
-*   **[ICON: Bullet Points] The Clarity Protocol (Ch 11):** For making your communication effective and respectful.
-*   **[ICON: Tension Graph] The Storytelling Technique (Ch 11):** For making your ideas persuasive and memorable.
-*   **[ICON: Stitches] The Difficult Conversation Protocol (Ch 12):** For navigating high-stakes conversations safely.
-*   **[ICON: Fence] The Boundary Technique (Ch 12):** For saying "no" gracefully while preserving the relationship.
-*   **[ICON: Gears] The Productive Feedback Protocol (Ch 13):** For giving and receiving "bug reports" safely.
-*   **[ICON: Shield] The Shield Protocol (Ch 14):** Your defensive tool for navigating bad-faith arguments.
-*   **[ICON: Compass] The Adaptation Protocol (Ch 14):** For navigating different group and cultural dynamics.
+*   **The Clarity Protocol (Ch 11):** For making your communication effective and respectful.
+*   **The Storytelling Technique (Ch 11):** For making your ideas persuasive and memorable.
+*   **The Difficult Conversation Protocol (Ch 12):** For navigating high-stakes conversations safely.
+*   **The Boundary Technique (Ch 12):** For saying "no" gracefully while preserving the relationship.
+*   **The Productive Feedback Protocol (Ch 13):** For giving and receiving "bug reports" safely.
+*   **The Shield Protocol (Ch 14):** Your defensive tool for navigating bad-faith arguments.
+*   **The Adaptation Protocol (Ch 14):** For navigating different group and cultural dynamics.
 
 ---
 
@@ -39,21 +37,21 @@ This chapter is your map. It provides a high-level overview of the complete syst
 *(Not sure which tool to use? This guide connects common problems to the right instrument on your dashboard.)*
 
 *   **When you feel yourself getting angry or anxious...**
-    *   **Then...** Use **[ICON: Lungs] The Conductor's Breath** to regulate your system. (Ch 1)
+    *   **Then...** Use **The Conductor's Breath** to regulate your system. (Ch 1)
 *   **When someone is venting or seems upset...**
-    *   **Then...** Use **[ICON: Reflecting Arrows] The Empathy Loop** to make them feel heard. Do not solve. (Ch 8)
+    *   **Then...** Use **The Empathy Loop** to make them feel heard. Do not solve. (Ch 8)
 *   **When you need to send an email or make a request...**
-    *   **Then...** Use **[ICON: Bullet Points] The Clarity Protocol** to respect their cognitive load. (Ch 11)
+    *   **Then...** Use **The Clarity Protocol** to respect their cognitive load. (Ch 11)
 *   **When you have made a mistake and hurt someone...**
-    *   **Then...** Use **[ICON: Stitches] The Difficult Conversation Protocol** to repair trust. (Ch 12)
+    *   **Then...** Use **The Difficult Conversation Protocol** to repair trust. (Ch 12)
 *   **When you need to say "no" to a request...**
-    *   **Then...** Use **[ICON: Fence] The Boundary Technique** to protect your time gracefully. (Ch 12)
+    *   **Then...** Use **The Boundary Technique** to protect your time gracefully. (Ch 12)
 *   **When you are trying to persuade a skeptical audience...**
-    *   **Then...** Use **[ICON: Tension Graph] The Storytelling Technique** to frame your data as a story. (Ch 11)
+    *   **Then...** Use **The Storytelling Technique** to frame your data as a story. (Ch 11)
 
 ---
 ### **The Foundational Concepts (Your Reference Material)**
 
-*   **The 3 Brains (Ch 3):** [ICON: Blueprint] Architect (Logic), [ICON: Bridge] Connector (Empathy), [ICON: Shield] Sentinel (Threat).
+*   **The 3 Brains (Ch 3):** **Architect** (Logic), **Connector** (Empathy), **Sentinel** (Threat).
 *   **The 5 SCARF Domains (Ch 6):** Status, Certainty, Autonomy, Relatedness, Fairness.
       

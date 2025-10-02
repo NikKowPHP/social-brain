@@ -25,9 +25,9 @@ In music, dissonance is the use of notes that clash, creating a feeling of tensi
 
 Human connection is the same. A relationship with no friction, no disagreement, no moments of misunderstanding, is not a healthy relationship; it's an illusion. Dissonance is not a sign that the music has stopped. It is a sign that the music is interesting.
 
-*   For the **[ICON: Blueprint] Architect**, the temptation is to see dissonance as a logical problem to be solved. Your work is to accept that some of the most important "problems" in a relationship are not equations to be solved, but tensions to be held.
-*   For the **[ICON: Bridge] Connector**, dissonance feels like a personal failure, a breakdown in harmony. Your work is to build the resilience to stay in the pocket of a disagreement, trusting that the connection is strong enough to hold the tension.
-*   For the **[ICON: Shield] Sentinel**, dissonance is danger. Your work is to use your breath to calm the alarm, and to learn to distinguish between a genuine threat and the productive friction of people who care enough to disagree.
+*   For the **Architect**, the temptation is to see dissonance as a logical problem to be solved. Your work is to accept that some of the most important "problems" in a relationship are not equations to be solved, but tensions to be held.
+*   For the **Connector**, dissonance feels like a personal failure, a breakdown in harmony. Your work is to build the resilience to stay in the pocket of a disagreement, trusting that the connection is strong enough to hold the tension.
+*   For the **Sentinel**, dissonance is danger. Your work is to use your breath to calm the alarm, and to learn to distinguish between a genuine threat and the productive friction of people who care enough to disagree.
 
 Your goal as a conductor is not to write a symphony of perfect harmony. It is to increase your orchestra's capacity to play the complex, beautiful, and sometimes dissonant music of real life.
 

@@ -43,9 +43,9 @@ You can't force trust, but you can run a protocol of behaviors that trigger an o
 *   **Use "We" Language.** Replace "you" and "I" with "we." This signals "we are in the same tribe, working on the same problem."
 
 > ### **Profile Alert: The Trust Protocol**
-> *   **[ICON: Blueprint] Architect Alert:** Vulnerability can feel illogical. Your work is to see it as the most logical path to a high-functioning team.
-> *   **[ICON: Bridge] Connector Power-Up:** Your risk is *uncalibrated* vulnerability. Practice sharing with discernment.
-> *   **[ICON: Shield] Sentinel Shield-Training:** Lowering your shield is scary. This protocol requires you to use your **Conductor's Breath** first.
+> *   **Architect Alert:** Vulnerability can feel illogical. Your work is to see it as the most logical path to a high-functioning team.
+> *   **Connector Power-Up:** Your risk is *uncalibrated* vulnerability. Practice sharing with discernment.
+> *   **Sentinel Shield-Training:** Lowering your shield is scary. This protocol requires you to use your **Conductor's Breath** first.
 
 > ### **From the Community: Troubleshooting**
 > **Q: "I tried sending a 'social sonar ping' of vulnerability, and just got silence back. It was so awkward. What went wrong?"**
@@ -59,8 +59,6 @@ You can't force trust, but you can run a protocol of behaviors that trigger an o
 
 ---
 ### **Milestone: The Core Trio is Complete**
-
-[AUTHOR'S NOTE: Insert a final, celebratory thumbnail of the Conductor's Dashboard. All three slots of the CORE TRIO section—"[ICON: Lungs]," "[ICON: Reflecting Arrows]," and "[ICON: Handshake]"—are now filled in and glowing. The Ensemble Toolkit section remains empty.]
 
 **This is the most important moment in your journey.** You have now installed the complete Core Trio: Regulation, Connection, and Trust. This engine is enough to successfully navigate the vast majority of human interactions. Everything that follows is a specialized instrument. Your core training is complete.
       
