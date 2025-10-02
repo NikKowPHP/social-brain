@@ -22,7 +22,7 @@ She began the conversation by stating that goal plainly. "Leo, can we talk? I am
 
 Leo was hesitant. "It felt like you were calling me an idiot in front of everyone," he said.
 
-Maria resisted the urge to defend herself and used the Empathy Loop. "Okay. So it wasn't just feedback. It was a public humiliation. I didn't just question your presentation, I undermined your status on the team. It sounds like I made you feel completely disrespected. Is that right?"
+Maria's Architect brain screamed at her to defend her intent, but she forced herself to use the Empathy Loop instead. The words felt clumsy. "Okay. So... it wasn't just feedback. It was a public... humiliation. It sounds like I made you feel completely disrespected. Is that right?"
 
 Leo nodded. Only then, after the trust was repaired, could she revisit the original problem. This time, she used the Productive Feedback protocol correctly. She got his permission. "On that note, I do have some observations that could make your proposals even more impactful. Are you open to discussing them?" He agreed. She shared data, not drama, and they co-created a new format for his presentations together.
 
