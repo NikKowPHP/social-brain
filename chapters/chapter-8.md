@@ -24,7 +24,7 @@ The effect was a disaster. Leo didn't respond. He just gave a slight, humorless 
 
 > ### **The Conductor's Debrief: A System Crash**
 >
-> That evening, Maria felt a hot flush of shame, a full-blown amygdala hijack. Her mind was a loop of defensive anger. *How dare he? I was trying!* This wasn't a calm, analytical debrief; it was a system crash. She stormed around her apartment, venting to her partner, Alex.
+> That evening, Maria felt a hot flush of shame, a full-blown amygdala hijack. Her mind was a loop of defensive anger. *This is useless. The book was wrong. People are just irrational. How dare he? I was trying!* This wasn't a calm, analytical debrief; it was a system crash. She stormed around her apartment, venting to her partner, Alex.
 >
 > "I do everything by the book! I use the stupid 'empathy' script, and he accuses me of using a 'therapy voice'! It's impossible!" she fumed.
 >
@@ -54,7 +54,7 @@ Maria's second attempt came a week later. This time, she focused on her "patch."
 
 Leo was quiet for a moment, not quite meeting her eyes. "Look, I get that you're trying again. I appreciate it," he said, his tone flat. "I just... I have to get back to this bug."
 
-He turned back to his screen, and with a single click, the complex interface of a fast-paced strategy game filled the monitor, a world where he was decisive and in command. The dismissal was polite, but it was absolute. Maria's Architect brain screamed in frustration. *I failed. Again. This is pointless. It doesn't work.* The urge to revert to her old ways was immense—to become the purely transactional manager, to say, "Fine. Just have the bug report on my desk by five." It would be so much easier.
+He turned back to his screen, and with a single click, the complex interface of a fast-paced strategy game filled the monitor, a world where he was decisive and in command. The dismissal was polite, but it was absolute. Maria's Architect brain screamed in frustration. *I failed. Again. This is pointless. It doesn't work. I should just go back to being a purely transactional manager. It would be so much easier.* The urge to revert to her old ways was immense—to say, "Fine. Just have the bug report on my desk by five."
 
 She had to take a conscious, forceful **Conductor's Breath** to keep from speaking those words aloud. She walked back to her desk, the failure stinging. This wasn't a neat, clean resolution. It was a messy, ambiguous, and deeply uncomfortable reality. She opened her logbook, not with the calm of an analyst, but with the frustration of a student. The entry was short: *Tried again. Failed again. The data shows this is harder than I thought. The only thing to do is keep showing up.* It was a commitment made through gritted teeth.
 

@@ -11,6 +11,8 @@ She didn't know the name for it yet, but Maria was experiencing a full-blown **a
 
 She muted her microphone. Inhaled. Then, with deliberate slowness, she exhaled through her mouth, longer than she thought possible, focusing on the feeling of the air leaving her lungs. She did it again. The frantic drumming in her chest didn't stop, but it slowed, just a fraction. The heat in her neck subsided. A single, clear thought cut through the static: *Okay. This is a mess. What's the next right move?* She hadn't solved the problem with Mark, but she had regained the ability to think about it. She had found the brake pedal.
 
+This was more than just an awkward moment. Mark was her best engineer, and with the Sterling Corp. technical review now just two months away—a single meeting that would decide the fate of the company's biggest contract—she couldn't afford to have him disengage. She hadn't just made a communication error; she had put the entire Phoenix Project at risk.
+
 This is where the real work of a conductor begins: not with leading others, but with regulating yourself. This chapter gives you your first and most fundamental tool—a physical reset switch for your brain in moments of high stress.
 
 #### **The Science: The Amygdala Hijack**

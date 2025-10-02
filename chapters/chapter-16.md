@@ -37,7 +37,7 @@ Maria felt her own system start to hijack. She caught herself, took a silent **[
 *   She turned to Jane: "That's a critical point, Jane. It sounds like your core concern isn't just about the date, but about protecting our long-term credibility with users. Is that right?" (Jane's tension dropped.)
 *   Maria then employed **Strategic Silence**. Her calm presence co-regulated the room.
 
-Jane shifted from a roadblock to a problem-solving partner, suggesting a caching layer idea. Maria hadn't just managed the conflict; she had conducted the dissonance into a new, more productive key.
+Jane shifted from a roadblock to a problem-solving partner, suggesting a caching layer idea. Seeing an opening, Jane briefly looked at Leo. "Leo," she said, a rare note of acknowledgement in her voice, "your user feedback on latency was the flag for this. Good catch." Maria hadn't just managed the conflict; she had conducted the dissonance into a new, more productive key.
 
 **Step 4: The Echo (After the Meeting)**
 She sent a follow-up email using the **[ICON: Bullet Points] Clarity Protocol**. It only had two sections:
