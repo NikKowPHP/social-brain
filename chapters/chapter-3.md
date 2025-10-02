@@ -49,11 +49,12 @@ Then, just listen. This simple question flips the interaction from analysis to c
 Become a "Social Pain Detective." When you see a defensive reaction (in yourself or others), ask: *What social threat might they be perceiving right now?*
 
 ---
-### **Logbook Entry**
+### **Field Mission Log**
 
-Time to practice being a Social Pain Detective. Over the next few days, your mission is to observe one "social pain" event in the wild.
+Time to practice being a Social Pain Detective.
 
+**Your Mission:** Over the next few days, your mission is to observe one "social pain" event in the wild.
 1.  **The Event:** Briefly describe a moment when you saw someone (or yourself) have a defensive or emotional reaction.
-2.  **The Detective Work:** What social threat might they have been perceiving?
+2.  **The Detective Work:** What social threat might they have been perceiving? What was the specific data (words, tone, body language) that led to your hypothesis?
 3.  **Path to Adaptive:** How could becoming a 'Social Pain Detective' help you strengthen your least-dominant brain profile?
       

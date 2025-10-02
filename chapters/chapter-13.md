@@ -50,13 +50,15 @@ She sent a follow-up email using the **Clarity Protocol**. It only had two secti
 Maria used a layered set of protocols (The Breath + Empathy Loop) to co-regulate the room, preventing **Neural Contagion** and creating an environment of high psychological safety even in a high-stakes disagreement.
 
 ---
-### **Logbook Entry**
+### **Field Mission Log**
 
-This week, you will conduct one meeting, even if you are not the official leader. Your mission is to choose and implement **one** practice from Maria's deep dive.
+This week, you will conduct one meeting, even if you are not the official leader.
 
-1.  **The Meeting:** Which meeting did you choose to focus on?
-2.  **The Intervention:** Which single practice did you implement? (e.g., sending a SCARF-aware agenda, opening by stating roles, using the Empathy Loop on a dissenter, sending a clear follow-up).
+**Your Mission:** Choose and implement **one** practice from Maria's deep dive for an upcoming meeting.
+1.  **The Meeting:** Which meeting will you focus on?
+2.  **The Intervention Plan:** Which single practice will you implement? (e.g., sending a SCARF-aware agenda, opening by stating roles, using the Empathy Loop on a dissenter, sending a clear follow-up).
 3.  **Analyze the Data:** What was the observable impact of your intervention on the meeting's tone or outcome? What does this data tell you about the group's dynamics?
 4.  **Path to Adaptive:** How did your chosen intervention help you practice a non-dominant brain profile? (e.g., 'As an **Architect**, using the Empathy Loop helped me practice my **Connector** brain.')
 
 **Join the Orchestra:** What was the impact of your intervention? Sharing these small "meeting wins" (or "meeting data points") is a powerful way conductors in the community learn from each other's experiments.
+      

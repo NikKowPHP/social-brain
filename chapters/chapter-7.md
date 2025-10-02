@@ -86,6 +86,9 @@ Your brain is constantly asking: Friend or Foe? Focused, non-judgmental attentio
     When someone calls you out for being different ("Stop using that therapy voice"), it's a sign the system is noticing the change. Don't panic. Enroll them in the process.
     *   **The Script:** *"You're right, that did sound a bit like a script. I've been trying to get better at really listening instead of just jumping in to solve things, and it still feels a bit clumsy. I'd actually love your feedback as I practice."*
 
+**A Glimpse of Success**
+To see this in action, contrast Maria's struggle with a moment from earlier that week. Leo, the team's natural **Connector**, was talking to a frustrated user. Instead of defending the software, he simply asked, 'What's the most frustrating part of this for you?' and then just listened. The user's entire tone shifted from anger to collaboration. Leo hadn't solved the bug, but he had solved the relationship.
+
 > ### **Shadow Alert: The Empathy Trap**
 > The Empathy Loop is for understanding, not steering. The **Shadow Conductor** uses "empathy" to discover a person's needs and fears not to connect, but to find the perfect lever to move them. Check your intent.
 
@@ -115,11 +118,9 @@ You can't force trust, but you can run a protocol of behaviors that trigger an o
 > **A:** Nothing. You just collected important data. Silence tells you about the current level of safety in the relationship. Do not double down. Let the silence be. Your job now is to lower the perceived risk by consistently demonstrating trustworthiness over time.
 
 ---
-#### **Logbook Entry & 1% Upgrade**
-*   **The 1% Upgrade:** In your next conversation where someone shares a frustration, your only goal is to ask one question: **"What's the hardest part about that for you?"** Then, put your phone face down, and just listen. In a separate conversation this week, find an opportunity to replace a "you" or "I" statement with a "we" statement.
-*   **Logbook:** Your mission is to practice both parts of the Connection & Trust protocol.
-    1.  **Connection Experiment:** Practice the Empathy Loop with someone. What was their response? What did you learn from the interaction?
-    2.  **Trust Experiment:** With someone you already have some safety with, send one "social sonar ping" of calibrated vulnerability. What was the response? What does this data tell you about the current level of trust?
+### **Field Mission Log**
+*   **Mission 1 (Connection):** In your next conversation where someone shares a frustration, your only goal is to run the Empathy Loop experiment: ask **"What's the hardest part about that for you?"** Then, put your phone face down, and just listen. Log the results: what was their immediate reaction? What did you learn?
+*   **Mission 2 (Trust):** In one meeting or email this week, find an opportunity to replace a "you" or "I" statement with a "we" statement. Separately, with one person you'd like to build more safety with, send one small, safe "social sonar ping" of calibrated vulnerability. Log the response: did they reciprocate, ignore, or shut down? What does this data tell you about the current level of trust?
 
 > ### **Dashboard Update**
 >
