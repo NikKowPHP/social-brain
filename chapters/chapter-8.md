@@ -99,6 +99,8 @@ You can't force trust, but you can run a protocol of behaviors that trigger an o
 *   **Use "We" Language.** Replace "you" and "I" with "we." This signals "we are in the same tribe, working on the same problem."
 
 ---
+*To this day, I still have to fight my inner Architect on this. When someone is upset, my instinct is to fix, not to listen. The Empathy Loop doesn't come naturally to me; it is a discipline. Every time I force myself to just Playback their feeling, I'm reminded that the most efficient solution is almost always to be human first.*
+---
 ### **Conductor's Practice**
 
 #### **Toolkit Summary**

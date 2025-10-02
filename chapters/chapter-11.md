@@ -33,7 +33,7 @@ A conductor is responsible for both the technical clarity of the score and the e
 
 The first responsibility of a conductor is to provide a clear score. If the notation is ambiguous, the orchestra will be confused. This protocol is your system of notation.
 
-**The Science:** The brain's **working memory** is a tiny "mental workbench" that can only hold about four or five chunks of information at a time. It crashes from **cognitive load** when it receives long, unstructured messages. Clarity is an act of respect for this biological limitation.
+**The Science:** The brain's **working memory** is a tiny "mental workbench" that can only hold about four or five chunks of information at a time. As a programmer, I think of this as memory management. A long, unstructured email causes a 'stack overflow' in the reader's brain. The Clarity Protocol isn't just polite; it's good resource management for their attention. It crashes from **cognitive load** when it receives long, unstructured messages. Clarity is an act of respect for this biological limitation.
 
 **The Practice: Execute the "Clarity Protocol"**
 1.  **One Goal Per Message:** Finish the sentence: "The one thing I need this person to **know** or **do** is ___________."

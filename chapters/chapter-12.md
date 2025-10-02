@@ -1,13 +1,13 @@
 ### **Chapter 12: Conducting Through Conflict**
 #### Giving Feedback, Navigating Disputes, and Setting Boundaries
 
-Every conductor dreads the moment a key instrument goes wildly out of tune. This chapter provides an integrated suite of protocols for navigating the most common forms of conflict: giving difficult feedback, repairing a damaged conversation, and saying "no" to a request.
+"Leo, just get to the point," Maria snapped.
 
-The immense pressure of the upcoming Sterling Corp. review was taking its toll. With tensions high, Maria needed to give feedback to Leo, her junior engineer. His proposals were technically brilliant but often poorly presented, and his rambling updates were derailing stakeholder meetings. Maria knew she needed to intervene.
+The words were out before she could stop them. She watched the color drain from his face as he physically recoiled from the screen as if struck, his shoulders slumping. For the rest of the meeting, he was a ghost, his camera a portrait of a man staring at something far beyond his monitor. Maria had intended to give corrective feedback, but instead, she had delivered a massive Status threat, triggering a hijack and severing the connection.
 
-In a tense project review, her frustration boiled over. As Leo began to meander, Maria's Architect brain took over. "Leo, just get to the point," she snapped. "No one has time for the life story of the feature."
+Every conductor dreads the moment a key instrument goes wildly out of tune. This chapter provides an integrated suite of protocols for navigating these most common forms of conflict.
 
-The effect was devastating. The color drained from Leo's face. He physically recoiled from the screen as if struck, his shoulders slumping. For the rest of the meeting, he was a ghost, his camera a portrait of a man staring at something far beyond his monitor. Maria had intended to give corrective feedback, but instead, she had delivered a massive Status threat, triggering a hijack and severing the connection. The very problem she needed to solve—Leo's communication—was now impossible to address because the trust was gone.
+The immense pressure of the upcoming Sterling Corp. review was taking its toll. With tensions high, Maria had needed to give feedback to Leo, her junior engineer. His proposals were technically brilliant but often poorly presented, and his rambling updates were derailing stakeholder meetings. Maria knew she needed to intervene, but her frustration boiled over in that tense project review. The very problem she needed to solve—Leo's communication—was now impossible to address because the trust was gone.
 
 Before she could even process the damage, she faced another conflict. With the project's funding secured, she faced a flood of new requests. The most dangerous was a high-stakes, derailing side-project from a senior leader, David. Maria knew she had to say "no" to protect her team from burnout.
 
