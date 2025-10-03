@@ -12,7 +12,7 @@ As you enter the Toolkit section, remember our definition of a Conductor. This i
 
 ### **A Crucial Note: These Are Tools, Not Magic Wands**
 
-The protocols you are about to learn are powerful because they work *with* the predictable wiring of the brain. But the humans you interact with are beautifully complex and unpredictable.
+The practices you are about to learn are powerful because they work *with* the predictable wiring of the brain. But the humans you interact with are beautifully complex and unpredictable.
 
 **Using a tool correctly does not guarantee your desired outcome.**
 
@@ -58,7 +58,7 @@ This chapter is your learning path, designed to prevent overload. It is organize
 To help you navigate this book, we will use a simple set of icons to label key concepts.
 
 *   🧠 **The Science:** The neuroscience behind the tool.
-*   🔧 **The Tool:** A specific protocol or script to use.
+*   🔧 **The Tool:** A specific practice or script to use.
 *   💡 **The Principle:** A core concept or mindset.
 *   ⚠️ **The Pitfall:** A common mistake or warning.
 *   **A** / **C** / **S**: Icons for the **Architect**, **Connector**, and **Sentinel** Brain Profiles, highlighting tools or challenges specific to them.

@@ -1,6 +1,6 @@
 ### **Appendix C: The 30-Day Conductor's Challenge**
 
-The sheer number of protocols in this book can feel overwhelming. This is a normal reaction. The goal is not to master every tool at once, but to build a foundational practice that grows over time. This 30-day challenge is designed to combat "protocol overload" by giving you a structured, week-by-week path to internalizing the most critical skills.
+The sheer number of practices in this book can feel overwhelming. This is a normal reaction. The goal is not to master every tool at once, but to build a foundational practice that grows over time. This 30-day challenge is designed to combat "practice overload" by giving you a structured, week-by-week path to internalizing the most critical skills.
 
 Think of this as your guided ascent. Each week, you will focus on one new core skill while continuing to practice the ones you've already learned.
 
@@ -42,3 +42,4 @@ Think of this as your guided ascent. Each week, you will focus on one new core s
     3.  Have I **chunked the details** with bullets or bolding?
 *   **Field Mission:** At the end of the week, reflect for five minutes. How did the core skills (Breath, Empathy, Trust) support each other in your interactions? This reflection is the key to moving from conscious practice to unconscious intuition.
 *   **Special Mission: The "Baton Down" Weekend.** This weekend, your goal is to *not* practice. Give yourself explicit permission to be spontaneous and un-coached. Do not analyze your conversations. The goal of a conductor is not to be on the podium 24/7. True mastery requires rest and allows the skills to move from your conscious mind to your natural intuition. Notice how this "off-duty" time feels.
+      

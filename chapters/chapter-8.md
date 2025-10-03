@@ -1,7 +1,7 @@
 ### **Chapter 8: The Core Duo in Concert**
-#### Proving the Power of Your Foundational Toolkit
+#### Putting Your Foundational Tools to the Test
 
-You have now installed the complete Core Duo. Before we add a single specialized instrument to your toolkit, it is essential to pause and appreciate the power of the engine you have just built. If you master only these two protocols—Regulation, and Connection & Trust—you can successfully conduct your way through the vast majority of challenging human interactions. This chapter presents a single, complex case study to prove it.
+You have now installed the complete Core Duo. Before we add a single specialized instrument to your toolkit, it is essential to pause and appreciate the power of the engine you have just built. If you master only these two practices—Regulation, and Connection & Trust—you can successfully conduct your way through the vast majority of challenging human interactions. This chapter presents a single, complex case study to prove it.
 
 With only weeks until the Sterling Corp. review, Maria's small wins were overshadowed by a new crisis. The external pressure from David's political maneuvering was making every internal problem feel like an existential threat. Now, a major technical deadlock had emerged between Mark, the **Architect**, who wanted to use a new, cutting-edge database technology, and Jane, the **Sentinel**, who saw it as a catastrophic risk. The tension, amplified by David's constant scrutiny, had ground all progress to a halt. In a tense meeting, the conflict boiled over.
 
@@ -50,7 +50,7 @@ Maria looked at him, annoyed. "What? I don't call myself anything. I just... fin
 
 The question hung in the air. Maria was silent as the connection clicked into place in her own mind. Her goal wasn't to be a perfect performer. Her goal was to be a relentless investigator. The pressure to get it right was replaced by a simple, more forgiving directive: **get the data.**
 
-She opened her logbook, and for the first time, she wasn't grading her performance. She was analyzing the system. Her entry was short: *"Hypothesis: The protocols are not a script to be followed, but a key to unlock a deeper conversation. The data shows that when the protocols hit a wall, it's a signal to drop the tools and listen even more deeply. This wasn't a failure. It was data collection."*
+She opened her logbook, and for the first time, she wasn't grading her performance. She was analyzing the system. Her entry was short: *"Hypothesis: The frameworks are not a script to be followed, but a key to unlock a deeper conversation. The data shows that when the practices hit a wall, it's a signal to drop the tools and listen even more deeply. This wasn't a failure. It was data collection."*
 
 ---
 ### **Chapter 8 Debrief: The Core Duo in Concert**
@@ -64,6 +64,7 @@ She opened her logbook, and for the first time, she wasn't grading her performan
 
 A complex deadlock was moved from paralysis to forward motion. Notice the sequence:
 1.  **The Conductor's Breath:** To keep her own brain online and regulate the room.
-2.  **The Connection & Trust Protocol (The Empathy Loop & Calibrated Vulnerability):** To make both parties feel profoundly understood, changing the neurochemical weather from hostility to curiosity, and to create a bridge of psychological safety that allows them to step toward a shared problem.
+2.  **The Art of Connection and Trust (The Empathy Loop & Calibrated Vulnerability):** To make both parties feel profoundly understood, changing the neurochemical weather from hostility to curiosity, and to create a bridge of psychological safety that allows them to step toward a shared problem.
 
-In this case, the protocols were not enough to solve the problem directly. They hit a wall of principle and past trauma. The tools' ultimate purpose was to create enough safety for a deeper, more vulnerable, and non-scripted human conversation to take place. The toolkit doesn't solve every problem, but it earns you the right to enter the space where the real problem can be addressed.
+In this case, the practices were not enough to solve the problem directly. They hit a wall of principle and past trauma. The tools' ultimate purpose was to create enough safety for a deeper, more vulnerable, and non-scripted human conversation to take place. The toolkit doesn't solve every problem, but it earns you the right to enter the space where the real problem can be addressed.
+      

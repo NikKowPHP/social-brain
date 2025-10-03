@@ -1,5 +1,5 @@
 ### **Chapter 1: Your First Instrument: The Emergency Reset**
-#### The Neuroscience of Emotional Self-Regulation
+#### How to Find the Brake Pedal for Your Brain
 
 The silence in the video call was so absolute, Maria could hear the frantic drumming of her own heart. A hot flush crept up her neck, a familiar, humiliating heat. Her mind, usually a fortress of logic and plans, was a chaotic blank.
 
@@ -19,7 +19,7 @@ This was more than just an awkward moment. Mark was her best engineer, and she c
 
 This is where the real work of a conductor begins: not with leading others, but with regulating yourself. This chapter gives you your first and most fundamental tool—a physical reset switch for your brain in moments of high stress.
 
-#### **The Science: The Biological Brake Pedal**
+#### **The Science: Your Biological Brake Pedal**
 
 An amygdala hijack temporarily takes your rational mind—the **prefrontal cortex (PFC)**—offline. The key is: *You cannot think your way out of an amyggdala hijack; you must regulate your way out of it.*
 
@@ -35,7 +35,7 @@ Notice the physical error message before it escalates: a tightening in your ches
 **2. Use "The Conductor's Breath" to Execute the Override.**
 When you notice that physical alert, use the **physiological sigh**, the fastest known way to voluntarily calm your body's stress response.
 
-Here is the function call:
+Here is the reset command:
 *   Take a deep inhale through your nose.
 *   When your lungs feel full, take another short, sharp "top-off" inhale.
 *   Then, a long, slow, complete exhale through your mouth.

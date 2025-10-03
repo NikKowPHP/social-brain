@@ -4,13 +4,13 @@ Having taken the first tentative steps with her new diagnostic toolkit, Maria wa
 
 She expected the admission to build trust. Instead, the VP's expression hardened slightly. "Look, Maria," he said, his voice dropping. "I appreciate the candor, but you need to be careful. David is already circling the Phoenix Project's budget. He sees it as a vanity project. Don't give him any ammunition. Just hit the deadline."
 
-Maria was stunned. The same tool—vulnerability—had produced two opposite results. It was her first, painful lesson in what we will call **Social Gravity**. The protocols and principles in this book are universally true because the brain's hardware is universal. But they are filtered through the immense gravitational pull of power, privilege, and identity. A conductor who ignores these forces is conducting in a vacuum.
+Maria was stunned. The same tool—vulnerability—had produced two opposite results. It was her first, painful lesson in what we will call **Social Gravity**. The practices and principles in this book are universally true because the brain's hardware is universal. But they are filtered through the immense gravitational pull of power, privilege, and identity. A conductor who ignores these forces is conducting in a vacuum.
 
 This is the final layer of our diagnostic work. You've learned to see the SCARF threats and the Brain Profiles that react to them. Now you must learn to read the room itself.
 
 **You must analyze the power dynamics of a situation *before* you choose your instrument.**
 
-#### **The Science: The Neurobiology of Power**
+#### **The Science: Why Power Literally Changes Your Brain**
 
 Research shows that power fundamentally changes the brain. High-power individuals experience decreased activity in the circuits responsible for empathy and an increased appetite for risk-taking. Conversely, individuals in low-power positions exhibit heightened threat-vigilance—their brains are more attuned to social cues as a survival mechanism.
 
@@ -39,7 +39,7 @@ You don't need formal authority to be a Conductor. Influencing your manager is a
 You are not saying "no." You are presenting a professional, logical choice and making your boss a partner in the solution.
 ---
 
-#### **The Practice: Directional Protocols**
+#### **The Practice: Adapting Your Approach**
 A masterful conductor doesn't just play the music; they read the stage. Before an interaction, perform a quick "Situational SCARF Analysis" and adapt your approach based on the direction of gravity.
 
 **1. Conducting Up (Managing Your Boss)**
@@ -61,3 +61,4 @@ Your focus should be on fostering **Autonomy** and **Relatedness** to build psyc
 *   Your job is to be the primary creator of safety and clarity for your team.
 
 By understanding the laws of social gravity, you move from simply applying tools to practicing the deep and subtle art of social wisdom. You have now completed your diagnostic toolkit. You can see the threats, the people, and the room. Now, it's time to learn how to act.
+      

@@ -8,7 +8,7 @@ So what would have happened in that boardroom all those years ago? I wouldn't ha
 And what about that argument with my brother? The lesson wasn't to discard the tools, but to know when to put the baton down. The goal of the method is to build a relationship strong enough that you can afford to be your messy, human self, and trust that the music you've made together is strong enough to handle a few wrong notes. It is about building a connection so resilient you can afford to just be brothers again.
 
 #### **Becoming an Adaptive Conductor**
-In Chapter 2, we identified the "Adaptive Profile" as the ideal—a conductor who can call upon the **Architect's** logic, the **Connector's** empathy, and the **Sentinel's** insight with intention. The entire journey of this book is the roadmap to developing that profile. It is not a separate step, but the integrated result of practice.
+In Chapter 2, we identified the "Adaptive Profile" as the ideal—a conductor who can call upon the **Architect's** logic, the **Connector's** empathy, and the **Sentinel's** insight with intention. The entire journey of this book is the roadmap to developing that profile. It is not a separate step, but the integrated result of consistent practice.
 
 Developing your adaptive ability means consciously practicing the tools that feel least natural.
 *   If you are an **Architect**, your path to becoming adaptive is through the consistent practice of *empathetic listening* and *calibrated vulnerability* (Chapter 6).
@@ -36,3 +36,4 @@ You have now reached the end of this manual. You are holding a powerful set of t
 The world has enough skilled manipulators. What it needs are more conductors—people with the skill to create profound psychological safety and the integrity to use that skill in the service of others.
 
 The music is waiting.
+      

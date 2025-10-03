@@ -16,11 +16,11 @@ That's the real lesson of this book. It's not about becoming a flawless performe
 
 My investigation began with a question that burned in my mind after that boardroom failure: *Why does a good story always beat good data? Why does human connection feel like a chaotic, unpredictable system? What is the source code?*
 
-That question led me on a ten-year journey from the clean logic of a compiler to the messy, brilliant source code of the human brain. I dug through the vaults of modern neuroscience, searching for the hidden operating system that governs every human interaction. What I found was staggering. The frustrating, chaotic moments of our lives are not random. They are the predictable results of ancient wiring running in every one of us.
+That question led me on a ten-year journey from the clean logic of a compiler to the messy, brilliant source code of the human brain. I dug through the vaults of modern neuroscience, searching for the hidden blueprint that governs every human interaction. What I found was staggering. The frustrating, chaotic moments of our lives are not random. They are the predictable results of ancient wiring running in every one of us.
 
-What if you could see those rules? What if you could debug a difficult conversation before it even starts, transforming the pain of miscommunication into the power of connection?
+What if you could see those rules? What if you could untangle the signals in a difficult conversation before it even starts, transforming the pain of miscommunication into the power of connection?
 
-This book is the result of that investigation. It is the map I wished I'd had on my journey. I will share the source code I discovered and hand you a complete toolkit of neuroscience-backed protocols I developed—a system I call **The Conductor Method**.
+This book is the result of that investigation. It is the map I wished I'd had on my journey. I will share the source code I discovered and hand you a complete toolkit of neuroscience-backed practices I developed—a system I call **The Conductor Method**.
 
 But this investigation revealed a deeper truth. The goal isn't just to be more effective—to win the argument I had lost. That path leads to becoming a skilled manipulator who feels hollow inside. The true purpose of this work, the "why" behind the "how," is to move beyond winning transactions and build relationships of meaning and trust. This book is not just about conducting a successful performance; it's about building an orchestra that finds joy in playing together.
 
@@ -36,7 +36,7 @@ This book is not just a collection of ideas; it is a structured training program
 
 ### Your First Two Steps: The Only Place to Start
 
-You are about to be handed a full toolkit, and it is natural to feel overwhelmed. So let me be clear: **do not try to learn everything at once.** Your journey to becoming a Conductor is not about memorizing a dozen protocols. It is about mastering one, single loop of behavior that will fundamentally change your interactions. We call it **The Foundational Loop**:
+You are about to be handed a full toolkit, and it is natural to feel overwhelmed. So let me be clear: **do not try to learn everything at once.** Your journey to becoming a Conductor is not about memorizing a dozen techniques. It is about mastering one, single loop of behavior that will fundamentally change your interactions. We call it **The Foundational Loop**:
 
 1.  **Regulate Yourself First.** (Your First Instrument, Chapter 1)
 2.  **Make The Other Person Feel Heard.** (The Empathy Loop, Chapter 6)
@@ -54,7 +54,7 @@ I learned to understand the world through the logic of code. At times, I will us
 
 Your brain is a magnificent orchestra. But in high-stakes moments, it often feels like chaos. You are already the conductor of this orchestra. The problem is, no one ever handed you the baton.
 
-To show you how to use this baton, our journey will follow the transformation of a leader I'll call Maria. Maria is a brilliant programmer, a master of logic, who is about to discover—just as I did—that her greatest strengths are the source of her biggest failures in human connection. Her story, a composite of the leaders I've coached, will be our real-world laboratory. We will watch her fail, learn the protocols, and practice them in high-stakes situations. This book is the baton, and Maria's story is the first piece of music we will learn to conduct together.
+To show you how to use this baton, our journey will follow the transformation of a leader I'll call Maria. Maria is a brilliant programmer, a master of logic, who is about to discover—just as I did—that her greatest strengths are the source of her biggest failures in human connection. Her story, a composite of the leaders I've coached, will be our real-world laboratory. We will watch her fail, learn the practices, and apply them in high-stakes situations. This book is the baton, and Maria's story is the first piece of music we will learn to conduct together.
 
 Maria's world is built on a single, core belief: logic is sufficient. She is a master of elegant code and airtight arguments, and she has built her career on the quiet confidence that the best data will always win. For her, human emotion is a messy, unpredictable bug in the system, a variable to be managed and contained, not a core feature. But deep down, her logical fortress is a defense against a terrifying fear: that she is fundamentally ill-equipped for the chaotic, human side of leadership. This makes her feel like an impostor, and her journey is not just about learning new skills; it's about dismantling a core belief and discovering that true influence is forged by integrating logic with connection.
 

@@ -4,7 +4,7 @@ The SCARF dashboard gave Maria a map of the emotional minefield, but as she obse
 
 The patterns weren't random. Each person had a default, almost instinctual way of managing social threats and rewards. They were all playing different instruments in the orchestra.
 
-To become a conductor, you must first get to know your musicians—and the instrument you naturally play. This diagnostic is not a test. There are no right or wrong answers. It is a mirror to help you see your own social operating system, which is built upon the SCARF sensitivities we just uncovered.
+To become a conductor, you must first get to know your musicians—and the instrument you naturally play. This diagnostic is not a test. There are no right or wrong answers. It is a mirror to help you see your own internal wiring, which is built upon the SCARF sensitivities we just uncovered.
 
 *   The **Architect** leads with a deep, instinctual need to protect their **Status** through competence, data, and logic.
 *   The **Connector** is wired to prioritize **Relatedness** above all else, sensing and managing the emotional harmony of the group.
@@ -48,7 +48,7 @@ So, what did you discover? Most of us have a mix, but often one pattern emerges 
 > *   **Navigating Conflict:** You may avoid necessary, productive conflict to preserve surface-level harmony.
 > *   **Absorbing Others' Stress:** Your empathy can be a sponge, leaving you emotionally exhausted.
 >
-> Think of these protocols not as a replacement for your intuition, but as the **soundproofing in the concert hall.** They are the structures that contain the emotional echoes, allowing you to play your instrument with passion and skill without being deafened by the noise. Pay special attention to the tools for Clarity (Chapter 7) and Conflict (Chapter 9)—these are your path to becoming a sustainable, resilient Connector.
+> Think of these practices not as a replacement for your intuition, but as the **soundproofing in the concert hall.** They are the structures that contain the emotional echoes, allowing you to play your instrument with passion and skill without being deafened by the noise. Pay special attention to the tools for Clarity (Chapter 7) and Conflict (Chapter 9)—these are your path to becoming a sustainable, resilient Connector.
 
 **If you scored mostly C's, you lead with the Sentinel.**
 *   **Your Superpower:** Threat detection, instinct, and rapid response. You are highly attuned to risk.
@@ -72,7 +72,7 @@ Your goal is not to label people. It is to understand their *dominant tendencies
 
 **(The sections on the "Shadow" profiles, the "Adaptive Profile," and the "Tempo of Your Orchestra" would follow here, rewritten slightly to reinforce the SCARF connections.)**
 
-For Maria, this new lens was another revelation. She was a classic Architect, and her entire leadership style was built on defending her Status with logic. She now saw that her interactions with Jane weren't just a clash of ideas, but a fundamental collision of operating systems: an Architect, who values data-driven Status, trying to persuade a Sentinel, who values risk-averse Certainty. No wonder they were stuck.
+For Maria, this new lens was another revelation. She was a classic Architect, and her entire leadership style was built on defending her Status with logic. She now saw that her interactions with Jane weren't just a clash of ideas, but a fundamental collision of internal wiring: an Architect, who values data-driven Status, trying to persuade a Sentinel, who values risk-averse Certainty. No wonder they were stuck.
 
 She wasn't just conducting an orchestra; she was conducting three different kinds of musicians, each playing to their own tune, driven by their own deepest needs for safety.
 
@@ -91,3 +91,4 @@ Pause for a moment and consider your result. Think of the last time your SCARF d
 *   **The Messy Rehearsal (What Happened):** Describe what actually happened. Did it feel clumsy? Did it "fail"? What was the other person's reaction? (e.g., "In a debate with my co-founder, I saw my Architect brain wanting to crush his argument with logic, while his Connector brain was trying to find a compromise. I felt a huge urge to just end the debate, but I forced myself to keep watching the pattern.")
 *   **The Data (What You Learned):** What did this 'imperfect' attempt reveal? Treat the outcome as pure data, not a grade on your performance. (e.g., "The data shows we get stuck in an Architect/Connector loop. I lead with logic, which he experiences as a Status threat. He tries to preserve Relatedness, which I experience as a threat to the 'correct' logical outcome. We're not even having the same conversation.")
 *   **The Next Iteration:** Based on the data, what is the next, even smaller, experiment? (e.g., "Next time, I will try starting a debate by explicitly acknowledging the value of his 'Connector' perspective first, to reward Relatedness before I introduce the logic.")
+      

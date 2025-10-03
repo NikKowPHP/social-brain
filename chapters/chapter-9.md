@@ -5,11 +5,11 @@
 
 The words were out before she could stop them. She watched the color drain from his face as he physically recoiled from the screen, his shoulders slumping. For the rest of the meeting, he was a ghost. Maria had intended to give corrective feedback, but instead, she had delivered a massive Status threat.
 
-The immense pressure of the Sterling Corp. review was taking its toll. With tensions high, she now faced two critical conflicts at once: one requiring her to repair a relationship, the other requiring her to defend a boundary against a senior leader, David. She knew, intellectually, what the protocols were. Applying them under fire was another matter entirely.
+The immense pressure of the Sterling Corp. review was taking its toll. With tensions high, she now faced two critical conflicts at once: one requiring her to repair a relationship, the other requiring her to defend a boundary against a senior leader, David. She knew, intellectually, what the frameworks were. Applying them under fire was another matter entirely.
 
 First, she had to fix the damage with Leo. She scheduled a call, her stomach in knots. She felt her own defensiveness rising—a voice in her head muttering, *“He was rambling!”* She stopped, closed her eyes, and took three slow, deliberate **Conductor's Breaths**. *My goal is not to win,* she told herself. *My goal is to fix this.*
 
-She began the conversation by trying to execute the Difficult Conversation Protocol perfectly.
+She began the conversation by trying to execute the Difficult Conversation script perfectly.
 "Leo," she started, her voice sounding formal and stiff. "I wanted to share a neutral observation. When I cut you off in the meeting, I immediately saw you shut down. I can only imagine how that must have landed. Can you tell me what was happening for you in that moment?"
 
 Leo was silent for a moment, his expression guarded. "Honestly, Maria? That sounds like something you read in a management book. I don't know what to say to that."
@@ -20,7 +20,7 @@ The response hit Maria like a physical blow. Her face flushed with embarrassment
 
 The shift was palpable. Leo's posture relaxed slightly. "It... it felt like you were calling me an idiot in front of everyone," he said, his voice quiet.
 
-This time, Maria didn't reach for a protocol. She just listened. "It was a public humiliation," she replied, a simple Playback of his pain. "It sounds like I made you feel completely disrespected."
+This time, Maria didn't reach for a script. She just listened. "It was a public humiliation," she replied, a simple Playback of his pain. "It sounds like I made you feel completely disrespected."
 
 Leo just nodded. The trust wasn't fixed, but the door was open again. Only then, much later in the week, could she revisit the original problem, this time with a foundation of repaired safety.
 
@@ -31,7 +31,7 @@ In a meeting with her own boss present, she made her move. "David, thank you for
 
 Before she could get to the "Offer," David smiled, a smooth, political gesture. "I completely understand the resource constraints," he said, turning his body slightly to address Maria's boss. "But this is about strategic alignment. I'm concerned that Maria's team is becoming a bottleneck. We need partners who can see the bigger picture and find a way to 'yes,' not partners who are territorial with their resources."
 
-Maria was stunned. David had expertly taken her reasonable boundary and reframed it as a lack of strategic vision—a direct Status attack, performed for an audience. Her boss's expression became unreadable. The protocol had "worked"—David had backed down on the request—but the social cost was immediate and tangible. She had protected her team's time, but at the cost of her political capital. She logged the painful data: **a successful boundary doesn't guarantee a successful outcome.**
+Maria was stunned. David had expertly taken her reasonable boundary and reframed it as a lack of strategic vision—a direct Status attack, performed for an audience. Her boss's expression became unreadable. The script had "worked"—David had backed down on the request—but the social cost was immediate and tangible. She had protected her team's time, but at the cost of her political capital. She logged the painful data: **a successful boundary doesn't guarantee a successful outcome.**
 
 ---
 ### **Field Note: Setting a Boundary at Home**
@@ -41,12 +41,12 @@ The "Validate, State, Offer" script isn't just for senior leaders like David; it
 **Scenario:** Your partner asks you to attend a social event on a night when you feel completely burned out and need to recharge.
 
 *   **The Old Instinct (Threatens Relatedness):** "Absolutely not, I'm exhausted. You go without me."
-*   **Using the Protocol:**
+*   **Using the Script:**
     *   **(Validate):** "I know how much you were looking forward to this, and I love that you want us to go together. I was looking forward to it, too."
     *   **(State):** "Unfortunately, I am completely out of gas from this week. I know myself, and if I go tonight, I'll be miserable company and even more drained for the weekend."
     *   **(Offer):** "I need to stay home and recharge tonight. But how about we plan a dedicated date night, just the two of us, for next week? I'd love that."
 
-The protocol doesn't just say "no." It preserves the connection while protecting your own well-being.
+The script doesn't just say "no." It preserves the connection while protecting your own well-being.
 ---
 
 ### **Chapter 9 Debrief: The Conductor's Toolkit for Conflict**
@@ -66,7 +66,7 @@ The goal here is to create a collaborative "debugging session" instead of a crit
     2.  **Find the Data:** Ask "Can you give me a specific example?" to move from drama to data.
 
 #### **2. 🔧 Repairing a connection (For Restoring Trust)**
-Repairing trust after a mistake isn't a new protocol; it's a direct application of the **Connection & Trust Protocol (Chapter 6)** when the stakes are high. This is what Maria used to fix the damage with Leo. It begins with the **Conductor's Breath (Chapter 1)** to manage your own defensiveness, followed by the **Empathy Loop** to understand the damage you caused. The sequence is a practical application of our Core Duo:
+Repairing trust after a mistake isn't a new practice; it's a direct application of the **Art of Connection and Trust (Chapter 6)** when the stakes are high. This is what Maria used to fix the damage with Leo. It begins with the **Conductor's Breath (Chapter 1)** to manage your own defensiveness, followed by the **Empathy Loop** to understand the damage you caused. The sequence is a practical application of our Core Duo:
 *   **The Sequence:**
     1.  **Regulate Yourself First:** Use **The Conductor's Breath**.
     2.  **Lead with a Shared Intent:** Open with a goal of mutual understanding ("I want to fix the damage...").
@@ -84,8 +84,8 @@ A "no" can feel like a severe **Relatedness** threat. This script is designed to
 ### **Conductor's Practice**
 
 #### **⚠️ Troubleshooting & The Messy Middle**
-*   **The Social Immune Response:** When you first try these protocols, they may feel clumsy and sound scripted. As with Maria's first attempt with Leo, the other person may reject the "script." Do not panic. This is a sign they are listening. The best response is to acknowledge the clumsiness ("You're right, that did sound a bit like a script...") and restate your intent from a more authentic place.
-*   **The Political Cost:** Setting a boundary with a powerful, bad-faith actor is not a clean "win." As Maria learned with David, a skilled operator can reframe your boundary as a weakness. The goal of the protocol is to protect your resources and create a clear record, but you must be prepared for the political fallout. It is a strategic choice with real consequences.
+*   **The Social Immune Response:** When you first try these scripts, they may feel clumsy and sound rehearsed. As with Maria's first attempt with Leo, the other person may reject the "script." Do not panic. This is a sign they are listening. The best response is to acknowledge the clumsiness ("You're right, that did sound a bit like a script...") and restate your intent from a more authentic place.
+*   **The Political Cost:** Setting a boundary with a powerful, bad-faith actor is not a clean "win." As Maria learned with David, a skilled operator can reframe your boundary as a weakness. The goal of the script is to protect your resources and create a clear record, but you must be prepared for the political fallout. It is a strategic choice with real consequences.
 
 ---
 ### **Conflict Toolkit: At-a-Glance**

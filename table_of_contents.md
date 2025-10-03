@@ -9,13 +9,13 @@
 ### **Part I: Your Operating System - Understanding Your Social Brain**
 
 **Chapter 1:** Your First Instrument: The Emergency Reset
-*The Neuroscience of Emotional Self-Regulation*
+*How to Find the Brake Pedal for Your Brain*
 
 **Chapter 2:** The Hidden Code: Why Words Can Hurt
 *Introducing the SCARF Model*
 
 **Chapter 3:** Discovering the Orchestra: What Instrument Do You Play?
-*The Social Brain Diagnostic*
+*A Diagnostic for Your Social Brain*
 
 **Chapter 4:** The Laws of Social Gravity
 *Conducting From Your Position*
@@ -24,18 +24,18 @@
 
 ### **Part II: The Toolkit - Mastering the Core Performances**
 
-**Chapter 5:** Your Toolkit Map & Cheat Sheet
+**Chapter 5:** Your Conductor's Learning Path
 
 **The Core Duo: Your Foundational Practice**
 
-**Chapter 6:** The Connection & Trust Protocol
-*The Neuroscience of Presence, Empathy & Vulnerability*
+**Chapter 6:** The Art of Connection and Trust
+*The Science of Presence, Empathy, and Vulnerability*
 
 **Chapter 7:** Conducting for Clarity and Influence
 *Using Clarity and Storytelling to Make Your Message Stick*
 
 **Chapter 8:** The Core Duo in Concert
-*Proving the Power of Your Foundational Toolkit*
+*Putting Your Foundational Tools to the Test*
 
 **The Ensemble Toolkit: Specialized Instruments**
 
@@ -61,7 +61,7 @@
 **Chapter 14:** The Conductor's Legacy
 *Navigating Disappointment and Building a Self-Tuning Orchestra*
 
-**Chapter 15:** Conducting the D dissonance
+**Chapter 15:** Conducting the Dissonance
 *A Final Reflection on Imperfect Connection*
 
 **Conclusion:** The Conductor's Final Paradox
@@ -73,7 +73,7 @@
 **Appendix A:** For the Curious Brain
 *The Science Behind the Strategies*
 
-**Appendix B:** Adapting the Protocols for Different Orchestras
+**Appendix B:** Adapting Your Approach for Different Orchestras
 
 **Appendix C:** The 30-Day Conductor's Challenge
 
@@ -90,3 +90,4 @@
 **Acknowledgments**
 
 **About the Author**
+      

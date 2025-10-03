@@ -3,7 +3,7 @@
 
 > ### **The Final Performance Capstone**
 >
-> This chapter brings together every protocol you have learned. We follow Maria through the final, high-stakes political battle for the Phoenix Project's resources and her subsequent challenge: leading her team through a bitter disappointment without letting the culture collapse.
+> This chapter brings together every practice you have learned. We follow Maria through the final, high-stakes political battle for the Phoenix Project's resources and her subsequent challenge: leading her team through a bitter disappointment without letting the culture collapse.
 
 ---
 ### **Part 1: The Cost of the Performance (The Regression)**
@@ -60,7 +60,7 @@ Hoping to salvage the moment, she tried to reframe the loss into a lesson. "We d
 
 The speech landed with a thud. It was Leo who finally broke the silence, his voice quiet but sharp with disillusionment. "Permanent? What's permanent is that we have to kill the features our users were most excited about. The features we were proudest of. It feels like we fought a war just to lose the peace."
 
-His words pierced Maria's carefully constructed conductor's poise. Her reframe had failed. She had no protocol to run. She had to simply sit in the uncomfortable, unresolved dissonance.
+His words pierced Maria's carefully constructed conductor's poise. Her reframe had failed. She had no script to run. She had to simply sit in the uncomfortable, unresolved dissonance.
 
 "You're right, Leo," she said, her voice softer, all the performance gone. "It's a huge loss. It sucks. And I don't have a speech that can fix it."
 
@@ -92,3 +92,4 @@ A conductor must design a system where safety is the natural output.
 4.  **Distribute Competence with a Shared Language:** Give your team a shared, non-judgmental language ("SCARF," "amygdala hijack"). This creates a powerful shortcut to empathy and leads to a self-tuning orchestra.
 
 By implementing these routines, you nurture their brains. You create a culture where everyone feels responsible for the music. This is the conductor's true legacy.
+      

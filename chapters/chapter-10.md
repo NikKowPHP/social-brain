@@ -21,13 +21,13 @@ Frank held up a hand. "I know. But you need to understand who you're dealing wit
 
 Maria sank back in her chair. This was a brutal lesson: **good-faith tools can be misinterpreted by someone operating from a place of deep-seated fear.** In this environment, her goal had to shift from connection to containment.
 
-She decided to use a defensive tool of last resort: the Conductor's Shield. The protocol backfired spectacularly.
+She decided to use a defensive tool of last resort: the Conductor's Shield. The framework backfired spectacularly.
 
 In their next group meeting, in front of Frank, David put on a show of good-faith collaboration. "Maria, I'm trying to find a path forward here," he said, his tone one of deep concern. "But I have to be honest, it feels like I'm talking to a wall. I'm just getting these very procedural, robotic answers." He turned to Frank. "We need a partner who can engage with the real issues, not just manage the conversation."
 
-Maria was stunned. David had used her own protocol against her, painting her as the uncooperative one. The fallout was swift. Frank later told her, "David has successfully framed you as being difficult to work with. He's sown enough doubt that leadership has decided to preemptively cut the Phoenix Project's phase 2 budget by 20%. We might be able to win it back, but you're on the defensive now."
+Maria was stunned. David had used her own framework against her, painting her as the uncooperative one. The fallout was swift. Frank later told her, "David has successfully framed you as being difficult to work with. He's sown enough doubt that leadership has decided to preemptively cut the Phoenix Project's phase 2 budget by 20%. We might be able to win it back, but you're on the defensive now."
 
-The Shield Protocol hadn't just failed to contain the threat; it had armed him. Walking back to her desk, the cold hollowness in her chest was no longer just a feeling—it was the weight of a tangible political and financial defeat. A protocol is not a substitute for wisdom, and her clumsy application of the tool had just put her entire project in jeopardy.
+The Shield framework hadn't just failed to contain the threat; it had armed him. Walking back to her desk, the cold hollowness in her chest was no longer just a feeling—it was the weight of a tangible political and financial defeat. A framework is not a substitute for wisdom, and her clumsy application of the tool had just put her entire project in jeopardy.
 
 ---
 ### **Chapter 10 Debrief: Advanced Adaptation**
