@@ -21,7 +21,7 @@ Relationships are forged in tiny "micro-moments." In an asynchronous world, you 
 
 ---
 
-**The Practice: Protocols for Asynchronous Sanity**
+**The Practice: Tools for Asynchronous Sanity**
 
 **1. The Micro-Dose of Trust (Calibrated Vulnerability 2.0)**
 You must use text-based vulnerability with care.
@@ -42,7 +42,7 @@ Offer tiny, specific rewards.
 *   **Certainty Reward:** "Just confirming I got your email. I'll have an answer for you this afternoon."
 *   **The principle of connection:** In a direct message, a 5-second Playback can be a powerful deposit. "Tough meeting?" or "Looks like that's a frustrating bug." This sends a tiny signal that says, "I see you."
 
-**4. The "Asynchronous Conflict Protocol" (The 3-Reply Rule)**
+**4. The "Asynchronous Conflict" Rule (The 3-Reply Rule)**
 If a topic requires more than three back-and-forth replies to resolve, it has become too complex or too emotionally charged for text. It must be moved to a higher-bandwidth medium.
 
 *   **The Script:** Frame the move as collaborative.

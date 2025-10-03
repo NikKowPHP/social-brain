@@ -37,7 +37,7 @@ The protocol worked—David backed down in the moment. But the social cost was i
 ### Conducting Through Dissonance
 Dissonance is not a sign that the music has stopped; it is a sign that the music is interesting. This toolkit provides the instruments you need to conduct through it with skill and grace. Unsolicited feedback and difficult conversations are a direct threat to **Status**, **Certainty**, and **Relatedness**, triggering a defensive amygdala hijack. To navigate this, you need a simple framework for several types of crucial conversations.
 
-#### **1. The Tune-Up Conversation (For Giving and Receiving Feedback)**
+#### **1. A tune-up conversation (Giving and Receiving Feedback)**
 The goal here is to create a collaborative "debugging session" instead of a critique.
 *   **To Give Feedback:** Use this three-phase approach.
     1.  **Get Permission:** "Are you open to discussing..." This honors their Autonomy.
@@ -47,17 +47,17 @@ The goal here is to create a collaborative "debugging session" instead of a crit
     1.  **Regulate First:** Take one silent **Conductor's Breath**.
     2.  **Find the Data:** Ask "Can you give me a specific example?" to move from drama to data.
 
-#### **2. The Repair Conversation (For Restoring Trust)**
-When you are the one who has caused a rupture, the goal is to systematically reward the other person's social brain to create the safety needed for repair. This is what Maria used to fix the damage with Leo.
+#### **2. Repairing a connection (For Restoring Trust)**
+Repairing trust after a mistake isn't a new protocol; it's a direct application of the **Connection & Trust Protocol (Chapter 8)** when the stakes are high. This is what Maria used to fix the damage with Leo. It begins with the **Conductor's Breath (Chapter 1)** to manage your own defensiveness, followed by the **Empathy Loop** to understand the damage you caused. The sequence is a practical application of our Core Duo:
 *   **The Sequence:**
     1.  **Regulate Yourself First:** Use **The Conductor's Breath**.
     2.  **Lead with a Shared Intent:** Open with a goal of mutual understanding ("I want to fix the damage...").
     3.  **Share Your Observation & Hand them the Baton:** State a neutral fact and ask for their perspective ("When X happened... what was it like for you?").
     4.  **Build a Bridge of Trust:** Admit your role in the problem (Calibrated Vulnerability) and use "we" language to signal a shared future.
 
-#### **3. The Boundary Conversation (For Saying "No")**
+#### **3. Setting a boundary (For Saying "No")**
 A "no" can feel like a severe **Relatedness** threat. This script is designed to protect your own agency while minimizing the threat to theirs. This is what Maria used with David.
-*   **The "Validate, State, Offer" Script:**
+*   **The "Validate, State, Offer" script:**
     1.  **Validate the Request:** Acknowledge the value of their request. ("*Thank you so much for thinking of me for this.*")
     2.  **State Your Reality (The "No"):** Frame it as a statement about your own limitations. ("*Unfortunately, my plate is full right now...*")
     3.  **Offer an Alternative (Optional):** Soften the "no" with a different form of help. ("*...While I can't lead the project, I'm happy to spend 30 minutes brainstorming.*")

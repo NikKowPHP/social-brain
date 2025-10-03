@@ -23,11 +23,11 @@ This chapter is your map. It provides a high-level overview of the complete syst
 #### **II. ENSEMBLE TOOLKIT: Your Specialized Reference Library**
 *(These are specialized instruments for specific situations. Do not try to memorize them. Refer to these chapters as needed.)*
 
-*   **The Clarity Protocol (Ch 11):** For making your communication effective and respectful.
-*   **The Storytelling Technique (Ch 11):** For making your ideas persuasive and memorable.
-*   **The Conflict Toolkit (Ch 12):** A suite of tools for navigating high-stakes conversations, giving feedback, and setting boundaries safely.
-*   **The Shield Protocol (Ch 13):** Your defensive tool for navigating bad-faith arguments.
-*   **The Adaptation Protocol (Ch 13):** For navigating different group and cultural dynamics.
+*   **Principles of Clarity (Ch 11):** For making your communication effective and respectful.
+*   **Storytelling for Influence (Ch 11):** For making your ideas persuasive and memorable.
+*   **Tools for Conflict (Ch 12):** A suite of tools for navigating high-stakes conversations, giving feedback, and setting boundaries safely.
+*   **The Conductor's Shield (Ch 13):** Your defensive tool for navigating bad-faith arguments.
+*   **Adapting to New Environments (Ch 13):** For navigating different group and cultural dynamics.
 
 ---
 
@@ -39,13 +39,13 @@ This chapter is your map. It provides a high-level overview of the complete syst
 *   **When someone is venting or seems upset...**
     *   **Then...** Use **The Empathy Loop** to make them feel heard. Do not solve. (Ch 8)
 *   **When you need to send an email or make a request...**
-    *   **Then...** Use **The Clarity Protocol** to respect their cognitive load. (Ch 11)
+    *   **Then...** Apply the **principles of clarity** to respect their cognitive load. (Ch 11)
 *   **When you have made a mistake and hurt someone...**
-    *   **Then...** Use **The Conflict Toolkit** (Difficult Conversation Protocol) to repair trust. (Ch 12)
+    *   **Then...** Use the tools for a **difficult conversation** to repair trust. (Ch 12)
 *   **When you need to say "no" to a request...**
-    *   **Then...** Use **The Conflict Toolkit** (Boundary Technique) to protect your time gracefully. (Ch 12)
+    *   **Then...** Use the tool for **setting a boundary** to protect your time gracefully. (Ch 12)
 *   **When you are trying to persuade a skeptical audience...**
-    *   **Then...** Use **The Storytelling Technique** to frame your data as a story. (Ch 11)
+    *   **Then...** Use **storytelling** to frame your data as a story. (Ch 11)
 
 ---
 ### **The Foundational Concepts (Your Reference Material)**

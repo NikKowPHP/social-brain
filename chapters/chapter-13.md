@@ -26,13 +26,13 @@ The Shield Protocol hadn't just failed to contain the threat; it had armed him. 
 ---
 ### **Chapter 13 Debrief: Advanced Adaptation**
 
-#### **Part 1: The Adaptation Protocol**
+#### **Part 1: Adapting to a New Environment**
 The brain's social hardware (SCARF) is universal, but culture is the software. To navigate new cultures, use a three-step loop:
 1.  **Observe (Data Collection):** When entering a new group, your primary job is to listen. Notice patterns in how status is shown, feedback is given, etc.
 2.  **Calibrate (Form a Hypothesis):** Based on observations, form a simple hypothesis. *"Hypothesis: In this group, public disagreement seems to be a major Status threat."*
 3.  **Test (Run an Experiment):** Run a small, low-risk experiment to test your hypothesis.
 
-#### **Part 2: The Conductor's Shield Protocol**
+#### **Part 2: The Conductor's Shield (A Tool of Last Resort)**
 *(Visual Cue: A simple icon of a shield)*
 
 This is a defensive tool of last resort for navigating manipulative or bad-faith actors. Before using it, you must check your own reasoning. Ask yourself: Have I consistently used the Core Duo first, and have my good-faith attempts been repeatedly ignored or used against me? Is there a consistent pattern of manipulation, like twisting facts and shifting goalposts? Could I be misinterpreting a different cultural style, a blunt Architect, or a stressed Sentinel? If you cannot confidently answer "yes" to the first two questions, the Shield is the wrong tool.
@@ -41,7 +41,7 @@ This is a defensive tool of last resort for navigating manipulative or bad-faith
 
 When facing a bad-faith actor, you cannot invite them into a duet. Your goal is not to make music with them, but to ensure they don't disrupt the rest of the orchestra. You must become the silent stage, refusing to play their chaotic song.
 
-**The Protocol:**
+**The Approach:**
 1.  **Shift Your Goal from Connection to Containment.** Your new goals: Regulate yourself, protect your boundaries, document reality.
 2.  **Go "Gray Rock."** Become as boring and unreactive as a gray rock. Use **The Conductor's Breath** and maintain neutral non-verbals.
 3.  **Use Clarity as a Scalpel.** State facts, not interpretations. Calmly repeat your boundary or factual statement without engaging with diversions.

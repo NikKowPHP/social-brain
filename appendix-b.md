@@ -6,8 +6,8 @@ This appendix provides a brief guide for adapting the Conductor's Method™ to d
 
 #### **For Hierarchical, High-Consequence Environments (e.g., Medicine, Military, Aviation)**
 In these worlds, clarity, predictability, and respect for the chain of command are paramount.
-*   **Primary Focus:** Protocols that enhance **Certainty** and **Clarity**. The **Clarity Protocol (Chapter 11)** for all communications is not a suggestion; it is a safety requirement. The **"Hijack Emergency Protocol" (Chapter 12)** is essential for high-stress situations.
-*   **Key Adaptation:** Frame the **"Debug Protocol" (Chapter 12)** as a mandatory, system-focused "After-Action Review" or "Post-Mortem." This de-personalizes feedback and aligns with existing cultural norms of learning from error to improve the system, not to assign blame. Calibrated Vulnerability may be perceived as a lack of confidence, so it must be used with extreme care, focusing on system-level uncertainty rather than personal doubt.
+*   **Primary Focus:** Protocols that enhance **Certainty** and **Clarity**. The **principles of clarity (Chapter 11)** for all communications are not a suggestion; it is a safety requirement. The **"Hijack Emergency" tools (Chapter 12)** are essential for high-stress situations.
+*   **Key Adaptation:** Frame the **feedback process (Chapter 12)** as a mandatory, system-focused "After-Action Review" or "Post-Mortem." This de-personalizes feedback and aligns with existing cultural norms of learning from error to improve the system, not to assign blame. Calibrated Vulnerability may be perceived as a lack of confidence, so it must be used with extreme care, focusing on system-level uncertainty rather than personal doubt.
 
 #### **For Academic or Research Environments**
 Here, the currency is intellectual rigor, and the primary risk is a threat to **Status** during debate.
@@ -22,5 +22,5 @@ These systems often create a sense of powerlessness and inertia, making **Autono
 #### **For Non-Profit or Mission-Driven Environments**
 The culture is often highly relational, but also prone to burnout, as strong "Connector" profiles can over-extend themselves for the mission.
 *   **Primary Focus:** Protocols for sustainability and healthy boundaries.
-*   **Key Adaptation:** The **"Boundary Protocol" (Chapter 12)** and the tools in **Chapter 17 (When the Conductor is Exhausted)** are not optional; they are essential survival skills. Leaders in these organizations must model and teach these protocols to prevent compassion fatigue and create a sustainable culture of care that includes the caregivers themselves. Framing boundaries as a way to "protect the mission for the long-term" can make it feel less selfish for Connectors.
+*   **Key Adaptation:** The **boundary tools (Chapter 12)** and the tools in **Chapter 17 (When the Conductor is Exhausted)** are not optional; they are essential survival skills. Leaders in these organizations must model and teach these protocols to prevent compassion fatigue and create a sustainable culture of care that includes the caregivers themselves. Framing boundaries as a way to "protect the mission for the long-term" can make it feel less selfish for Connectors.
       

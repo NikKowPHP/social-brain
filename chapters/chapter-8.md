@@ -92,9 +92,9 @@ To see this in action, contrast Maria's struggle with a moment from earlier that
 **The Myth:** To build trust, you must project flawless competence.
 **The Reality:** Strategically admitting an imperfection (**Calibrated Vulnerability**) is a powerful signal that you are human, safe, and trustworthy. It's a biological invitation for the other person's brain to release **oxytocin**, the "trust molecule," which quiets the "foe" signal from the amygdala and primes the brain for collaboration.
 
-**The Practice: Execute a "Trust Protocol"**
-You can't force trust, but you can run a protocol of behaviors that trigger an oxytocin release.
-*   **Execute "Calibrated Vulnerability."** This is a **social sonar ping.** Share a small, safe signal (a minor mistake, a knowledge gap) and **Pause and observe** the response. For an **Architect**, vulnerability can feel illogical; your work is to see it as the most logical path to a high-functioning team. For a **Connector**, the risk is *uncalibrated* vulnerability; practice sharing with discernment. For a **Sentinel**, lowering your shield is scary; use your **Conductor's Breath** first.
+**The Practice: Building Trust**
+You can't force trust, but you can practice behaviors that trigger an oxytocin release.
+*   **Practice "Calibrated Vulnerability."** This is a **social sonar ping.** Share a small, safe signal (a minor mistake, a knowledge gap) and **Pause and observe** the response. For an **Architect**, vulnerability can feel illogical; your work is to see it as the most logical path to a high-functioning team. For a **Connector**, the risk is *uncalibrated* vulnerability; practice sharing with discernment. For a **Sentinel**, lowering your shield is scary; use your **Conductor's Breath** first.
 *   **Find Uncommon Commonalities.** Listen for a shared interest, value, or experience that creates a unique "in-group."
 *   **Use "We" Language.** Replace "you" and "I" with "we." This signals "we are in the same tribe, working on the same problem."
 

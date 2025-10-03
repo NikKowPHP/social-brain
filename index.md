@@ -1,7 +1,7 @@
 ### **Index**
 
 **A**
-*   Adaptation Protocol (Chapter 13)
+*   Adapting to new environments (Chapter 13)
 *   AI (Artificial Intelligence), Communicating with (Conclusion)
 *   Amygdala (Chapters 1, 4, 8, 12, 13)
 *   Amygdala Hijack (Chapter 1, 12)
@@ -14,7 +14,7 @@
 *   Automaticity (Chapter 16)
 
 **B**
-*   Boundary Protocol (Chapter 12)
+*   Boundaries, setting (Chapter 12)
 *   Brain Profiles (Chapter 2)
 *   Breathing, The Conductor's Breath (Chapters 1, 8, 12, 13, 16, 18)
 *   Burden, Conductor's (Chapter 18)
@@ -23,11 +23,12 @@
 **C**
 *   Certainty (SCARF) (Chapters 6, 11, 12, 14, 18)
 *   Clarity as a Scalpel (Chapter 13)
-*   Clarity Protocol (Chapter 11)
+*   Clarity, Principles of (Chapter 11)
 *   Clinical Warning (Introduction)
 *   Code-Switching (Chapter 13)
 *   Cognitive Load (Chapters 11, 13)
 *   Cognitive Style (Chapter 2, Chapter 13, 16)
+*   Conflict, navigating (Chapter 12)
 *   Conductor's Oath (Introduction)
 *   Conductor's Paradox (Introduction, Chapter 16)
 *   Connector Brain Profile (Chapter 2, Chapters 8, 11, 12, 16, 18)
@@ -52,8 +53,8 @@
 **F**
 *   Fairness (SCARF) (Chapters 6, 12, 18)
 *   Feedback (Chapter 12)
-    *   Giving (Debug Protocol)
-    *   Receiving (Intake Protocol)
+    *   Giving
+    *   Receiving
 *   Feedback Sandwich (Chapter 12)
 
 **G**
@@ -111,7 +112,6 @@
 **R**
 *   Rapport (Chapter 8)
 *   Relatedness (SCARF) (Chapters 6, 12, 13, 18)
-*   Repair Protocol (Chapter 12)
 *   Resilience (Chapter 17)
 *   Rock, David (Chapter 6, 12, Appendix A)
 

@@ -28,26 +28,26 @@ Maria's stomach dropped. Odyssey was David's failing pet project, a notoriously 
 
 A conductor is responsible for both the technical clarity of the score and the emotional power of the melody. This chapter gives you the tools for both.
 
-#### **Part 1: The Clarity Protocol (The Notation)**
+#### **Part 1: The Principles of Clarity (The Notation)**
 *(Visual Cue: A simple icon of a lightbulb)*
 
 The first responsibility of a conductor is to provide a clear score. If the notation is ambiguous, the orchestra will be confused. This protocol is your system of notation.
 
-**The Science:** The brain's **working memory** is a tiny "mental workbench" that can only hold about four or five chunks of information at a time. As a programmer, I think of this as memory management. A long, unstructured email causes a 'stack overflow' in the reader's brain. The Clarity Protocol isn't just polite; it's good resource management for their attention. It crashes from **cognitive load** when it receives long, unstructured messages. Clarity is an act of respect for this biological limitation.
+**The Science:** The brain's **working memory** is a tiny "mental workbench" that can only hold about four or five chunks of information at a time. As a programmer, I think of this as memory management. A long, unstructured email causes a 'stack overflow' in the reader's brain. The principles of clarity aren't just polite; they're good resource management for their attention. It crashes from **cognitive load** when it receives long, unstructured messages. Clarity is an act of respect for this biological limitation.
 
-**The Practice: Execute the "Clarity Protocol"**
+**The Practice: Applying the Principles of Clarity**
 1.  **One Goal Per Message:** Finish the sentence: "The one thing I need this person to **know** or **do** is ___________."
 2.  **Headline First:** Put the main point or request right at the top, both in the subject line and the first sentence.
 3.  **Chunk the Details:** Use short paragraphs, bullet points, and bolding to format information for the brain.
 
-#### **Part 2: The Storytelling Technique (The Melody)**
+#### **Part 2: The Power of Storytelling (The Melody)**
 *(Visual Cue: A simple icon of a speech bubble with an arrow inside, showing progression)*
 
 But a clear score is not enough; it must have a memorable melody. This technique is how you turn dry data into music that sticks.
 
 **The Science:** A compelling story causes **neural coupling**, where the listener's brain activity to synchronizes with the storyteller's. Resolving tension in a story releases dopamine, acting like a "save" button in the brain.
 
-**The Practice: The Tension & Resolution Technique (And, But, Therefore)**
+**The Practice: The Tension & Resolution Arc (And, But, Therefore)**
 1.  **"And..." (The Stable Situation):** Establish a stable, relatable reality.
 2.  **"But..." (The Problem/Tension):** Introduce a problem that disrupts that stability.
 3.  **"Therefore..." (The Solution/Resolution):** Present your idea as the resolution to that tension.
