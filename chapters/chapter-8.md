@@ -42,9 +42,13 @@ When she proposed the 48-hour prototype, it wasn't a compromise. It was a perfec
 #### **Maria's Log: The Frustration of Incremental Progress**
 That night, Maria vented to her partner, Alex. "I feel like I'm failing. I used all the tools... and it wasn't enough. The conversation almost blew up twice. I had to throw the book away just to get them to talk."
 
-Alex listened, then said, "But they did talk. You're treating it like a test you got a C- on. But what if it isn't a test? When a program has a bug, you don't call yourself a 'failure.' You just say, 'Okay, that didn't work. I've collected some data.' What data did you collect today?"
+Alex listened, modeling the patient presence she was trying to learn. "I hear you," he said. "It sounds incredibly frustrating. Let me ask you something. When you find a bug in a piece of code you wrote, a really tricky one, what do you call yourself?"
 
-The question stopped her cold. It was a complete reframing of her entire approach. Her goal wasn't to be a perfect performer. Her goal was to be a relentless investigator. The pressure to get it right was replaced by a simple, more forgiving directive: **get the data.**
+Maria looked at him, annoyed. "What? I don't call myself anything. I just... find the bug."
+
+"Exactly," Alex said softly. "You don't say 'I'm a failed programmer.' You just look for the data. You try to understand the system. Why is this any different?"
+
+The question hung in the air. Maria was silent as the connection clicked into place in her own mind. Her goal wasn't to be a perfect performer. Her goal was to be a relentless investigator. The pressure to get it right was replaced by a simple, more forgiving directive: **get the data.**
 
 She opened her logbook, and for the first time, she wasn't grading her performance. She was analyzing the system. Her entry was short: *"Hypothesis: The protocols are not a script to be followed, but a key to unlock a deeper conversation. The data shows that when the protocols hit a wall, it's a signal to drop the tools and listen even more deeply. This wasn't a failure. It was data collection."*
 
