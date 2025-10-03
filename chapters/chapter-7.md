@@ -1,13 +1,15 @@
 ### **Chapter 7: Conducting for Clarity and Influence**
 #### Using Clarity and Storytelling to Make Your Message Stick
 
-We have now assembled the **Core Duo** of our toolkit. Now we add our first **Ensemble** chapter, which combines two powerful protocols designed to make your message received and remembered.
+We have now assembled the **Core Duo** of our toolkit. Now we add our first **Ensemble** chapter, which combines two powerful practices designed to make your message received and remembered.
 
 With the Sterling Corp. review fast approaching, Maria's team had solved the internal deadlock between Mark and Jane, but the project was now stalled, awaiting critical funding from a data-weary board. Maria knew from experience that a wall of data wouldn't work. To succeed, she had to respect the board's limited attention and then capture their imagination.
 
-First, she had to ensure her message could be received at all. She thought about the brain's tiny mental workbench, its **working memory**, which crashes when faced with a long, unstructured message. Clarity, she realized, isn't just good writing; it's an act of empathy and a sign of respect for the receiver's finite cognitive load. She structured her proposal email with a ruthless focus on clarity: a clear subject line (ACTION REQUIRED: Vote on Phoenix Project Funding), the single request in the first sentence, and all the supporting data chunked into bullet points.
+This was a different kind of problem. It wasn't about navigating an emotional minefield, but about designing a message that could bypass the brain's natural defenses against complexity. As she prepared, her research into the social brain led her to the science of attention and memory.
 
-But clarity alone wasn't enough. To be truly persuasive, she had to frame her data as a story. A good story, she knew, does something magical in the brain: it causes the listener's brain activity to synchronize with the storyteller's (**neural coupling**), and the resolution of narrative tension releases dopamine, acting like a "save" button that makes the message memorable.
+First, she had to ensure her message could be received at all. She learned about the brain's tiny mental workbench, its **working memory**, which crashes when faced with a long, unstructured message. Clarity, she realized, isn't just good writing; it's an act of empathy and a sign of respect for the receiver's finite cognitive load. She structured her proposal email with a ruthless focus on clarity: a clear subject line (ACTION REQUIRED: Vote on Phoenix Project Funding), the single request in the first sentence, and all the supporting data chunked into bullet points.
+
+But clarity alone wasn't enough. To be truly persuasive, she had to frame her data as a story. She discovered that a good story does something magical in the brain: it causes the listener's brain activity to synchronize with the storyteller's (**neural coupling**), and the resolution of narrative tension releases dopamine, acting like a "save" button that makes the message memorable.
 
 In the meeting, she didn't open with a spreadsheet. She opened with a simple, three-part story.
 
@@ -44,9 +46,9 @@ A conductor is responsible for both the technical clarity of the score and the e
 #### **Part 1: The Principles of Clarity (The Notation)**
 *(Visual Cue: A simple icon of a lightbulb)*
 
-💡 The first responsibility of a conductor is to provide a clear score. If the notation is ambiguous, the orchestra will be confused. This protocol is your system of notation.
+💡 The first responsibility of a conductor is to provide a clear score. If the notation is ambiguous, the orchestra will be confused. This framework is your system of notation.
 
-🧠 **The Science:** The brain's **working memory** is a tiny "mental workbench" that can only hold about four or five chunks of information at a time. As a programmer, I think of this as memory management. A long, unstructured email causes a 'stack overflow' in the reader's brain. The principles of clarity aren't just polite; they're good resource management for their attention. It crashes from **cognitive load** when it receives long, unstructured messages. Clarity is an act of respect for this biological limitation.
+🧠 **The Science:** The brain's **working memory** is a tiny "mental workbench" that can only hold about four or five chunks of information at a time. A long, unstructured email causes a 'stack overflow' in the reader's brain. The principles of clarity aren't just polite; they're good resource management for their attention. Clarity is an act of respect for this biological limitation.
 
 🔧 **The Practice: Applying the Principles of Clarity**
 1.  **One Goal Per Message:** Finish the sentence: "The one thing I need this person to **know** or **do** is ___________."

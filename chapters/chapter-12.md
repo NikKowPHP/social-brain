@@ -3,13 +3,15 @@
 
 The principles of The Conductor Method are universal because the hardware of the human brain is universal. However, the environment in which we conduct is changing. For a growing number of us, the "performance space" is not a conference room, but a collection of text documents, chat channels, and email threads.
 
+As the Phoenix Project team became more distributed to hit their tight deadline, Maria noticed a new class of bugs emerging. Misunderstandings flared up in Slack over minor issues. A general sense of disconnection and friction seemed to be rising. Her investigation into this new problem led her to the science of low-context communication.
+
 Conducting a remote or asynchronous orchestra presents a unique and profound set of challenges. The subtle, high-bandwidth data of non-verbal cues is gone. This low-data environment is a breeding ground for ambiguity, which is a massive threat to the brain's sense of **Certainty**. Trust degrades faster, and misunderstandings multiply.
 
 To succeed, a conductor must become obsessively intentional about manually injecting the signals of safety and clarity.
 
 **The Science: The Cost of Low-Context Communication**
 
-When we shift to a low-context medium like Slack or email, two things happen:
+Maria learned that when we shift to a low-context medium like Slack or email, two things happen:
 
 1.  **The "Negative Interpretation Bias" Kicks In:** Without tone or body language, the amygdala tends to fill in the gaps with negative assumptions (e.g., "I need that report now" is interpreted as angry).
 2.  **Cognitive Load Skyrockets:** Constant notifications and context-switching deplete our limited working memory.
@@ -47,3 +49,4 @@ If a topic requires more than three back-and-forth replies to resolve, it has be
 
 *   **The Script:** Frame the move as collaborative.
     *   *Do say:* "This is an important conversation, and I want to make sure I'm fully understanding your perspective. I think it would be faster and easier to sync up on a quick call. Are you free for 10 minutes this afternoon?"
+      

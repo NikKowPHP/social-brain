@@ -7,7 +7,7 @@ Her top engineer, Mark, stared back at her from the screen, his face a perfect, 
 
 She saw him flinch as if she'd slapped him. Now, he was silent, radiating a cold fury that sucked all the air out of the virtual room. This was the feeling she hated most—the bug in her own system. Her world was supposed to be predictable, controllable, an equation she could solve. But Mark's silent fury was a variable she couldn't account for, and her own mind had been taken offline. She wanted to fix it, to deploy a logical argument to defuse the situation, but she couldn't access the words. All she could feel was the hammering in her chest and a primal, panicked urge to either lash out ("Why are you being so sensitive?") or flee (end the call).
 
-She didn't know the name for it yet, but Maria was experiencing a full-blown **amygdala hijack**. Deep in the oldest part of her brain, the security guard had pulled the fire alarm, flooding her system with cortisol and taking her rational mind offline.
+She didn't know the name for it yet, but Maria was experiencing a full-blown **amygdala hijack**. Deep in the oldest part of her brain, its security guard had pulled the fire alarm, flooding her system with cortisol and taking her rational mind—the part she valued most—offline.
 
 I know this feeling intimately. The hot flush of shame, the panicked blankness—it was the same invisibility I felt years ago in that boardroom when my perfect data was swept aside by a simple story. It’s the feeling of your brain being taken offline against your will. Maria’s journey to get back in control, starting with her very next breath, is the heart of the Conductor Method. She just needed her first instrument.
 
@@ -21,7 +21,7 @@ This is where the real work of a conductor begins: not with leading others, but 
 
 #### **The Science: Your Biological Brake Pedal**
 
-An amygdala hijack temporarily takes your rational mind—the **prefrontal cortex (PFC)**—offline. The key is: *You cannot think your way out of an amyggdala hijack; you must regulate your way out of it.*
+What Maria had just stumbled upon is a fundamental feature of our nervous system. An amygdala hijack temporarily takes your rational mind—the **prefrontal cortex (PFC)**—offline. The key is: *You cannot think your way out of an amyggdala hijack; you must regulate your way out of it.*
 
 The system has a built-in, physical 'brake pedal'—a superhighway of nerves called the **vagus nerve**. When you intentionally activate this nerve, as Maria did with her long exhale, you send a direct, physical signal to your brain that says, *"System secure. Stand down the alarm."*
 

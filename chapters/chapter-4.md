@@ -12,12 +12,12 @@ This is the final layer of our diagnostic work. You've learned to see the SCARF 
 
 #### **The Science: Why Power Literally Changes Your Brain**
 
-Research shows that power fundamentally changes the brain. High-power individuals experience decreased activity in the circuits responsible for empathy and an increased appetite for risk-taking. Conversely, individuals in low-power positions exhibit heightened threat-vigilance—their brains are more attuned to social cues as a survival mechanism.
+Stung by the failed conversation, Maria spent that afternoon trying to understand the bug. Why had the exact same input produced two different outputs? Her research led her to the neurobiology of power, and the answer was both unsettling and clarifying. Research shows that power fundamentally changes the brain. High-power individuals experience decreased activity in the circuits responsible for empathy and an increased appetite for risk-taking. Conversely, individuals in low-power positions exhibit heightened threat-vigilance—their brains are more attuned to social cues as a survival mechanism.
 
-This means a manager and an employee in the same conversation are having two completely different neurological experiences. A statement that feels like safe, connecting vulnerability to one person can feel like a dangerous signal of incompetence to another.
+This meant she and her VP, sitting in the same room, were having two completely different neurological experiences. A statement that felt like safe, connecting vulnerability to her felt like a dangerous signal of incompetence to him.
 
 #### **Case Study: Vulnerability Miscalibrated**
-Maria had just lived this. The tool of "Calibrated Vulnerability" produced opposite results depending on social gravity:
+Maria now had a framework to understand her mistake. The tool of "Calibrated Vulnerability" produced opposite results depending on social gravity:
 *   **Conducting Down (with Leo):** When Maria showed vulnerability to her junior engineer, it lowered the power differential and signaled trust and safety. It was a **Relatedness** reward that built connection.
 *   **Conducting Up (with her VP):** When she showed the *exact same* vulnerability to her boss, it was interpreted as a lack of control and competence. This was a direct **Status** threat to the VP, who was worried about his own standing with senior leadership and the project's viability.
 

@@ -78,7 +78,7 @@ It wasn't a victory. It was something more durable: a team that had learned how 
 
 #### **The Science: Psychological Safety**
 
-The ultimate legacy is **psychological safety**—a shared belief that the team is safe for interpersonal risk-taking. This is the systemic, group-level application of the SCARF model (Chapter 2), where the five domains are consistently nurtured.
+Watching her team, Maria finally understood what all the research she'd been reading was pointing toward. Her legacy wasn't a political victory; it was this resilient culture. She finally had a name for it: **psychological safety**—a shared belief that the team is safe for interpersonal risk-taking. It wasn't an abstract concept anymore; it was the tangible, durable outcome of consistently nurturing the five SCARF domains.
 
 As a leader, your job is to be the chief architect of this environment.
 

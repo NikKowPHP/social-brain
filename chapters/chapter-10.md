@@ -32,8 +32,10 @@ The Shield framework hadn't just failed to contain the threat; it had armed him.
 ---
 ### **Chapter 10 Debrief: Advanced Adaptation**
 
+The failure of the Shield was a painful lesson for Maria. It forced her to realize that a tool is only as good as the context it's used in. She began to research how group dynamics and bad-faith actors change the unwritten rules of engagement, leading her to two different kinds of adaptation.
+
 #### **Part 1: Adapting to a New Environment**
-The brain's social hardware (SCARF) is universal, but culture is the software. To navigate new cultures, use a three-step loop:
+The brain's social hardware (SCARF) is universal, but culture is the software. To navigate new cultures, she learned to use a three-step loop:
 1.  **Observe (Data Collection):** When entering a new group, your primary job is to listen. Notice patterns in how status is shown, feedback is given, etc.
 2.  **Calibrate (Form a Hypothesis):** Based on observations, form a simple hypothesis. *"Hypothesis: In this group, public disagreement seems to be a major Status threat."*
 3.  **Test (Run an Experiment):** Run a small, low-risk experiment to test your hypothesis.
