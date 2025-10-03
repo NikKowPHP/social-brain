@@ -1,5 +1,9 @@
 ### **Chapter 5: Your Conductor's Learning Path**
 
+The Phoenix Project was on a knife's edge. Maria's boss had been clear: "The board approved the funding based on your story, Maria. But David has their ear now. If this project is a day late, if it has a single significant bug on launch, he will use it to kill Phase 2 and declare your entire approach a failure. It's not just about the code anymore. Your job is on the line."
+
+The stakes were no longer abstract. Failure meant not just a stalled project, but a public validation of her deepest fear: that her logical, systematic approach was no match for the political games she despised. It could be a career-ending defeat. To survive, she had to learn a new way to lead, and she had to learn it fast.
+
 ---
 ### **Conductor's Note**
 
@@ -62,3 +66,4 @@ To help you navigate this book, we will use a simple set of icons to label key c
 ### **Ready to Begin? Activate Your Guided Practice.**
 
 This tiered system gives you the "what." The **30-Day Conductor's Challenge in Appendix C** gives you the "how." It is a structured, week-by-week guide that mirrors this learning path. We strongly recommend you turn to Appendix C now and commit to Week 1.
+      

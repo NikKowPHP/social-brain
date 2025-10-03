@@ -20,7 +20,7 @@ Maria knew she had broken something. Her old way—logic—wouldn’t fix it. Sh
 
 Maria felt a flicker of success. *Okay, I have the data point.* Her Architect brain immediately switched into problem-solving mode. "Okay, invisible. I get it. To fix that, from now on, I'll make sure to get your input first on all new mockups before the team review. That will solve the visibility problem."
 
-The effect was a disaster. Leo didn't respond. He just gave a slight, humorless smile and turned back to his screen. The silence was worse than an argument. *Damn it. I did it again,* she thought. *I heard the word, but I didn't let him feel heard. I just tried to solve it.*
+The effect was a disaster. Leo didn't respond. He just gave a slight, humorless smile and turned back to his screen. The silence was worse than an argument. *Damn it. I did it again,* she thought. *I heard the word, but I didn't let him feel heard. I just tried to solve it.* Her internal monologue was a cascade of frustration. *Why is this so hard? It's inefficient. It's like trying to debug a system with no documentation and random outputs.*
 
 That evening, Maria vented to her partner, Alex. "I do everything by the book! I try this stupid 'empathy' experiment, and he accuses me of using a 'therapy voice'! It's impossible!" she fumed.
 
@@ -133,3 +133,4 @@ You can't force trust, but you can practice behaviors that trigger an oxytocin r
 ### **Conductor's Challenge: Week 2 Mission**
 
 You now have the second half of the Foundational Loop. Refer to the **30-Day Conductor's Challenge (Appendix C)**. Your mission for **Week 2** is to begin practicing The Empathy Loop in low-stakes conversations while continuing your daily breath practice. This integration is key to your development as a Conductor.
+      

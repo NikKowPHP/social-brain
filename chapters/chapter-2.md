@@ -1,8 +1,10 @@
 ### **Chapter 2: The Hidden Code: Why Words Can Hurt**
 
-The meeting went completely off the rails.
+Mark slammed his pen on the table. "That's not a risk, it's a fantasy."
 
-What started as a simple status update had devolved into a tense argument. Mark, her brilliant Architect, was pushing for a change, his logic crisp and undeniable. Jane, the team's brilliant Sentinel, listened with her arms crossed, a posture of pure skepticism. The moment Mark finished, Jane’s response was a single, flat word: "Reckless." Leo, the team's Connector, just went quiet, seeming to shrink in his chair. Maria had tried to mediate, but it was like every word she said made things worse.
+Jane’s arms crossed, her expression hardening into a familiar mask of skepticism. "The fantasy is thinking we can change the core architecture a month before launch. It's reckless."
+
+Leo, the team's Connector, just went quiet, seeming to shrink in his chair. Maria watched the invisible lines of tension in the room snap taut. What had started as a simple status update had devolved into a tense argument in under five minutes. She had tried to mediate, but it was like every word she said was gasoline on the fire.
 
 Later that day, replaying the conversation in her mind, she felt like a programmer staring at a bug she couldn't reproduce. The team's reactions were visceral, emotional, and—to her logical mind—completely out of proportion to the technical disagreement at hand. The system was broken, but the error logs were invisible.
 
@@ -66,3 +68,4 @@ For the next 24 hours, your only mission is to start using this new diagnostic t
 *   **The Messy Rehearsal (What Happened):** Describe what actually happened. Did it feel clumsy? Did it "fail"? What was the other person's reaction? (e.g., "I predicted my boss would feel a Status threat if I corrected him in the team meeting. He did. My old instinct was to argue my point, but instead I just watched. It was incredibly hard to stay silent.")
 *   **The Data (What You Learned):** What did this 'imperfect' attempt reveal? Treat the outcome as pure data, not a grade on your performance. (e.g., "The data shows that Status is a powerful trigger for him, even more than I thought. The data also shows that my urge to prove I'm right is a Status-seeking behavior of my own. My silence was a form of self-regulation.")
 *   **The Next Iteration:** Based on the data, what is the next, even smaller, experiment? (e.g., "Next time, I will try to validate his Status publicly before I present a counter-argument privately.")
+      

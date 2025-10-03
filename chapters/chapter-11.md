@@ -1,6 +1,10 @@
 ### **Chapter 11: Conducting the Meeting**
 #### A Deep Dive Case Study
 
+Maria walked out of her boss's office, the 20% budget cut still ringing in her ears. The political damage was real. Frank had been blunt. "The technical challenges are manageable," he'd said. "Right now, the single biggest threat to this project is David. He's created a narrative that your team is a high-risk 'science project.' Every meeting you run, every deadline you miss, will be used as evidence against you. You're not just managing a project anymore; you're managing a perception. You are performing on a hostile stage now. Don't give him any more ammunition."
+
+The stakes were now absolute. Her next team meeting wasn't just a status update; it was a critical performance. Any sign of chaos or dissent would leak out and become a weapon in David's hands. She had to conduct a perfect meeting, not for the sake of efficiency, but for the sake of survival.
+
 You have arrived at the end of Part II. Pause here. This is a moment of profound accomplishment. You have completed the most intensive part of our investigation and assembled a full toolkit of powerful, science-backed protocols. You now hold the conductor's baton.
 
 For the rest of this book, we are exploring new and more complex stages on which to use the tools you already have. Part III is not about learning; it is about performance. We will take your new skills into the team meeting, the asynchronous channel, and the landscape of your own inner world.
@@ -58,3 +62,4 @@ This week, you will conduct one experiment in a meeting, even if you are not the
 *   **The Messy Rehearsal (What Happened):** Describe what actually happened. Did it feel clumsy? Did it "fail"? What was the other person's reaction? (e.g., "I tried to open the meeting by giving everyone a clear role. It felt incredibly awkward and performative, like I was pretending to be a 'good manager.' One person rolled their eyes.")
 *   **The Data (What You Learned):** What did this 'imperfect' attempt reveal? Treat the outcome as pure data, not a grade on your performance. (e.g., "The data shows that this team's culture is cynical about 'management techniques.' The eye-roll wasn't a rejection of me, but a rejection of the perceived script. The attempt failed, but I learned that connection here must be built on direct, non-scripted actions, not meeting-opening pronouncements.")
 *   **The Next Iteration:** Based on the data, what is the next, even smaller, experiment? (e.g., "My next experiment will be to skip the formal opening and instead send one clear follow-up email after the meeting, focusing only on maximum clarity of decisions and action items.")
+      

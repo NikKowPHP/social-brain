@@ -14,7 +14,7 @@ She began the conversation by trying to execute the Difficult Conversation Proto
 
 Leo was silent for a moment, his expression guarded. "Honestly, Maria? That sounds like something you read in a management book. I don't know what to say to that."
 
-The response hit Maria like a physical blow. Her protocol had failed. Her face flushed with embarrassment, and her Architect brain screamed that this whole "empathy thing" was a waste of time. She took another, almost imperceptible breath. She had to drop the script.
+The response hit Maria like a physical blow. Her face flushed with embarrassment, and her Architect brain screamed that this whole "empathy thing" was a waste of time. *See? It doesn't work. It's just awkward corporate theater,* she thought, a hot surge of shame and anger rising in her. She took another, almost imperceptible breath. She had to drop the script.
 
 "You're right," she said, her voice softer, the performative language gone. "That was clumsy. Let me try again. I was an absolute jerk to you in that meeting. It was disrespectful, and I am truly sorry. There's no excuse for it."
 
@@ -102,3 +102,4 @@ A "no" can feel like a severe **Relatedness** threat. This script is designed to
 *   **(S) State:** "My plate is full right now..." (Icon: A stop sign)
 *   **(O) Offer:** "While I can't, I can suggest..." (Icon: A gift)
 ---
+      
