@@ -1,5 +1,9 @@
 ### **Chapter 2: The Hidden Code: Why Words Can Hurt**
 
+After my boardroom humiliation, the question that haunted me wasn't just "Why did I lose?" It was "Why did it *hurt* so much?" It wasn't just professional disappointment; it was a deep, personal sting of feeling utterly invisible. That feeling—that sharp, physical pang of being dismissed—is the real starting point of our investigation. Before we can build connection, we have to understand the anatomy of the wound.
+
+---
+
 Mark slammed his pen on the table. "That's not a risk, it's a fantasy."
 
 Jane’s arms crossed, her expression hardening into a familiar mask of skepticism. "The fantasy is thinking we can change the core architecture a month before launch. It's reckless."

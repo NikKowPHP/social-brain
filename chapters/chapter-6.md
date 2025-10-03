@@ -1,7 +1,9 @@
 ### **Chapter 6: The Art of Connection and Trust**
 #### The Science of Presence, Empathy, and Vulnerability
 
-Our investigation so far has focused on high-stakes, goal-oriented communication. But a life, and a relationship, is not defined by these moments of tension. It is built in the quiet spaces in between. This chapter is about the most powerful instrument in your entire toolkit: the ability to be fully present with another human being. This is the first half of your Core Duo.
+To this day, I still have to fight my inner Architect on this. When someone is upset, my instinct is to fix, not to listen. My brain wants to see their problem as a bug report, a logical puzzle to be solved as efficiently as possible. For years, I believed this was helpful. It is not. The Empathy Loop you are about to learn doesn't come naturally to me; it is a discipline, one I had to learn through repeated, painful failures. Every time I force myself to just listen, to play back their feeling instead of proposing a solution, I'm reminded that the most efficient way to solve a problem between people is almost always to be human first.
+
+This chapter is about the most powerful instrument in your entire toolkit: the ability to be fully present with another human being. This is the first half of your Core Duo.
 
 ---
 ### **Part 1: The Art of Connection**
@@ -93,8 +95,6 @@ You can't force trust, but you can practice behaviors that trigger an oxytocin r
 *   **Find Uncommon Commonalities.** Listen for a shared interest, value, or experience that creates a unique "in-group."
 *   **Use "We" Language.** Replace "you" and "I" with "we." This signals "we are in the same tribe, working on the same problem."
 
----
-*To this day, I still have to fight my inner Architect on this. When someone is upset, my instinct is to fix, not to listen. The Empathy Loop doesn't come naturally to me; it is a discipline. Every time I force myself to just Playback their feeling, I'm reminded that the most efficient solution is almost always to be human first.*
 ---
 ### **Conductor's Practice**
 

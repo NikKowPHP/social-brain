@@ -1,6 +1,12 @@
 ### **Chapter 9: Conducting Through Conflict**
 #### Giving Feedback, Navigating Disputes, and Setting Boundaries
 
+Before I ever developed a framework for difficult conversations, I had a masterclass in how *not* to have one. It was Christmas, and my brother and I were having one of those small, stupid arguments that are never really about the thing you're arguing about. I was tired, he was stressed, and I decided to "handle" it. I took a breath, softened my voice, and tried to deploy one of my early, clumsy versions of the Empathy Loop. He cut me off. "Don't use your work voice on me," he said, his voice flat with annoyance. He was right. My attempt to use a tool had felt like a trick, and in that moment, I made the conflict worse.
+
+That's the real challenge of conflict. It's not about finding the perfect script. It's about showing up with the right intent, even when you're clumsy, and having the courage to repair the connection when your script inevitably fails.
+
+---
+
 "Leo, just get to the point," Maria snapped.
 
 The words were out before she could stop them. She watched the color drain from his face as he physically recoiled from the screen, his shoulders slumping. For the rest of the meeting, he was a ghost. Maria had intended to give corrective feedback, but instead, she had delivered a massive Status threat.
