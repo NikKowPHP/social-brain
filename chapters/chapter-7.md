@@ -17,9 +17,9 @@ In the meeting, she didn't open with a spreadsheet. She opened with a simple, th
 *   **"But..." (The Problem/Tension):** "**But** that engine is now failing. We've seen a 15% increase in data errors, and it cannot handle the load for our critical Q4 launch."
 *   **"Therefore..." (The Solution/Resolution):** "**Therefore**, the Phoenix Project isn't just an upgrade. It is the only way to protect our Q4 launch and build the platform for our next five years of growth."
 
-The board was convinced. They funded the project that afternoon. But as Maria was packing up her laptop, David, a senior leader from another division, approached her.
+The board was convinced. They funded the project that afternoon. But as Maria was packing up her laptop, David, a senior leader from another division, approached her. He was tall, moved with the unhurried confidence of someone who never had to rush, and wore a perfectly tailored suit that seemed out of place in their casual engineering culture.
 
-"Congratulations, Maria. Great story," he said. "But a good story can blind people to foundational risks." He mentioned a potential data pipeline issue she hadn't known about, a small, sharp barb of a warning. He was testing her.
+"Congratulations, Maria. Great story," he said, his smile smooth and political, not quite reaching his eyes. He leaned in slightly, invading her personal space just enough to signal intimacy and control. "But a good story can blind people to foundational risks." He mentioned a potential data pipeline issue she hadn't known about, a small, sharp barb of a warning. He was testing her.
 
 That evening, an email from him arrived. It was a masterclass in corporate maneuvering.
 
@@ -66,4 +66,3 @@ But a clear score is not enough; it must have a memorable melody. This technique
 1.  **"And..." (The Stable Situation):** Establish a stable, relatable reality.
 2.  **"But..." (The Problem/Tension):** Introduce a problem that disrupts that stability.
 3.  **"Therefore..." (The Solution/Resolution):** Present your idea as the resolution to that tension.
-      

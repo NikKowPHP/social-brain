@@ -50,7 +50,7 @@ Maria looked at him, annoyed. "What? I don't call myself anything. I just... fin
 
 The question hung in the air. Maria was silent as the connection clicked into place in her own mind. Her goal wasn't to be a perfect performer. Her goal was to be a relentless investigator. The pressure to get it right was replaced by a simple, more forgiving directive: **get the data.**
 
-She opened her logbook, and for the first time, she wasn't grading her performance. She was analyzing the system. Her entry was short: *"Hypothesis: The frameworks are not a script to be followed, but a key to unlock a deeper conversation. The data shows that when the practices hit a wall, it's a signal to drop the tools and listen even more deeply. This wasn't a failure. It was data collection."*
+She opened her logbook, and for the first time, she wasn't just grading her performance. She was analyzing the system. Her entry began with the raw emotion before shifting to analysis. *"The 'data' is that I felt like a total fraud. It was humiliating. What if I'm just not cut out for this? ... Okay. Breathe. Now, what does the system data actually show? Hypothesis: The frameworks are not a script to be followed, but a key to unlock a deeper conversation. The data shows that when the practices hit a wall, it's a signal to drop the tools and listen even more deeply. This wasn't a failure. It was data collection."*
 
 ---
 ### **Chapter 8 Debrief: The Core Duo in Concert**
@@ -67,4 +67,3 @@ A complex deadlock was moved from paralysis to forward motion. Notice the sequen
 2.  **The Art of Connection and Trust (The Empathy Loop & Calibrated Vulnerability):** To make both parties feel profoundly understood, changing the neurochemical weather from hostility to curiosity, and to create a bridge of psychological safety that allows them to step toward a shared problem.
 
 In this case, the practices were not enough to solve the problem directly. They hit a wall of principle and past trauma. The tools' ultimate purpose was to create enough safety for a deeper, more vulnerable, and non-scripted human conversation to take place. The toolkit doesn't solve every problem, but it earns you the right to enter the space where the real problem can be addressed.
-      

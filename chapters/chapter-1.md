@@ -3,7 +3,7 @@
 
 The silence in the video call was so absolute, Maria could hear the frantic drumming of her own heart. A hot flush crept up her neck, a familiar, humiliating heat. Her mind, usually a fortress of logic and plans, was a chaotic blank.
 
-Her top engineer, Mark, stared back at her from the screen, his face a perfect, frozen mask of anger. Just moments before, she had shared her screen to review his latest work. A frantic Slack notification from her own boss popped up on her second monitor. Distracted and pressed for time, she glanced back at his screen and, trying to be efficient, said the words that detonated the meeting: *"This needs a lot of work."*
+Her top engineer, Mark, stared back at her from the screen, his face a perfect, frozen mask of anger, made slightly monstrous by the pixelated freeze-frame of a weak connection. Just moments before, she had shared her screen to review his latest work. A frantic Slack notification from her own boss popped up on her second monitor. Distracted and pressed for time, she glanced back at his screen and, trying to be efficient, said the words that detonated the meeting: *"This needs a lot of work."*
 
 She saw him flinch as if she'd slapped him. Now, he was silent, radiating a cold fury that sucked all the air out of the virtual room. This was the feeling she hated most—the bug in her own system. Her world was supposed to be predictable, controllable, an equation she could solve. But Mark's silent fury was a variable she couldn't account for, and her own mind had been taken offline. She wanted to fix it, to deploy a logical argument to defuse the situation, but she couldn't access the words. All she could feel was the hammering in her chest and a primal, panicked urge to either lash out ("Why are you being so sensitive?") or flee (end the call).
 
@@ -67,4 +67,3 @@ Do not wait for a crisis to practice this. Practice The Conductor's Breath three
 ### **Conductor's Challenge: Week 1 Mission**
 
 You have just acquired your first tool. To turn this knowledge into a skill, turn to the **30-Day Conductor's Challenge (Appendix C)**. Your mission for **Week 1** is to master The Conductor's Breath. The appendix provides specific, daily exercises to build this foundational habit. Do not proceed to the next tool until you have completed your first week of practice.
-      

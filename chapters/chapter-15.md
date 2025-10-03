@@ -1,9 +1,9 @@
 ### **Chapter 15: Conducting the Dissonance**
 #### A Final Reflection on Imperfect Connection
 
-As I shared in the introduction, the path of a conductor is paved with imperfect moments. In that argument with my brother, after he rightly called me out for using my "work voice," the conversation stalled. We sat in tense silence. My frameworks had failed, my tools were useless, and my old Architect brain screamed that I had lost the interaction. The silence felt like a verdict.
+As I shared in the introduction, the path of a conductor is paved with imperfect moments. In that argument with my brother, after he rightly called me out for using my "work voice," the conversation stalled. We sat in tense silence, the gap between us feeling a mile wide. My frameworks had failed, my tools were useless, and my old Architect brain screamed that I had lost the interaction. The silence felt like a verdict.
 
-After a few minutes, he get up, walked to the kitchen, and came back with two beers. He handed one to me. "Truce?" he asked. I nodded. We didn't solve the problem. We didn't have a breakthrough of mutual understanding. We just decided to be brothers again. The dissonance remained, a low, humming note in the background, but the connection was reaffirmed *around* it, not by resolving it.
+After a few minutes, he got up, walked to the kitchen, and came back with two beers. He handed one to me. "Truce?" he asked. I nodded. We didn't solve the problem. We didn't have a breakthrough of mutual understanding. We just decided to be brothers again. The dissonance remained, a low, humming note in the background, but the connection was reaffirmed *around* it, not by resolving it.
 
 That moment taught me the final, and perhaps most important, lesson of this work. The purpose of the tools is not to eliminate dissonance. It is to make us strong enough to sit in it together.
 
@@ -42,4 +42,3 @@ You learn to forgive yourself for not being a perfect conductor, and you extend 
 The work in this book is not about achieving a state of perfect communication. It is about returning to a state of connection, over and over again. Like my brother handing me a beer, it is about the small, imperfect gestures that say, "We are still in this together."
 
 The most beautiful music isn't about hitting every note. It's about the shared, courageous act of playing it together, with all of its magnificent, human flaws. It's about finding the harmony *within* the dissonance.
-      

@@ -11,9 +11,9 @@ Maria remembered her early, fumbling attempts to connect with Jane. She had felt
 
 ---
 
-That evening, after a grueling week of conducting her team through the budget cuts, Maria was home with her partner, Alex. He mentioned a minor logistical issue with their weekend plans. It was a simple problem to solve.
+That evening, after a grueling week of conducting her team through the budget cuts, Maria was home. She dropped her keys on the counter with a clatter that felt too loud in the quiet kitchen. She could feel the day's tension as a physical weight in her shoulders. Her partner, Alex, was talking about a minor logistical issue with their weekend plans. It was a simple problem to solve.
 
-The Conductor in her knew the script: Regulate, use the Empathy Loop ("It sounds like you're worried about..."), and co-create a solution. But she was exhausted. The thought of running another script, of managing another person's emotional state, felt like a lead weight.
+The Conductor in her knew the script: Regulate, use the Empathy Loop ("It sounds like you're worried about..."), and co-create a solution. But the thought of running another script, of managing another person's emotional state, felt like a lead weight. She was just... done.
 
 "Can we just not?" she snapped, her voice sharper than she intended. "I just... I can't 'conduct' this right now. I just need it to be easy."
 
@@ -53,4 +53,3 @@ There is a profound difference between a destructive amygdala hijack and a momen
 *   Your intuition, built upon thousands of hours of practice, is what allows you to tell the difference between a wrong note and powerful, unplanned improvisation.
 
 The ultimate goal of this work is to give you the skills and the wisdom to build relationships of such profound trust and safety that you feel free to be your messy, imperfect, authentic human self. That is the final symphony.
-      

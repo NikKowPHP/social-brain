@@ -1,9 +1,9 @@
 ### **Chapter 11: Conducting the Meeting**
 #### A Deep Dive Case Study
 
-Maria walked out of her boss's office, the 20% budget cut still ringing in her ears. The political damage was real. Frank had been blunt. "The technical challenges are manageable," he'd said. "Right now, the single biggest threat to this project is David. He's created a narrative that your team is a high-risk 'science project.' Every meeting you run, every deadline you miss, will be used as evidence against you. You're not just managing a project anymore; you're managing a perception. You are performing on a hostile stage now. Don't give him any more ammunition."
+The door to her boss's office clicked shut behind her. Frank didn't look up, which was always a bad sign. He stared at the budget spreadsheet on his monitor, his face illuminated by the cold blue light. "The damage is real, Maria," he said, finally turning to her. "The technical challenges are manageable. Right now, the single biggest threat to this project is David. He's created a narrative that your team is a high-risk 'science project.' Every meeting you run, every deadline you miss, will be used as evidence against you. You're not just managing a project anymore; you're managing a perception. You are performing on a hostile stage now. Don't give him any more ammunition."
 
-The stakes were now absolute. Her next team meeting wasn't just a status update; it was a critical performance. Any sign of chaos or dissent would leak out and become a weapon in David's hands. She had to conduct a perfect meeting, not for the sake of efficiency, but for the sake of survival.
+Maria walked out of the office, Frank's words ringing in her ears. The stakes were now absolute. Her next team meeting wasn't just a status update; it was a critical performance. Any sign of chaos or dissent would leak out and become a weapon in David's hands. She had to conduct a perfect meeting, not for the sake of efficiency, but for the sake of survival.
 
 You have arrived at the end of Part II. Pause here. This is a moment of profound accomplishment. You have completed the most intensive part of our investigation and assembled a full toolkit of powerful, science-backed protocols. You now hold the conductor's baton.
 
@@ -36,7 +36,7 @@ Maria opened the call, feeling the tension. She used **Status** rewards to give 
 **Step 3: Navigating the Dissonance (The Middle of the Meeting)**
 The conflict ignited immediately. Mark presented an aggressive date; Jane countered, "That's reckless."
 
-Maria felt her own system start to hijack. She caught herself, took a silent **Conductor's Breath (Chapter 1)** to quiet her inner Architect, and deployed the core principle of connection: proving she was listening before trying to solve (Chapter 6).
+Maria felt her own system start to hijack. *Here we go again,* a voice in her head screamed. *David is waiting for this to fall apart. Don't let him be right.* She caught herself, took a silent **Conductor's Breath (Chapter 1)** to quiet her inner Architect, and deployed the core principle of connection: proving she was listening before trying to solve (Chapter 6).
 
 *   She turned to Jane: "That's a critical point, Jane. It sounds like your core concern isn't just about the date, but about protecting our long-term credibility with users. Is that right?" (Jane's tension dropped.)
 *   Maria then employed **Strategic Silence**. Her calm presence co-regulated the room.
@@ -62,4 +62,3 @@ This week, you will conduct one experiment in a meeting, even if you are not the
 *   **The Messy Rehearsal (What Happened):** Describe what actually happened. Did it feel clumsy? Did it "fail"? What was the other person's reaction? (e.g., "I tried to open the meeting by giving everyone a clear role. It felt incredibly awkward and performative, like I was pretending to be a 'good manager.' One person rolled their eyes.")
 *   **The Data (What You Learned):** What did this 'imperfect' attempt reveal? Treat the outcome as pure data, not a grade on your performance. (e.g., "The data shows that this team's culture is cynical about 'management techniques.' The eye-roll wasn't a rejection of me, but a rejection of the perceived script. The attempt failed, but I learned that connection here must be built on direct, non-scripted actions, not meeting-opening pronouncements.")
 *   **The Next Iteration:** Based on the data, what is the next, even smaller, experiment? (e.g., "My next experiment will be to skip the formal opening and instead send one clear follow-up email after the meeting, focusing only on maximum clarity of decisions and action items.")
-      

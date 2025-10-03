@@ -1,8 +1,8 @@
 ### **Chapter 4: The Laws of Social Gravity**
 
-Having taken the first tentative steps with her new diagnostic toolkit, Maria was feeling a fragile new confidence. She had used a moment of calibrated vulnerability to connect with Leo, her junior engineer, and it had worked. Flushed with a small victory, she decided to try the same approach with her boss, a senior VP. In their next one-on-one, she admitted, "I'll be honest, I'm feeling a bit overwhelmed by the political pressure from David's team."
+Having taken the first tentative steps with her new diagnostic toolkit, Maria was feeling a fragile new confidence. She had used a moment of calibrated vulnerability to connect with Leo, her junior engineer, and it had worked. Flushed with a small victory, she decided to try the same approach with her boss, a senior VP. In their next one-on-one, held in the VP's sterile, glass-walled office that overlooked the entire floor, she admitted, "I'll be honest, I'm feeling a bit overwhelmed by the political pressure from David's team."
 
-She expected the admission to build trust. Instead, the VP's expression hardened slightly. "Look, Maria," he said, his voice dropping. "I appreciate the candor, but you need to be careful. David is already circling the Phoenix Project's budget. He sees it as a vanity project. Don't give him any ammunition. Just hit the deadline."
+She expected the admission to build trust. Instead, she watched the VP lean back in his expensive leather chair, creating a subtle but clear physical distance between them. His expression hardened, a slight, almost imperceptible narrowing of his eyes. "Look, Maria," he said, his voice dropping. "I appreciate the candor, but you need to be careful. David is already circling the Phoenix Project's budget. He sees it as a vanity project. Don't give him any ammunition. Just hit the deadline."
 
 Maria was stunned. The same tool—vulnerability—had produced two opposite results. It was her first, painful lesson in what we will call **Social Gravity**. The practices and principles in this book are universally true because the brain's hardware is universal. But they are filtered through the immense gravitational pull of power, privilege, and identity. A conductor who ignores these forces is conducting in a vacuum.
 
@@ -61,4 +61,3 @@ Your focus should be on fostering **Autonomy** and **Relatedness** to build psyc
 *   Your job is to be the primary creator of safety and clarity for your team.
 
 By understanding the laws of social gravity, you move from simply applying tools to practicing the deep and subtle art of social wisdom. You have now completed your diagnostic toolkit. You can see the threats, the people, and the room. Now, it's time to learn how to act.
-      
