@@ -1,5 +1,13 @@
 ### **Chapter 5: Your Conductor's Learning Path**
 
+### **A Crucial Note: These Are Tools, Not Magic Wands**
+
+The protocols you are about to learn are powerful because they work *with* the predictable wiring of the brain. But the humans you interact with are beautifully complex and unpredictable.
+
+**Using a tool correctly does not guarantee your desired outcome.**
+
+The purpose of these tools is not to control others. It is to ensure that you conduct *your side* of the interaction with skill, clarity, and integrity. Success is not "Did I win the argument?" Success is "Did I show up as the calm, connected person I aspire to be?" We are training for a skillful process, not a guaranteed outcome.
+
 Welcome to Part II. This is where we move from diagnosis to practice. The sheer number of tools can feel like trying to learn every instrument in the orchestra at once. This is a mistake. A great conductor first masters the basics of rhythm and listening.
 
 This chapter is your learning path, designed to prevent overload. It is organized into three tiers. Your primary mission is to live in Tier 1. Do not proceed to the next tier until the skills of the previous one begin to feel less clumsy.

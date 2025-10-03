@@ -41,3 +41,4 @@ Think of this as your guided ascent. Each week, you will focus on one new core s
     2.  Is the **headline** (or request) in the first sentence?
     3.  Have I **chunked the details** with bullets or bolding?
 *   **Field Mission:** At the end of the week, reflect for five minutes. How did the core skills (Breath, Empathy, Trust) support each other in your interactions? This reflection is the key to moving from conscious practice to unconscious intuition.
+*   **Special Mission: The "Baton Down" Weekend.** This weekend, your goal is to *not* practice. Give yourself explicit permission to be spontaneous and un-coached. Do not analyze your conversations. The goal of a conductor is not to be on the podium 24/7. True mastery requires rest and allows the skills to move from your conscious mind to your natural intuition. Notice how this "off-duty" time feels.

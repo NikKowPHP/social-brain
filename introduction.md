@@ -45,6 +45,8 @@ That's it. This is your entire mission for the first few weeks. Before you try t
 
 To support your practice, **The 30-Day Conductor's Challenge in Appendix C** provides a guided path to internalizing the core skills. You can also download a companion **Conductor's Logbook** at [AuthorWebsite.com/logbook] to track your progress.
 
+To bridge the gap between Maria's high-stakes corporate challenges and your own daily interactions, many chapters will include a "Field Note." These are short, practical examples from my own life or coaching practice showing how these same tools apply when navigating a disagreement with a spouse, getting a teenager to open up, or simply writing a clearer email to a friend.
+
 #### **A Note for the Non-Programmer**
 I learned to understand the world through the logic of code. At times, I will use the language of systems and code because it is my native tongue. But I urge you to see past the words to the universal human principles they describe. A "bug report" is just a moment of painful misunderstanding. A "protocol" is simply a mindful, repeatable way to show you care. This book is not about turning your family into a computer; it's about discovering the beautiful, predictable patterns that govern love and connection.
 
@@ -53,6 +55,8 @@ I learned to understand the world through the logic of code. At times, I will us
 Your brain is a magnificent orchestra. But in high-stakes moments, it often feels like chaos. You are already the conductor of this orchestra. The problem is, no one ever handed you the baton.
 
 To show you how to use this baton, our journey will follow the transformation of a leader I'll call Maria. Maria is a brilliant programmer, a master of logic, who is about to discover—just as I did—that her greatest strengths are the source of her biggest failures in human connection. Her story, a composite of the leaders I've coached, will be our real-world laboratory. We will watch her fail, learn the protocols, and practice them in high-stakes situations. This book is the baton, and Maria's story is the first piece of music we will learn to conduct together.
+
+**A Note on Maria's Journey:** Maria's challenges will escalate quickly into high-stakes corporate politics. This is intentional. We are putting the Conductor's Method through a "stress test" to demonstrate its resilience under extreme pressure. While her story provides the central drama, the **Field Notes** and **Logbook Entries** in each chapter will be your guide to applying these same powerful principles to the quieter, but equally important, conversations in your own life.
 
 **Redefining the Conductor**
 

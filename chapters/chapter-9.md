@@ -34,6 +34,21 @@ Before she could get to the "Offer," David smiled, a smooth, political gesture. 
 Maria was stunned. David had expertly taken her reasonable boundary and reframed it as a lack of strategic vision—a direct Status attack, performed for an audience. Her boss's expression became unreadable. The protocol had "worked"—David had backed down on the request—but the social cost was immediate and tangible. She had protected her team's time, but at the cost of her political capital. She logged the painful data: **a successful boundary doesn't guarantee a successful outcome.**
 
 ---
+### **Field Note: Setting a Boundary at Home**
+
+The "Validate, State, Offer" script isn't just for senior leaders like David; it's a vital tool for protecting your energy with the people you love most.
+
+**Scenario:** Your partner asks you to attend a social event on a night when you feel completely burned out and need to recharge.
+
+*   **The Old Instinct (Threatens Relatedness):** "Absolutely not, I'm exhausted. You go without me."
+*   **Using the Protocol:**
+    *   **(Validate):** "I know how much you were looking forward to this, and I love that you want us to go together. I was looking forward to it, too."
+    *   **(State):** "Unfortunately, I am completely out of gas from this week. I know myself, and if I go tonight, I'll be miserable company and even more drained for the weekend."
+    *   **(Offer):** "I need to stay home and recharge tonight. But how about we plan a dedicated date night, just the two of us, for next week? I'd love that."
+
+The protocol doesn't just say "no." It preserves the connection while protecting your own well-being.
+---
+
 ### **Chapter 9 Debrief: The Conductor's Toolkit for Conflict**
 *(Visual Cue: A simple icon of a tuning fork)*
 
