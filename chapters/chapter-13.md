@@ -11,7 +11,9 @@ A week later, David's words came back to haunt her. Her boss pulled her into his
 
 "What? No," Maria said, stunned. "That's not what I said at all. I was just trying to understand his perspective."
 
-Her boss held up a hand. "I know. Look, I spoke with David. This isn't just about budget for him. He's... haunted. Kept bringing up the 'Acme Disaster.' He told me he stayed silent then and wouldn't make that mistake again. He thinks he's the only one on the bridge who sees the iceberg, and he's willing to wrestle you for the ship's wheel to prove it. He's wrong, but you need to understand: you're not arguing with a rival. You're arguing with a ghost."
+Her boss held up a hand. "I know. Look, I spoke with David. You need to understand, this isn't just about budget. He's not just haunted by the 'Acme Disaster'—he was forged by it. He was a junior engineer on that project, and he told me the team culture was amazing. Great collaboration, total psychological safety, everyone felt heard... and they flew the plane right into a mountain because no one was willing to be the bad guy and call out the foundational flaws. He believes that 'feel-good' culture is what killed the project and tanked his colleagues' careers.
+
+"He thinks he's the only one on the bridge who sees the iceberg. And he believes your focus on team harmony and connection is the exact same naive, dangerous behavior he saw at Acme. In his mind, he isn't sabotaging you; he's trying to save the company from you. You're not arguing with a rival. You're arguing with a true believer."
 
 Maria sank back in her chair. David hadn't just lied; he had interpreted her empathy as agreement because his past trauma was a filter that distorted everything. He wasn't just a villain; he was a tragic, self-appointed hero. This was a brutal lesson: **good-faith tools can be misinterpreted by someone operating from a place of deep-seated fear.** In this environment, her goal had to shift from connection to containment.
 
@@ -47,4 +49,3 @@ When facing a bad-faith actor, you cannot invite them into a duet. Your goal is 
 3.  **Use Clarity as a Scalpel.** State facts, not interpretations. Calmly repeat your boundary or factual statement without engaging with diversions.
 4.  **Use the *principle of playback* for Reconnaissance, Not Rapport.** Use the Playback to confirm their stated position. *"So, if I'm hearing you correctly, your position is X. Is that right?"*
 5.  **Create an Audit Trail.** Move the conversation from verbal to written. **The Script:** *"That's an important point. To make sure I capture it accurately, could you please send me an email with the specifics on that?"*
-      

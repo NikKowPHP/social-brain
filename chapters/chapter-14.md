@@ -54,9 +54,7 @@ Maria used a layered approach (The Breath + the principle of connection) to co-r
 
 #### **Logbook Entry**
 This week, you will conduct one experiment in a meeting, even if you are not the official leader.
-*   **Your Experiment:** Choose and implement **one** practice from Maria's deep dive for an upcoming meeting.
-1.  **The Setup:** Which meeting will you focus on?
-2.  **The Intervention:** Which single practice will you implement? (e.g., sending a SCARF-aware agenda, opening by stating roles, focusing on connection with a dissenter, sending a clear follow-up).
-3.  **The Data:** What was the observable impact of your intervention on the meeting's tone or outcome? What does this data tell you about the group's dynamics?
-4.  **The Analysis:** How did your chosen intervention help you practice a non-dominant brain profile? (e.g., 'As an **Architect**, focusing on connection helped me practice my **Connector** brain.')
-      
+*   **The Goal:** My goal is to implement one single practice from this chapter in an upcoming meeting (e.g., sending a SCARF-aware agenda, opening by stating roles, focusing on connection with one dissenter).
+*   **The Messy Reality:** Describe what happened. Did you do it? How did it feel? What was the reaction? (e.g., "I tried to open the meeting by giving everyone a clear role. It felt incredibly awkward and performative, like I was pretending to be a 'good manager.' One person rolled their eyes.")
+*   **The Data (The Reframe):** What did this imperfect attempt reveal? (e.g., "The data shows that this team's culture is cynical about 'management techniques.' The eye-roll wasn't a rejection of me, but a rejection of the perceived script. The attempt failed, but I learned that connection here must be built on direct, non-scripted actions, not meeting-opening pronouncements.")
+*   **The Next Experiment:** Based on the data, what's a small, achievable next step? (e.g., "My next experiment will be to skip the formal opening and instead send one clear follow-up email after the meeting, focusing only on maximum clarity of decisions and action items.")

@@ -53,14 +53,12 @@ Do this once or twice. This is the reset command. The long exhale activates your
 Do not wait for a crisis to practice this. Practice The Conductor's Breath three times today when you are perfectly calm—waiting for code to compile, sitting at a red light. By doing this, you are building a new neural pathway so that when the real alarm bell rings, your brain already knows the path to safety.
 
 #### **Logbook Entry**
-Let's begin collecting baseline data for your early-warning system.
-1.  **Your Hijack 'Tell':** What is the primary physical sensation that lets you know your **Sentinel** brain is activating? (e.g., heat in the face, tightness in the chest, clenching jaw, knot in the stomach). This is your personal system alert.
-2.  **The Experiment:** Over the next week, your goal is to notice this "tell" in real time. Briefly describe one event that triggered it.
-3.  **Log the Data:** Did you use The Conductor's Breath? What was the immediate effect on the physical sensation? (Note: The goal is to collect data, not achieve perfect calm. Even if you still felt hijacked, what did you notice?)
-4.  **Analysis:** How could mastering The Conductor's Breath help you strengthen your least-dominant brain profile?
+*   **The Goal:** My goal this week is to simply notice my primary hijack 'tell' in a real-time interaction.
+*   **The Messy Reality:** Describe what actually happened. Did you get hijacked? Did you remember to use the breath? How did it feel? (e.g., "In a tense budget meeting, I felt that familiar heat in my neck. I tried to do the breath, but I felt self-conscious and only did one short one. I still felt hijacked, but I was aware of it for the first time.")
+*   **The Data (The Reframe):** What did this 'imperfect' attempt reveal? (e.g., "The data shows that my 'tell' is a reliable early-warning sign. It also shows that practicing this in a real meeting is harder than I thought. The barrier isn't just memory; it's social pressure.")
+*   **The Next Experiment:** Based on the data, what's a small, achievable next step? (e.g., "My next experiment will be to practice the breath at my desk *right before* a meeting I know will be stressful.")
 
 ---
 ### **Dashboard Update**
 
 **Congratulations.** You have acquired your first and most fundamental instrument. Your dashboard is online.
-      

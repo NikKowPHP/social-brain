@@ -17,7 +17,11 @@ In the meeting, she didn't open with a spreadsheet. She opened with a simple, th
 
 The board was convinced. They funded the project that afternoon. But as Maria was packing up her laptop, David, a senior leader from another division, approached her.
 
-"Congratulations, Maria. Great story," David said, his smile not quite reaching his eyes. "Stories are powerful. They can get big projects funded... and they can blind people to foundational risks until it's too late. I've seen it happen." He paused, letting the words hang in the air before adding, "In fact, leadership was so inspired they've decided to accelerate synergy... They've just made the Phoenix Project's success a dependency for my new 'Odyssey' data initiative." He handed her a card. "My team will send the API docs."
+"Congratulations, Maria. Great story," he said. "But a good story can blind people to foundational risks. For example, your entire Q4 projection is dependent on the European data pipeline. I was in a meeting this morning, and that team is three months behind on their compliance updates. Did they tell you that?"
+
+Maria's stomach dropped. They hadn't. It was a detail her team had missed.
+
+"That's the kind of thing that gets missed when a team is too focused on feeling good about the mission," David continued, his voice dropping slightly as he handed her a card. "To ensure alignment, leadership has just made the Phoenix Project's success a dependency for my 'Odyssey' initiative. My team will send the API docs."
 
 Maria's stomach dropped. Odyssey was David's failing pet project, a notoriously unstable system. An integration would be a technical nightmare, a certain path to delays and missed deadlines. It wasn't just a trap; it was a warning. Her goal was no longer just to build a great product. It was to politically and technically navigate a forced dependency designed to make her fail. The real performance was just beginning.
 
@@ -51,4 +55,3 @@ But a clear score is not enough; it must have a memorable melody. This technique
 1.  **"And..." (The Stable Situation):** Establish a stable, relatable reality.
 2.  **"But..." (The Problem/Tension):** Introduce a problem that disrupts that stability.
 3.  **"Therefore..." (The Solution/Resolution):** Present your idea as the resolution to that tension.
-      

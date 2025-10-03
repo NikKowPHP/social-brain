@@ -16,7 +16,9 @@ The meeting was a waste of time before it even started. Maria called it to "reso
 
 Then Maria did her new thing. Instead of picking a side, she just... sat there. She took a breath, and the whole energy in the room seemed to shift. I braced myself for some kind of management jargon.
 
-First, she turned to Jane. "Okay... let me try to get this right. Jane, it sounds like... this isn't really about the database for you. It's about... protecting us." The words sounded clumsy, like she was reading from a script. But Jane, instead of arguing, just nodded. Her whole posture changed. It was bizarre.
+First, she turned to Jane. "Okay... let me try to get this right. Jane, it sounds like... this isn't really about the database for you. It's about... protecting us."
+"This isn't about feelings, Maria," Jane cut her off, her voice flat. "It's about risk. The data is clear."
+It was a direct shutdown. Maria could have gotten defensive, but she just nodded, accepting it.
 
 Then she turned to me. "And Mark, for you... it's about our integrity as engineers in the long run. And taking the 'safe' route... that actually feels like the *bigger* risk." Again, the words were stilted, but she wasn't wrong. I hated it, but I felt... seen. I just nodded.
 
@@ -37,20 +39,14 @@ And that was it. The final piece clicked into place. The problem wasn't Jane's f
 When she proposed the 48-hour prototype, it wasn't a compromise. It was a perfectly engineered test case. It was a gamble, but a logical one. "Okay, Jane," I said. "Let's do it." I don't know what this new version of Maria is, but we're not dead in the water anymore.
 
 ---
-
-The deadlock was not just resolved; it was transformed.
-
 #### **Maria's Log: The Frustration of Incremental Progress**
-That night, Maria vented to her partner, Alex. "I feel like I'm failing. I used all the tools... and it wasn't enough. I almost broke them. I had to throw the book away just to get them to talk."
+That night, Maria vented to her partner, Alex. "I feel like I'm failing. I used all the tools... and it wasn't enough. The conversation almost blew up twice. I had to throw the book away just to get them to talk."
 
-Alex listened, then said, "But they did talk. And they found a way forward. Maybe the book isn't about giving you all the answers. Maybe it's just about getting you into the room where the real conversation can happen."
+Alex listened, then said, "But they did talk. You're treating it like a test you got a C- on. But what if it isn't a test? When a program has a bug, you don't call yourself a 'failure.' You just say, 'Okay, that didn't work. I've collected some data.' What data did you collect today?"
 
-The question stopped her. It hadn't felt like a win. It felt messy, and dangerous, and far too human. But it wasn't a failure. It was just... progress.
+The question stopped her cold. It was a complete reframing of her entire approach. Her goal wasn't to be a perfect performer. Her goal was to be a relentless investigator. The pressure to get it right was replaced by a simple, more forgiving directive: **get the data.**
 
----
-#### **From the Orchestra: Mark's Log**
-A week later...
-The "Apex" story was… something. But yesterday we got into another argument about server specs. The old dynamic is still there. It feels like we took one step forward and two steps back. I don't know if this new 'Maria' is going to stick.
+She opened her logbook, and for the first time, she wasn't grading her performance. She was analyzing the system. Her entry was short: *"Hypothesis: The protocols are not a script to be followed, but a key to unlock a deeper conversation. The data shows that when the protocols hit a wall, it's a signal to drop the tools and listen even more deeply. This wasn't a failure. It was data collection."*
 
 ---
 ### **Chapter 10 Debrief: The Core Duo in Concert**
@@ -67,4 +63,3 @@ A complex deadlock was moved from paralysis to forward motion. Notice the sequen
 2.  **The Connection & Trust Protocol (The Empathy Loop & Calibrated Vulnerability):** To make both parties feel profoundly understood, changing the neurochemical weather from hostility to curiosity, and to create a bridge of psychological safety that allows them to step toward a shared problem.
 
 In this case, the protocols were not enough to solve the problem directly. They hit a wall of principle and past trauma. The tools' ultimate purpose was to create enough safety for a deeper, more vulnerable, and non-scripted human conversation to take place. The toolkit doesn't solve every problem, but it earns you the right to enter the space where the real problem can be addressed.
-      

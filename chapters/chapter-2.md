@@ -1,4 +1,3 @@
-
 ### **Chapter 2: The Hidden Code: Why Words Can Hurt**
 
 The meeting went completely off the rails.
@@ -21,7 +20,7 @@ This is a biological fact, and it is the key to decoding almost every communicat
 
 This discovery is profound. But it leads to the next critical question: if social pain is real, what triggers it? If the brain has a security system, what is it scanning for?
 
-The answer is the single most powerful diagnostic tool in this book. Developed by neuroscientist David Rock, the **SCARF model** is the user manual for the social brain's security system. It reveals the five key domains of social experience that your brain treats as life-or-death survival issues. A perceived threat in any of these areas can trigger a defensive, "hijacked" response.
+The answer is the single most powerful diagnostic tool in this book. Developed by neuroscientist David Rock, the **SCF model** is the user manual for the social brain's security system. It reveals the five key domains of social experience that your brain treats as life-or-death survival issues. A perceived threat in any of these areas can trigger a defensive, "hijacked" response.
 
 SCARF is the Conductor's Dashboard. Let's use it to analyze the wreckage of Maria's meeting and finally see the invisible error logs she was missing.
 
@@ -63,8 +62,7 @@ For Maria, seeing the interaction through the SCARF dashboard was like switching
 For the next 24 hours, your only mission is to start using this new diagnostic tool. When you see a small flare-up of tension in a conversation, an email, or a meeting, just ask yourself: *Which of the five SCARF gauges just went into the red?* Don't try to fix anything. Just practice seeing the code.
 
 #### **Logbook Entry**
-Let's use the dashboard to run an experiment.
-*   **Your Experiment:** In one upcoming conversation or meeting this week, predict which SCARF domain is most likely to be threatened for a key participant. Your only goal is to observe and collect data.
-    1.  **The Hypothesis:** Which meeting/person? Which SCARF threat did you predict?
-    2.  **The Data:** Was your hypothesis accurate? What specific data did you collect (words, body language)?
-    3.  **The Analysis:** What did this experiment teach you about the social dynamics at play?
+*   **The Goal:** In one upcoming conversation, my goal is to predict which SCARF domain is most likely to be threatened for a key participant, and simply observe.
+*   **The Messy Reality:** Describe what actually happened. Was your prediction right? Did something else happen? How did it feel to just observe instead of jumping in? (e.g., "I predicted my boss would feel a Status threat if I corrected him in the team meeting. He did. My old instinct was to argue my point, but instead I just watched. It was incredibly hard to stay silent.")
+*   **The Data (The Reframe):** What did this observation reveal? (e.g., "The data shows that Status is a powerful trigger for him, even more than I thought. The data also shows that my urge to prove I'm right is a Status-seeking behavior of my own. My silence was a form of self-regulation.")
+*   **The Next Experiment:** Based on the data, what's a small, achievable next step? (e.g., "Next time, I will try to validate his Status publicly before I present a counter-argument privately.")
