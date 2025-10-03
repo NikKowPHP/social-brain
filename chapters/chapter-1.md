@@ -53,12 +53,17 @@ Do this once or twice. This is the reset command. The long exhale activates your
 Do not wait for a crisis to practice this. Practice The Conductor's Breath three times today when you are perfectly calm—waiting for code to compile, sitting at a red light. By doing this, you are building a new neural pathway so that when the real alarm bell rings, your brain already knows the path to safety.
 
 #### **Logbook Entry**
-*   **The Goal:** My goal this week is to simply notice my primary hijack 'tell' in a real-time interaction.
-*   **The Messy Reality:** Describe what actually happened. Did you get hijacked? Did you remember to use the breath? How did it feel? (e.g., "In a tense budget meeting, I felt that familiar heat in my neck. I tried to do the breath, but I felt self-conscious and only did one short one. I still felt hijacked, but I was aware of it for the first time.")
-*   **The Data (The Reframe):** What did this 'imperfect' attempt reveal? (e.g., "The data shows that my 'tell' is a reliable early-warning sign. It also shows that practicing this in a real meeting is harder than I thought. The barrier isn't just memory; it's social pressure.")
-*   **The Next Experiment:** Based on the data, what's a small, achievable next step? (e.g., "My next experiment will be to practice the breath at my desk *right before* a meeting I know will be stressful.")
+*   **The Experiment:** What small, achievable experiment will you run? (e.g., "My goal this week is to simply notice my primary hijack 'tell' in a real-time interaction.")
+*   **The Messy Rehearsal (What Happened):** Describe what actually happened. Did it feel clumsy? Did it "fail"? What was the other person's reaction? (e.g., "In a tense budget meeting, I felt that familiar heat in my neck. I tried to do the breath, but I felt self-conscious and only did one short one. I still felt hijacked, but I was aware of it for the first time.")
+*   **The Data (What You Learned):** What did this 'imperfect' attempt reveal? Treat the outcome as pure data, not a grade on your performance. (e.g., "The data shows that my 'tell' is a reliable early-warning sign. It also shows that practicing this in a real meeting is harder than I thought. The barrier isn't just memory; it's social pressure.")
+*   **The Next Iteration:** Based on the data, what is the next, even smaller, experiment? (e.g., "My next experiment will be to practice the breath at my desk *right before* a meeting I know will be stressful.")
 
 ---
 ### **Dashboard Update**
 
 **Congratulations.** You have acquired your first and most fundamental instrument. Your dashboard is online.
+
+---
+### **Conductor's Challenge: Week 1 Mission**
+
+You have just acquired your first tool. To turn this knowledge into a skill, turn to the **30-Day Conductor's Challenge (Appendix C)**. Your mission for **Week 1** is to master The Conductor's Breath. The appendix provides specific, daily exercises to build this foundational habit. Do not proceed to the next tool until you have completed your first week of practice.
