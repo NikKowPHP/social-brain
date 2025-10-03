@@ -42,6 +42,21 @@ So, what did you discover? Most of us have a mix, but often one pattern emerges 
 *   **Your SCARF Sensitivity:** Your system is highly tuned to threats against **Certainty**. Ambiguity, risk, and instability trigger your internal alarm system.
 *   **Your Growth Edge:** Your threat-detection system can be overactive, causing you to perceive threats where none exist and inadvertently trigger a threat response in others.
 
+#### **The Filter of Power: A Note on Social Gravity**
+These profiles do not operate in a vacuum. They are filtered through the immense gravitational pull of power and hierarchy. A junior Sentinel might express a Certainty threat by asking cautious questions, whereas a CEO Sentinel might express the exact same threat with a blunt, project-killing "no." An Architect leading their own team can be direct and decisive, but that same Architect managing up to their boss must be more deferential to avoid triggering a Status threat. We will explore this critical concept of "Social Gravity" in detail in the next chapter, but for now, simply remember that context is everything.
+
+#### **A Note on the Messy Reality: Profiles are Not Boxes**
+
+It would be convenient if every member of your team fit perfectly into one of these three boxes. They won't. These profiles are a starting point, not a verdict. People are a complex mix of all three, with one often being more dominant, especially under pressure. The real art of conducting is seeing the nuance.
+
+Consider two other members of Maria's broader organization:
+
+*   **Sam, the Connector-Architect:** Sam is the head of customer support. He leads with empathy and is deeply attuned to the emotional state of his team (**Connector**). However, when he presents to leadership, he builds his case on rigorous data analysis and logical frameworks (**Architect**). He connects with "what" and "why" but persuades with "how."
+
+*   **Priya, the Adaptive Sentinel:** Priya is a senior legal counsel, and her default state is pure **Sentinel**, scanning for risk and ensuring compliance. But twice, Maria has seen her act completely out of character. When a junior employee was being unfairly targeted by another department, Priya became a fierce, empathetic advocate, displaying a **Connector's** passion for fairness and relational protection that surprised everyone.
+
+Your goal is not to label people. It is to understand their *dominant tendencies* so you can connect with them more effectively, while remaining aware that context and pressure can reveal surprising depths and blends.
+
 **(The sections on the "Shadow" profiles, the "Adaptive Profile," and the "Tempo of Your Orchestra" would follow here, rewritten slightly to reinforce the SCARF connections.)**
 
 For Maria, this new lens was another revelation. She was a classic Architect, and her entire leadership style was built on defending her Status with logic. She now saw that her interactions with Jane weren't just a clash of ideas, but a fundamental collision of operating systems: an Architect, who values data-driven Status, trying to persuade a Sentinel, who values risk-averse Certainty. No wonder they were stuck.
