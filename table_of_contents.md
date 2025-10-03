@@ -81,6 +81,8 @@
 
 **Appendix F:** A Conductor's Field Guide: Common Questions and Challenges
 
+**Appendix G:** From Practice to Ritual: The Conductor's Flywheel
+
 **Glossary**
 
 **Index**

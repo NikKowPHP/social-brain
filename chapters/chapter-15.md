@@ -13,6 +13,10 @@ When you first internalize the ideas in this book—the SCARF dashboard, the bra
 
 This is the Conductor's Burden: the risk of becoming so aware of the mechanics of connection that you lose the ability to simply connect. You become a full-time analyst of your own life, perpetually standing on the podium, baton in hand, forgetting that you are also a musician in the orchestra.
 
+It is tempting to think of this journey as a straight line from clumsy practice to intuitive mastery. The reality of rewiring your brain is more like two steps forward, one step back. There will be days, like Maria's, when you have the perfect tool in your hand and you are simply too tired to lift it. You will revert to old habits not because you forgot, but because the old neural pathway is a well-worn, downhill path, and you lack the energy for the new, uphill one.
+
+This is not a failure in the system; this *is* the system. The goal is not perfection. The goal is a rising average. It is to have more good days than bad, to shorten the recovery time after a misstep, and to treat your own relapses with the same compassion you are learning to offer others.
+
 The only way to lift this burden is to accept the final paradox: your toolkit is most powerful when you are willing to put it down. The goal is not to conduct every interaction perfectly. The goal is to build relationships of such deep trust and psychological safety that you can afford to be your messy, un-coached, gloriously inefficient human self. The tools are the scaffolding you use to build the house. Once the house is built, you can live in it. You don't have to keep admiring the scaffolding.
 
 #### **The Music of Imperfection**

@@ -24,6 +24,16 @@ She then turned to the whole team. "The pressure is getting to me. That was my o
 
 It wasn't a magic fix. The tension didn't disappear. But by owning her failure, taking responsibility, and using the shared language of their new culture, she had done something more important than being a perfect conductor. She had modeled what it looked like to be an imperfect one who was committed to the work of recovery and repair. It was this act of self-aware resilience that allowed them to walk into the final performance not as a fractured group, but as a clear-eyed team.
 
+The next day, facing the grim task of cutting 20% of the features, Maria started to default to her Architect brain, creating a logical but top-down plan. It was Leo who stepped in.
+
+"Maria," he began, his voice quiet but steady. "I hear the logic in your plan, and I know we need to move fast." He paused, taking a breath that looked familiar. "If I could offer a different perspective... the 'hardest part' of this for the team won't be losing the features. It will be losing our sense of agency in the process. We'll feel like the cuts happened *to* us."
+
+He had used her own tool, the Empathy Loop, to diagnose the room's central SCARF threat: a loss of **Autonomy**.
+
+"So," he continued, "I propose we take one day, as a team, to decide on the cuts together. It might be slower, but we'll own the outcome."
+
+Maria looked at him, a sense of profound pride overriding her stress. The orchestra was learning to conduct itself. "You're right, Leo," she said. "That's a much better plan. Let's do it."
+
 ---
 ### **Part 2: The Conductor's Legacy (The Capstone Climax)**
 

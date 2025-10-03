@@ -52,10 +52,10 @@ The protocol doesn't just say "no." It preserves the connection while protecting
 ### **Chapter 9 Debrief: The Conductor's Toolkit for Conflict**
 *(Visual Cue: A simple icon of a tuning fork)*
 
-### Conducting Through Dissonance
+💡 **Conducting Through Dissonance**
 Dissonance is not a sign that the music has stopped; it is a sign that the music is interesting. This toolkit provides the instruments you need to conduct through it with skill and grace. Unsolicited feedback and difficult conversations are a direct threat to **Status**, **Certainty**, and **Relatedness**, triggering a defensive amygdala hijack. To navigate this, you need a simple framework for several types of crucial conversations.
 
-#### **1. A tune-up conversation (Giving and Receiving Feedback)**
+#### **1. 🔧 A tune-up conversation (Giving and Receiving Feedback)**
 The goal here is to create a collaborative "debugging session" instead of a critique.
 *   **To Give Feedback:** Use this three-phase approach.
     1.  **Get Permission:** "Are you open to discussing..." This honors their Autonomy.
@@ -65,7 +65,7 @@ The goal here is to create a collaborative "debugging session" instead of a crit
     1.  **Regulate First:** Take one silent **Conductor's Breath**.
     2.  **Find the Data:** Ask "Can you give me a specific example?" to move from drama to data.
 
-#### **2. Repairing a connection (For Restoring Trust)**
+#### **2. 🔧 Repairing a connection (For Restoring Trust)**
 Repairing trust after a mistake isn't a new protocol; it's a direct application of the **Connection & Trust Protocol (Chapter 6)** when the stakes are high. This is what Maria used to fix the damage with Leo. It begins with the **Conductor's Breath (Chapter 1)** to manage your own defensiveness, followed by the **Empathy Loop** to understand the damage you caused. The sequence is a practical application of our Core Duo:
 *   **The Sequence:**
     1.  **Regulate Yourself First:** Use **The Conductor's Breath**.
@@ -73,7 +73,7 @@ Repairing trust after a mistake isn't a new protocol; it's a direct application 
     3.  **Share Your Observation & Hand them the Baton:** State a neutral fact and ask for their perspective ("When X happened... what was it like for you?").
     4.  **Build a Bridge of Trust:** Admit your role in the problem (Calibrated Vulnerability) and use "we" language to signal a shared future.
 
-#### **3. Setting a boundary (For Saying "No")**
+#### **3. 🔧 Setting a boundary (The Connector's Guide to Saying "No" Gracefully)**
 A "no" can feel like a severe **Relatedness** threat. This script is designed to protect your own agency while minimizing the threat to theirs. This is what Maria used with David.
 *   **The "Validate, State, Offer" script:**
     1.  **Validate the Request:** Acknowledge the value of their request. ("*Thank you so much for thinking of me for this.*")
@@ -83,6 +83,22 @@ A "no" can feel like a severe **Relatedness** threat. This script is designed to
 ---
 ### **Conductor's Practice**
 
-#### **Troubleshooting & The Messy Middle**
+#### **⚠️ Troubleshooting & The Messy Middle**
 *   **The Social Immune Response:** When you first try these protocols, they may feel clumsy and sound scripted. As with Maria's first attempt with Leo, the other person may reject the "script." Do not panic. This is a sign they are listening. The best response is to acknowledge the clumsiness ("You're right, that did sound a bit like a script...") and restate your intent from a more authentic place.
 *   **The Political Cost:** Setting a boundary with a powerful, bad-faith actor is not a clean "win." As Maria learned with David, a skilled operator can reframe your boundary as a weakness. The goal of the protocol is to protect your resources and create a clear record, but you must be prepared for the political fallout. It is a strategic choice with real consequences.
+
+---
+### **Conflict Toolkit: At-a-Glance**
+
+*(This would be a full-page infographic design)*
+
+**Giving Feedback (The Tune-Up)**
+*   **Step 1: Get Permission.** (Icon: A key)
+*   **Step 2: Share Data, Not Drama.** (Icon: A chart)
+*   **Step 3: Co-Create Solution.** (Icon: Two figures building a bridge)
+
+**Setting a Boundary (The "No")**
+*   **(V) Validate:** "I appreciate you thinking of me..." (Icon: A checkmark)
+*   **(S) State:** "My plate is full right now..." (Icon: A stop sign)
+*   **(O) Offer:** "While I can't, I can suggest..." (Icon: A gift)
+---
