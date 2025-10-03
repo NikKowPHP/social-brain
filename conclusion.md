@@ -11,9 +11,9 @@ And what about that argument with my brother? The lesson wasn't to discard the t
 In Chapter 2, we identified the "Adaptive Profile" as the ideal—a conductor who can call upon the **Architect's** logic, the **Connector's** empathy, and the **Sentinel's** insight with intention. The entire journey of this book is the roadmap to developing that profile. It is not a separate step, but the integrated result of practice.
 
 Developing your adaptive ability means consciously practicing the tools that feel least natural.
-*   If you are an **Architect**, your path to becoming adaptive is through the consistent practice of *empathetic listening* and *calibrated vulnerability* (Chapter 8).
-*   If you are a **Connector**, your growth lies in mastering the *art of setting clear boundaries* (Chapter 12) and the *principles of clarity* (Chapter 11), learning to be clear even when it creates discomfort.
-*   If you are a **Sentinel**, your work is centered on the **Conductor's Breath (Chapter 1)** and the *discipline of seeking data over drama when receiving feedback* (Chapter 12), training your system to see data instead of just threats.
+*   If you are an **Architect**, your path to becoming adaptive is through the consistent practice of *empathetic listening* and *calibrated vulnerability* (Chapter 6).
+*   If you are a **Connector**, your growth lies in mastering the *art of setting clear boundaries* (Chapter 9) and the *principles of clarity* (Chapter 7), learning to be clear even when it creates discomfort.
+*   If you are a **Sentinel**, your work is centered on the **Conductor's Breath (Chapter 1)** and the *discipline of seeking data over drama when receiving feedback* (Chapter 9), training your system to see data instead of just threats.
 
 Adaptability is not about losing your native strengths; it is about expanding your range, so you can choose the right instrument for the music the moment requires.
 
@@ -36,4 +36,3 @@ You have now reached the end of this manual. You are holding a powerful set of t
 The world has enough skilled manipulators. What it needs are more conductors—people with the skill to create profound psychological safety and the integrity to use that skill in the service of others.
 
 The music is waiting.
-      

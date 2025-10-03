@@ -20,7 +20,7 @@ This is a biological fact, and it is the key to decoding almost every communicat
 
 This discovery is profound. But it leads to the next critical question: if social pain is real, what triggers it? If the brain has a security system, what is it scanning for?
 
-The answer is the single most powerful diagnostic tool in this book. Developed by neuroscientist David Rock, the **SCF model** is the user manual for the social brain's security system. It reveals the five key domains of social experience that your brain treats as life-or-death survival issues. A perceived threat in any of these areas can trigger a defensive, "hijacked" response.
+The answer is the single most powerful diagnostic tool in this book. Developed by neuroscientist David Rock, the **SCARF model** is the user manual for the social brain's security system. It reveals the five key domains of social experience that your brain treats as life-or-death survival issues. A perceived threat in any of these areas can trigger a defensive, "hijacked" response.
 
 SCARF is the Conductor's Dashboard. Let's use it to analyze the wreckage of Maria's meeting and finally see the invisible error logs she was missing.
 

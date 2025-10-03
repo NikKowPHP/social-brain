@@ -4,7 +4,7 @@
 
 ---
 
-**Question: "I'm a natural Connector, and I've always been the family peacekeeper. Now that I'm setting boundaries using the protocol from Chapter 11, my parents are furious. Is it worth it?"**
+**Question: "I'm a natural Connector, and I've always been the family peacekeeper. Now that I'm setting boundaries using the protocol from Chapter 9, my parents are furious. Is it worth it?"**
 
 This is the central challenge for every Conductor with a strong Connector profile. For you, the system's homeostasis was built around your willingness to absorb everyone else's emotional state and sacrifice your own needs for the sake of group harmony.
 
@@ -32,4 +32,3 @@ After you've cooled down, run a personal "debrief." Ask yourself:
 3.  **Where was the point of no return?** (e.g., "The data shows I lost regulation after they said 'you always do this'.")
 
 By analyzing the "bug" this way, you make the old pattern conscious, which is the only way to change it. Your goal is not immediate perfection, but **consistent, compassionate data collection.** This mindset shifts the goal from "winning the conversation" to "learning from the conversation," which is a game you can never lose.
-      
